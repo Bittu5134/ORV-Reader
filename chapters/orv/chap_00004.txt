@@ -74,7 +74,8 @@ People held tightly to the iron door, but it wasn't necessary. The enemy wasn't 
 <!>[All types of access to the carriage will be restricted until the scenario is complete.]
 Along with this message, people were thrown back from the iron door like they had hit a transparent barrier.
 "W-What is this?"
-Once again, the voice of the dokkaebi rang out, [Haha, there are some places that are quite fun while other places haven't started yet. Okay, this is a special service. I will show you what will happen if nothing occurs in the next five minutes.]
+Once again, the voice of the dokkaebi rang out.
+<@>[Haha, there are some places that are quite fun while other places haven't started yet. Okay, this is a special service. I will show you what will happen if nothing occurs in the next five minutes.]
 A giant screen appeared in the subway. The place that appeared on the screen was a classroom. Girls in their navy blue school uniform were shaking. A boy bit his fingernails and muttered, "…Is that the school uniform of Daepong?"
 Beep beep beep beep― An ominous beeping sound was heard. Then the high school girls started to scream.
 <!>[The given time has run out.]
