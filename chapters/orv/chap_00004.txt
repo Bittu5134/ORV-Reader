@@ -61,7 +61,7 @@ It felt so ominous because his tone was so relaxed. Subconsciously, I made a fis
 Beeep. A huge timer appeared in the air. At the same time, it started decreasing rapidly.
 <!>[The remaining time has been decreased by 10 minutes.]
 <!>[There are 10 minutes remaining.]
-<!>[If the first killing doesn't occur within the next five minutes, all lives in that carriage will be wiped out.]
+<!>[If the first killing doesn't occur within the next five minutes, all lives in the carriage will be wiped out.]
 "W-What is this? Is it a joke?"
 "Didn't you hear the message just now? Hey, didn't you hear it?"
 "Soldier-nim! What do we do now? Why isn't the police coming?"
