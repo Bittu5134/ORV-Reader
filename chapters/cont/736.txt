@@ -54,6 +54,7 @@ A story fragment that is mentioned in Yoo Jonghyuk's recollection in 'Ways of Su
 I must clear this scenario at all costs.
 The problem is the clear conditions.
 <!>[Check additional clear conditions.]
++
 —You must secure the support of prisoners to challenge the 'unification of Zone 13'.
 —When more than 80% of the population supports you, you will be elected as the 'representative' of Zone 13.
 —When elected as a district representative, you can form a committee responsible for Zone 13.
@@ -163,7 +164,7 @@ The first person that caught my eye was Cha Yerin.
 "Left hand. Gale. Right hand. Storm."
 The energy of the wind was rushing from both her hands as she freely chanted the spell.
 Although it was not as grand as Lycaon's, it was definitely the [Way of the Wind].
-<!>[Incredible! Oh, she is a very outstanding incarnation. She truly understands the nature of the wind.]
+<#>【Incredible! Oh, she is a very outstanding incarnation. She truly understands the nature of the wind.】
 For reference, it only took 30 minutes for Cha Yerin to learn [Way of the Wind].
 I was curious about the secret and asked, and Cha Yerin answered as follows.
 "I just… just did it and it worked."
