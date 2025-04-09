@@ -79,6 +79,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             line = re.sub(r"<#>", '<div class="orv_outergod"><p>', line)
             html.append(f"{line}</p></div>")
         elif line.startswith("<&>"):
+            line = re.sub(r"\s*「\s*", "「 ", line)
+            line = re.sub(r"\s*」\s*", " 」", line)
             line = re.sub(r"<&>", '<div class="orv_quote"><p>', line)
             html.append(f"{line}</p></div>")
         elif line.startswith("<?>"):
@@ -100,7 +102,11 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
         else:
             html.append(f'<p class="orv_line">{line}</p>')
 
+        while html and (html[-1] == "<br>" or html[-1] == "<hr>"):
+            html.pop()
 
+        html.append("<br>")
+        html.append("<hr>")
         if file_index == 0:
             template = template.replace(r"{{PREV}}", "..\\")
             template = template.replace(
