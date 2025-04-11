@@ -1,7 +1,6 @@
 <title>559 Episode 2. Rewrite (4)
 I stared down at the bug's body for a long time.
-It didn't make sense. Something must be wrong with the <Star Stream> system if it still deemed
-this bug to be 'alive'.
+It didn't make sense. Something must be wrong with the <Star Stream> system if it still deemed this bug to be 'alive'.
 "Now I just have to wait, right? I did as I was told."
 "Hey, we've completed our assignment, let us out!"
 Why isn't there a scenario completion message. A system message should have appeared as soon
