@@ -60,7 +60,7 @@ Discover **BlackBox**, the official illustrator:
 ## Contributing 
 
 For how to contribute to this project follow the given links.
-- [Contribution Guide](./contribute.md)
+- [Contribution Guide](./CONTRIBUTING.md)
 - [Formatting Guide](./formatting.md).
 
 ---

@@ -43,6 +43,20 @@ This guide outlines the formatting rules for creating content in the [`/chapters
   <!>[Exclusive skill 'Way of the Wind Lv. 10' is activated to the limit!]
   ```
 
+### System Window
+- Use `+` before and after text for system messages.
+- adding a line inside `[...]` turns it jnto the title of the window
+- These appear as windows shown to the incarnations.
+- Example:
+```
++
+[People Listed in the Bookmark Slots]
+1. The Delusion Demon Kim Namwoon (Understanding 25).
+2. Steel Sword Lee Hyunsung (Understanding 35).
+3. Empty slot.
++
+```
+
 ### Constellation Speech
 - Use `<@>` for constellation speech.
 - These are dialogues spoken by constellations.
@@ -84,11 +98,14 @@ This guide outlines the formatting rules for creating content in the [`/chapters
   ```
 
 ### Horizontal Rules
-- Use `***` for horizontal rules.
+- Use `***` for horizontal ruler.
+- its recommended to add blank lines before and after it.
 - These signify section breaks and should be used at the end of chapters.
 - Example:
   ```
+  
   ***
+  
   ```
 
 ---
@@ -96,5 +113,4 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 ## Notes
 - Ensure all tags are properly closed where applicable.
 - Avoid using unsupported tags or raw HTML unless explicitly required.
-- Test your content with the [`htmlBuilder.py`](../scripts/side/htmlBuilder.py) script to verify formatting (optional).
 - Do not add unnecessary empty lines.

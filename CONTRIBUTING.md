@@ -5,62 +5,35 @@ This guide provides detailed instructions on how to contribute to the ORV-Reader
 ---
 
 ## Index
-1. [How to Contribute](#how-to-contribute)
-   - [Forking the Repository](#forking-the-repository)
-   - [Cloning the Repository](#cloning-the-repository)
-   - [Making Changes](#making-changes)
-   - [Submitting a Pull Request](#submitting-a-pull-request)
-2. [Editing Text Files](#editing-text-files)
+1. [Editing Files](#how-to-edit-files)
+2. [What You Can Edit](#what-you-can-edit)
 3. [Adding Images](#adding-images)
 4. [Improving the Front End](#improving-the-front-end)
 5. [Important Notes](#important-notes)
 
 ---
 
-## How to Contribute
+## How to Edit Files
 
-### Forking the Repository
-1. Go to the [GitHub repository](https://github.com/Bittu5134/ORV-Reader).
-2. Click the "Fork" button in the top-right corner to create a copy of the repository in your GitHub account.
+1.  **Click the Pencil Icon:** Locate and click the pencil icon (✏️) at the top of the webpage.
 
-### Cloning the Repository
-1. Clone your forked repository to your local machine:
-   ```
-   git clone https://github.com/<your-username>/ORV-Reader.git
-   ```
-   Replace `<your-username>` with your GitHub username.
+2.  **GitHub Redirection:** You'll be taken to the text file on the GitHub website.
 
-2. Navigate to the project directory:
-   ```
-   cd ORV-Reader
-   ```
+3.  **Sign In/Up:** Log in to your existing GitHub account or create a new one.
 
-### Making Changes
-1. Identify the files you want to edit. Refer to the sections below for specific instructions on editing text files, adding images, or improving the front end.
-2. Make your changes following the guidelines provided in this document and the [Formatting Guide](./formatting.md).
+4.  **File View:** You'll see the content of the text file.
 
-### Submitting a Pull Request
-1. Commit your changes with a meaningful message:
-   ```
-   git add .
-   git commit -m "Describe your changes"
-   ```
-2. Push your changes to your forked repository:
-   ```
-   git push origin main
-   ```
-3. Go to your forked repository on GitHub and click the "Pull Request" button.
-4. Provide a clear description of the changes you made and submit the PR.
-5. Wait for the maintainers to review your PR. If changes are requested, update your branch and push the changes.
+5.  **"Edit this file" Button:** Look for and click the button that allows you to edit the file (it might still be a pencil icon or text like "Edit this file").
+
+6.  **Forking (If Necessary):** GitHub might create a copy ("fork") of the project in your account.
+
+7.  **Make Edits:** Use the online text editor to modify the file content.
+
+8.  **"Propose changes":** Scroll down and describe your changes in the provided fields (title and optional description).
+
+9.  **Click "Propose changes":** Submit your edits.
 
 ---
-
-## Editing Text Files
-
-The following directories contain the text files for different parts of the ORV-Reader project:
-- `chapters/orv`: Contains the main story of ORV.
-- `chapters/cont`: Contains the sequel (Chapters 553+).
-- `chapters/side`: Contains side stories.
 
 ### What You Can Edit
 - Fix typos or grammatical errors.
