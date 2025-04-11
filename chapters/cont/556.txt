@@ -65,10 +65,10 @@ Especially that big guy over there.
 <!>[Okay, I'm going to explain what's going on, so listen up.]
 I knew full well what Bihyung was going to say next. I've written dozens of manuscripts where I've seen that line.
 He's probably running a similar script simultaneously in the scenario area he controls.
-<!>[You have been living too long for free. Isn't life too generous? You were born and paid no price for breathing,eating, shitting, and reproducing at will without paying anything in return! Ha! What a world you've been living in!]
+<@>[You have been living too long for free. Isn't life too generous? You were born and paid no price for breathing,eating, shitting, and reproducing at will without paying anything in return! Ha! What a world you've been living in!]
 As I listened to him, I wondered if this is what it would have been like if a 'Omniscient Reader's movie had come out.
 The problem is that I'm now an extra in that movie.
-<!>[The stars watched over your planet with great generosity, but that's only until today, and the time has come for you to repay them for all the kindness they've shown you. It's better for you to see what's going on than to hear me ramble on about it, right?]
+<@>[The stars watched over your planet with great generosity, but that's only until today, and the time has come for you to repay them for all the kindness they've shown you. It's better for you to see what's going on than to hear me ramble on about it, right?]
 As if he couldn't be bothered to recite the boring lines, Bihyung snapped his fingers.
 <!>[#BI-7623 channel opened.]
 <!>[Constellations have entered.]
@@ -85,7 +85,7 @@ Reward: 300 coins
 Failure: Death
 +
 The Dokkaebi's transparent body slowly faded away, giving us a vague smile.
-<!>[Then, good luck everyone. Please show me an interesting story.]
+<@>[Then, good luck everyone. Please show me an interesting story.]
 As the scenario window popped up in front of me, it really hit home.
 The time limit reducing in real time.
 Right now it says 30 minutes, but as the time goes on, the penalties will start to kick in.
@@ -184,4 +184,3 @@ I looked at the message with suspicion in my eyes.
 Author's Note
 Sing: I am not Lee Hakhyun. ^^;;
 Shong: I'm not Lee Hakhyun either. ^^;
-
