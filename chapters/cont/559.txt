@@ -6,7 +6,7 @@ It didn't make sense. Something must be wrong with the <Star Stream> system if i
 Why isn't there a scenario completion message. A system message should have appeared as soon as the bug was killed.
 <!>[There has been a problem with the main scenario system.]
 With a tsuchuchut sound, Bihyung appeared out of thin air. He looked back at me and the others with a troubled look on its face.
-<!>[Hey...... everyone.]
+<@>[Hey...... everyone.]
 The moment I saw his face, I realized what I missed.
 I was an idiot. Why didn't I notice sooner?
 —Here's another one who's playing tricks.
@@ -16,11 +16,9 @@ At first, I thought he was referring to Kim Dokja.
 But there was something I hadn't considered.
 There wasn't just one 'reader' in this scenario.
 Bihyung, who was twitching his lips, spoke up in a disapproving voice.
-same thing happen at the same time.......]
-The exact same thing happening at the exact same time.
+<@>[It seem like you all think this is some sort of insect killing game. The scenario this time is really strange. Can the same thing happen at the same time ?]
 I looked at the ahjussi. He seemed to be thinking the same thing.
-
-"No way......."
+"No way......."
 Somewhere in the world, there are readers who have read 'Omniscient Reader' just like him.
 They knew the solution to the first scenario, just like we did, so they chose to catch bugs and clear the scenario.
 What we didn't realize was that too many people had used that solution.
@@ -28,7 +26,7 @@ What we didn't realize was that too many people had used that solution.
 <!>[The probability of the scenario beings to tilt.]
 <!>[The will of the <Star Stream> is moving.]
 A trope that has been tried so often, it has lost its novelty.
-<!>[You've got to hand it to humans for being cruel, killing poor bugs to save their own lives....]
+<@>[You've got to hand it to humans for being cruel, killing poor bugs to save their own lives....]
 I glanced down at the bug carcasses strewn throughout the station. Miserably squashed and trampled corpses.
 The recognition of bugs as 'living things' might mean that they were also 'scenario participants'.
 So what did we look like in their eyes?
@@ -180,8 +178,7 @@ A sense of dread settled over the entire station. Strangely enough, the horror a
 Suddenly, I wanted to write like crazy.
 <&>「We gained 10 minutes, so 'killing bugs' wasn't all for nothing.」
 If I survive this, I might write the side story.
-
-[The 'exclusive skill' becomes more active.]
+[The 'exclusive skill' becomes more active.]
 
 ***
 
