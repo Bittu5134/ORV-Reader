@@ -25,7 +25,7 @@ The people in the room froze in horror.
 Even the big guy was quite surprised, and the eyes of the reader ahjussi, who probably already knew the story, were shaking.
 I was the only one who didn't panic.
 <!>[The character 'Lee Hyunjoo' is freaking out!]
-[The character 'Yeom Baekhoon' is freaking out!]
+<!>[The character 'Yeom Baekhoon' is freaking out!]
 Psychological messages from characters were coming from all over the place.
 Bihyung touched the exact spot where people's anxiety was coming from and disappeared again.
 "T-the kid who survived at the end. She must have killed someone."
@@ -55,7 +55,7 @@ As soon as I did that.
 <!>[The character 'Kim Cheolyang' wants to do something unexpected.]
 A message rang in your head.
 <!>[The activation conditions for the exclusive skill '⬜⬜' has been met.]
-[The exclusive skill '⬜⬜' has been activated.]
+<!>[The exclusive skill '⬜⬜' has been activated.]
 ......⬜⬜?
 <!>[The character 'Kim Cheolyang's attribute is preparing to bloom.]
 <!>[You can interfere with character 'Kim Cheolyang's attribute blooming.]
@@ -83,8 +83,7 @@ It wasn't hard to understand what those blanks were.
 Just as Kim Dokja had a 'reader' skill, I had a 'writer' skill.
 Skill '⬜⬜'.
 Will what I write come true?
-Since I didn't have much time, I decided to write a sentence in the blank first. The purpose was
-clear.
+Since I didn't have much time, I decided to write a sentence in the blank first. The purpose was clear.
 Use Kim Cheolyang to save me and the ahjussi from the crisis.
 As I concentrated, the sentences flowed out of my head.
 It was natural.
@@ -161,7 +160,7 @@ Then.
 <&>「At that moment, Kim Cheolyang stepped forward.」
 The sentence I had written began to come to life.
 "Our faith is being tested right now."
-belief that he had been chosen by God.」
+「Not anyone could do it. But the moment he stepped forward, he was seized with an intense belief that he had been chosen by God.」
 "Faith?"
 <&>「Maybe it was the fire. I could see the fire burning beyond their pupils.」
 That's all I wrote. However, it was enough for an introduction.
