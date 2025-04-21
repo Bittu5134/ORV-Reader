@@ -2,6 +2,8 @@ name: Build Cont Chapters
 
 on:
   push:
+    branches:
+      - main
     paths:
       - chapters/cont/**
   workflow_dispatch:
