@@ -2,6 +2,8 @@ name: Build ORV Chapters
 
 on:
   push:
+    branches:
+      - main
     paths:
       - chapters/orv/**
   workflow_dispatch: 
