@@ -130,7 +130,7 @@ A voice spoke again.
 I heard the sound of blood dripping out. It was impossible to tell whose blood it was.
 <&>「"I never asked you before."<br>"What do you mean?"<br>"Why you live the way you do."」
 A laugh of disbelief.
-「"I just lived hard. I've only lived a little longer this time."<br>"Honestly, I was surprised this time. I didn't think you'd take on all the Ten Evils."<br>"You underestimated the capabilities of this body."<br>"I admit it."<br>"You should have had me as a colleague sooner."」
+<&>「"I just lived hard. I've only lived a little longer this time."<br>"Honestly, I was surprised this time. I didn't think you'd take on all the Ten Evils."<br>"You underestimated the capabilities of this body."<br>"I admit it."<br>"You should have had me as a colleague sooner."」
 They fought and fought and fought, finally reaching the end of this terrible war.
 It was only at this moment that Cheon Inho's joke was possible.
 Because he had fought as hard as he could.
