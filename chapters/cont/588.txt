@@ -1,7 +1,4 @@
 <title>588 Episode 7. Trauma (1)
-
-Episode 7. Trauma
-
 Will the 'Phantom Prison' work in people without any 'trauma'?
 <!>[The constellation 'Sneaking Schemer' wonders about your trauma.]
 <!>[A constellation who hasn't revealed their modifier is looking at you.]
@@ -9,38 +6,31 @@ Time passed and nothing appeared in front of me.
 As expected, I don't have any trauma after all.
 I was born into a normal family, had a normal childhood, and grew up without any incidents.
 Although the long period of being an unknown writer was difficult, it was not traumatizing.
-I made enough money to put food on my plate by helping professors with their chores, and I
-didn't skip meals even if I had to eat triangular kimbap.
+I made enough money to put food on my plate by helping professors with their chores, and I didn't skip meals even if I had to eat triangular kimbap.
 If you say it was hard, there is nothing in the world that is not.
 So if I don't see anything here, it won't be too strange.
 It was then that I heard a voice through the fog.
 <&>「"There is no one without a trauma."」
 The fog parted to reveal a classroom scene.
-Fresh-faced freshmen sat in an oval formation. Some whose names I no longer remember, others
-I still keep in touch with.
+Fresh-faced freshmen sat in an oval formation. Some whose names I no longer remember, others I still keep in touch with.
 Among them was me, looking at the professor with a blank expression on my face.
 <&>「"Well, let's each share a story."」
 With that, the professor sat down and pointed to a student.
-
 The student stood up and immediately began to share their trauma.
-loud in front of my friends."」
+<&>「"When I was a kid, my homeroom teacher once told me that my diary was great and read it out loud in front of my friends."」
 They sounded strangely proud.
 As I listened, it slowly dawned on me what kind of class this was.
 The creative writing program I attended had a famous freshman initiation ritual.
 It's where freshmen are brought together and forced to confess their traumas.
-It's a ridiculously violent event in retrospect, but at the time, there were those who believed that
-such nakedness was the way to true literature.
+It's a ridiculously violent event in retrospect, but at the time, there were those who believed that such nakedness was the way to true literature.
 Clap clap clap clap.
 When one person finished, another began to speak.
 <&>「"My trauma is......."」
 All the misfortunes in the world were gathered there. You could call it a 'misfortune contest'.
-My parents' divorce, my grandmother with dementia's disappearance, my family going bankrupt
-and getting a foreclosure notice, going to the police station for stealing a motorcycle, having my
-house robbed while I was sleeping.......
+My parents' divorce, my grandmother with dementia's disappearance, my family going bankrupt and getting a foreclosure notice, going to the police station for stealing a motorcycle, having my house robbed while I was sleeping.......
 They were all in their early twenties, so how did they have all those experiences?
 It was a mystery to me.
-What was even more mysterious was the professor scribbling in his notebook as if he was
-grading their traumas.
+What was even more mysterious was the professor scribbling in his notebook as if he was grading their traumas.
 Finally, it was my turn.
 <&>「"I......."」
 I thought to myself.
@@ -48,50 +38,38 @@ What's the biggest misfortune, the most traumatic event that happened to me?
 When I was chased by a dog as a child?
 That's too weak.
 When I was put in supplementary classes because of my low math scores?
-
 Laughed at.
-I couldn't think of any plausible experiences. Compared to my more experienced peers, I had no
-story.
+I couldn't think of any plausible experiences. Compared to my more experienced peers, I had no story.
 Story.
-At that moment, an idea popped into my head. Taking a deep breath, I spoke the first sentence as
-if opening a universe.
+At that moment, an idea popped into my head. Taking a deep breath, I spoke the first sentence as if opening a universe.
 <&>「"I stabbed my father to death."」
 Once I spoke the words, the story began to unfold.
 I talked about my mother, who loved books, and my father, who was violent whenever he drank.
-I talked about my mother protecting me from my father, about the broken bottle rolling across
-the floor, about the feeling the first time I held it, about the hard shards of glass digging into my
-father's tender back.
+I talked about my mother protecting me from my father, about the broken bottle rolling across the floor, about the feeling the first time I held it, about the hard shards of glass digging into my father's tender back.
 The story was so vivid that I suddenly realized that maybe it had really happened.
 Maybe not here, but somewhere out there in the universe, a part of me had lived that life.
 I was the one who started the story.
 But when the story ended, I was part of it.
 <&>「"That's it."」
-The room was now silent. The students stared at me blankly, without any comments, and the
-professor opened his mouth, having forgotten to grade me.
-It didn't occur to me until then that I had made a huge mistake, and in my panic, I unnecessarily
-blurted out.
+The room was now silent. The students stared at me blankly, without any comments, and the professor opened his mouth, having forgotten to grade me.
+It didn't occur to me until then that I had made a huge mistake, and in my panic, I unnecessarily blurted out.
 <&>「"Oh, it's a lie."」
 Maybe that was my trauma.
 <&>「That I have no trauma.」
-After the fake trauma fiasco, my classmates made comments like this every time they read my
-novel.
+After the fake trauma fiasco, my classmates made comments like this every time they read my novel.
 <&>「"It's another one of those stories that doesn't make sense."」
 <&>「"It's not sincere."」
-
 I wondered what sincerity was.
 After some time writing a web novel, I still don't know what it is.
-To put it bluntly, sincerity to me is,
-something like the ghost I see in front of me now.
+To put it bluntly, sincerity to me is something like the ghost I see in front of me now.
 I smirked and approached the specter.
 <!>[The 8th grade ghost species, 'Specter' is looking at you.]
-I swung my thorn with all my might. My opponent was a spirit, so the hit damage was low, but
-the Specter's face was slightly distorted.
+I swung my thorn with all my might. My opponent was a spirit, so the hit damage was low, but the Specter's face was slightly distorted.
 The dying Specter spoke to me.
 <&>「"I don't feel you in your novels."」
 Why do people want to tell their stories so badly, when there's nothing interesting about them?
 <&>「"A writer should have a personality of their own."」
-Puhwak, a hole appeared in the Specter's face. Through the gaping hole, a pitch black darkness
-stared back at me.
+Puhwak, a hole appeared in the Specter's face. Through the gaping hole, a pitch black darkness stared back at me.
 <&>「"You don't have any."」
 I stared into the empty hole of the Specter.
 <!>[The constellation 'Sneaking Schemer' looks at you with pity.]
@@ -104,7 +82,6 @@ I grabbed the Specter by the nape of the neck and said.
 "Don't die yet. There's someone I need to meet."
 Then I got close to the hole in the Specter and called someone's name.
 I don't know if this will work or not.
-
 But, if my guess is right.
 —Who is it?
 And after a moment.
@@ -129,48 +106,39 @@ rlaehrwk99: Come to think of it, it makes sense.
 ***
 
 Yoo Joonghyuk said.
+<&>「"You must have met Anna Croft in the Chungmuro tunnel. You recalled the memories of the
 last round......."」
-
 The story gave me two hints.
 One, there was a way to meet Anna Croft in the 'Chungmuro tunnel'.
 Second, I could get the 'memories' of the last turn from Anna Croft.
-Anna Croft, who has [Past Sight], is the only person who can find out the information of the last
-turn besides Yoo Joonghyuk.
-Now that I'm under suspicion from Yoo Joonghyuk, there's nothing better than being able to hear
-the story of the previous turn from Anna Croft.
+Anna Croft, who has [Past Sight], is the only person who can find out the information of the last turn besides Yoo Joonghyuk.
+Now that I'm under suspicion from Yoo Joonghyuk, there's nothing better than being able to hear the story of the previous turn from Anna Croft.
 It was for this moment that I faced the Specter without any magic resistance equipment or skills.
 As Kim Dokja did, I used the 'Phantom Prison' mechanism to call out Anna Croft.
 —How did you know my name? You can't possibly know it now.
 "Yoo Joonghyuk told me about you."
 —You've already met him?
-"I met him by chance, though your reaction makes it seem like that's not how it was supposed to
-be."
+"I met him by chance, though your reaction makes it seem like that's not how it was supposed to be."
 Anna Croft's eyes shook slightly.
 —He really does whatever he wants.
 Looking at it, Anna Croft and Yoo Joonghyuk have a connection.
-I don't know how these two former enemies ended up working together, but now is the time to
-use what I've discovered.
-"It's Yoo Joonghyuk, as usual. But I can't wait to hear about it. What happened in the last turn?
-He said you'd be able to tell me."
+I don't know how these two former enemies ended up working together, but now is the time to use what I've discovered.
+"It's Yoo Joonghyuk, as usual. But I can't wait to hear about it. What happened in the last turn? He said you'd be able to tell me."
 I thought I was making it sound casual, but Anna Croft's eyes shone sharply.
 —Last turn? What did you hear from Yoo Joonghyuk? How much do you know?
 "Does it matter?"
 —Answer.
 <!>[The character 'Anna Croft' has used 'Lie Detection Lv.6'!]
 I sighed lightly.
-
 This 'Lie Detection' thing.
 "Did you forget that I can deceive 'Lie Detection'?"
 <!>['Lie Detection' has confirmed that the statement is true.]
 Embarrassment flashed across Anna Croft's expression.
 —You, how.......
-"Let's not go at each other uselessly and get this over with. It doesn't matter who I heard what
-from. If you keep dawdling I might change my mind. Right now I'm here to help you, but 10
-seconds from now I might feel differently."
+"Let's not go at each other uselessly and get this over with. It doesn't matter who I heard what from. If you keep dawdling I might change my mind. Right now I'm here to help you, but 10 seconds from now I might feel differently."
 —......You're going to help us? Are you serious?
 I wondered if I'd said something wrong, but after a moment of silence, Anna Croft spoke up.
-—Just before the end of the previous turn, Yoo Joonghyuk said. When I see you in the 41st turn,
-he wanted me to show you your memories of the last turn.
+—Just before the end of the previous turn, Yoo Joonghyuk said. When I see you in the 41st turn, he wanted me to show you your memories of the last turn.
 As expected.
 It was like that.
 —To be honest, I had no intention of listening to him because I don't trust you.
@@ -179,33 +147,24 @@ It was like that.
 "I don't know, I don't remember."
 —I don't know what Yoo Joonghyuk's thinking. You both are just as bad.......
 Anna Croft sighed lightly.
-It felt like the fog in the Phantom Prison was less thick than it had been earlier. There wasn't
-much time left.
-"I'm really going to ask you one last time. What happened in the previous turn? I need to know
-that much so I can help you or not."
+It felt like the fog in the Phantom Prison was less thick than it had been earlier. There wasn't much time left.
+"I'm really going to ask you one last time. What happened in the previous turn? I need to know that much so I can help you or not."
 Anna Croft hesitated for a moment, then spoke up, seemingly decided.
 —Okay. If you want it so badly, I'll tell you.
 "Be quick."
-
-—I hope you have a grain of conscience left, too. So I hope that when you see this story, you
-also feel a part of the hellish pain.
-As Anna Croft closed one eye quietly I thought that this is not what the woman who enslaved
-Yoo Joonghyuk on the 2nd turn would say.
+—I hope you have a grain of conscience left, too. So I hope that when you see this story, you also feel a part of the hellish pain.
+As Anna Croft closed one eye quietly I thought that this is not what the woman who enslaved Yoo Joonghyuk on the 2nd turn would say.
 <!>[The character 'Anna Croft' has used 'Past Sight'.]
-Past Sight. An unprecedented 'Prophet' op skill that allows you to glimpse your own memories
-from the last world line.
+Past Sight. An unprecedented 'Prophet' OP skill that allows you to glimpse your own memories from the last world line.
 Tsuchuchuchut.
 With a light spark, images and sensory information flowed into my head.
-The acrid smoke made my eyes sting, and somewhere there was a thick odor of blood that made
-my head ache.
-It didn't smell like the blood of one person or two; it smelled like the blood of at least a thousand
-people, all of whom had died, turning the area into a sea of blood.
+The acrid smoke made my eyes sting, and somewhere there was a thick odor of blood that made my head ache.
+It didn't smell like the blood of one person or two; it smelled like the blood of at least a thousand people, all of whom had died, turning the area into a sea of blood.
 <&>「"Are you satisfied?"」
 A man stood in the center of the bloodbath.
 A black coat and a sword stained with blood.
 His entire body was stained with blood and dirt, but it didn't dull the glow in his eyes.
-I gazed up at the polar night-like sky. I could hardly see stars in the sky. From somewhere, I
-heard what sounded like a dragon's cry.
+I gazed up at the polar night-like sky. I could hardly see stars in the sky. From somewhere, I heard what sounded like a dragon's cry.
 <&>「"You don't know what you have done."」
 As if counting the few stars left, the man said in a calm voice.
 <&>「"You will never know what you have ruined, what doom you have brought."」
@@ -215,26 +174,25 @@ My heart sank just listening to it.
 <&>「As always, a man who has walked passed through everything on his own all his life.」
 Suddenly, the clouds parted, and a faint starlight illuminated his face.
 <&>「Yoo Joonghyuk, the Supreme King of the 40th turn, was there.」
-
 Yoo Joonghyuk dropped his gaze and looked at someone.
 A man stood opposite him, unperturbed by the overwhelming momentum of the Supreme King.
 A blackish red coat fluttered in the ruins.
 Black wings stretched out from the coat.
 For a moment, my heart throbbed.
 Because I thought he might be Kim Dokja.
-that the face you make when you think about that?"」
+<&>「"That's a funny expression, Yoo Joonghyuk. I've already failed this turn, I should start over. Is that the face you make when you think about that?"」
 But the voice wasn't Kim Dokja's.
-scratch."」
+<&>「"That would be convenient. You can always press the reset button and start everything from scratch."」
 The owner of the voice was laughing.
-press the reset button, the world doesn't just disappear, it becomes eternal."」
+<&>「"But remember. No master craftsman can make two perfectly identical dolls. The moment you press the reset button, the world doesn't just disappear, it becomes eternal."」
 As if mocking everything in the world, the man continued.
-memory as an immortal nightmare."」
+<&>「"This world will always be ruined, and I will forever remain in the deepest recesses of your memory as an immortal nightmare."」
 Though he wore a pure white half-mask, it was not difficult to recognize his face.
-It was not hard to recognize his face, for it was the face I faced when I first stepped into this
-world.
-nightmares, you damn regressor."」
+It was not hard to recognize his face, for it was the face I faced when I first stepped into this world.
+<&>「"Now, go ahead and reset everything. And struggle and die a slow death, flailing in eternal nightmares, you damn regressor."」
 And there was the 40th turn Cheon Inho.
+
+***
 
 Author's Note
 Thank you for reading today.
-
