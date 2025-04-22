@@ -12,28 +12,24 @@ Was there a foreign substance mixed in?
 <!>[A top-rated item has appeared!]
 <!>[The number of available random item boxes is 0.]
 After a while, the glow subsided.
-Kyung Sein, Dansoo ahjussi and I looked at each other, swallowed hard, and opened the box at
-the same time.
+Kyung Sein, Dansoo ahjussi and I looked at each other, swallowed hard, and opened the box at the same time.
 Inside the box was a vibrant, light-blue colored spirit, about the size of an adult male's fist.
 Kyung Sein frowned.
 "It's changed color? It's like Biyoo's poop."
 "Let's check it out."
-I went straight for the slime. But just before I reached for it, the slime squirmed and dodged my
-hand.
+I went straight for the slime. But just before I reached for it, the slime squirmed and dodged my hand.
 Upon closer inspection, the slime had eyes. Narrow eyes.
 "Giw—me."
 It even had a tiny mouth.
 I wondered if it looked like me (Cheon Inho).
 "Giw—me. Giw—me."
 Kyung Sein tilted her head.
-
 "Is it swearing?"
 "No, I think it's saying, 'give me'. I think it's asking for food."
 "How do you know?"
 "Because it's similar to what Jiyoon used to babble......."
 After a moment's hesitation, Dansoo ahjussi worriedly handed over the leftover ground rat meat.
-The slime looked at it, and then jumped at his hand. It wasn't the ground rat meat that it ate, but
-the bracelet he was wearing.
+The slime looked at it, and then jumped at his hand. It wasn't the ground rat meat that it ate, but the bracelet he was wearing.
 Dansoo ahjussi freaked out and jumped back.
 "Wilson!"
 Apparently he'd given the bracelet a name.
@@ -41,7 +37,9 @@ The slime quickly realized the bracelet was tasteless, spat it out, and curled u
 And the next moment.
 "Huh?"
 The slime was a bracelet.
+
 ***
+
 After we finished organizing our items, we made our escape from the 'Edge of Darkness'.
 Luckily, ahjussi had a cockroach in his pocket, so it wasn't hard to find our way out.
 But...... why does the back of my head keep itching?
@@ -53,34 +51,26 @@ I added, peering into the 'Edge of Darkness' where I couldn't see anything.
 "Even the bugs say there's nothing there."
 If ahjussi says there's nothing there, there's nothing there.
 At this point, the one person he can't detect with his [Diverse Communication] is Killer King.
-By now, he must be holding the box that has run out of uses with killing intent. I thought of
-Killer King, who was probably repeating 'Cheon Inho' over and over again.
+By now, he must be holding the box that has run out of uses with killing intent. I thought of Killer King, who was probably repeating 'Cheon Inho' over and over again.
 Well...... at least I didn't give him an empty box, so I guess it's okay.
 If he makes good use of the notes I put in the box, he'll still get a decent income.
 Of course, whatever he gets will be less than the bracelet on my wrist.
 +
-
-<Item Information>
+[<Item Information>]
 Name: Idea of Almost Anything
 Rating: Star Relic (遺物)
-Description: A mysterious slime that was once the product of a constellation's obsession of
-studying 'almost everything'.
+Description: A mysterious slime that was once the product of a constellation's obsession of studying 'almost everything'.
 When worn, it increases Agility and Magic Power levels by 1 each.
 * 'Idea' can use 'mimicry'.
 +
 Formed Idea (意態).
 'Idea of Almost Anything' can mimic an item by touching it.
-Since it's a top-rated item, it cannot mimic others simply by touching them, but only after certain
-conditions are met.
-Once successfully mimicked, the item can be used continuously until the mimicked form is
-destroyed.
-However, the 'Idea of Almost Anything' may, out of its own free will, refuse to obey its owner's
-'mimicry command'.
-+
-As you can probably tell from the description, this was a scam item. In theory, it could be almost
-anything.
+Since it's a top-rated item, it cannot mimic others simply by touching them, but only after certain conditions are met.
+Once successfully mimicked, the item can be used continuously until the mimicked form is destroyed.
+However, the 'Idea of Almost Anything' may, out of its own free will, refuse to obey its owner's 'mimicry command'.
+As you can probably tell from the description, this was a scam item. In theory, it could be almost anything.
 However, 'Idea of Almost Anything' had two fatal flaws.
-One is that you can't rely on it if you don't meet the 'mimicry' conditions.
+One was that you can't rely on it if you don't meet the 'mimicry' conditions.
 And the second was that the 'idea' itself could refuse the 'mimicry command'.
 So I guess it's not a scam item after all.
 Kyung Sein, who was next to me, looked at my bracelet with envy.
@@ -94,7 +84,6 @@ However, Jung Heewon was nowhere to be seen.
 "Heewon-ssi.......?"
 "Oh, she woke up thirty minutes ago and went to get something to eat with some people earlier."
 Something to eat.
-
 It was time to worry about that.
 I asked Bang Cheolsoo what had happened.
 "Did anything happen?"
@@ -107,8 +96,7 @@ According to Bang Cheolsoo, the creatures started hanging around a few hours ago
 My mind raced.
 "Do they look like rats?"
 "Some looked like rats, some looked like lizards."
-I had a vague idea of who they were. Probably incarnations under the command of the
-Misreading Association.
+I had a vague idea of who they were. Probably incarnations under the command of the Misreading Association.
 "Anything else?"
 "A scenario penalty has been added."
 Scenario. Sure enough, I got a message too.
@@ -117,24 +105,21 @@ I hit notifications, and they popped up one after the other.
 <!>[From now on, food stockpiling is limited.]
 <!>[All existing stockpiled food has disappeared.]
 <!>[The 'survival cost' clause has been added.]
-'survival cost', you will die.]
+<!>[From now on, 100 coins will be deducted every night for the 'survival cost'. If you can't pay the 'survival cost', you will die.]
 <!>[The 'survival cost' penalty will be maintained until the second main scenario is cleared.]
 A food stockpiling ban and a survival cost penalty.
 No wonder Jung Heewon went to get food.
 "Let's gather the people for a moment."
-Despite the fact that all the food they had stockpiled was gone, the group didn't seem to be in a
-desperate mood.
+Despite the fact that all the food they had stockpiled was gone, the group didn't seem to be in a desperate mood.
 Perhaps because this group had a different starting point than in the 3rd turn.
 They shared their food and stuck together in the face of the crisis.
-
 "Gather round! The boss is looking for you!"
 "Come on quickly!"
 The scattered, hungry people began to gather one by one.
 "Inho ahjussi!"
-Dayoung, who was riding on Bang Cheolsoo's shoulders, waved at me. As I gently held her
-hand, I suddenly remembered Yoo Joonghyuk.
+Dayoung, who was riding on Bang Cheolsoo's shoulders, waved at me. As I gently held her hand, I suddenly remembered Yoo Joonghyuk.
 He had come to Geumho Station the day I was eaten by the ichthyosaur.
-to get food from now on."」
+<&>「"Cheon Inho is already dead. The marginalized group can come out in peace. I'll show you how to get food from now on."」
 At that time, Yoo Joonghyuk wasn't trying to kill people. Rather, he had come here to save them.
 Thinking about it, it didn't make sense.
 This is the 41st turn.
@@ -143,8 +128,7 @@ And yet, he was trying to save these people.
 "Inho-ssi?"
 "Ah, yes. Is everyone here?"
 Looking around, there were around 80 people.
-Judging from the decrease in number, some had left for other areas, except for those who had
-followed Jung Heewon to get food.
+Judging from the decrease in number, some had left for other areas, except for those who had followed Jung Heewon to get food.
 I started talking.
 "I'm guessing you all received a 'survival cost' penalty."
 A few people reacted to the words survival cost.
@@ -155,91 +139,73 @@ I calmly explained.
 "Scenarios...... That's the one we did at the beginning, right?"
 "Do I have to kill people again?"
 People's eyes filled with fear again.
-Most of the people here had already killed people in the first scenario. But few of them killed for
-the sake of killing.
-
-[The constellation 'Abyssal Black Flame Dragon' despises the weakness of the incarnations.]
-abandoned.]
-things.]
+Most of the people here had already killed people in the first scenario. But few of them killed for the sake of killing.
+<!>[The constellation 'Abyssal Black Flame Dragon' despises the weakness of the incarnations.]
+<!>[The constellation 'Nail-Eating Rat' says that children who can't control themselves should be abandoned.]
+<!>[The constellation 'Monarch of the Small Fries' advises against wasting time on the wrong things.]
 The constellations weren't wrong.
 However, if we train them in such a harsh way, most of them will not survive.
-Dayoung pulling Bang Cheolsoo's ear, and Dayoung's mother admonishing her, wouldn't even be
-able to survive.
+Dayoung pulling Bang Cheolsoo's ear, and Dayoung's mother admonishing her, wouldn't even be able to survive.
 <!>[The constellation 'Dog Who Threw Himself Into the Flames' understands your intentions.]
 <!>[A constellation who hasn't revealed their modifier pays attention to your choice.]
-So this choice was the least I could do for the extras who died without having any chance in
-Omniscient Reader.
-"You would kill people and take their coins, but I don't really recommend that, and frankly, I
-don't think anyone here wants to do that."
+So this choice was the least I could do for the extras who died without having any chance in Omniscient Reader.
+"You would kill people and take their coins, but I don't really recommend that, and frankly, I don't think anyone here wants to do that."
 "I-Is there any other way to earn coins?"
 I nodded and looked toward the tunnel.
 "Well, we're running out of food...... That's good."
 "What? Why do you say that......."
-Just then, from the direction of the tunnel, I saw Jung Heewon and other people dragging back
-the body of a ground rat.
+Just then, from the direction of the tunnel, I saw Jung Heewon and other people dragging back the body of a ground rat.
 "Ah, Inho-ssi!"
 Jung Heewon waved happily, and I waved back.
+
 ***
-"No matter how much I looked for it, there's no food, and the ground is covered in poisonous
-fog, so I can't even go up...... So I brought this, I thought maybe we could eat it......."
+
+"No matter how much I looked for it, there's no food, and the ground is covered in poisonous fog, so I can't even go up...... So I brought this, I thought maybe we could eat it......."
 "Well done."
 I instructed the Cheoldoo Group to carry the body of the ground rat onto the platform.
 A few people stumbled back in surprise.
 "From now on, this is your food."
 "What, we're eating this? Do you know what this is......."
 "It's the same meat. Just a different recipe."
-
 I proclaimed myself a 'professional butcher' and began to strip the meat from the body.
-Jung Heewon, Kyung Sein, and Dansoo ahjussi began to help me unfazed, probably because
-they'd seen it before.
+Jung Heewon, Kyung Sein, and Dansoo ahjussi began to help me unfazed, probably because they'd seen it before.
 "Take it in turns!"
 Jeong Heewon handed each one a piece of meat.
-When everyone had received a piece of meat, I took out the 'Magic Power Stove' I had obtained
-from the 'Edge of Darkness' from my bosom.
+When everyone had received a piece of meat, I took out the 'Magic Power Stove' I had obtained from the 'Edge of Darkness' from my bosom.
 "This is an item called a 'Magic Power Stove'."
-I placed the meat I cut on the Magic Power Stove. I increased the power of the stove, and the
-meat was deliciously roasted in less than a dozen seconds.
+I placed the meat I cut on the Magic Power Stove. I increased the power of the stove, and the meat was deliciously roasted in less than a dozen seconds.
 Dayoung muttered in delight.
 "Mom, it smells delicious......."
-As I took a piece of meat to demonstrate, people rushed to the Magic Power Stove as if they had
-been waiting for it.
-After rolling up their sleeves, Bang Cheolsoo and the Cheoldoo Group took over and grilled the
-meat for me.
+As I took a piece of meat to demonstrate, people rushed to the Magic Power Stove as if they had been waiting for it.
+After rolling up their sleeves, Bang Cheolsoo and the Cheoldoo Group took over and grilled the meat for me.
 "Does anyone have salt?"
 "Hyung-ssi, there's no salt here, just eat it!"
-Gasps echoed around the room, and for good reason. They hadn't touched meat for the past three
-days.
+Gasps echoed around the room, and for good reason. They hadn't touched meat for the past three days.
 But my real purpose was not to feed people full.
 <!>[The sub scenario 'Food Acquisition' has been completed early.]
 <!>[500 coins have been earned.]
 The sub scenario 'Food Acquisition' can only be completed by cooking a 'self-hunted monster'.
-The bodies that Jung Heewon brought back this time were the ones that Kyung Sein, Dansoo
-ahjussi and I hunted.
+The bodies that Jung Heewon brought back this time were the ones that Kyung Sein, Dansoo ahjussi and I hunted.
 Presumably, the others did not receive the rewards we did.
 "From now on, all food must be obtained by hunting monsters."
 At the mention of hunting, the faces of those picking at the meat stiffened.
-"For now, I have given you the meat that I and my companions have caught, but it is impossible
-to continue this way. You must learn to hunt for yourselves, so you can survive."
+"For now, I have given you the meat that I and my companions have caught, but it is impossible to continue this way. You must learn to hunt for yourselves, so you can survive."
 My words were no different than those of Yoo Joonghyuk, who had come here not long before.
-
 He was right, and he was trying to give these people what they needed.
 They just weren't ready to receive it.
-"As you know from reading the scenario, you can earn coins by hunting and cooking your own
-ground rats. If you don't have any coins right now, you can earn 500 coins by hunting one later
-today."
+"As you know from reading the scenario, you can earn coins by hunting and cooking your own ground rats. If you don't have any coins right now, you can earn 500 coins by hunting one later today."
 Those who checked the scenario window at my words said.
 "It's true, it says it will give us coins."
 "But how are we supposed to catch a monster like this?"
 "Everyone, don't be scared. I caught one, and so did this ahjussi."
-Kyung Sein and Dansoo ahjussi stepped up to my side to support my words, and I could see a
-few people shaking their heads at them.
+Kyung Sein and Dansoo ahjussi stepped up to my side to support my words, and I could see a few people shaking their heads at them.
 I quickly added before they could make any negative comments.
 "We'll show you how to catch them."
+
 ***
-Dansoo ahjussi, Kyung Sein, Jung Heewon and I taught the people step by step how to hunt
-ground rats.
-It was a valuable piece of information that we had to learn with blood, sweat and tears,
-something that doesn't appear in the text of Omniscient Reader.
+
+Dansoo ahjussi, Kyung Sein, Jung Heewon and I taught the people step by step how to hunt ground rats.
+It was a valuable piece of information that we had to learn with blood, sweat and tears, something that doesn't appear in the text of Omniscient Reader.
 Kyung Sein, who still has bite marks all over her body, squared her shoulders and said.
 "Their patterns are very simple. As long as you stay calm, you can easily catch them!"
 Although they did bite us a lot for such a simple pattern.
@@ -250,31 +216,25 @@ Although they did bite us a lot for such a simple pattern.
 In this world, good deeds become coins.
 No matter what you do, the results of your actions are directly related to coins.
 I wonder if Kim Dokja felt the same way.
-However, I didn't have time to ponder for long. We were too weak and unprepared for the
-scenarios to come.
-I could understand why Kim Dokja was so obsessed with coins. Having a lot of coins doesn't
-mean you can do much right now, but it does give you more options.
+However, I didn't have time to ponder for long. We were too weak and unprepared for the scenarios to come.
+I could understand why Kim Dokja was so obsessed with coins. Having a lot of coins doesn't mean you can do much right now, but it does give you more options.
 Next stop, Chungmuro.
-
 If I wanted to deal with the bald man at Chungmuro, I had to start saving up coins now.
 The Ten Evil of Chungmuro Station.
 Armed Fortress Master Gong Pildu.
-Although he's a character with as much presence as hair in the original, Gong Pildu is a pretty
-scary villain in the beginning.
+Although he's a character with as much presence as hair in the original, Gong Pildu is a pretty scary villain in the beginning.
 <!>[Coins Possessed: 11,800 C]
 This is a world where even early skills like the [Woryeong Sword Technique] cost 8,000 coins.
-With the coins I have now, I don't even have enough coins to increase my overall stats, let alone
-take care of my companions.
+With the coins I have now, I don't even have enough coins to increase my overall stats, let alone take care of my companions.
 I wish a bunch of coins would fall from the sky. Kim Dokja earns coins just by breathing.
 <!>[The constellation 'Lily Blooming in Aquarius' has entered the channel.]
 I looked up at the channel entry notification.
 <!>[The constellation 'Lily Blooming in Aquarius' snoops around Geumho Station.]
 Lily Blooming in Aquarius.
 Gabriel, the archangel of <Eden>, has entered the channel.
-I wondered what brought her to this unknown channel, but somehow, her gaze turned to a certain
-place.
+I wondered what brought her to this unknown channel, but somehow, her gaze turned to a certain place.
 <!>[The constellation 'Lily Blooming in Aquarius' looks at incarnation 'Kyung Sein'.]
-"Not, hold the sword like this."
+"No, hold the sword like this."
 "Like this?"
 "Stay still. I'll show you."
 Jung Heewon was fixing the frozen Kyung Sein's posture.
@@ -282,13 +242,11 @@ Even from a distance, I could see that her earlobes were red.
 I had forgotten for a moment.
 I had forgotten that her original nickname was [Judge Heewon].
 <!>[The constellation 'Lily Blooming in Aquarius' tilts her head.]
-incarnation 'Kyung Sein'.]
+<!>[The constellation 'Lily Blooming in Aquarius' makes a trial sponsorship of 100 coins to the incarnation 'Kyung Sein'.]
 After receiving the coins, Kyung Sein's shoulders shook as if wondering what she was thinking.
 "L-Like this? Is it okay?"
 "Stretch your arm more, like this."
-
-It was a sight that brought blood tears to my eyes, as I had sold my conscience and innocence to
-earn coins.
+It was a sight that brought blood tears to my eyes, as I had sold my conscience and innocence to earn coins.
 Holy constellation Gabriel.
 The person you have now sponsored is actually a muscular man. You are being deceived.
 I stood up from my seat, thinking that I should tell my companions to go to Chungmuro.
@@ -296,6 +254,8 @@ And the next moment.
 <!>[The constellation 'Lily Blooming in Aquarius' calls her companion.]
 My eyes widened at the sight of the name of the constellation entering the channel.
 <!>[The constellation 'Demon-Like Judge of Fire' has entered the channel.]
+
+***
+
 Author's Note
 Hakhyun, do something
-
