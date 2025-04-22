@@ -1,11 +1,20 @@
+/**/*.png
+  Cache-Control: public, max-age=8640000
+
+/**/*.jpg
+  Cache-Control: public, max-age=8640000
+
+/**/*.jpeg
+  Cache-Control: public, max-age=8640000
+
 /meta/*.json
-  Cache-Control: public, max-age=21600
-
-/stories/*
-  Cache-Control: public, max-age=21600
-
-/assets/*
-  Cache-Control: public, max-age=21600
+  Cache-Control: public, max-age=30000
 
 /
-  Cache-Control: public, max-age=21600
+  Cache-Control: public, max-age=300000
+
+/stories/*
+  Cache-Control: public, max-age=30000
+
+/assets/*
+  Cache-Control: public, max-age=30000
