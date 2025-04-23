@@ -56,7 +56,7 @@ Well...... at least I didn't give him an empty box, so I guess it's okay.
 If he makes good use of the notes I put in the box, he'll still get a decent income.
 Of course, whatever he gets will be less than the bracelet on my wrist.
 +
-<Item Information>
+[Item Information]
 Name: Idea of Almost Anything
 Rating: Star Relic (遺物)
 Description: A mysterious slime that was once the product of a constellation's obsession of studying 'almost everything'.
