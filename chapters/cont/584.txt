@@ -20,7 +20,7 @@ If this were setting for 'Ways of Survival', then of course Kim Dokja would have
 However, since Kim Dokja didn't use it, it means that this 'box' is not mentioned in the text of 'Ways of Survival'.
 So since when has this setting been around?
 From the moment I thought of it? From the moment Han Sooyoung handed me the manuscript?
-The more I thought about it, the more my head spun.
+The more I thought about it, the more my head spun.
 Is this really the '41st round' of the Ways of Survival that I know?
 I don't know.
 For now, we have the item, so let's just think about that.
@@ -50,7 +50,7 @@ I looked carefully at the indirect messages from the constellations.
 If any of them were readers, they would surely unwittingly drop clues.
 <!>[The constellation 'Pig Living in a Brick House' piles up bricks.]
 <!>[A constellation who hasn't revealed their modifier tells you to enter the box.]
-I observed each subsequent message, trying to figure out who they were.
+I observed each subsequent message, trying to figure out who they were.
 One that looks like a normal constellation.
 One that looks like it was possessed by a reader.
 One I couldn't tell if it was a reader or a constellation.
@@ -71,7 +71,7 @@ So I made a decision.
 "Something different?"
 I pulled out an item I had just gotten from near the box.
 +
-[<Item information>]
+<Item information>
 Name: Unformed Idea
 Rating: D
 Description: A shapeless weapon of the past. It could have been anything, but ultimately became
@@ -79,7 +79,7 @@ nothing.
 +
 An item that, at first glance, looks like spoiled jelly.
 "If you don't mind, I was wondering if I could put this item in."
-"This is...... Isn't this an item that didn't appear in Omniscient Reader?"
+"This is...... Isn't this an item that didn't appear in Omniscient Reader?"
 Right. It's probably not used in Ways of Survival either.
 Kim Dokja wasn't particularly interested in this item either.
 Kyung Sein glanced at the Unformed Idea and said.
@@ -106,7 +106,7 @@ What was even more surprising was its next words.
 <!>[The constellation 'Rice Cake-Eating Tiger' says that it can give you the 'Demon Species Core'.]
 Kyung Sein, who was looking at the air with us, asked in a reminiscent voice.
 "Rice Cake-Eating Tiger is the one from the traditional fairy tale, right? 'The Sun and the Moon'......."
-I nodded.
+I nodded.
 Because that's the only fairy tale that comes to mind when I think of Korean 'Rice Cake-Eating Tigers'.
 <!>[The constellation 'Rice Cake-Eating Tiger' says it's him.]
 <!>[The constellation 'Prisoner of the Golden Headband' picks his nose and asks if he's a famous constellation.]
@@ -131,7 +131,7 @@ As they listened to the message, Kyung Sein and ahjussi whispered.
 "When I was young, there was a cartoon movie with twelve zodiacs as the main characters......."
 In the original version of the Omniscient Reader, the constellations of the nebula <Twelve Zodiacs> were the enemies of Kim Dokja.
 But this time, the situation is a little different.
-Is it because I'm a villain?
+Is it because I'm a villain?
 <!>[The constellation 'Rice Cake-Eating Tiger' says there's no need to feel pressured.]
 I've made my decision.
 "I'll attend the Twelve Zodiacs Ball. Is that really all I have to do?"
@@ -160,7 +160,7 @@ Kyung Sein chanted.
 "God! Buddha! Demon King of Salvation! Please!"
 A moment later, a bright light emanated from the box.
 
-***
+***
 
 A place dozens of steps away from the core of the 'Edge of Darkness'.
 In the center of the deep, black ether of the 'Dark Root', a woman in a white coat stood.
