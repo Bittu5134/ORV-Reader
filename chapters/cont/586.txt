@@ -135,7 +135,7 @@ It was time to meet the second member of <Kim Dokja's Company>.
 ***
 
 +
-<Main Scenario #2 - Meeting>
+[Main Scenario #2 - Meeting]
 Category: Main
 Difficulty: E
 Clear Conditions: Cross the tunnel and meet the survivors in the first main base.
