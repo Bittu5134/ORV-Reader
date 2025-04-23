@@ -71,7 +71,7 @@ So I made a decision.
 "Something different?"
 I pulled out an item I had just gotten from near the box.
 +
-<Item information>
+[Item information]
 Name: Unformed Idea
 Rating: D
 Description: A shapeless weapon of the past. It could have been anything, but ultimately became
