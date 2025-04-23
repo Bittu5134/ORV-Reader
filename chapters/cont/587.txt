@@ -46,7 +46,7 @@ Samyeongdang's 'sponsorship'. The shiny bag contained three items.
 turn.
 It's the last item, the 'Damaged Samyeongdang's Bamboo Stick', that's important.
 +
-<Item Information>
+[Item Information]
 Name: Damaged Samyeongdang's Bamboo Stick
 Rating: Star Relic
 Description: A star relic of the 'Bald General of Justice', a historical-grade constellation of the Korean Peninsula. Unfortunately, it has been damaged due to poor storage.
