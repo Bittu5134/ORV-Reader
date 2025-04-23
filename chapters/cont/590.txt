@@ -128,7 +128,7 @@ And for good reason.
 Running into that little girl was proof that we had finally arrived at Chungmuro.
 <!>[The exclusive skill 'Character List' is activated.]
 +
-<Character Summary>
+[Character Summary]
 Name: Lee Jihye
 Age: 17 years old
 Sponsor: Maritime War God (海上戰神)
