@@ -18,7 +18,7 @@ I was caught off guard. The power of the [Incite] had weakened, and my disguise 
 The fog around me started to disperse faster.
 The moment Anna Croft reached out to me with an urgent look on her face.
 <&>「Anna, stop coming around.」
-Along with the unfamiliar voice, I heard the snap of someone's fingers, and with that sound, my vision went black for a moment. And then.
+Along with the unfamiliar voice, I heard the snap of someone's fingers, and with that sound, my vision went black for a moment. And then.
 Peok.
 Something hit me in the back of the head. I turned around in dizzying pain, and there stood a woman holding the 'Damaged Samyeongdang's Bamboo Stick'.
 "Huh? Inho-ssi?"
@@ -42,7 +42,7 @@ I turned my head and saw Dansoo ahjussi stretched out and Kyung Sein curled up i
 I was surprised. Dansoo ahjussi was holding the original copy of the 'Damaged Samyeongdang's Bamboo Stick', and Kyungsein was holding 'Samyeongdang's Beads'.
 Even though I gave them each an item with magic resistance, it wasn't enough.
 Still reeling from the shock of their Phantom Prison, Dansoo ahjussi grunted like a sick man, while Kyung Sein crouched down and repeatedly asked not to hit her.
-I sat next to them and wiped their sweaty foreheads.
+I sat next to them and wiped their sweaty foreheads.
 Kyung Sein and Lee Dansoo.
 These were the people who proved their 'value' in the infamous first scenario.
 They weren't afraid to look at the corpses of people, and they fought bravely against those terrifying ground rats.
@@ -65,7 +65,7 @@ Kyung Sein, who was breathing heavily, let out a slightly sobbing voice.
 "Kim Dokja...... went through something like this. He overcame something like this."
 Clearly, Kim Dokja is a great person. The more time I spend in this world, the more I realize that.
 "You overcame it too, Sein-ssi."
-Kyung Sein shook her head helplessly and asked.
+Kyung Sein shook her head helplessly and asked.
 "Are you okay, Inho-ssi?"
 "Fortunately."
 "How did...... Do you really have a 'Fourth Wall' or something?"
@@ -90,7 +90,7 @@ After only three stops, the two were exhausted.
 Jung Heewon, who was walking beside me, asked in a small voice.
 "Inho-ssi."
 "Yes."
-"You're not overdoing it, are you?"
+"You're not overdoing it, are you?"
 "No."
 Dansoo ahjussi's arms were damp with cold sweat.
 <!>[The constellation 'Rice Cake-Eating Tiger' looks at the group worriedly.]
@@ -113,7 +113,7 @@ But there was no sign of [⬜⬜] being triggered yet.
 If the situation was truly dangerous, the color of the world would have changed first.
 "Let's move forward slowly. It's not too bad yet."
 I took the lead and began to move forward, clearing the railroad tracks.
-Some of the dead outer species on the ground looked familiar. They resembled the Ratmen we'd encountered in the 'Edge of Darkness'. There were also some that resembled the reptilian creatures Bang Cheolsoo had mentioned.
+Some of the dead outer species on the ground looked familiar. They resembled the Ratmen we'd encountered in the 'Edge of Darkness'. There were also some that resembled the reptilian creatures Bang Cheolsoo had mentioned.
 There must have been some kind of war for so many of them to die at once.
 Most of the bodies bore bullet holes.
 "Mate."
@@ -128,13 +128,13 @@ And for good reason.
 Running into that little girl was proof that we had finally arrived at Chungmuro.
 <!>[The exclusive skill 'Character List' is activated.]
 +
-[<Character Summary>]
+<Character Summary>
 Name: Lee Jihye
 Age: 17 years old
 Sponsor: Maritime War God (海上戰神)
 Exclusive Attributes: Scarred Sword Demon (Rare)
 Exclusive Skills: [Sword Training Lv.3], [Demon Slaying Lv.1], [Absolute Sense Lv.3], [Ghost Walk Lv.1]
-Stigma: [Sea Battle Lv.1], [Large Army Command Lv.1]
+Stigma: [Sea Battle Lv.1], [Large Army Command Lv.1]
 Overall Stats: [Physique Lv.16], [Strength Lv.15], [Agility Lv.16], [Magic Power Lv.11]
 Overall Evaluation: A person who evolved into a 'Scarred Sword Demon' after killing her closest friend. The sponsor behind her doubts you.
 * 'Starter Pack' is currently applied.
@@ -155,7 +155,7 @@ The problem was the message that came back.
 <!>[Lee Jihye's sponsor warns the 'Bald General of Justice' to go back quickly because it's dangerous here.]
 Dangerous?
 <!>[Main Scenario #2 - Meeting has ended.]
-<!>[The compensation will be settled.]
+<!>[The compensation will be settled.]
 I tossed the reward message aside and looked back at the group.
 "I'll take the lead."
 Neither Kyung Sein nor Dansoo ahjussi were in any condition to fight.
@@ -179,7 +179,7 @@ Yoo Joonghyuk?
 "I do."
 "Then why didn't you say so earlier?"
 As Lee Jihye's eyes widened, she smiled and took a step closer.
-"Master told me to kill all the bastards who knew him."
+"Master told me to kill all the bastards who knew him."
 "Heewon-ssi!"
 At the same time I shouted Jung Heewon's name instinctively, Lee Jihye's figure disappeared.
 Kagagagak!
@@ -202,7 +202,7 @@ The problem is that this is the unrivaled 41st turn Yoo Joonghyuk.
 I could hear a light explosion coming from Chungmuro Station.
 I sped up my pace, shrugging off the ominous premonition. A dozen steps later, the Chungmuro platform came into view.
 The first thing I saw was a large hole in the center of the platform floor, and people hiding in the stairwells and other places.
-The terrified citizens were all looking at the two men who were fighting on the hole in the platform.
+The terrified citizens were all looking at the two men who were fighting on the hole in the platform.
 One, needless to say, was Yoo Joonghyuk.
 The problem was the person on the other side.
 "Damn you. How dare you cross my land?"
@@ -225,7 +225,7 @@ The moment he holds the spear, Gong Pildu will certainly die.
 <!>[You have entered the 'Snowfield'.]
 Luckily, the 'Snowfield' was triggered.
 In the image that went colorless, the mini-turret began charging, and Yoo Joonghyuk held the spear handle in his hand.
-It was a close call.
+It was a close call.
 I have to change the story somehow.
 But.
 <!>[You have an absurdly low understanding of that character.]
@@ -248,5 +248,5 @@ Something strange happened.
 
 ***
 
-Author's Note
+Author's Note
 There's no such thing as a bad person who eats soil
