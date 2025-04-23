@@ -117,7 +117,7 @@ I unwrapped the 'Idea of Almost Everything' from my wrist.
 It was shaped like a bracelet now, but it could mimic any item it touched.
 I opened the list of items that could be mimicked.
 +
-<Possible Mimicry List>
+[Possible Mimicry List]
 1. Magic Restoration Bracelet
 2. Damaged Samyeongdang's Bamboo Stick
 .......
