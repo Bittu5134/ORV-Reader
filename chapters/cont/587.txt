@@ -17,7 +17,7 @@ Well, I wouldn't call it volunteer work, since we got paid.
 At the constellation's sudden message, Jung Heewon stared at the air and tilted her head.
 "Bald?"
 <!>[The constellation 'Bald General of Justice' warns her not to end that sentence.]
-As it turns out, Jung Heewon was still unfamiliar with concepts like constellation and incarnation.
+As it turns out, Jung Heewon was still unfamiliar with concepts like constellation and incarnation.
 I briefly explained it.
 "I understand roughly what a constellation is. It's like a god, right?"
 "That's right."
@@ -46,7 +46,7 @@ Samyeongdang's 'sponsorship'. The shiny bag contained three items.
 turn.
 It's the last item, the 'Damaged Samyeongdang's Bamboo Stick', that's important.
 +
-[<Item Information>]
+<Item Information>
 Name: Damaged Samyeongdang's Bamboo Stick
 Rating: Star Relic
 Description: A star relic of the 'Bald General of Justice', a historical-grade constellation of the Korean Peninsula. Unfortunately, it has been damaged due to poor storage.
@@ -60,7 +60,7 @@ An item that even Kim Dokja thought about but never actually got.
 I suppose that means our actions pleased Samyeongdang.
 I don't know who broke the statue, but I'm very grateful.
 "Let's distribute the items."
-The first thing I picked up was the Samyeongdang's Straw Mat. In fact, the owner of this item had already been decided.
+The first thing I picked up was the Samyeongdang's Straw Mat. In fact, the owner of this item had already been decided.
 "Me? Why?"
 Jung Heewon, who received the straw mat, asked, tilting her head.
 "I thought it would look good on you."
@@ -81,7 +81,7 @@ For reference, when Kim Dokja saw that scene in the original, he commented.
 He may have said that, but he was probably smiling. We watched Jung Heewon's excitement for a moment before deciding who would own the rest of the items.
 We decided that Kyung Sein would get the 'Samyeongdang's Beads', which has magic resistance, while Dansoo ahjussi would get the 'Samyeongdang's Bamboo Stick', which increases magic stats.
 Kyung Sein asked in an apologetic voice.
-"If you give them all to us, what about Inho-ssi?"
+"If you give them all to us, what about Inho-ssi?"
 "I'm okay. I already have a star relic."
 Dansoo ahjussi was overjoyed that he had his first star relic, and he swung the bamboo stick around in the air. He even gave it a name.
 "Wilson."
@@ -103,7 +103,7 @@ I looked up and smirked.
 The number has dropped significantly. Normally, this would be good news, but this time, it was ominous. I had an idea who the friends who were doing the weird stuff might be.
 —And the constellations' situation is weird too...... And what have you done to get cursed by the constellations? Some of them are out to get you these days.
 Constellations that are after me?
-—Shit, there they go again. I'm leaving.
+—Shit, there they go again. I'm leaving.
 With those words, Bihyung turned off the communication again.
 We have the stream contract, so he came to take care of me for a moment.
 By the way, the constellations are cursing me.
@@ -117,7 +117,7 @@ I unwrapped the 'Idea of Almost Everything' from my wrist.
 It was shaped like a bracelet now, but it could mimic any item it touched.
 I opened the list of items that could be mimicked.
 +
-[<Possible Mimicry List>]
+<Possible Mimicry List>
 1. Magic Restoration Bracelet
 2. Damaged Samyeongdang's Bamboo Stick
 .......
@@ -146,7 +146,7 @@ With a mystic light, the bracelet's form began to change.
 Sure enough, it looked exactly like 'Damaged Samyeongdang's Bamboo Stick'. The performance was the same.
 <!>[The constellation 'Bald General of Justice' is shocked!]
 <!>[The constellation 'Sneaking Schemer' asks if it's a scam.]
-Surprised, Jung Heewon poked her head over my shoulder.
+Surprised, Jung Heewon poked her head over my shoulder.
 "Huh. That looks exactly like Dansoo ahjussi's item?"
 "I made it for you."
 "What? For me?"
@@ -168,9 +168,9 @@ Kyung Sein whispered as she shook the 'Samyeongdang's Beads' on her wrist.
 At the same time as she said that, something like a fog began to gather around us.
 "Be careful, everyone. It's starting."
 The final gateway to Chungmuro has finally begun.
-<!>[A new sub scenario has arrived!]
+<!>[A new sub scenario has arrived!]
 +
-[<Sub Scenario — Phantom Prison>]
+<Sub Scenario — Phantom Prison>
 Category: Sub
 Difficulty: D~F
 Clear Conditions: Escape from Phantom Prison within the time limit.
@@ -189,7 +189,7 @@ Trapped in this fog, the incarnations are forced to face their most horrific mem
 "Sein-ssi! Dansoo ahjussi! Heewon-ssi! Everyone, wake up, it's all an illusion!"
 I shouted, but my voice only echoed in the hollow fog.
 The only reassuring thing is that everyone in the group is wearing 'magic resistance' items.
-They'll be panicking, but they shouldn't have any trouble escaping the 'Phantom Prison'.
+They'll be panicking, but they shouldn't have any trouble escaping the 'Phantom Prison'.
 The problem is me.
 I don't have the 'Samyeongdang's Beads', nor do I have 'Samyeongdang's Bamboo Stick'.
 I also don't have the [Fourth Wall] or [Destroy Evil(破魔)] skills like Kim Dokja in the original.
