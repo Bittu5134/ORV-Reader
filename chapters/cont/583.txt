@@ -51,7 +51,7 @@ I am Yoo Joonghyuk.
 +
 I am Yoo Joonghyuk.
 —Upvotes 0 / Downvotes 1
-(Omniscient Reader's Viewpoint, chapter 77)
+(Omniscient Reader's Viewpoint, chapter 77)
 +
 I doubted my eyes.
 Feeling my gaze, Killer King frowned at me.
@@ -81,7 +81,7 @@ Nevertheless, I shook my head.
 I looked down at the items on the floor.
 I could see the D grade items that Kim Dokja had picked up in the main story, as well as other items that hadn't appeared in the main story.
 As if to give me one last chance, Killer King asked again.
-"Didn't you read the novel properly? Don't you realize the value of this item box?"
+"Didn't you read the novel properly? Don't you realize the value of this item box?"
 "Seriously, we have enough with the rest. Don't insist."
 Killer King hesitated for a moment, then took the item box in his arms with a look of desire in his eyes.
 "I owe you. I will pay you back for sure."
@@ -109,7 +109,7 @@ I was suddenly curious.
 "What do I look like to you?"
 In his eyes, 'Cheon Inho' was marked as 'the murderer of 15 people'.
 <&>「I am Lee Hakhyun.」
-Then what does 'writer Lee Hakhyun' look like?
+Then what does 'writer Lee Hakhyun' look like?
 "What......."
 The next moment, Killer King's eyes widened, his entire retina turning pitch black like it was full of ink.
 I wondered.
@@ -136,7 +136,7 @@ Among the items that Kyung Sein and Dansoo ahjussi had gathered, there were some
 "As expected, 'Old Iron Shield' is the rule for tankers."
 Old Iron Shield.
 An item used by Lee Hyunsung in the original novel.
-Among us, it was the most suited for Kyung Sein to use.
+Among us, it was the most suited for Kyung Sein to use.
 "I'll give you the Magic Power Recovery Bracelet."
 "Is it okay if I take it...... Thank you."
 Ahjussi put the bracelet on his wrist as if it were a luxury watch and smiled happily.
@@ -145,7 +145,7 @@ Other than that, there were rings with faint anti-demonic abilities and gloves t
 It's unfortunate, but at least this early, I can live with it.
 The last thing that caught my eye was an item that looked like spoiled jelly.
 +
-[Item Information]
+<Item Information>
 Name: Unformed Idea
 Rating: D
 Description: A shapeless weapon of the past. It could have been anything, but ultimately became nothing.
@@ -164,7 +164,7 @@ Well, this is more important to me right now than a winning lotto ticket.
 "Actually, I was wondering the same thing, mate."
 Dansoo ahjussi raised his hand cautiously.
 No wonder it looked strange in their eyes.
-It wasn't just any item, but the 'random item box'.
+It wasn't just any item, but the 'random item box'.
 It was an essential item to restore Kim Dokja's star relic, Unbroken Faith.
 My reasoning for surrendering the item box was simple.
 "That box, I wouldn't be able to use it anyway."
@@ -194,7 +194,7 @@ Kyung Sein lowered her head with a dejected expression.
 Dansoo ahjussi, who had a serious look on his face, also shook his head.
 "It's certainly a lot different from the 3rd round with Kim Dokja."
 "Very different."
-Even though it was only the 41st round, Yoo Joonghyuk here had much different experiences than the 3rd round.
+Even though it was only the 41st round, Yoo Joonghyuk here had much different experiences than the 3rd round.
 It's probably safe to say that many of the items that Kim Dokja utilized in the beginning, Yoo Joonghyuk would take first.
 Kyung Sein suddenly raised her head and opened her mouth.
 "Wait, so the box Killer King took earlier......."
@@ -221,7 +221,7 @@ I heard Ji Eunyoo's voice in my head.
 It was a memory from five years ago.
 She was working hard on the first draft of 'Omniscient Reader'.
 <&>「"If you give things like this from the beginning, there's no tension."<br>"Then what should I do?"<br>"I think it's better to go with the first draft."<br>"That sounds good, right?"」
-I don't know how long the three of us dug.
+I don't know how long the three of us dug.
 I felt something hard on my fingertips.
 "Ugh, what's here?"
 <!>[The constellation 'Sneaking Schemer' widens their eyes.]
@@ -242,5 +242,4 @@ If I keep digging, will it keep coming out?
 
 ***
 
-T/N: I'm paying for the chapters, so if you can, please support the authors by buying them on
-Naver or Munpia.
+T/N: I'm paying for the chapters, so if you can, please support the authors by buying them on Naver or Munpia.
