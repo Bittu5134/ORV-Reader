@@ -1,6 +1,4 @@
 <title>564 Episode 3. Protagonist(?) (1)
-(TL:From this point on Ch-564 to Ch-602 are Edited MTLs and may have a lot of errors and formatting issues, if you know better translations you can contact me, so you can either wait or you can edit these chapters yourself (◕‿↼) )
-***
 <&>「When you say 'kill', do you mean I have to kill them myself?」
 Although it doesn't appear in Omniscient Reader, there is an incarnation that solved the first scenario using 'suicide' in 'Ways of Survival'.
 Fingersnapper 'Christina Page'.
@@ -86,9 +84,8 @@ Platform: Textia
 Total Comments : 32
 Reader level : 16
 +
-* You can use coins to view the comments written by this reader.
-* Number of comments currently available for free: 3.
-+
+<!> You can use coins to view the comments written by this reader.
+<!> Number of comments currently available for free: 3.
 No, I can see this?
 I looked at the sorrowful ahjussi's profile.
 Should I see just one?
@@ -109,8 +106,7 @@ I've already seen two, so let's just take a look at the rest.
 How do I pay for the next episode?
 —(Omniscient Reader's Viewpoint, Chapter 25)
 +
-[Pay coins to see additional comments.]
-+
+<!>[Pay coins to see additional comments.]
 For some reason, I felt like I could trust this man.
 Feeling unnecessarily apologetic, I held out my hand to him.
 "Allow me to introduce myself."
