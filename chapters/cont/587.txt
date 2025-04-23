@@ -170,7 +170,7 @@ At the same time as she said that, something like a fog began to gather around u
 The final gateway to Chungmuro has finally begun.
 <!>[A new sub scenario has arrived!]
 +
-<Sub Scenario — Phantom Prison>
+[Sub Scenario — Phantom Prison]
 Category: Sub
 Difficulty: D~F
 Clear Conditions: Escape from Phantom Prison within the time limit.
