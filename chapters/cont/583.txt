@@ -145,7 +145,7 @@ Other than that, there were rings with faint anti-demonic abilities and gloves t
 It's unfortunate, but at least this early, I can live with it.
 The last thing that caught my eye was an item that looked like spoiled jelly.
 +
-<Item Information>
+[Item Information]
 Name: Unformed Idea
 Rating: D
 Description: A shapeless weapon of the past. It could have been anything, but ultimately became nothing.
