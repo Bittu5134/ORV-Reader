@@ -49,7 +49,7 @@ The reason was quickly apparent.
 +
 1. A specific character attempts an 'unexpected behavior'.
 2. An important 'event' branch occurs (limited to 3 times per day).
-+
++
 Perhaps because I used the skill a lot, a new condition to trigger '⬜⬜' has been added. If the skill is triggered now, it means that an important 'event' branch is coming. And in Omniscient Reader, 'important' is the same as 'dangerous'.
 <!>[You have entered the 'Snowfield'.]
 +
@@ -63,12 +63,10 @@ Judging from Killer King and Literary Girl 64's attitude, it was unlikely that t
 That said, the danger wasn't coming from them.
 The next time I looked up at the ceiling, I saw the culprit.
 Since when?
-Through the shadows of the 'Edge of Darkness', three shadows slid down the wall, clinging to it. The moment I saw the series of footprints on the wall, I realized how they had managed to come
-so stealthily.
+Through the shadows of the 'Edge of Darkness', three shadows slid down the wall, clinging to it. The moment I saw the series of footprints on the wall, I realized how they had managed to come so stealthily.
 <&>[Thief Rat's Footprints].
 A stealthy maneuvering skill that, while not as spectacular as Lee Jihye's [Ghost Walk], allows them to literally move like 'dead rats' in the dark.
-All three of them had small tear gas canisters in their hands, so it doesn't look like they're
-approaching for good.
+All three of them had small tear gas canisters in their hands, so it doesn't look like they're approaching for good.
 Judging by the distance, they'll attack in about 1.8 seconds.
 At this rate, Killer King and Literary Girl 64 would die, or at least be mortally wounded.
 Killer King was going to kill me anyway, so I might as well leave them be.
@@ -247,7 +245,7 @@ Damn.
 —Maybe it's an apostle possessing a named.
 —Is he from <Kim Dokja's Company>?
 The Ratmen craned their necks and looked up into the air at the same time. Like terminals waiting for a signal.
-—Says no.
+—Says no.
 —Then let's get rid of him.
 In that moment, I came up with a creepy hypothesis.
 The Ratmen in front of me were not 'readers', but they knew information that only 'readers' could know.
