@@ -24,7 +24,7 @@ It even had a tiny mouth.
 I wondered if it looked like me (Cheon Inho).
 "Giw—me. Giw—me."
 Kyung Sein tilted her head.
-"Is it swearing?"
+"Is it swearing?"
 "No, I think it's saying, 'give me'. I think it's asking for food."
 "How do you know?"
 "Because it's similar to what Jiyoon used to babble......."
@@ -56,7 +56,7 @@ Well...... at least I didn't give him an empty box, so I guess it's okay.
 If he makes good use of the notes I put in the box, he'll still get a decent income.
 Of course, whatever he gets will be less than the bracelet on my wrist.
 +
-[<Item Information>]
+<Item Information>
 Name: Idea of Almost Anything
 Rating: Star Relic (遺物)
 Description: A mysterious slime that was once the product of a constellation's obsession of studying 'almost everything'.
@@ -84,7 +84,7 @@ However, Jung Heewon was nowhere to be seen.
 "Heewon-ssi.......?"
 "Oh, she woke up thirty minutes ago and went to get something to eat with some people earlier."
 Something to eat.
-It was time to worry about that.
+It was time to worry about that.
 I asked Bang Cheolsoo what had happened.
 "Did anything happen?"
 Judging by the strange looks on their faces, something had happened.
@@ -113,7 +113,7 @@ No wonder Jung Heewon went to get food.
 Despite the fact that all the food they had stockpiled was gone, the group didn't seem to be in a desperate mood.
 Perhaps because this group had a different starting point than in the 3rd turn.
 They shared their food and stuck together in the face of the crisis.
-"Gather round! The boss is looking for you!"
+"Gather round! The boss is looking for you!"
 "Come on quickly!"
 The scattered, hungry people began to gather one by one.
 "Inho ahjussi!"
@@ -167,7 +167,7 @@ A few people stumbled back in surprise.
 "From now on, this is your food."
 "What, we're eating this? Do you know what this is......."
 "It's the same meat. Just a different recipe."
-I proclaimed myself a 'professional butcher' and began to strip the meat from the body.
+I proclaimed myself a 'professional butcher' and began to strip the meat from the body.
 Jung Heewon, Kyung Sein, and Dansoo ahjussi began to help me unfazed, probably because they'd seen it before.
 "Take it in turns!"
 Jeong Heewon handed each one a piece of meat.
@@ -191,7 +191,7 @@ Presumably, the others did not receive the rewards we did.
 At the mention of hunting, the faces of those picking at the meat stiffened.
 "For now, I have given you the meat that I and my companions have caught, but it is impossible to continue this way. You must learn to hunt for yourselves, so you can survive."
 My words were no different than those of Yoo Joonghyuk, who had come here not long before.
-He was right, and he was trying to give these people what they needed.
+He was right, and he was trying to give these people what they needed.
 They just weren't ready to receive it.
 "As you know from reading the scenario, you can earn coins by hunting and cooking your own ground rats. If you don't have any coins right now, you can earn 500 coins by hunting one later today."
 Those who checked the scenario window at my words said.
@@ -219,7 +219,7 @@ I wonder if Kim Dokja felt the same way.
 However, I didn't have time to ponder for long. We were too weak and unprepared for the scenarios to come.
 I could understand why Kim Dokja was so obsessed with coins. Having a lot of coins doesn't mean you can do much right now, but it does give you more options.
 Next stop, Chungmuro.
-If I wanted to deal with the bald man at Chungmuro, I had to start saving up coins now.
+If I wanted to deal with the bald man at Chungmuro, I had to start saving up coins now.
 The Ten Evil of Chungmuro Station.
 Armed Fortress Master Gong Pildu.
 Although he's a character with as much presence as hair in the original, Gong Pildu is a pretty scary villain in the beginning.
@@ -246,7 +246,7 @@ I had forgotten that her original nickname was [Judge Heewon].
 After receiving the coins, Kyung Sein's shoulders shook as if wondering what she was thinking.
 "L-Like this? Is it okay?"
 "Stretch your arm more, like this."
-It was a sight that brought blood tears to my eyes, as I had sold my conscience and innocence to earn coins.
+It was a sight that brought blood tears to my eyes, as I had sold my conscience and innocence to earn coins.
 Holy constellation Gabriel.
 The person you have now sponsored is actually a muscular man. You are being deceived.
 I stood up from my seat, thinking that I should tell my companions to go to Chungmuro.
