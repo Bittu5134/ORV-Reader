@@ -1,5 +1,4 @@
 <title>598 Episode 9. Words That Can't Be Said (4)
-
 <!>[You have entered the 'Snowfield'.]
 In the colorless world, all blood looked the same.
 No red blood, no blue blood. Everything was gray.
@@ -7,21 +6,15 @@ I felt sad.
 In this wide world.
 <!>[The exclusive skill '⬜⬜' resonates with your emotions.]
 There's not a single piece of paper for extras.
-
 +
-
 # Words That Can't Be Said
-
+「⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜.......」
 * At your current skill level, you can write a total of 260 additional characters.
-
 +
-
 <!>[You can stay in the 'Snowfield' for a total of 3 minutes.]
 I began to write. It wasn't a story I was writing for anyone.
-There are stories like that. Stories that are neither artistic nor interesting, but you can't resist
-writing them.
-
-[You have described something that cannot be evaluated.]
+There are stories like that. Stories that are neither artistic nor interesting, but you can't resist writing them.
+<!>[You have described something that cannot be evaluated.]
 <!>[You cannot assess the reproduction success rate of this story.]
 <!>[You can't measure the probability you've been granted.]
 <!>[Checking the reader's feedback.]
@@ -46,8 +39,7 @@ It's the writer, not anyone else, who excludes the extras from the story.
 An unnamed ground rat bit an unnamed man to death.
 As I stabbed the nameless ground rats again, I thought to myself.
 <&>「These pages, which no one can read, are their story.」
-
-What had been a gray, snowy world was now covered in red and blue blood.
+What had been a gray, snowy world was now covered in red and blue blood.
 Stories that are not told because they are everywhere.
 Death in the middle of unwritten lines.
 <&>「There are no sentences for extras.」
@@ -57,28 +49,22 @@ When one person becomes the protagonist, the rest become extras.
 "Help—"
 "KKuaaak!"
 I barely saved one person, and another died.
-I never learned the names of the dead. Even though I was right next to them, I couldn't see how
-they died.
+I never learned the names of the dead. Even though I was right next to them, I couldn't see how they died.
 Dead people with their eyes open as if in mourning.
-Damn it, even in this scene, I was a writer. An insensitive recorder, trying to write a sentence on
-the blank space created by their deaths.
+Damn it, even in this scene, I was a writer. An insensitive recorder, trying to write a sentence on the blank space created by their deaths.
 <&>「Nevertheless, someone has to make footprints in this snowfield.」
 A ground rat nibbled at my thigh.
 <&>「Someone has to be the protagonist, after all.」
 I swatted it away, and a second one bit my arm.
 <&>「That's what this snowfield is for.」
-I slammed my arm down on its head. But when I killed one, two came, and when I shook them
-off, three came.
+I slammed my arm down on its head. But when I killed one, two came, and when I shook them off, three came.
 "N-no—"
 "Inho-ssi! Stop! Inho-ssi!"
-Looking back at the stairwell, I saw the faces of Kyung Sein, Dansoo ahjussi, and Ye Hyunwoo
-one after another.
+Looking back at the stairwell, I saw the faces of Kyung Sein, Dansoo ahjussi, and Ye Hyunwoo one after another.
 Gong Pildu and Jung Heewon hadn't regained consciousness yet.
-
-Lee Jihye was busy fending off the monsters coming up the stairwell.
+Lee Jihye was busy fending off the monsters coming up the stairwell.
 "Ahjussi, what are you doing! Hurry up and come this way!"
-There were still quite a few people who hadn't made it to the stairwell. The fort formations had
-all collapsed, and the people were cornered.
+There were still quite a few people who hadn't made it to the stairwell. The fort formations had all collapsed, and the people were cornered.
 At this rate, Chungmuro Station would be wiped out.
 I made a decision.
 I don't know if this will work.
@@ -91,8 +77,7 @@ I commanded it.
 "Turn into the Ever-changing Stealth Suit."
 Ever-changing Stealth Suit.
 The disguise item 'RepresentativeKimDokja' was wearing.
-At the time, I had fulfilled the requirement of 'being hit 10 times' to obtain the appearance of
-'Ever-changing Stealth Suit' which allowed me to place this item in the 'mimicry list'.
+At the time, I had fulfilled the requirement of 'being hit 10 times' to obtain the appearance of 'Ever-changing Stealth Suit' which allowed me to place this item in the 'mimicry list'.
 <!>[Putting on the 'Ever-changing Stealth Suit'!]
 'Transform into a ground rat.'
 A moment later, with a blinding flash of light, my appearance changed to that of a ground rat.
@@ -101,12 +86,10 @@ They sniffed and hovered around me.
 Some of them bared their fangs at me, showing their intense hostility.
 I suppose it's natural for them to be suspicious, since they saw me as a human just a moment ago.
 I used [Incite] on them.
-
-"I am a ground rat."
+"I am a ground rat."
 A few ground rats came up to me and sniffed, then one by one they scurried past me.
 Luckily, the plan worked.
-I ran backwards through the procession of ground rats and quickly made my way to the center of
-the platform.
+I ran backwards through the procession of ground rats and quickly made my way to the center of the platform.
 I could see two giant centipedes roaring at the ceiling.
 Now a bit.
 Everywhere I looked, the ground rats left out wild cries.
@@ -114,6 +97,7 @@ And then.
 <&>「...... ......」
 I heard a strange voice.
 I turned around, wondering where it was coming from.
+<!>[Your exclusive attribute is activated].
 <!>[You understand the language settings.]
 <!>[You are interpreting the language of the ground rats.]
 <&>「Go up」
@@ -127,15 +111,13 @@ A ground rat that was passing by me stopped to look at me.
 It looked at me and added.
 <&>「Runthisway」
 I asked it.
-
-"Why?"
+"Why?"
 <&>「BecausethatstheorderBecausethatstheorder」
 The order. By who?
 The ground rat shuddered, looked back toward the tunnel, and started running past me again.
 I couldn't hear the answer, but I knew why it was running.
 Humans are not the only participants in scenarios.
-Everything in this world belongs to the 'scenario'. This was true even for the ground rats in front
-of me.
+Everything in this world belongs to the 'scenario'. This was true even for the ground rats in front of me.
 <&>「Mommy」
 <&>「Helphelphelp」
 <&>「Cantbreathecantbreathe」
@@ -148,28 +130,24 @@ Since when? A giant centipede was bending over my head.
 <&>「Why did you come this way?」
 I looked around without answering.
 This was the center of the station.
-People were almost at the top of the stairs. The important thing is to stall the time from now on
-until Gong Pildu unleashes the [Armed Zone] again.
+People were almost at the top of the stairs. The important thing is to stall the time from now on until Gong Pildu unleashes the [Armed Zone] again.
 <!>[The exclusive skill 'Incite Lv.5' is activated!]
 "Look this way!"
 In response to my [Incite], a bunch of ground rats turned to look at me.
 <&>「Whatwhatwhatwhat」
-
-「Wherewherewherewhere」
+<&>「Wherewherewherewhere」
 It wasn't enough.
 I shouted again.
 "This way!"
 <!>[The exclusive skill 'Incite Lv.5' is being used to the limit!]
 <!>[The level of the exclusive skill 'Incite' has increased!]
 Poosyuk, Blood trickled from my nose with the sound.
-This time, more of them looked back at me. Some of the ground rats that ran straight ahead,
-others that jumped up to the stairwell and attacked people.
+This time, more of them looked back at me. Some of the ground rats that ran straight ahead, others that jumped up to the stairwell and attacked people.
 They were all looking in my direction.
 <&>「Whatwhat」
 <&>「Whowhowho」
 <&>「Whywhywhywhywhy」
-I suddenly remembered the 'outer gods' from Omniscient Reader. They were extras who died as
-'Nameless Ones' in the worldview of the 'Ways of Survival'.
+I suddenly remembered the 'outer gods' from Omniscient Reader. They were extras who died as 'Nameless Ones' in the worldview of the 'Ways of Survival'.
 I was not a Kim Dokja, so I did not have the power to save them.
 Instead, I was forced to kill them all to end the scenario.
 'Idea.'
@@ -179,10 +157,8 @@ Damaged Samyeongdang's Bamboo Stick.
 Ever-changing Stealth Suit.
 Magic Power Stove.
 And.......
-I didn't want to use this items until the end. Because, in return, the platform would be a dead
-zone for a while.
-
-But now I had no other choice.
+I didn't want to use this items until the end. Because, in return, the platform would be a dead zone for a while.
+But now I had no other choice.
 "Turn into a 'Poison Bomb'."
 Poison Bomb. It was an item they left behind when we fought the Misreading Association.
 A biochemical weapon made from the anal sac of a poisonous rhinoceros.
@@ -196,8 +172,7 @@ A moment later, a faintly glowing bomb appeared in front of me.
 <!>[When the item is used, you won't be able to use the form again.]
 <!>[The effect of the 'Ever-changing Stealth Suit' will be lifted.]
 As I reverted to my normal form, the ground rats growled and showed their hostility.
-But none of them pounced on me. Even the giant centipede kept a wary distance and glared at
-my hand for a reason.
+But none of them pounced on me. Even the giant centipede kept a wary distance and glared at my hand for a reason.
 They know.
 If I detonate this bomb now, every monster in the station will be wiped out.
 <&>「Ohnomommyimscared」
@@ -208,20 +183,17 @@ I stared at them for a moment.
 <&>「IdontwanttodieIdontwanttodie」
 I slowly opened my mouth.
 <!>[The exclusive skill 'Incite Lv.5' is activated.]
-
-"You don't have to die like this."
+"You don't have to die like this."
 I looked back at the ground rats, the giant centipedes, and the grolls.
 "Don't hurt any more people and go back. Then I won't kill you either."
 <!>[The constellation 'Nail-Eating Rat' admires your boldness.]
 <!>[The constellation 'Rice Cake-Eating Tiger' opens its mouth at your suggestion.]
 <!>[The constellation 'Demon-like Judge of Fire' marvels at your integrity.]
 I know the odds are slim.
-But theoretically, the monsters and humans could resolve the scenario without harming each
-other.
+But theoretically, the monsters and humans could resolve the scenario without harming each other.
 <!>[There are 7 hours and 12 minutes remaining until the end of the Emergency Defense Battle.]
 I continued.
-"Emergency Defense Battle is a scenario with a time limit. It will end at some point, even if they
-don't hurt each other."
+"Emergency Defense Battle is a scenario with a time limit. It will end at some point, even if they don't hurt each other."
 I could feel the ground rats' agitation.
 <&>「A story where no one is the protagonist, maybe.」
 The extras had died enough. Monsters and humans alike knew.
@@ -235,8 +207,7 @@ It was then that sparks exploded in thin air.
 <!>[Many constellations are eager to see the scenario unfold quickly!]
 <!>[The probability of the <Star Stream> is moving.]
 <!>[Your 'Incite' has been lifted.]
-
-[Emergency Defensive Battle will resume.]
+<!>[Emergency Defensive Battle will resume.]
 <!>[A few constellations laugh at your reckless behavior.]
 Looking at the message, I thought.
 <&>「After all, isn't this world one giant instigator?」
@@ -245,39 +216,29 @@ One of the ground rats looked at me and said.
 With those words, a mischief of ground rats pounced on me.
 I replied.
 "Yes."
-There was a loud explosion. A blizzard of poisonous gas, accompanied by an unpleasant odor,
-swept across the platform.
-I heard the screams of the monsters. The giant centipedes and ground rats dying, their bodies
-spewing black blood.
-I could see the monsters from the tunnel falling to the ground as well. As I watched them die, I
-thought to myself.
+There was a loud explosion. A blizzard of poisonous gas, accompanied by an unpleasant odor, swept across the platform.
+I heard the screams of the monsters. The giant centipedes and ground rats dying, their bodies spewing black blood.
+I could see the monsters from the tunnel falling to the ground as well. As I watched them die, I thought to myself.
 <&>「If only the monsters hadn't died here, this story would have been interesting.」
 <!>[The constellation 'Abyssal Black Flame Dragon' cheers for the mass murder.]
 <!>[The constellation 'Rice Cake-Eating Tiger' says that monsters are best when they're dead.]
 <!>[The constellation 'Prisoner of the Golden Headband' admires your idea.]
 <!>[The constellation 'Dragon Lying Down' appreciates your strategy.]
 .......
-I stumbled, barely able to catch my breath. I felt like I was going to collapse at any moment, but
-it wasn't time yet.
-I swallowed the Poisonous Rhinoceros' Horn Powder little by little and turned around to start
-walking.
+I stumbled, barely able to catch my breath. I felt like I was going to collapse at any moment, but it wasn't time yet.
+I swallowed the Poisonous Rhinoceros' Horn Powder little by little and turned around to start walking.
 One step, two steps.
-I walked and walked and walked through a landscape swallowed up by the dense fog, stabbing
-each approaching ground rat thoroughly, one by one.
-
-I swallowed the nausea that rose. A few times I stumbled over dead bodies, and then got back up.
-I heard a small cry in my ear. It was a dying ground rat. I was about to strike it down with my
-thorn.
+I walked and walked and walked through a landscape swallowed up by the dense fog, stabbing each approaching ground rat thoroughly, one by one.
+I swallowed the nausea that rose. A few times I stumbled over dead bodies, and then got back up.
+I heard a small cry in my ear. It was a dying ground rat. I was about to strike it down with my thorn.
 Kking.
-I realized that the ground rat was already dead. Instead, I found a tiny creature squirming in its
-arms.
+I realized that the ground rat was already dead. Instead, I found a tiny creature squirming in its arms.
 It was a ground rat pup.
 I stared down at it in disbelief.
 <&>「After all, every story has a protagonist.」
 As if it wanted to live, the pup struggled to breath and exhale with difficulty.
 I could see the tip of its nose turning black from exposure to the gas.
-I bent down and scooped it up in my arms. I poured a little of the remaining Poisonous
-Rhinoceros' Horn Powder into its mouth.
+I bent down and scooped it up in my arms. I poured a little of the remaining Poisonous Rhinoceros' Horn Powder into its mouth.
 Its groans gradually ceased.
 <!>[The constellation 'Sneaking Schemer' is watching your story.]
 I walked across the platform with the pup in my arms. It was hard to see through the fog.
@@ -289,15 +250,14 @@ They were the voices of those looking for me.
 The tip of my foot caught on something hard. It was the stairs. I had to go up.
 <!>[A constellation who hasn't revealed their modifier is watching your story.]
 I glanced back absentmindedly.
-The bodies of so many monsters and humans, now buried in the thick fog, were nowhere to be
-seen.
+The bodies of so many monsters and humans, now buried in the thick fog, were nowhere to be seen.
 I took a step up the stairs, and a single footprint imprinted itself.
-
-[You have achieved an impossible feat.]
+<!>[You have achieved an impossible feat.]
 It was a pitch black footprint.
 <!>[Your first 'story' is germinating.]
 I went up the stairs.
 
+***
+
 Author's Note
 Thank you.
-
