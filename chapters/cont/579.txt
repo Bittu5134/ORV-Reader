@@ -2,7 +2,7 @@
 <!>[4,000 coins have been invested into 'Strength'.]
 <!>[Strength Lv.10 → Strength Lv.20]
 <!>[Your strength level have increased significantly!]
-<!>[Passing dokkaebis will be scared away by your strength.]
+<!>[Passing goblins will be scared away by your strength.]
 First of all, my strength should be high.
 <!>[5,800 coins have been invested into 'Agility'.]
 <!>[Agility Lv.4 → Agility Lv.20]
