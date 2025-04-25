@@ -186,7 +186,7 @@ With this, the total number of dice rolls is 21.
 Are we going to the third floor at once?
 I might be lucky to have met Jung Jaewoo here.
 <!>[Fell into the 'trap stage'!]
-<!>[Go down the stairs 3 steps.]
+<!>[Go down the stairs by 3 steps.]
 Huh?
 <!>[Enter the normal stage.]
 Didn't [Little Luck] work this time?
