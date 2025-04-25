@@ -1,4 +1,4 @@
-<title>604 Episode 10 Writer (5)
+<title>604 Episode 10. Writer (5)
 It was then that a sharp dagger flew from among the grass.
 Jung Heewon, whose complexion changed, pulled out her sword, and I reflexively lowered my back.
 The dagger that had missed us by a narrow margin became lodged in a tree.
@@ -14,23 +14,24 @@ The surname is “King of Dice.”
 Apparently, he had the constellation “The King of Gambling” as his sponsor.
 Indeed, in that case, it was understandable that he climbed the stage so quickly.
 Excluding the illegal writer in the center, the two men and woman were also confirmed by using [Characters List] to confirm the identities of the rest of the gang.
-<!>[A large number of people have been browsed and temporarily changed to ‘character summary’.]
+<!>[A large number of people have been browsed and temporarily changed to ‘Character Summary’.]
 +
-<Character summary information>
+[Character Summary]
 Name: Hamin
-Sponsor: Snake that Cut off its Tail
+Sponsor: Snake That Cut Off Its Tail
 Exclusive Attribute: Lizardman (Rare)
-Total stats: [Stamina Lv.14], [Strength Lv.13], [Agility Lv.16], [Magic Power Lv.7]
+Overall Stats: [Physique Lv.14], [Strength Lv.13], [Agility Lv.16], [Magic Power Lv.7]
 +
-<Character summary information>
++
+[Character Summary]
 Name: Kim Jeonhwa
 Sponsor: Plague-Bringing Rat
 Exclusive Attribute: Ratman (Rare)
-Overall stats: [Stamina Lv.18], [Strength Lv.16], [Agility Lv. 11], [Magic Power Lv.6]
+Overall stats: [Physique Lv.18], [Strength Lv.16], [Agility Lv. 11], [Magic Power Lv.6]
 +
-Both were aliens.
-On the one hand, ratman, a member of the family of the “Plague-Bringing Rat,” whom he had dealt with before.
-The other is the lizardman, a member of the tail-cutting serpent's family...
+Both were alien species.
+On the one hand, ratman, a member of the family of the “Plague-Bringing Rat,” whom I had dealt with before.
+The other is a lizardman, a member of the tail-cutting serpent's family...
 Looking at the situation, it was highly likely that the tail-cutting snake was a constellation on the side of the Misreading Association.
 I lightly raised both hands.
 "Wait. Do we need to fight among ourselves?"
@@ -65,7 +66,7 @@ The moonlight steps.
 He was running while stepping on the steps with a pretty plausible name, but judging from his movements, his average ability was lower than mine.
 The guy who rushed leaving a brilliant light every time was a god who was tamed with hot water.
 I hit “Broken Faith” forcefully.
-'Change into a low-level iron shield.'
+"Change into 'Old Iron Shield'."
 At the same time as my command, “Thoughts of Almost Everything” changed into the shape of a shield.
 Kagagagak!
 The blade bounced off.
@@ -89,17 +90,17 @@ A small pot was held by the text writer's side.
 The Pot of Regeneration, Yongjun.
 This time I couldn't help but be surprised.
 <!>[D-class item, 'Lesser Leather Greaves', has disappeared as a sacrifice.]
-<!>[D-class item Broken Faith (Mass Production Type)'s durability has been regenerated.]
+<!>[D-class item Broken Faith (mass production type)'s durability has been regenerated.]
 <!>[Broken Faith (mass production type) responds to strong will!]
 <!>[‘Blade of Faith', is activated!]
 Tchiiing!
 A blue ether blade grew from the sword that touched the shield.
 Almost reflexively, I dropped my shield and stepped back.
-<!>[The mimicry form of 'Low Temperance Shield' has been destroyed!]
+<!>[The mimicry form of 'Old Iron Shield' has been destroyed!]
 Both sides almost flew away.
 As if he was already confident of winning, he let out a relaxed smile.
 "Did you not know how to use this?"
-Hongjun is a reward item that can be obtained at the National Altitude Area Museum. It was an item that could never be obtained in the current scenario.
+Yongjun is a reward item that can be obtained at the National Altitude Area Museum. It was an item that could never be obtained in the current scenario.
 Except in one way.
 "It seems that your sponsor spent quite a bit of coins."
 "My sponsor is a bit rich."
@@ -114,23 +115,23 @@ The last stock of white and blue steel was already bought by Killer King's young
 The enraged text writer screamed and swung his sword.
 <!>[Incarnation, ‘Yeom Ilwoo’, activates 'Wolyeong Sword Technique Lv.2'!]
 <!>[Incarnation, 'Yeom Ilwoo', activates 'Weapon Improvement Lv.2'!]
-<!>[Weapon improvement, Wolyeong sword technique, and Wolyeong river were all skills that could be acquired in the early stages.]
+[Weapon Improvement], [Wolyeong Sword Technique], and [Wolyeong River] were all skills that could be acquired in the early stages.
 <&>「But with that level of proficiency, it's worth fighting for.」
 Along with the dazzling light, the “Thoughts of Almost Everything” had turned into a bamboo pole.
 When “Blade of Faith” collided with the bamboo pole and went away with a metal sound, the script writer opened his eyes.
 Of course I knew that my weapon would be cut off. “Ether Blade” in the beginning is that powerful.
-But that's for a low-level item, and this is a holy relic.
+But that's for a low-level item, and this is a star relic.
 <!>[The constellation, 'Bald General of Justice', nods happily.]
 The man bit his lip hard and swung his sword right away.
 Kagagakak!
 The blade and the bamboo pole collided, making a sharp scraping sound.
 Contrary to the fact that he was quite talkative, his combat sense was not very good.
-Even though he has [Wolyeong river], [Wolyeong Sword Technique], and [Weapon Improvement], he doesn't have the slightest advantage over me.
+Even though he has [Wolyeong River], [Wolyeong Sword Technique], and [Weapon Improvement], he doesn't have the slightest advantage over me.
 <!>[The constellation 'Prisoner of the Golden Headband' admires the poor sword fighting.]
 It was natural.
 This guy must have been killing enemies in one blow with the one-tool “Blade of Faith.”
 <!>[The constellation, 'Abyssal Black Flame Dragon', advises that you should not pour in support from the beginning because of this.]
-<!>[The constellation, 'Mochi-eating Tiger', clicks his tongue and nods.]
+<!>[The constellation, 'Rice Cake-Eating Tiger', clicks his tongue and nods.]
 The durability of “Broken Faith” ran out before I knew it, and “Blade of Faith” was broken.
 I swung the bamboo stick at the guy's side without missing a chance. He narrowly escaped, but the hem of his coat was torn and flesh peeled off his side.
 <!>[The constellation, 'The King of Gambling', is disappointed with his incarnation!]
@@ -139,12 +140,12 @@ He hurriedly backed away, holding back a high-pitched scream.
 “What are you doing! Stop watching and help quickly!"
 Along with his cry, the ratman and lizardman that Jung Heewon was dealing with began to react abnormally.
 <!>[The constellation, 'Plague-Bringing Rat', increases the synchronization rate with its incarnation.]
-<!>[The constellation, 'Snake that cut off its Tail', increases the synchronization rate with its incarnation.]
+<!>[The constellation, 'Snake That Cut Off Its Tail', increases the synchronization rate with its incarnation.]
 Jung Heewon, who was gradually gaining an advantage with the combo of [Ghost Killing] and [Kendo], closed her eyes.
 Tsutsutsutsutsutsutsu!
 Blue sparks covered the alien species.
-The demonic energy of the alien races, which had been around the 9th level before, had risen to the level of a level 7 monster.
-<!>[Incarnation, 'Hamin', activates 'cursed dagger'!]
+The demonic energy of the alien species, which had been around the 9th level before, had risen to the level of a level 7 monster.
+<!>[Incarnation, 'Hamin', activates 'Cursed Dagger'!]
 <!>[Incarnation, 'Kim Jeonhwa', activates stigma' and accelerated attack'!]
 Dozens of daggers fell like a waterfall from the arms of the two aliens.
 Jung Heewon avoided the weapons with light movements.
@@ -152,7 +153,7 @@ But this time something was different.
 <!>[The special effect of 'Cursed Dagger' is activated!]
 I suddenly recalled the effects of [Cursed Dagger].
 "Heewon-ssi! Stop it this time!"
-The [Cursed Dagger] is a stigma that, if you miss 20 dagger hits, you can definitely hit the “next one.”
+The [Cursed Dagger] is a stigma that, if you miss 20 dagger hits, you can definitely be hit by the “next one.”
 A black dagger that followed Jung Heewon's movements finally reached her nose.
 Jung Heewon swung her sword and slashed it. With the sound of metal, the dagger's blade began to melt.
 "Aaaaaaa!"
@@ -163,11 +164,11 @@ I nodded in agreement.
 If this is the case, there is no chance of winning.
 Weapons are also weapons, but on the other side, two constellations clung to each other and divided their ranks.
 "Jaewoo-ssi, do you have any hidden skills?"
-Jung Jaewoo shook his head.]
-It must be difficult to trust the [Little Luck] this time as well. Because that's literally [a little bit of luck].
+Jung Jaewoo shook his head.
+It must be difficult to trust the [Little Luck] this time as well. Because that's literally 'a little bit of luck'.
 “Heewon-ssi.”
 Jung Heewon nodded.
-I gave Jung Heewon the bamboo pole of Ambassador Samyeong that I was holding and said, "Please lend me your ear for a moment."
+I gave Jung Heewon 'Samyeongdang's Bamboo Stick' that I was holding and said, "Please lend me your ear for a moment."
 I didn't want to use this skill on Jung Heewon. But now there was no other way.
 The text writer shouted as if he felt something strange.
 "Kill them! Quickly!"
@@ -193,8 +194,8 @@ As the dust slowly subsided, only one person's shadow stood there.
 I saw the corpses of the ratman and the lizardman torn apart.
 It was expected, but the result was more than expected.
 <!>[The constellation, 'Plague-Bringing Rat', vomits blood and exits the channel.]
-<!>[The constellation, 'Snake Cutting off its Tail', cuts its tail to avoid the probability aftermath!]
-<!>[The constellation 'Snake Cutting off its Tail', stares dumbfoundedly at 'Jung Heewon'.]
+<!>[The constellation, 'Snake That Cut Off Its Tail', cuts its tail to avoid the probability aftermath!]
+<!>[The constellation 'Snake That Cut Off Its Tail', stares dumbfoundedly at 'Jung Heewon'.]
 Realizing that the battle was unfavorable towards him, the script writer had already broken through the rain forest.
 He was just running away.
 Jung Heewon picked up one of the dead ratman's daggers and threw it at him.
@@ -204,10 +205,10 @@ The weapon flew like a bullet and grazed the guy's shoulder.
 He screamed and fled through the rain forest.
 I couldn't miss him like this.
 He is a man who does not hesitate to stab people. Here, he must definitely stop breathing.
-At that time, Jung Heewon fell forward. I could see the aura of judgment that had spread over her whole body fade rapidly fade.
+At that time, Jung Heewon fell forward. I could see the aura of judgment that had spread over her whole body fade rapidly.
 "Heewon-ssi!"
 <!>['Incite'’s effect has disappeared.]
-<!>['Judgment time' is canceled.]
+<!>['Judgment Time' is canceled.]
 I hurriedly supported Jung Heewon.
 There was no abnormality in her breathing or pulse. However, looking at the nosebleed, it seemed that the aftermath of [Incite] was strong.
 "I’ll finish him and come back!"
@@ -222,15 +223,15 @@ And... damn it.
 "Jaewoo-ssi!"
 Jung Jaewoo was lying between the trees.
 <!>[A constellation that has not yet revealed their modifier makes a sad face.]
-I breathed in lightly and approached Jeong Jaewoo.
-<&>「Jeong Jaewoo has a little bit of luck.」
+I breathed in lightly and approached Jung Jaewoo.
+<&>「Jung Jaewoo has a little bit of luck.」
 At least, he won't die of poison in a place like this. The wound must have avoided vital points.
 Jung Jaewoo let out a moan as if in pain.
 "Ugh."
-I laid Jung Hee-won on the floor and looked at Jung Jaewoo's wounds.
+I laid Jung Heewon on the floor and looked at Jung Jaewoo's wounds.
 “Hey, Inho-ssi."
 Jung Jaewoo was smiling.
-"I… I got… a… shot… at him… He… didn’t… get… far…"
+"I... I got... a... shot... at him... He... didn’t... get... far..."
 "Don't talk."
 A dagger was stuck near Jung Jaewoo's heart. Upon checking his wounds, the poison had already spread from his chest, melting his skin and intestines.
 The blood that fell on the ground soaked the floor.
@@ -239,7 +240,7 @@ Why are you hurt so badly?
 Jung Jaewoo must have had [Little Luck]?
 Belatedly, it came to my mind that the script writer was the incarnation of the “King of Gambling.”
 If the two people's luck collided with each other, the effect of the attribute was offset.
-"Omg…"
+"Omg..."
 Medicines that could cure this wound came to mind.
 Elaine Forest Essence?
 Too late to use.
@@ -287,6 +288,6 @@ Tsutsutsutsutsu.
 Sparks flew in the air, and for an instant the outline of the soul thickened.
 There was a terrible scream.
 A hand snatched his soul in an instant. It disappeared through the torn space and I watched the scene in a daze.
-My thoughts didn't flow as if my head was out of order. I didn't quite understand what it was. I didn't quite understand what it was. The only thing I managed to get out of my messed up brain was a single sentence.
+My thoughts didn't flow as if my head was out of order. I didn't quite understand what it was. The only thing I managed to get out of my messed up brain was a single sentence.
 If I'm not mistaken, Jung Jaewoo's soul that disappeared must be—
 <&>「He was in the form of a kkoma Kim Dokja.」
