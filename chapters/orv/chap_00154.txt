@@ -14,7 +14,7 @@ In fact, I didn't feel it was real either. Borrowing stories, trading with other
 <!>[Some constellations oppose you having a modifier.]
 <!>[Some constellations show hostility towards you.]
 In any case, the constellations also felt the ugliness of jealousy. Why were they so harsh towards a growing bud? Still, there was something I could do now.
-<@>[You stare at the other constellations.]
+<@>[You are glaring at the other constellations.]
 <!>[Some constellations are staring at you with amazement!]
 <!>[Some constellations have spat out the coke they are drinking with surprise!]
 <!>[200 coins have been consumed to send an indirect message.]
