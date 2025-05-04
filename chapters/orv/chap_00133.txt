@@ -71,11 +71,13 @@ Then the scenario message was heard.
 Finally, the main scenario rewards had arrived.
 <!>[Do you want to check the compensation history?]
 I nodded.
-<!>[Rewards List]
++
+[Rewards List]
 1. Moon Wave Folded Fan (SSS-grade)
 2. Blue Dragon Sword (SSS-grade)
 3. Magic King's Bracelet (SS-grade)
 4. A choice of one of the following A-grade skills.
++
 There were a total of four rewards. The compensation list was considerable because the scenario was very difficult.
 The items such as Moon Wave Folded Fan and Blue Dragon Sword would show strength comparable to star relics after they were gradually enhanced. There would be no damages. In addition, there was the Magic King's Bracelet. This was a good item to defend against beginner and intermediate spells from magic-based returnees.
 However, I had obtained the Grass-Cutting Sword and the first two items weren't very advantageous. The Magic King's Bracelet was intriguing but the value was reduced unless I met a returnee. Thus, the answer was fixed from the beginning.

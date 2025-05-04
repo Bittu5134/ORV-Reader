@@ -39,11 +39,11 @@ Was it to play and drink? Ah, then perhaps?
 ***
 
 "It looks like you are very fond of drinking."
-"Well… it has been hard to see then these days."
+"Well... it's been hard to come across it these days."
 I brought out a lot of distilled spirits that remained in the warehouse with Gillemium's help. Peace Land's drinks had very low alcohol content so I needed a lot to make the drink I wanted.
 <!>[The constellation 'Snake Cutter' is interested in your brewing.]
 I poured alcohol into a bucket the size of a human, threw in all the ingredients I had and started to stir.
-<@>[Eighth Head of the Sovereign of Eight Heads.]
+<!>[Eighth Head of the Sovereign of Eight Heads.]
 <!>[Seventh Tail of the Sovereign of Eight Heads.]
 These were items that came out when defeating Yamata no Orochi. They were fragments rather than proper body parts because the true body hadn't appeared. Still, they contained part of the constellation's power.
 It was only Yoo Joonghyuk who realized what I was going to do. "You know this hidden piece."

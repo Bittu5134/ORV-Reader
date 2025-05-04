@@ -10,7 +10,7 @@ Fortunately, Yoo Joonghyuk was calm. He might have a violent temper but this guy
 Yoo Joonghyuk flinched at my words.
 –…I don't know how you know such things.
 In fact, declaring a 'nebula' with me wasn't bad for Yoo Joonghyuk. In the progression of the original novel, Yoo Joonghyuk didn't inherit any stories here. It was due to the constraints on Yoo Joonghyuk.
-<@>[The regression constraints.]
+<!>[The regression constraints.]
 He could turn back the clock after dying but he couldn't inherit the stories of other constellations.
 <@>[Incarnation Yoo Joonghyuk. Is Incarnation Kim Dokja correct? Are the two of you making a nebula?]
 The dokkaebi host watching the situation stepped in. Everyone looked at Yoo Joonghyuk while I nervously waited for his answer.
@@ -34,10 +34,12 @@ Along with these words, the stories I've made were projected onto the ceiling sc
 <!>[King of a Kingless World]
 The first scene that appeared was when I destroyed the Absolute Throne by borrowing the power of the Four Yin Demonic Beheading Sword. Strictly speaking, my narrative started from there. Fragments of the throne appeared on the screen.
 Some constellations nodded like they were convinced and some constellations looked at each other with astonishment.
-<!>[He broke the throne of divinity!]
+<@>[He broke the throne of divinity!]
 <@>[…Did he really open with that story?]
 There were probably some attendees who didn't know my information. I thought I was quite famous but I was still lacking. I suddenly looked around and saw the Russian child staring at me with blank eyes.
-<@>[Person who Opposes the Miracle.]
++
+[Person who Opposes the Miracle.]
++
 The second story was when I took down the returnee Myung Ilsang who was a disaster.
 <!>[Some constellations are favourable towards you.]
 Since the returnees were disliked by constellations then this was a suitable story to acquire the liking of the constellations. At this time, curious expressions appeared on the faces of the constellations.
@@ -47,17 +49,20 @@ The dokkaebi Paul screamed and the embarrassed dokkaebi host quickly fast-forwar
 <@>[Hey, what is that?]
 <@>[T-That. Haha, it seems to be the wrong data.]
 However, unlike the dokkaebi's words, a story name appeared on the screen.
-<@>[One Who Showed Contempt for a Streamer]
++
+[One Who Showed Contempt for a Streamer]
++
 Laughter was heard from the landing of the stairs. It was Goryeo's First Sword who was laughing.
 <@>[This is crazy! Hahahaha!]
 Then the fourth story appeared.
 <!>[One Who Hunted the King of Disasters]
 It was when I hunted the shadow of the constellation Yamata no Orochi in Peace Land. The constellations' mouths dropped open when they saw Orochi killed with my Electrification.
-<!>[The shadow of a narrative-grade constellation…]
-<!>[He has already accumulated four legendary stories?]
-Confusion spread among the constellations. The screen turned off and the dokkaebi continued speaking. [In any case, Incarnation Kim Dokja is now at the facing the throne of a constellation. If he gains his fifth story through this occasion…]
+<@>[The shadow of a narrative-grade constellation…]
+<@>[He has already accumulated four legendary stories?]
+Confusion spread among the constellations. The screen turned off and the dokkaebi continued speaking. 
+<@>[In any case, Incarnation Kim Dokja is now facing the throne of a constellation. If he gains his fifth story through this occasion…]
 Those who knew I was aiming to be a constellation weren't confused but the other constellations were startled.
-<!>[Becoming a constellation before the 10th scenario is over?]
+<@>[Becoming a constellation before the 10th scenario is over?]
 <@>[He is a new constellation…]
 I suddenly received a lot of heated gazes. Certainly, this was a formidable event even in Ways of Survival. There were only a few constellations or returnees who had gained the recognition of the Star Stream before the 10th scenario.
 In the midst of the increasingly confused atmosphere, it was Manu of Vedas who opened his mouth.
@@ -66,9 +71,10 @@ The constellations focused on Manu's voice.
 <@>[One, we don't know if Incarnation Kim Dokja has sufficient payment ability. Isn't it necessary to have the minimum of funds before establishing a nebula?]
 "The coins are sufficient."
 Turmoil occurred again at my words.
-Manu stared at me with suspicious eyes. [We will know once it is checked. The second problem is who will 'support' your nebula.]
+Manu stared at me with suspicious eyes.
+<@>[We will know once it is checked. The second problem is who will 'support' your nebula.]
 I gulped. It was finally the real challenge.
-<!>[The establishment of a nebula needs to be supported by at least five constellations. Do you have the support of any constellation?]
+<@>[The establishment of a nebula needs to be supported by at least five constellations. Do you have the support of any constellation?]
 "That…"
 I couldn't easily answer and Manu laughed.
 <@>[No, is there even a name for the nebula in the first place?]
@@ -79,17 +85,21 @@ No one responded to Yoo Joonghyuk's words. Manu laughed.
 <@>[I knew it. It is a waste of time. Dokkaebi. Continue with the Story Succession…]
 At this time, someone raised their hand.
 <!>[The Olympus 'Underworld' will support your nebula.]
-<@>[Queen! The angry Manu growled at Persephone.]
-Persephone's aura rose sharply. [It is my decision. Are there any complaints?]
+<@>[Queen!]
+The angry Manu growled at Persephone.
+Persephone's aura rose sharply.
+<@>[It is my decision. Are there any complaints?]
 <@>[Urgh…]
 No matter the strength of Vedas, the constellation Manu couldn't stand alone against Persephone, Queen of the Underworld. In the end, he turned towards the other constellations.
 <@>[Surely there won't be anyone else?]
-<!>[I will support it.]
+<@>[I will support it.]
 The voice came from the second floor and the constellations were once again amazed. It was the Great Sage, Heaven's Equal.
 <@>[P-Prisoner of the Golden Headband?]
 <@>[Really? Are you serious?]
 I looked towards him in gratitude. The Great Sage, Heaven's Equal was picking at his ears while looking down here like it was troublesome.
-<@>[Eh I don't know… sorry! I also support it! Uriel of Eden declared her support. I will also give you the name for your nebula! The nebula name is Forbidden… mmph mprh!]
+<@>[Eh I don't know… sorry! I also support it!]
+Uriel of Eden declared her support.
+<@>[I will also give you the name for your nebula! The nebula name is Forbidden… mmph mprh!]
 The ninth rank angels around her were flabbergasted and covered her mouth. No matter her intentions, I was thankful. Now the rest of the constellations glanced at each other.
 The three constellations who declared their support were powerful enough not to worry about others. The rest were different. It was unusual for historical-grade and narrative-grade constellations to challenge Manu just to help establish a new nebula.
 I looked to the side and saw that Yoo Joonghyuk had half given up. He messaged me:
@@ -117,7 +127,7 @@ Even the constellations became nervous. The sky was greatly distorted and powerf
 The strange hole, which only appeared when a scenario was activated, suddenly appeared above the banquet hall. The startled Manu shouted,
 <@>[The gods of the other world! How dare you come here?]
 The constellations roared and raised their own aura. Then a terrible voice came from the hole in the sky.
-(Why… Weren't we invited?)
+<#>【Why… Weren't we invited?】
 Persephone and Uriel instantly blocked Yoo Joonghyuk's and my ears. It was to prevent the foreign true voice from intruding. They stood in front of us, lowering the pressure from the hall.
 <@>[I'm sorry but the party is over. It's time to go back.]
 <@>[Then I'll see you next time!]
@@ -131,17 +141,17 @@ Then darkness covered my eyes.
 
 ***
 
-<@>[ Who are you? ]
-<@>[ Not recorded in the vehicle. ]
-<@>[ Don't tell me… ]
+<#>【Who are you?】
+<#>【Not recorded in the vehicle.】
+<#>【Don't tell me…】
 .
 .
 .
-<@>[■■■■…]
+<#>【■■■■…】
 .
 .
 .
-<@>[ The 'last story' is finally about to start… ]
+<#>【The 'last story' is finally about to start… 】
 
 ***
 

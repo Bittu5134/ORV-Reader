@@ -52,7 +52,6 @@ There was such provocation in this world. I was hooked despite knowing it was a 
 <!>[The exclusive skill, 'Fourth Wall' is steadily shaking.]
 "Hahaha! You are caught!"
 <img>[145 - Hahaha! You are caught!.jpg][]
-*
 <?>* Unofficial fan illustration (non-canonical)
 My vision shook and the world became black.
 <!>[The character 'Nirvana Moebius' has used 108 Worries Lv. 2!]
@@ -71,7 +70,7 @@ It looked like he was concentrating all the reincarnations he had experienced.
 <@>[I am Nirvana Moebius.]
 This was Nirvana 'himself'.
 <@>[A reincarnator who leads the unfortunate people to Nirvana.]
-He looked confident but Nirvana didn't know. I deliberately let myself by hit by his 108 Worries. I smiled and opened my mouth. "Nirvana, do you know the principle of reincarnation?"
+He looked confident, but Nirvana didn't know. I deliberately let myself get hit by his 108 Worries. I smiled and opened my mouth. "Nirvana, do you know the principle of reincarnation?"
 The space trembled ominously. I kept speaking.
 "Your soul is bound to the mandala's guardian. Once you die, you don't go to the Underworld. According to the unique laws of the constellations, your soul is nestled in a body that was just born."
 <@>[…What are you talking about?]
@@ -136,7 +135,8 @@ My vision started to return to its original state. The wall, Nirvana, Yoo Joongh
 …
 I blinked and found I was back at the Gwanghwamun stadium. Nirvana was scattering in front of my eyes. After a long time wandering, he finally found rest.
 The area was silent, as if cold water had been poured on it. I slowly moved Yoo Joonghyuk's feet.
-The dokkaebi started talking. [This… It is already the end of the scenario. Shall I now announce who the strongest incarnation is?]
+The dokkaebi started talking.
+<@>[This… It is already the end of the scenario. Shall I now announce who the strongest incarnation is?]
 I found it hard to move due to fatigue. The voice of the dokkaebi was heard above my head.
 <!>[The strongest incarnation, he is…]
 At this moment, my consciousness blurred and I couldn't hear the voice anymore.

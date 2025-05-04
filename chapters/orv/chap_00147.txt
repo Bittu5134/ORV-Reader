@@ -35,7 +35,7 @@ A shirt and suit covered the soul body that didn't have any genitalia. The textu
 The constellation banquet.
 Along with Sponsor Selection, it was an event arranged for the constellations of the Star Stream. I was invited to a banquet where only constellations were invited, despite not yet being a constellation.
 I looked at the time remaining until I was resurrected.
-<@>[Time remaining: 23:54:12]
+<!>[Time remaining: 23:54:12]
 23 hours. It was enough time for a short visit. It was a bit fast but the place I had to go was obvious.
 "Okay, let's go."
 It was finally time to visit the constellations.
@@ -84,7 +84,8 @@ The carriage set off as soon as I sat down. I didn't know why Dionysus was drivi
 We awkwardly greeted each other and sat in a corner of the carriage. Unlike his usual playfulness, Dionysus didn't say much.
 Did he have a shy personality? It was unexpected. Well, not all stories were true.
 The wine in the glass shook in a worrisome manner every time the carriage jolted. Would it fly in my direction? The liquid seemed to be a symbol of something and I wondered what it represented for Dionysus.
-After a while of idle thoughts, Dionysus said, [Ah, I'm sorry. I was chatting with a goddess I know for a second.]
+After a while of idle thoughts, Dionysus said, 
+<@>[Ah, I'm sorry. I was chatting with a goddess I know for a second.]
 "…It seems you are very busy?"
 <@>[It isn't like that. I should proactively manage the girls these days.]
 I didn't know if it was a joke or not.
@@ -94,7 +95,7 @@ I didn't know if it was a joke or not.
 "Yes, thank you for that."
 <@>[What thanks? What did you do in the Underworld?]
 "Huh?"
-<@>[I have never seen the queen act so kindly. Trying to protect one incarnation from the nebulae… huh? Perhaps? What that it? You told that old lady…]
+<@>[I have never seen the queen act so kindly. Trying to protect one incarnation from the nebulae… huh? Perhaps? What was that? You told that old lady…]
 His voice was somewhat envious. Dionysus didn't seem to know that I completed Persephone's task.
 "Nothing happened."
 <@>[Hey hey, don't be shy. Isn't that auntie sexy? If I wasn't a gentleman on the outside…]
@@ -143,7 +144,8 @@ I looked out the curtain and saw creatures with terrifying presences flying all 
 Here? Wasn't it air?
 <@>[I will stop them. Go quickly! If you enter the banquet hall, no nebulae can touch you!]
 The curtains opened at his words. I looked at the clouds below and gulped. I was a soul. This meant I wouldn't die if I fell.
-Then Dionysus' voice was heard behind me. [Keep this in mind. Don't trust anyone.]
+Then Dionysus' voice was heard behind me.
+<@>[Keep this in mind. Don't trust anyone.]
 I leapt out of the carriage as Dionysus laughed.
 <!>[See you again, Incarnation Kim Dokja.]
 I jumped off the carriage onto the road. There was a loud noise behind me and then a brutal oppression pushed on my body. It was a tremendous force I had never felt before. At least part of the true essence had descended.

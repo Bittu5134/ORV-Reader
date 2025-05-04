@@ -4,12 +4,12 @@ At the beginning of the Story Succession, six small rooms were created at the en
 The system of the Story Succession was simple. The incarnations would communicate with the constellations through the Room of Secrets and hear all their conditions. Later, they would go up on the stage and announce the story they would receive.
 There was a nameplate that said 'Incarnation Kim Dokja'. I said towards Yoo Joonghyuk, "I'll see you later."
 Yoo Joonghyuk didn't respond and disappeared into his room. I entered the room and sat at a table, while the sounds from outside were completely cut off. It felt like the space was distorted.
-<@>[The Room of Secrets.]
+<!>[The Room of Secrets.]
 It was one of the most confidential places in the Star Stream. The things that happened here couldn't be seen by even the dokkaebis of the channel.
 <!>[You have become the master of the Room of Secrets for one hour.]
 <!>[You have been given the administrative rights of the Room of Secrets.]
 <!>[The maximum time you can use the Room of Secrets is one hour.]
-<@>[Please make contact with as many constellations as possible in this time.]
+<!>[Please make contact with as many constellations as possible in this time.]
 I looked at the door with anticipation. Okay, who would be the first guest? Someone came through the door at this time. It was a floating yellow book with sacred scripture.
 <!>[Incarnation Kim Dokja. Select the Feast of Resurrection.]
 …The first better was Indian mythology.
@@ -23,6 +23,7 @@ The negotiator from Vedas was the constellation 'Manu', who had the modifier of 
 "…The Master of December 25th didn't come directly?"
 <@>[Do you think he is that free? Answer simply. Will you accept the Feast of Resurrection?]
 He was coming out with this attitude? In addition, the person in charge of the story, Mithra¹ didn't come.
+<?>[1] Mithra, or Mitra, is an ancient Indo-Iranian deity associated with contracts, covenants, oaths, and the sun. He is also a judicial figure, a protector of truth (Asha), and the guardian of cattle, the harvest, and the waters. Mithra's worship spread from India to Persia and then to the Hellenic world and the Roman Empire
 <@>[If you have ears, you will know that Vedas is one of the biggest nebula. A myriad of myths are born in Vedas and many nebulae plagiarize our myths. Especially those Eden guys…]
 "Those personal issues don't concern me. More importantly, if I accept the Feast of Resurrection, what can Vedas give me?"
 <!>[The protection of the sun god will be with you.]
@@ -58,7 +59,7 @@ In other words, King Oedipus visited me for a reason that was completely differe
 I was shocked. Carnival of Lightning was the story of Zeus, one of the three leaders. Oedipus saw my expression and smiled strangely.
 <@>[It looks like you also know this story. Yes, you are right. The story we are suggesting is different from the resurrection stories of other nebulae.]
 "…Why are you offering me this?"
-<!>[It is because the three goddesses of fate have caught a glimpse of your fate.]
+<@>[It is because the three goddesses of fate have caught a glimpse of your fate.]
 …My fate.
 <@>[Sooner or later, you will be eligible to inherit the Carnival of Lightning. Of course, you could inherit my story and take the 'Blind Prophet' but… you are already rumoured to be a prophet and won't inherit my story.]
 "Wait a minute. What do you mean? Why is my fate…"
@@ -76,7 +77,6 @@ My heart thumped after I heard the voice.
 <@>[I wanted to see you! Kim Dokja.]
 Uriel pulled me into a surprise embrace. Our arms touched and I could feel her skin through the thin silk she was wearing. A demon… this was a demon's touch. It was an open back dress, meaning there was nowhere to place my hands. Uriel rubbed my face like I was a lovely doll and I sighed.
 <img>[150 - Uriel pulled me into a surprise embrace.jpg][]
-*
 <?>* Official novel illustration (canonical)
 "I also… wanted to see you."
 <@>[Yes yes!]
@@ -86,7 +86,8 @@ It was a bit embarrassing but I was glad to meet her. Uriel was a constellation 
 Uriel raised her head with surprise. It was an expression that showed she didn't remember why she came here. It seemed she was quite pleased to meet me.
 <@>[It must be because you are too handsome.]
 "Your words are convincing."
-Uriel smiled and said. [Kim Dokja, will you accept Eden's story?]
+Uriel smiled and said.
+<@>[Kim Dokja, will you accept Eden's story?]
 "That… I need to think a bit."
 <@>[Why? Our story is the best! It isn't comparable to other places!]
 This was certainly true. The Messiah's Path was the best story in the resurrection system. There was one problem.
