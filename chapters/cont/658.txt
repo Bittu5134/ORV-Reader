@@ -146,7 +146,7 @@ However.
 The answer came back.
 <&>「"Why did a meteorite fly to your family that day? It had to be you and not someone else. Are you really curious?"」
 <&>「"Is there really a reason for my unhappiness?"」
-<&>「"If you bring the Sword of Death', I will tell you all the reasons."」
+<&>「"If you bring the 'Sword of Death', I will tell you all the reasons."」
 Representative Kim Dokja provided some equipment and skills, and even gave him the coordinates of the 'death sword'.
 <&>「"Why are you helping me?"」
 <&>「"Because there is someone who comes to mind when I see you."」
