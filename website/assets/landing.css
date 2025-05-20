@@ -6,6 +6,7 @@ html {
     background-color: rgb(24, 24, 24);
 }
 
+
 @media screen and (max-width: 800px) {
     html {
         background-image: url("./background-stars-mobile.jpg");
