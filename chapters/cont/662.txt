@@ -86,7 +86,7 @@ In other words, they had to see the outcome before the next 'Annihilation' began
 "Is it still possible to sponsor relics?"
 <!>[The constellation 'Commander of the Red Cosmos' replies that your rank is not yet sufficient.]
 "In that case, I would like to receive divine protection and support."
-<!>[The constellation 'Commander of the Bright Cosmos' demands payment.]
+<!>[The constellation 'Commander of the Red Cosmos' demands payment.]
 "I will hand over half of the shares of 'King’s Tale' that I will acquire for the first time to <Eden>."
 <!>[Constellation 'The Commander of the Red Cosmos' accepts.]
 <!>[The constellation 'Commander of the Red Cosmos' grants 'Valkyrie’s Protection'.]
