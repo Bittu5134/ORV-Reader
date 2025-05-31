@@ -30,7 +30,7 @@ Learn more about the authors **Sing Shong** and the illustrator, **BlackBox**:
 
 ## Features
 
-* **Custom Themes**: There are currently 13 different themes to fit everyone's aethetics, including:
+* **Custom Themes**: There are currently 13 different themes to fit everyone's aesthetics, including:
    * 🌟 Constellation dialogues
    * 👾 Outer God dialogues
    * 💬 System messages
@@ -38,7 +38,7 @@ Learn more about the authors **Sing Shong** and the illustrator, **BlackBox**:
    * ➕ And much more!
 * **High-Quality Illustrations**: Hundreds of illustrations made by **BlackBox**-nim have been added to the site.
 * **Reader Settings**: Customize your reading experience with adjustable font size, line height, and more.
-* **Automatic Updates**: New side stories are automatically added everyday to the site (kinda?)
+* **Automatic Updates**: New side stories are automatically added every day to the site (kinda?)
 * **Good Translations**: The website is built with the latest fan translations and can be edited by the community. That includes you, too!
 * **Privacy**: The website does NOT have any kind of trackers and/or ads. Nobody likes those kinds of things.
 
