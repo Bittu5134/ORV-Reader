@@ -3,7 +3,7 @@
 <!>[You have won the demon king promotion!]
 <!>[Your Demon Realm ranking is adjusted!]
 <!>[You have become the 72nd Demon King!]
-I passed by Cho Jinchul's ashes and looked around. They were two demon kings who hadn't yet come to their senses. Indeed, it was natural to be surprised. It was because the lowest ranked 72nd demon king was finished in one blow. Even so, this was reality.
+I passed by Cho Jinchul's ashes and looked around. There were two demon kings who hadn't yet come to their senses. Indeed, it was natural to be surprised. It was because the lowest ranked 72nd demon king was finished in one blow. Even so, this was reality.
 <!>[Several demon kings are amazed by your power.]
 <!>[The demon king 'Devil of Comfort and Savagery' is spitting at your status.]
 <!>[The demon king 'Darkness of No Value' is threatened by your status.]
@@ -42,10 +42,11 @@ The thickness of the story was different. However, there were no special feeling
 The story that I felt from Amdusias was very dark and worn out.
 <!>[The story 'Hell Performer' is yawning while looking at you.]
 It was a boring and long story that no longer made me curious about the backstory. This was the story that formed the backbone of Amdusias, Performer of Musical Instruments.
-Amdusias asked, [What are you seeing?]
+Amdusias asked, 
+<@>[What are you seeing?]
 I said it earlier but the stories I accumulated were more intense than theirs. In fact, these words were wrong. There were fierce moments in any story but the comparison of intensity was meaningless in the first place. In this damn Star Stream, the only thing that won was time.
 <@>[…I just want to be able to fight.]
-After hundreds of years, some constellations were dulled by the stimulation of the scenario. Rather than look for and explore new stories, they entrusted themselves to the flow of the stories they had already acquired. Stop thinking about it.
+After hundreds of years, some constellations were dulled by the stimulation of the scenario. Rather than look for and explore new stories, they entrusted themselves to the flow of the stories they had already acquired and stopped thinking about it.
 <!>[The story 'Hell Performer' is moving according to the will of demon king 'Amdusias.]
 Those who were masters of the stories were eventually dominated by their stories.
 <@>[A person who hasn't lived for 100 years is mocking me?]
@@ -60,7 +61,7 @@ My sides and shoulders were wounded by the powerful sound waves but I didn't car
 <&>「 Therefore, the man who swallowed God made his own flame. 」
 The flames of the torch rose from Unbroken Faith.
 <!>[Giant Story 'Torch That Swallowed the Myth' is letting out a wild roar.]
-<!>[The great story 'Torch That Swallowed the Myth' is exercising control over other stories!]
+<!>[The Giant Story 'Torch That Swallowed the Myth' is exercising control over other stories!]
 The stories I had were gathered around the torch.
 <!>[The story 'King of a Kingless World' is agitated.]
 <!>[The story 'Person who Opposes the Miracle' is afraid of the giant story.]
@@ -68,7 +69,7 @@ The stories I had were gathered around the torch.
 White flames illuminated all of Seoul. Sparks of probability penetrated my body as the berserk story stretched out from my sword.
 The flames of the torch raced through the darkness like turbulent waves and swept away Amdusias' incarnation. The power was so strong that my hand holding the sword trembled.
 <!>[Giant Story 'Torch That Swallowed the Myth' is disappointed by your 'status'.]
-<!>[Giant Story 'Torch That Swallowed the Myth' wants a fiercer sprint!]
+<!>[Giant Story 'Torch That Swallowed the Myth' wants a fiercer spirit!]
 <!>[Giant Story 'Torch That Swallowed the Myth' has complaints about you.]
 <!>[Giant Story 'Demon Realm's Spring' is displeased with 'Torch That Swallowed the Myth'.]
 The giant stories were inherently different from other stories. The strong stories chose their master and had enormous influence, eventually becoming the master itself. In particular, the Torch That Swallowed the Myth was particularly belligerent. If I showed even the slightest gap, this story wouldn't hesitate to eat me with its own flames.
@@ -93,7 +94,8 @@ The indirect messages poured out.
 <!>[The constellation 'Mass Production Maker' is nodding in a warm manner.]
 <!>[Several demon kings are offering you goodwill.]
 Between the pouring messages, I could feel the eyes of the crowd from below the wall. The survivors who lived through Amdusias' attack were watching me. They didn't even know they had been used.
-I opened my mouth towards them. [Everyone, it is nice to see you for the first time. I am the Demon King of Salvation.]
+I opened my mouth towards them. 
+<@>[Everyone, it is nice to see you for the first time. I am the Demon King of Salvation.]
 The wings of a demon king spread out behind me while horns rose from my head. The surprised people screamed and stepped back. I took one step closer to them.
 <@>[Open the walls.]
 There was a loud sound as the Factory forcibly opened its walls. The barriers they had been trying to cross opened so easily that the people seemed perplexed.
@@ -101,7 +103,8 @@ There was a loud sound as the Factory forcibly opened its walls. The barriers th
 <@>[Didn't you want to come in? Please enter at any time.]
 "Is he trying to kill us?"
 "He'll kill us! I'm sure he'll kill us!"
-Some horror-filled incarnations started pissing themselves at my true voice. I stared at them and spoke in a resolute voice. [I am a demon king but I have never once persecuted incarnations for unreasonable reasons.Kim Dokja's Company has never monopolized Seoul.]
+Some horror-filled incarnations started pissing themselves at my true voice. I stared at them and spoke in a resolute voice. 
+<@>[I am a demon king but I have never once persecuted incarnations for unreasonable reasons.Kim Dokja's Company has never monopolized Seoul.]
 In fact, the door of the Factory was always open. It was the citizens who first distanced themselves and gazed at us with fear.
 <@>[The Factory will accept you. I won't spare you support as you go up through the scenarios one by one. I will help you build your story as much as you can.]
 The eyes of the people became cloudy at the words that came out of my mouth. Some made disbelieving expressions while others opposed it.
@@ -112,7 +115,8 @@ I understood their feelings. Some gaps are awe-inspiring while others created de
 The constellations of the sky were looking down at me. The beings had been far away even from the first scenario.
 <@>[I was an incarnation that lagged behind thousands of years compared to those constellations. Yet I came all this way.]
 Those beings were now in reach if I stretched out my hands.
-I looked at the people with my horns and wings. [Look at my appearance. Do I look special?]
+I looked at the people with my horns and wings. 
+<@>Look at my appearance. Do I look special?]
 The people were looking up at me with bemused eyes. It was as if they were looking for something inherently special in my appearance. Someone muttered, "…Can we become that?"
 <@>[You never know what will happen before any scenario ends. Don't give up until the end.]
 I turned around and spoke final words.
@@ -133,14 +137,15 @@ It was a familiar true voice. I stared at him with wide open eyes.
 <@>[Asmodeus.]
 <@>[It's been a while, Kim Dokja.]
 <@>[Did you come to give up your ranking?]
-<@>[I came here to share a deeper friendship. Aren't we colleague who share a giant story?]
+<@>[I came here to share a deeper friendship. Aren't we colleagues who share a giant story?]
 The words weren't completely wrong. In fact, a minority share of the Demon Realm's Spring belonged to him.
 <@>[Are you already aware of why I'm here?]
 Of course, I knew. Asmodeus had probably come here with the same purpose as the other demon kings.
 <@>[Do I have to attend?]
 <@>[It is a foolish question. This close to the apocalypse, you should know the answer.]
 I was silent as I stared in Asmodeus' serene eyes.
-Asmodeus said, [The 'Duet Between Good and Evil' will soon begin. Now it is time for you to choose a side.]
+Asmodeus said, 
+<@>[The 'Duet Between Good and Evil' will soon begin. Now it is time for you to choose a side.]
 The gaze towards me was inquiring.
 Was I 'good'? Or was I 'evil'?
 It wasn't only Asmodeus. The stars of the night sky split around me in unison. One side was a bright light while the other side was a dazzling light.
