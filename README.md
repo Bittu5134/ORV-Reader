@@ -40,7 +40,7 @@ Learn more about the authors **Sing Shong** and the **Illustrator**.
 * **High-Quality Illustrations**: Hundreds or Illustrations made by Blackbox-nim have been added to the site.
 * **Reader Settings**: Customize your reading experience with adjustable font size, line height, and more.
 * **Automatic Updates**: New Side Stories are automatically added everyday to the site (kinda?)
-* **Good Translations**: The website is build with the latest Fan-Translations and can be edited by the community, That includes you too!.
+* **Good Translations**: The website is built with the latest Fan-Translations and can be edited by the community, That includes you too!.
 * **Privacy**: The website does NOT have any kind of Trackers and/or ADs, Nobody likes those kind of stufff.
 
 ---
