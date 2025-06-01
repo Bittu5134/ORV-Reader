@@ -10,7 +10,8 @@ Han Sooyoung, Yoo Joonghyuk and I were different. However, if we agreed on one t
 <!>[The constellation 'Secretive Plotter' is interested in your choice.]
 <!>[The constellation 'Abyssal Black Flame Dragon' is interested in Incarnation 'Kim Namwoon'.]
 I didn't see Uriel's message so she must be busy teaching Jung Heewon. If she knew I was here then Jung Heewon would be furious again. I was glad she was left in Eden.
-Kim Namwoon opened his mouth. [I don't want to. Why should I help you?]
+Kim Namwoon opened his mouth.
+<@>[I don't want to. Why should I help you?]
 I thought he would say this. "You don't have to if you don't want. Let's go, Yoo Joonghyuk."
 I approached the cerberus with Yoo Joonghyuk.
 <@>[What? Where are you going?]
@@ -21,7 +22,8 @@ As if to prove it, the half-dozing cerberus raised its head and bared its teeth 
 "There is no time to waste here."
 The cerberus was hit by the blow and collapsed on the ground with its tongue lolling out. The prisoners were surprised by the violence and alarms rang out everywhere. Normally the judges would run over but there was a tacit agreement with Hades. We would be safe for the time being.
 We walked past the collapsed cerberus and down towards the second underground floor.
-<@>[Crazy… crazy guy! Kim Namwoon's baffled voice was heard.]
+<@>[Crazy… crazy guy!]
+Kim Namwoon's baffled voice was heard.
 Yoo Joonghyuk glanced at me.
 –…Are you just leaving? The giant soldier is useful.
 –Just watch.
@@ -34,14 +36,16 @@ The smiling mouth couldn't hide his feelings.
 <@>[By the way, what are you going to do? Where are you going? Huh?]
 "I'm going to meet the giants."
 <@>[What?]
-Kim Namwoon made a blank expression for a moment before shouting, [Kuhat… uhahaha! Hey, subway grasshopper! I saw it at the time but you are really crazy. Do you know what the giants are?]
+Kim Namwoon made a blank expression for a moment before shouting, 
+<@>[Kuhat… uhahaha! Hey, subway grasshopper! I saw it at the time but you are really crazy. Don't you know what the giants are?]
 Of course, I knew.
 <@>[Once you meet those ■■, a hole will be punched through your ■■ in a moment…]
 <!>[The prisoner filtering is activated!]
 <!>[The contents have been filtered to ensure the correct language usage in Tartarus.]
 <!>[Prisoner 'Kim Namwoon' has received one penalty point.]
 <@>[This sh■!]
-<!>[Prisoner 'Kim Namwoon' has received two penalty points. Even if I didn't hear Kim Namwoon's curses, I knew what the giants were.]
+<!>[Prisoner 'Kim Namwoon' has received two penalty points.]
+Even if I didn't hear Kim Namwoon's curses, I knew what the giants were.
 The giants. A race that dominated in the early days of Olympus. There was a dizzying roar and I involuntarily stopped. Down in the distance, the giants had already noticed our existence and were reacting. It was only some of the 'status' but it was enough to cause goosebumps.
 <@>[Crazy. This is crazy…]
 I ignored Kim Namwoon's words and called out to Biyoo. Then Biyoo popped out from my chest.
@@ -64,8 +68,7 @@ Yoo Joonghyuk's gaze towards Kim Namwoon was complicated. Yoo Joonghyuk already 
 "Yoo Joonghyuk. Don't waste power here. Don't you know?"
 Kim Namwoon smacked his lips when he saw Yoo Joonghyuk raising his sword. He looked like a child as he breathed with excitement. A child who hadn't received attention for a long time and was alone.
 In response to my question about why she used Kim Namwoon, Han Sooyoung of the 1863rd round replied:
-–No one is born a bad person from the beginning. It is all set up by the writer. The writer gave the
-narrative to be a bad person. I didn't like this.
+–No one is born a bad person from the beginning. It is all set up by the writer. The writer gave the narrative to be a bad person. I didn't like this.
 I also agreed with Han Sooyoung's words to some extent. However, Kim Namwoon of this world pressed the wrong button first. He instigated the worst crime by inciting the people on the subway.
 <@>[My heart is pounding. It is the first time I've felt like this since my father and mother abandoned me.]
 "What do you feel?"
@@ -87,19 +90,20 @@ Yoo Joonghyuk gazed at me quietly before speaking in a low voice. "It's nothing.
 What was with this bastard? Suddenly speaking out of the blue. I immediately used Omniscient Reader's Viewpoint and was exposed to Yoo Joonghyuk's thoughts.
 <&>「 You don't seem confident. 」
 I felt like I had been stabbed. Maybe I showed my feelings on my face more than I thought. I deliberately opened my mouth and spoke in a loud voice.
-"There are two things I need to get in the Underworld. "One is the giant god's armour and the other is the giant god's oath."
+"There are two things I need to get in the Underworld. One is the giant god's armour and the other is the giant god's oath."
 "…Neither will be easy."
 "I guess so."
 "The harder it is, the better the rewards."
 I smiled while listening to Yoo Joonghyuk's words. Not long after, the entrance to the second floor of the Underworld appeared. As expected, the cerberus was guarding it. It was bigger than the one on the first floor. The moment Yoo Joonghyuk pulled out his sword, Kim Namwoon cried out.
 <@>[Wait! Don't hit Yellowy!]
 "Get out of the way. There is no time."
-Kim Namwoon stroked the cerberus and spoke. [I know the location of the track elevator that the judges use.]
+Kim Namwoon stroked the cerberus and spoke. 
+<@>[I know the location of the track elevator that the judges use.]
 The track elevator. There were clearly such things in Tartarus. A hidden transport mechanism that only the judges could use. However, the exact location of the elevator wasn't explained in Ways of Survival.
 I asked doubtfully, "How do you know that?"
 <@>[I've been sneaking downstairs with it.]
 "How many floors?"
-<!>[The 77th floor.]
+<@>[The 77th floor.]
 I was startled. The 77th floor gained the gateway to the lowest floor.
 <@>[Follow me. It's this way.]
 Kim Namwoon walked forward confidently and Yoo Joonghyuk and I glanced at each other.
@@ -115,12 +119,14 @@ Among the laughing prisoners, transcendents could be seen. They had committed cr
 Then the elevator stopped and we got off at the 77th underground floor. The 77th floor was a prisoner-free floor. A space reminiscent of a large, hollow cavity and its width couldn't be measured. The centre of the space contained a generously sized door.
 <@>[There is no Yellowy on the 78th floor. They are useless.]
 A cerberus couldn't stop a giant. It might be possible for a campe.
-Kim Namwoon hesitated before stating. […I've never been there before. I put my hand into it previously but this was what happened.]
+Kim Namwoon hesitated before stating.
+<@>[…I've never been there before. I put my hand into it previously but this was what happened.]
 I looked at the scar left on the shoulder of the giant soldier. It was almost healed now but the damage seemed enough to tear off the arm.
 It wasn't perfect but Pluto was a terrible weapon capable of exerting power equivalent to a narrative-grade constellation when there wasn't a passenger on board. Yet this weapon received such damage.
 I approached the door. The door was over 30 metres in height and there was a pattern similar to a human face.
 Yoo Joonghyuk said, "There must be an offering to enter."
-Kim Namwoon was surprised by Yoo Joonghyuk's words. [How do you know that?]
+Kim Namwoon was surprised by Yoo Joonghyuk's words.
+<@>[How do you know that?]
 I ignored Kim Namwoon and replied, "I know. I'm ready."
 "If your offering is too powerful, you will call the ancient giants."
 "I'll have to meet them eventually."

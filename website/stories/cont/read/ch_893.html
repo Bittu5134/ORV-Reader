@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>893 Episode 49 tls123 (3)</title>
+    <meta property="og:title" content="893 Episode 49 tls123 (3)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="52" id="set-font-size">
+            </div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+
+                </select>
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="32" oninput="" id="set-line-height">
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <h1>Print this page content as PDF</h1>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+        <h1>Download the Entire Novel</h1>
+        <a href="https://www.reddit.com/r/OmniscientReader/comments/17el055/linktree_to_orv_epub_with_illustrations_side/" target="_blank"
+            rel="noopener noreferrer"><button>More Downloads</button></a>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/cont/893.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>893 Episode 49 tls123 (3)</h1></div>
+<div class="orv_constellation"><p>[Avatar.]</p></div>
+<p class="orv_line">A skill exclusive to replies with the 'writer' trait, and a skill that allows them to create their own clones and perform various purposes, and at the same time, the culprit of all these tragedies that divided Kim Dokja into 51% and 49%.</p>
+<div class="orv_quote"><p>「 Why do writers have 'Avatar' skills? 」</p></div>
+<p class="orv_line">The reason has already been mentioned in Kim Dokja's monologue in the main story.</p>
+<div class="orv_quote"><p>「 A job that mainly involves creative work and frequently causes dissociative personality disorder or schizophrenia due to excessive stress. 」</p></div>
+<p class="orv_line">In fact, writers do not necessarily suffer from grandiose symptoms such as 'dissociative personality disorder' or 'schizophrenia'. There are healthy writers in this world (I've rarely seen them), and there are many writers who live happily even though they are not healthy (I've never seen them either).</p>
+<p class="orv_line">So why did [Avatar] become the exclusive skill of 'writers'?</p>
+<p class="orv_line">"Because writers are professionals who write 'characters'."</p>
+<p class="orv_line">Even while writing just one novel, writers must become countless other 'characters'. Perhaps Han Sooyoung, who was writing this story, was the same.</p>
+<p class="orv_line">Even if the story was a reconstruction of a story she had heard from Kim Dokja, Yoo Joonghyuk, and other characters, the writer must fill in the blanks with her own imagination.</p>
+<p class="orv_line">And while filling in the blanks, the writer must become different beings over and over again.</p>
+<p class="orv_line">Thus, Han Sooyoung must have become Kim Dokja, Yoo Joonghyuk, Lee Hyunsung, Yoo Sangah, Shin Yoosoung... and once again her past self.</p>
+<p class="orv_line">When I thought about that, I groaned without realizing it. I looked around at the scenery around me once more.</p>
+<div class="orv_quote"><p>「 This world was still 'Omniscient Reader's Viewpoint'. 」</p></div>
+<p class="orv_line">Perhaps she had been continuing to write that story even here without knowing it.</p>
+<p class="orv_line">"It seems you're not completely untalented."</p>
+<p class="orv_line">Han Sooyoung smiled brightly like a teacher who had checked the model answer and asked again.</p>
+<p class="orv_line">"Then here's a question. Why can't you use [Avatar]?"</p>
+<p class="orv_line">"Why are you so sure that I can't use [Avatar]?"</p>
+<p class="orv_line">"If you knew how to use [Avatar], you would have noticed that I was an [Avatar] the moment you first met me."</p>
+<p class="orv_line">"If you have [Avatar], can you know that?"</p>
+<p class="orv_line">Come to think of it, Han Sooyoung was the first to realize that 49% of Kim Dokja in &lt;Kim Dokja Company&gt; was an avatar.</p>
+<p class="orv_line">"I figured it out eventually, too."</p>
+<p class="orv_line">"I told you. So you're not completely untalented."</p>
+<p class="orv_line">Talent.</p>
+<p class="orv_line">I smiled bitterly and repeatedly clenched and unclenched my dusty hands.</p>
+<p class="orv_line">I've been through a lot since I entered this world.</p>
+<p class="orv_line">There have been many stories since then. From 「Heir of the Eternal Name」 to a huge tale that hasn't been named yet.</p>
+<p class="orv_line">Is that all? I have now earned the title of 'Recorder of Fear'.</p>
+<p class="orv_line">"Why?"</p>
+<p class="orv_line">And yet, as time passed, there were times when I felt like these 'tales' I had accumulated were not mine.</p>
+<p class="orv_line">"Why, can't I use [Avatar]?"</p>
+<p class="orv_line">Perhaps it wasn't simply a question about [Avatar].</p>
+<p class="orv_line">"Well."</p>
+<p class="orv_line">Han Sooyoung seemed to know that fact as well. In the end, the answer to this question was something I had to come up with myself, not something that Han Sooyoung could answer for me.</p>
+<p class="orv_line">Nevertheless, I had hope for a moment. It wasn't someone else, but Han Sooyoung. Couldn't Han Sooyoung tell me something different?</p>
+<p class="orv_line">"There are things I need to know first to solve that question."</p>
+<p class="orv_line">When Han Sooyoung lightly gestured to the air, two [Avatars] that looked exactly like Han Sooyoung were born with a popping sound.</p>
+<p class="orv_line">While Han Sooyoung sat down in her seat and smoked a cigarette, the avatars grumbled and started working. Checking the equipment we installed, and repairing the exterior of the base.</p>
+<p class="orv_line">"Are you afraid of [Avatar]?"</p>
+<p class="orv_line">I asked after a short pause.</p>
+<p class="orv_line">"Why are you asking that?"</p>
+<p class="orv_line">"I just imagined it. What if I were you."</p>
+<p class="orv_line">I could see the concentrated world of imagination flowing in her eyes.</p>
+<div class="orv_system"><p>[Predictive Plagiarism.]</p></div>
+<p class="orv_line">She was looking at me now, imagining a me that I didn't say, a 'me' that maybe even I don't know.</p>
+<p class="orv_line">"In a universe where countless 'Kim Dokjas' exist, what would it be like for you to live as one of those 'Kim Dokjas'?"</p>
+<p class="orv_line">I had never told Han Sooyoung in detail why I was here, and what exactly happened to the 'Kim Dokja' she remembered.</p>
+<p class="orv_line">And yet Han Sooyoung was reading the information I hadn't told her.</p>
+<p class="orv_line">"Living my whole life doubting who I am. The anxiety that I might be a byproduct of another being, that what I think might not be my complete thoughts…"</p>
+<p class="orv_line">I wanted to ask how she knew so well. But there was no need to ask.</p>
+<p class="orv_line">Because the Han Sooyoung in front of me was the person who could understand me better than anyone else.</p>
+<p class="orv_line">"Was that the case for you too? When you first found out that you were an [avatar], was that how you felt?"</p>
+<p class="orv_line">The woman I asked did not think of herself as an [avatar]. I also admit that there are many ambiguous aspects to calling her an [avatar].</p>
+<p class="orv_line">However, there is one clear fact.</p>
+<div class="orv_quote"><p>「 The Han Sooyoung in front of my eyes is a being created through [avatar]. 」</p></div>
+<p class="orv_line">Regardless of whether she had memories equal to her main body or not, the Han Sooyoung in front of me was born the moment Han Sooyoung first used the [avatar].</p>
+<p class="orv_line">Just because she was born a little later in time, a being born late cannot escape the thought that she is not the 'real' one.</p>
+<p class="orv_line">"What do you think?"</p>
+<p class="orv_line">Han Sooyoung smiled and took out a cigarette from her bosom and lit it. Watching the smoke spreading out, I unconsciously reached out my hand.</p>
+<p class="orv_line">"Could I have one too?"</p>
+<p class="orv_line">"Why? Do you smoke too?"</p>
+<p class="orv_line">"I feel like smoking."</p>
+<p class="orv_line">Han Sooyoung smiled and handed me a cigarette and lit it. As I inhaled the smoke, the pungent sensation of the smoke tickled my lungs.</p>
+<p class="orv_line">I coughed and added a word for no reason.</p>
+<p class="orv_line">"It’s because it’s been a while since I smoked."</p>
+<p class="orv_line">I inhaled the smoke again and let out a long breath. The smoke that had dispersed in a clump soon took the shape of a person with the same body size as me.</p>
+<p class="orv_line">Han Sooyoung spoke in a slightly surprised voice.</p>
+<p class="orv_line">"[A smoke human]? You have quite a unique skill."</p>
+<p class="orv_line">"I acquired it by absorbing other 'Kim Dokjas."</p>
+<p class="orv_line">"How many people have you absorbed?"</p>
+<p class="orv_line">"I don’t know. There were some that weren’t human, and there were some that just existed as sculptures."</p>
+<p class="orv_line">"There seem to be many such Kim Dokjas in your world."</p>
+<p class="orv_line">"Yes."</p>
+<p class="orv_line">"Are you competing among Kim Dokjas? To become the one 'real Kim Dokja'?"</p>
+<p class="orv_line">"Similar."</p>
+<p class="orv_line">Han Sooyoung was silent for a moment. Maybe she was imagining the bloody battles of Kim Dokjas to become Kim Dokja through [Predictive Plagiarism].</p>
+<p class="orv_line">Suddenly, I became curious.</p>
+<p class="orv_line">Which Kim Dokja would survive until the end in her hypothesis?</p>
+<p class="orv_line">A cigarette butt fell at Han Sooyoung’s feet.</p>
+<p class="orv_line">"Are you afraid that another 'Kim Dokja' will appear?"</p>
+<p class="orv_line">"…"</p>
+<p class="orv_line">"Are you afraid that something beyond your control will happen? Right?"</p>
+<p class="orv_line">I couldn’t answer.</p>
+<p class="orv_line">Han Sooyoung continued talking without waiting for my answer.</p>
+<p class="orv_line">"But that's the nature of a writer's job. Constantly bumping into things that you can't control."</p>
+<p class="orv_line">"..."</p>
+<p class="orv_line">"You know. Once you create a character, they don't move as we want."</p>
+<p class="orv_line">"That's right."</p>
+<p class="orv_line">"In the end, we create them while accepting a certain degree of uncertainty. We don't even know exactly what kind of person they will become."</p>
+<p class="orv_line">At that moment, I remembered a conversation that Kim Dokja and Han Sooyoung had once had.</p>
+<div class="orv_quote"><p>「 "As a writer, you don't completely control your own novel. If you look back, there are many holes here and there. In the end, reading is the work of connecting those irregular holes in your own way." 」</p></div>
+<p class="orv_line">A person who writes something is also just a reader.</p>
+<p class="orv_line">A person who weaves a story for the first time experiences his first reading experience by weaving that story.</p>
+<p class="orv_line">Perhaps Han Sooyoung is explaining that in a different way.</p>
+<p class="orv_line">"You have to learn how to handle [Avatar]."</p>
+<p class="orv_line">"…"</p>
+<p class="orv_line">"You’ve had the writer’s traits, so it’s a shame not to use [Avatar]."</p>
+<p class="orv_line">I know that too.</p>
+<p class="orv_line">How foolish it is to have the writer’s traits and not use [Avatar].</p>
+<p class="orv_line">But I also have my reasons.</p>
+<p class="orv_line">"This world is no longer a simple 'novel'. The uncertainty I created becomes a variable I cannot control. If it were a world that wasn’t real, I could create anything without any burden, but this world isn’t like that."</p>
+<p class="orv_line">"You’re not afraid of simply creating [Avatar], are you?"</p>
+<div class="orv_system"><p>[The exclusive skill, 'Fourth Wall', shakes.]</p></div>
+<p class="orv_line">I let out a light sigh. The cigarette I hadn’t even smoked a few puffs of fell to the floor as sparks.</p>
+<p class="orv_line">I was afraid of speaking. Nevertheless, now was the moment when I had to speak.</p>
+<p class="orv_line">"I’m afraid of stories."</p>
+<p class="orv_line">Maybe it was because the person in front of me was Han Sooyoung that I could say that.</p>
+<p class="orv_line">"I’m afraid of writing stories."</p>
+<p class="orv_line">When I first entered this story, I enjoyed it. On the one hand, I felt the fear of death, and on the other hand, I felt the joy of being able to write all of these things down.</p>
+<p class="orv_line">However, as I gained colleagues and felt the stories pile up, my thoughts changed little by little.</p>
+<p class="orv_line">My emotions began to take shape when I cleared the Recycling Center, broke the Fear Reall, and put two Kim Dokjas into the [Fourth Wall].</p>
+<div class="orv_quote"><p>「 The story was getting closer to its conclusion. 」</p></div>
+<p class="orv_line">It was like an intuition as a writer.</p>
+<p class="orv_line">From now on, if I made a mistake, everything I had built up could be destroyed. Regardless of how hard I had tried before, everything could be destroyed with just one wrong sentence.</p>
+<p class="orv_line">"If you think too much, you won't be able to write anything."</p>
+<p class="orv_line">"Yes. But—"</p>
+<p class="orv_line">"Why do you think we write stories?"</p>
+<p class="orv_line">Why are we writing stories? There must have been a reason, but suddenly, I couldn't remember.</p>
+<p class="orv_line">Han Sooyoung sighed and said.</p>
+<p class="orv_line">"I asked you to see the 'ending' of this world together."</p>
+<p class="orv_line">"Yes."</p>
+<p class="orv_line">"What's your answer?"</p>
+<p class="orv_line">"I will."</p>
+<p class="orv_line">Han Sooyoung pursed her lips as if she didn't like my answer, then opened her mouth.</p>
+<p class="orv_line">"I'll cancel my offer."</p>
+<p class="orv_line">"Yes? Why?"</p>
+<p class="orv_line">"You want to run away right now."</p>
+<p class="orv_line">"..."</p>
+<p class="orv_line">"You're trying to stay in this world because you're afraid of seeing the end of your worldline."</p>
+<p class="orv_line">"No. I—"</p>
+<p class="orv_line">I tried to say. It’s true that I wanted to stay in this worldline. But the reason I wanted to do that was because I thought there was something to learn from Han Sooyoung’s worldline.</p>
+<div class="orv_constellation"><p>[Someone is activating 'Lie Detection'!]</p></div>
+<p class="orv_line">But I couldn’t continue.</p>
+<p class="orv_line">Perhaps it was because I couldn’t determine whether or not my words were true.</p>
+<p class="orv_line">Han Sooyoung said as if she knew it.</p>
+<p class="orv_line">"I can’t see the end with that pathetic guy."</p>
+<p class="orv_line">"Is that so?"</p>
+<p class="orv_line">So I’m going to end up like this here too. I sighed deeply as I looked at the smoke floating around in thick clouds.</p>
+<p class="orv_line">But Han Sooyoung didn’t finish speaking.</p>
+<p class="orv_line">"So let’s do this. You need the 'Ark' and the 'Story Core' to return to your world. Right?"</p>
+<p class="orv_line">When I nodded, Han Sooyoung continued.</p>
+<p class="orv_line">"And I need the 'Story Core' of the Ark to revive my comrades."</p>
+<p class="orv_line">In that moment, I thought I knew what Han Sooyoung was going to say.</p>
+<p class="orv_line">"Let's fight."</p>
+<p class="orv_line">Han Sooyoung pointed to the Ark in the sky, looking at me who was blankly open-mouthed.</p>
+<p class="orv_line">"In three weeks, we'll fight for the 'Story Core' over there."</p>
+<p class="orv_line">Three weeks. The time left until my sub-scenario ends.</p>
+<p class="orv_line">"If you win, you'll be able to return to the worldline you belonged to. And if I win—"</p>
+<p class="orv_line">"You can revive your comrades."</p>
+<p class="orv_line">Why? My heart suddenly raced.</p>
+<p class="orv_line">"That's right."</p>
+<p class="orv_line">"But isn't this too advantageous for you?"</p>
+<p class="orv_line">There was no reason for my heart to race. If I accepted that offer, the ending for us was already decided.</p>
+<p class="orv_line">A bloody battle that would determine the end of the worldline.</p>
+<p class="orv_line">If one side won by chance, the other side would have to face a painful tragedy.</p>
+<p class="orv_line">And yet I.</p>
+<p class="orv_line">"Of course, if we just fought, it would be a fight I would win. So…"</p>
+<p class="orv_line">Looking at her brightly shining eyes, I naturally thought of the next sentence she would spit out.</p>
+<p class="orv_line">"I'll teach you everything I have for the remaining three weeks."</p>
+<p class="orv_line">With the sound of 'tsutsut', I heard the sound of the world's probability being distorted. The 1,863rd administration office that had been watching all the scenarios up until now—the 'Dokkaebi King' who had lost interest in the scenarios was moving.</p>
+<div class="orv_system"><p>[Sub-scenario content has been updated!]</p></div>
+<p class="orv_line">I could see constellations faintly opening their eyes in the pitch-black night sky.</p>
+<p class="orv_line">As if greeting the audience of this world that was not long left, we slowly stood up from our seats.</p>
+<p class="orv_line">The world of the last scenario. What unfolded before us was overwhelmingly vast, but at the same time, there was only a very small margin.</p>
+<p class="orv_line">"I'm scared."</p>
+<p class="orv_line">"But do you still want to try it?"</p>
+<p class="orv_line">I couldn't help but admit it.</p>
+<p class="orv_line">Before I could even answer, my heart answered. Was it because I was a writer, or because I was a reader? I thought it didn't matter.</p>
+<p class="orv_line">But right now, I.</p>
+<p class="orv_line">"It seems fun."</p>
+<p class="orv_line">Just I was thinking about seeing the 'next story'.</p>
+<p class="orv_line">The last scenario of the 1,863rd round.</p>
+<p class="orv_line">There are now two writers here.</p>
+<p class="orv_line">But this time, there was only one story left.</p>
+<p class="orv_line">"Let's start."</p>
+<p class="orv_line">We drew our swords at the same time.</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_892"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./ch_894">Next<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></a>
+        </div>
+        <div class="giscus" id="comments">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="892" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL"
+        data-mapping="og:title" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0"
+        data-input-position="top" data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>
