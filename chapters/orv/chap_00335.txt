@@ -46,8 +46,7 @@ The sea seemed furious and a fierce sea breeze shook her collar. Persephone glan
 I was thankful but my feelings were complicated. Why did Persephone appear? I thought the Underworld wouldn't directly intervene in this…
 Perhaps… was it to gain a part of the giant story? Things would be very complicated if that happened.
 <@>[Persephone, why are you blocking me?]
-<@>[I am telling you to stop here. Look, it's too much. Your Majesty's  subjects(parents)are all terrified.]
-<?>{I believe there was a translation error here, I changed parents to subjects}
+<@>[I am telling you to stop here. Look, it's too much. Your Majesty's parents are all terrified.]
 Persephone pointed to the sea where countless life forms were trembling. Some aquatic species turned belly up and died. Even the kraken, the giant 2nd grade monster, was breathless.
 <!>[The constellation 'Pure Moonlight Patron God' is deploring the death of life!]
 <!>[The constellation 'Goddess of Love and Beauty' is dissuading the 'Spear that Draws the Boundaries of the Sea'.]
