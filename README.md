@@ -2,7 +2,7 @@
 
 # ORV-Reader
 
- ***ORV-Reader*** is a Fan made project that hosts Unofficial Fan translations of the popluar webnovel ***Omniscient Reader's Viewpoint!***
+ ***ORV-Reader*** is a fan-made project hosting *unofficial* fan translations of the popular webnovel ***Omniscient Reader's Viewpoint!***
 
 🌐: [https://orv.pages.dev](https://orv.pages.dev) \
 ⭐: Dont forget to star this repository 
@@ -21,7 +21,7 @@
 [![ORV Sequel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FBittu5134%2FORV-Reader%2Frefs%2Fheads%2Fmain%2Fwebsite%2Fmeta%2Fcont_meta.json&query=%24.chapters&suffix=%20Chapters&style=flat-square&label=ORV%20Sequel)](https://orv.pages.dev/stories/cont) \
 [![One Shot](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FBittu5134%2FORV-Reader%2Frefs%2Fheads%2Fmain%2Fwebsite%2Fmeta%2Fside_meta.json&query=%24.chapters&suffix=%20Chapters&style=flat-square&label=ORV%20One%20Shots)](https://orv.pages.dev/stories/side)
 
-Learn more about the authors **Sing Shong** and the **Illustrator**.
+Learn more about the authors **Sing Shong** and the illustrator, **BlackBox**:
 
 [![Authors IMDB](https://img.shields.io/badge/Authors%20Sing%20Shong-gold?style=for-the-badge&logo=imdb&logoColor=000)](https://www.imdb.com/name/nm15543141/bio) \
 [![Illustrations by BlackBox](https://img.shields.io/badge/Illustrations%20by%20Blackbox-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/1l9l2aa8ucl0igj?lang=en) 
@@ -30,18 +30,17 @@ Learn more about the authors **Sing Shong** and the **Illustrator**.
 
 ## Features
 
-* **Custom Themes**: There are like 13 different themes to fit everyone's Asthetics
+* **Custom Themes**: There are currently 13 different themes to fit everyone's aesthetics, including:
    * 🌟 Constellation dialogues
    * 👾 Outer God dialogues
    * 💬 System messages
    * 📝 Scenario windows
    * ➕ And much more!
-   * you will have to check out the website to get a feel for it
-* **High-Quality Illustrations**: Hundreds or Illustrations made by Blackbox-nim have been added to the site.
+* **High-Quality Illustrations**: Hundreds of illustrations made by **BlackBox**-nim have been added to the site.
 * **Reader Settings**: Customize your reading experience with adjustable font size, line height, and more.
-* **Automatic Updates**: New Side Stories are automatically added everyday to the site (kinda?)
-* **Good Translations**: The website is built with the latest Fan-Translations and can be edited by the community, That includes you too!.
-* **Privacy**: The website does NOT have any kind of Trackers and/or ADs, Nobody likes those kind of stufff.
+* **Automatic Updates**: New side stories are automatically added every day to the site (kinda?)
+* **Good Translations**: The website is built with the latest fan translations and can be edited by the community. That includes you, too!
+* **Privacy**: The website does NOT have any kind of trackers and/or ads. Nobody likes those kinds of things.
 
 ---
 
@@ -99,6 +98,6 @@ Support the creators by purchasing official releases through the links above. Un
 
 You can find the license for this project [here](./LICENSE.md)
 
-**Please note:** I do not own the rights to the original novel. All translations available on this page are fan translations sourced from the public internet. The sources for these translations are provided under the ["Sources"](#sources) heading.
+**Please note:** I do not own the rights to the original novel. All translations available on this page are fan translations sourced from the public Internet. The sources for these translations are provided under the ["Sources"](#sources) heading.
 
 For any inquiries, you can reach me via email at <a href="mailto: ssr7a5134@gmail.com">ssr7a5134@gmail.com</a>
