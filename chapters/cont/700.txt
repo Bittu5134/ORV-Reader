@@ -61,6 +61,7 @@ Total number of comments: 80
 Reader Level: 5
 Number of completed readings: 1 time
 +
++
 *You can use coins to check the comments left by the reader.
 *Currently, the number of comments that can be checked for free is 3.
 +
