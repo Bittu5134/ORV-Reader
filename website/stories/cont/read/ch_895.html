@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>895 Episode 49 tls123 (5)</title>
+    <meta property="og:title" content="895 Episode 49 tls123 (5)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="52" id="set-font-size">
+            </div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+
+                </select>
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="32" oninput="" id="set-line-height">
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <h1>Print this page content as PDF</h1>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+        <h1>Download the Entire Novel</h1>
+        <a href="https://www.reddit.com/r/OmniscientReader/comments/17el055/linktree_to_orv_epub_with_illustrations_side/" target="_blank"
+            rel="noopener noreferrer"><button>More Downloads</button></a>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/cont/895.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>895 Episode 49 tls123 (5)</h1></div>
+<p class="orv_line">A story rejects its name?</p>
+<p class="orv_line">Is there such a case?</p>
+<p class="orv_line">"Hmm."</p>
+<p class="orv_line">Han Sooyoung looked at my story for a long time as if she had found an interesting subject.</p>
+<p class="orv_line">"Has this ever happened before?"</p>
+<p class="orv_line">"No, this is the first time."</p>
+<div class="orv_system"><p>[Your 'Giant Tale' rejects the touch of the 'Director of the False Ending'.]</p></div>
+<p class="orv_line">It seems like it has a pretty strong ego. Is this guy the same as Heir?</p>
+<div class="orv_system"><p>[The story, 'Heir of the Eternal Name', giggles.]</p></div>
+<p class="orv_line">Han Sooyoung watched my story's reaction for a moment and then seemed lost in thought. Then she let go of my wrist and asked.</p>
+<p class="orv_line">"You, how much of the 'Introduction, Development, Climax, and Conclusion' have you completed?"</p>
+<p class="orv_line">Intro, Development, Climax, and Conclusion. In order to clear the last scenario in the &lt;Star Stream&gt; and see your own ■■, you had to complete the 'Giant Tale' based on the 'Introduction, Development, Climax, and Conclusion'.</p>
+<div class="orv_quote"><p>「 The decision of victory of the introduction, development, climax, and conclusion is completed the moment you acquire the first 'Giant Tale'. 」</p></div>
+<p class="orv_line">In Kim Dokja's case, he completed it when he cleared the 'Demon King Selection Tournament' and obtained the first giant tale, 'Spring of the Demon World'. However, even though I obtained a giant tale, I never received a message that I had completed the 'Introduction, Development, Climax, and Conclusion'.</p>
+<p class="orv_line">Up until now, I thought it was because the tale's name hadn't been decided yet...</p>
+<p class="orv_line">"You haven't even received a message that you have completed it yet."</p>
+<p class="orv_line">Han Sooyoung nodded as if she knew it would happen.</p>
+<p class="orv_line">"You, maybe you won't be able to complete the introduction, development, climax, and conclusion."</p>
+<hr>
+<p class="orv_line">I heard from Han Sooyoung about the 'Introduction, Development, Climax, and Conclusion' she had built up. It was an unfortunate incident that occurred because she couldn't stop the conversation that started with 'When I was', but in the end, it was content that I didn't mind hearing.</p>
+<p class="orv_line">Because she was someone who had built up the 'introduction, development, climax, and conclusion' in a completely different way than Kim Dokja.</p>
+<p class="orv_line">And my impression after listening to the story to the end was clear.</p>
+<p class="orv_line">"I don't know what to say, but... you're amazing."</p>
+<p class="orv_line">Just listening to the story was overwhelming.</p>
+<p class="orv_line">If I were her, it wouldn't have been strange if I had given up a long time ago. If it weren't for Han Sooyoung, who had [Predictive Plagiarism], she would never have been able to build up the stories.</p>
+<p class="orv_line">However, the person in question seemed to think differently.</p>
+<p class="orv_line">"It ended up like this, so it's not that great."</p>
+<p class="orv_line">I understood Han Sooyoung's words.</p>
+<p class="orv_line">There are few writers who like the 'stories' they write. However, stories are usually completed on their own, and writers have to accept that.</p>
+<p class="orv_line">While we were on the subject, I briefly told her about the scenarios I'd experienced.</p>
+<p class="orv_line">Han Sooyoung nodded and sighed lightly as she listened to my story to the end.</p>
+<p class="orv_line">"That's great. It must have been hard to survive in the 41st round. Isn't Yoo Joonghyuk much weaker there than here?"</p>
+<p class="orv_line">"No. Yoo Joonghyuk in the 41st round is pretty strong too."</p>
+<p class="orv_line">"Oh my. Are you protecting Yoo Joonghyuk?"</p>
+<p class="orv_line">I thought about Yoo Joonghyuk in the 41st round for the first time in a while.</p>
+<p class="orv_line">I wonder if that guy is doing well.</p>
+<p class="orv_line">Since we parted ways when the Fear Realm closed, he must have returned to Earth by now.</p>
+<p class="orv_line">At first, I was scared to even make eye contact with him, but now I'm worried about his well-being, so I guess that's a great improvement in its own way.</p>
+<p class="orv_line">"But what do you mean when you say I might not be able to complete the 'introduction, development, climax, and conclusion'?"</p>
+<p class="orv_line">"Have you been listening to my story so far?"</p>
+<p class="orv_line">"Huh?"</p>
+<p class="orv_line">"Was I just bored and talking about all the stories I've built up with you?"</p>
+<p class="orv_line">Han Sooyoung sighed deeply and shook her head.</p>
+<p class="orv_line">"Your journey has been a series of unbelievable hardships by normal standards. Considering the volume of adventures you've had so far, it wouldn't be surprising if you've gotten a 'Grand Tale' several times."</p>
+<p class="orv_line">I thought back on the things I've experienced. When I thought about it, there were quite a few incidents that could be called 'big events'.</p>
+<p class="orv_line">"But I've only participated in the 'Grand Tale Scenario' once."</p>
+<p class="orv_line">"You can get the Grand Tale even if you don't participate in the 'Grand Tale Scenario'. And you can complete the 'introduction, development, climax, and conclusion' even if it's not a giant tale."</p>
+<p class="orv_line">She's right. Kim Dokja of the main story also filled part of the 'introduction, development, climax, and conclusion' with a 'mythical tale'.</p>
+<p class="orv_line">"I do have a mythical tale."</p>
+<p class="orv_line">I hunted the 'Founder of the Absolute Throne', a god of another world, and obtained the 'Heir of the Eternal Name'.</p>
+<p class="orv_line">However, even that tale wasn't a 'mythical tale' from the beginning, and I haven't obtained a mythical tale since then.</p>
+<p class="orv_line">However, there were several events where I expected to obtain a tale of that level.</p>
+<p class="orv_line">For example, when I defeated the giant nebula constellations in 'Ginneung-ga-gap' with the 'Demon King of Salvation'.</p>
+<p class="orv_line">When I faced the giant nebula constellations in the Recycling Center and summoned the 'Nameless Mist'.</p>
+<p class="orv_line">When I met &lt;Kim Dokja Company&gt; from another worldline, or when I met 'Jaehwan', the absolute being from outside the &lt;Star Stream&gt;. That's right.</p>
+<p class="orv_line">Events that even Kim Dokja of the main story had never experienced.</p>
+<p class="orv_line">However, even while experiencing all those events, the 'Giant Tale' did not sprout.</p>
+<p class="orv_line">"Your first 'Giant Tale' came too late."</p>
+<p class="orv_line">I obtained my first 'Giant Tale' after entering the 'Fear Realm'.</p>
+<p class="orv_line">"Could it be because I entered the 'Giant Tale Scenario' late?"</p>
+<p class="orv_line">"No, your 'Giant Tale' was not obtained by clearing the 'Fear Realm'. That's just a trigger."</p>
+<p class="orv_line">"Then..."</p>
+<p class="orv_line">"It's highly likely that it was being completed before that."</p>
+<p class="orv_line">If it was before that, when on earth did it start?</p>
+<p class="orv_line">"Maybe it was when you first 'possessed' that body."</p>
+<p class="orv_line">Since the time I possessed 'Cheon Inho's' body?</p>
+<p class="orv_line">It wasn't an absurd story.</p>
+<p class="orv_line">Just like Jang Hayoung of the Demon World, 'possession' is used as a material for scenarios or stories in the &lt;Star Stream&gt;.</p>
+<p class="orv_line">So does the &lt;Star Stream&gt; view the time from the time I possessed Cheon Inho until now as a 'giant story'?</p>
+<p class="orv_line">Then something suddenly came to mind.</p>
+<p class="orv_line">"I've received a strange message regarding my 'giant story'."</p>
+<p class="orv_line">I definitely received that message right after I cleared the 'Fear Realm'.</p>
+<p class="orv_line">"They say my story holds the potential for a 'super-giant tale'."</p>
+<p class="orv_line">"A super-giant tale?"</p>
+<p class="orv_line">"Have you ever heard of it?"</p>
+<p class="orv_line">Han Sooyoung shook her head.</p>
+<p class="orv_line">That made sense. The concept of 'super-giant story' does not appear in 'Ways of Survival' or 'ORV'.</p>
+<p class="orv_line">"Do you know what a 'giant story' is?"</p>
+<p class="orv_line">"Isn't it a term referring to a story with a unique worldview?"</p>
+<p class="orv_line">"That's right. Then what is a 'super-giant story'?"</p>
+<p class="orv_line">"Does it mean that it has a larger worldview?"</p>
+<p class="orv_line">"Well. Is the size of the worldview an issue?"</p>
+<p class="orv_line">"Yes?"</p>
+<p class="orv_line">"Giant stories are also divided into quite a few categories. I don't think they will escape the concept of a giant story simply because their worldview is larger than other giant stories."</p>
+<p class="orv_line">Han Sooyoung was right. It wouldn't be called a 'super-giant story' simply because their 'worldview' is large.</p>
+<p class="orv_line">In fact, it was difficult to see my 'giant story' as being larger in scale than Kim Dokja's 'Sacred Flower that Swallowed Myth' or 'Season of Light and Darkness'.</p>
+<p class="orv_line">"This is what I think. The 'super-giant tale' might be a concept for writing a story with a different nature from the 'giant tale'."</p>
+<p class="orv_line">"A story with a different nature?"</p>
+<p class="orv_line">"For example."</p>
+<p class="orv_line">Han Sooyoung, with a blank expression, was silent for a moment, what she was thinking unknown. Maybe she was writing something like [Predictive Plagiarism].</p>
+<p class="orv_line">"A story that can only begin after another story ends."</p>
+<p class="orv_line">I opened my mouth for a moment. Han Sooyoung added with an embarrassed look.</p>
+<p class="orv_line">"For example, that's what it is. It's just an expression that suddenly came to mind, so don't worry about it."</p>
+<p class="orv_line">"Why did this happen to me?"</p>
+<p class="orv_line">I don't know. Maybe the &lt;Star Stream&gt; judged that your story wasn't suitable for writing in the form of 'introduction, development, climax, and conclusion.'</p>
+<p class="orv_line">Han Sooyoung added with a light quiver of her lips.</p>
+<p class="orv_line">"Well, you'll find out soon enough. Anyway, when that 'giant tale' is completed, you'll find your ■■ too."</p>
+<p class="orv_line">"I don't even know what kind of tale I'm making."</p>
+<p class="orv_line">"No writer knows what kind of story they’re going to tell."</p>
+<p class="orv_line">"…"</p>
+<p class="orv_line">"No matter how plausible the blueprint is, the story doesn’t always go as planned."</p>
+<p class="orv_line">Han Sooyoung took another cigarette out of her bosom and lit it, saying,</p>
+<p class="orv_line">"And your story, it wasn’t bad."</p>
+<p class="orv_line">"…"</p>
+<p class="orv_line">"It’s confusing, messy, and distracting, but…"</p>
+<p class="orv_line">Han Sooyoung’s two eyes were looking at me through the lightly dispersing smoke.</p>
+<p class="orv_line">"I felt a strong desire to tell that story to someone."</p>
+<p class="orv_line">"…"</p>
+<p class="orv_line">"For whom are you trying to see the end of the world? If you know that, you might be able to guess a little bit about the name your 'giant story' will be named."</p>
+<p class="orv_line">For whom am I continuing this story?</p>
+<p class="orv_line">The first faces that came to mind were the other 'Kim Dokja’'. Dansu ahjussi, Killer King, Ye Hyunwoo, Kyung Sein, Yerin, and other readers. In order to send them back to their original world, I have continued to tell this story. It certainly was.</p>
+<p class="orv_line">"I don't know."</p>
+<p class="orv_line">"Don't you know?"</p>
+<p class="orv_line">"At first, I thought I knew, but now I don't know. There are so many people who have been hurt by the tales I created."</p>
+<p class="orv_line">I often thought.</p>
+<p class="orv_line">What if I hadn't been the one who experienced all these tales? If I had been one of the 51% of Kim Dokja, wouldn't I have been able to tell this story much better than I did?</p>
+<p class="orv_line">Then Han Sooyoung said,</p>
+<p class="orv_line">"Of course not everyone will like your stories. It's obvious, but you can't write a story that everyone loves. Some stories can make enemies and incur hatred just by writing them."</p>
+<p class="orv_line">I thought of other readers I had met while experiencing the stories. I thought of the Misreading Association, Gu Seonah, and 'Snowfield Kim Dokja' who had been glaring at me.</p>
+<p class="orv_line">"But there will be people who support your stories. There are definitely people who believe in the story you've built and want to complete it with you."</p>
+<p class="orv_line">What came to mind with those words was the lonely face of Yoo Joonghyuk in the 41st round.</p>
+<p class="orv_line">"That's why I'm writing until the end. If even one person likes your story, that's what a writer does, not giving up until the end."</p>
+<p class="orv_line">The side profile of her as she spoke was dazzling.</p>
+<p class="orv_line">Will I be able to make the same expression as her when I finish this story someday?</p>
+<p class="orv_line">I don't know now. The only sentences I can write now are ones that tease Han Sooyoung.</p>
+<p class="orv_line">"So you've been writing 'Ways of Survival' for Kim Dokja for 10 years."</p>
+<p class="orv_line">Han Sooyoung, who had a miserable expression, dropped her cigarette and said.</p>
+<p class="orv_line">"I won't write that kind of thing. The author of Ways of Survival is a 'very huge baby'."</p>
+<p class="orv_line">I smiled bitterly and answered.</p>
+<p class="orv_line">"You still say that? You're the one who's going to write Ways of Survival. And the 'Oldest Dream' that you made into reality after reading that story is..."</p>
+<p class="orv_line">"Kim Dokja, right?"</p>
+<p class="orv_line">I opened my mouth in surprise.</p>
+<p class="orv_line">"Did you know?"</p>
+<p class="orv_line">"I expected that to happen. Ever since you started talking about tIs123."</p>
+<p class="orv_line">"You must know everything now."</p>
+<p class="orv_line">Han Sooyoung nodded.</p>
+<p class="orv_line">"But don't you think something's strange? What on earth is Kim Dokja that made him such a great person? Why, why was Kim Dokja the only one in this universe chosen as the 'Oldest Dream'?</p>
+<p class="orv_line">"That's..."</p>
+<p class="orv_line">"Why, out of all the people, did 'Kim Dokja's' imagination give birth to the Star Stream?"</p>
+<p class="orv_line">It was a question that had no answer.</p>
+<p class="orv_line">Why did Kim Dokja's imagination alone have such power? Looking into her eyes, which were filled with faint starlight, a thought suddenly occurred to me. Maybe she had already done [Predictive Plagiarism].</p>
+<p class="orv_line">"This is what I think."</p>
+<p class="orv_line">And so, maybe she had figured out the clue to how this whole story began.</p>
+<p class="orv_line">"Somewhere in this universe, there must be a 'very huge baby'."</p>
+<hr>
+<p class="orv_line">From that day on, I learned and practiced various techniques from Han Sooyoung every day.</p>
+<p class="orv_line">She explained in detail everything I asked her. From how to communicate with the story, how to train skills, and how to deal with scenarios.</p>
+<p class="orv_line">I learned a lot from her in a short period of time. Honestly, if I could, I would have liked to raise the bar.</p>
+<div class="orv_quote"><p>「 And 20 days passed. 」</p></div>
+<p class="orv_line">And so, 20 days later.</p>
+<p class="orv_line">The day of the showdown dawned.</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_894"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./ch_896">Next<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></a>
+        </div>
+        <div class="giscus" id="comments">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="894" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL"
+        data-mapping="og:title" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0"
+        data-input-position="top" data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>
