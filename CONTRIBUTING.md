@@ -35,7 +35,6 @@ This guide provides detailed instructions on how to contribute to the ORV-Reader
 
 10.  After clicking on "Propose Changes", a new page will open. Click on **Create pull request** which is a *green* colour button. Again on the next page click on **Create pull request**. Congrats! You have contributed to this site and improved it for everyone.
 
-
 > [!NOTE]
 > Make sure you are not creating new branch everything you make an edit, when prompted choose the `commit to main brach option` and periodically keep syncing your repository to keep it upto date.
 
