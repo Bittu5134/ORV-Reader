@@ -38,7 +38,7 @@ Time limit: 30 minutes
 Reward: 7,000 coins
 Failure: —
 +
-"Now, everyone. This is your last chance. Will you witness the king's coronation, or will you become the usurper of the throne?"
+<@>[Now, everyone. This is your last chance. Will you witness the king's coronation, or will you become the usurper of the throne?]
 The intermediate dokkaebi burst into laughter as if enjoying this whole situation.
 <!>[The constellation 'Bald General of Justice' diligently wipes his head.]
 <!>[The constellation 'Maritime War God' sighs and looks at the throne.]
