@@ -117,7 +117,7 @@ Books discarded on the floor seemed to be rolling around everywhere. Without thi
 I sneakily closed the book and chucked the damn thing deep into the darkness.
 <&>「(Uhm, excuse me, Dokja-ssi?)」
 'Yes?'
-<&> 「(Actually, well, I read that book. Just a little bit.)」
+<&>「(Actually, well, I read that book. Just a little bit.)」
 '…How much did you read?'
 <&> 「(…Almost the whole book, if I'm honest. I find these more interesting than the 'Ways of Survival', you see… I'm sorry.)」
 My face reddened from heat, but there was naught that could be done when she had already read it.
