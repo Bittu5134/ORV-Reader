@@ -172,7 +172,7 @@ Yoo Sangah formed a refreshing grin and carried on.
 '…You really think so?'
 <&>「 (Yes, of course. We'd study Spanish together, enter a rider's club and ride bicycles together, too…)」
 'Or, to get ready for our old age, we start recommending savings plan or retirement funds'.
-<&> 「(After we grow old and can't move anymore, we'd help each other to get to hospitals.)」
+<&>「(After we grow old and can't move anymore, we'd help each other to get to hospitals.)」
 'I guess we could have lived pretty close by, in that case'.
 <&>「 (Of course. Maybe, we might have lived right next to each other.)」
 We continued to chat away. We talked about things that could no longer be. Things that could never become a reality.
