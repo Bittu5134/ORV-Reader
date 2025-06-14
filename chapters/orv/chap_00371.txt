@@ -119,7 +119,7 @@ I sneakily closed the book and chucked the damn thing deep into the darkness.
 'Yes?'
 <&>「(Actually, well, I read that book. Just a little bit.)」
 '…How much did you read?'
-<&> 「(…Almost the whole book, if I'm honest. I find these more interesting than the 'Ways of Survival', you see… I'm sorry.)」
+<&>「(…Almost the whole book, if I'm honest. I find these more interesting than the 'Ways of Survival', you see… I'm sorry.)」
 My face reddened from heat, but there was naught that could be done when she had already read it.
 'It's fine. I do feel a bit ashamed, but still'.
 I did think that, with Yoo Sangah being a part of the 'Library', such memories would possibly end up being exposed, anyway. She carefully picked up the books rolling around on the floor, one by one, and dusted them before gathering them all together.
