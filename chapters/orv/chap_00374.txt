@@ -13,13 +13,13 @@ This was the very last message I heard before losing my consciousness.
 ***
 
 Ricardo stared into the pitch-black liquid filling up his transparent cup and recalled the memories of the distant past.
-⸢"Even if you train for 50 years, it'll be difficult for you to become a royal court mage."⸥
+<&>「 "Even if you train for 50 years, it'll be difficult for you to become a royal court mage."」
 That was back when he first started learning magic.
-⸢"You don't seem to possess the suitable constitution to become a scholar."⸥
+<&>「 "You don't seem to possess the suitable constitution to become a scholar."」
 That was when the number one scholar in the Kaizenix Archipelago came to tutor him.
-⸢"Your hands are not suited to holding a sword."⸥
+<&>「 "Your hands are not suited to holding a sword."」
 And that was back when he grabbed a sword for the first time in the royal swordsmanship training grounds.
-⸢"Some lives are like that. What's important is to never fall into despair and continue to strive forward, son."⸥
+<&>「 "Some lives are like that. What's important is to never fall into despair and continue to strive forward, son."」
 Ricardo's father, Verchen Von Kaizenix, said those words.
 That couldn't console him, though. A man who had no talent nor desire to do anything wouldn't be consoled after hearing those words, anyway.
 Even with no talent, he should strive forward regardless? What would he become if he continued to live on like that, anyway?
@@ -27,7 +27,7 @@ Ricardo drunk himself into a stupor every single day. He hung around with the ar
 He even fell in love. Once upon a time.
 She was older, and the most beautiful woman in the entire archipelago. Unfortunately, even that had to end after she married his oldest brother.
 Ricardo stared at that black liquid and muttered to himself.
-"I'll just kill myself."
+<&>「 "I'll just kill myself."」
 That resolution was the first time he swallowed the brave pill in his life.
 He lightly grasped the cup, and as if drinking wine, he emptied its contents in one go. Its effect manifested itself not too long afterwards. His complexion became dark and lifeless, and his arms faltered to the side with no energy.
 And exactly four hours later.
@@ -45,11 +45,11 @@ I wiped my mouth and raised my head only to discover a mirror. The handsome face
 …It was definitely my face, but something felt unfamiliar about it.
 Who was I?
 …Ricardo…?
-⸢"You probably know this already, but I'm not a prophet. No, I am as far removed from such a being as you can get."⸥
+<&>「 "You probably know this already, but I'm not a prophet. No, I am as far removed from such a being as you can get."」
 I am…
-⸢"I'm not the 'Demon King of Salvation'. I'm also not the 'King of a Kingless World'."⸥
+<&>「 "I'm not the 'Demon King of Salvation'. I'm also not the 'King of a Kingless World'."」
 I am…?
-⸢"Twenty-eight… No, wait. I was twenty-eight, and I was an employee of a game company. My hobby was reading web-novels…"⸥
+<&>「 "Twenty-eight… No, wait. I was twenty-eight, and I was an employee of a game company. My hobby was reading web-novels…"」
 <!>[Your Stories are resisting against the Giant Story that sets this world's view!]
 <!>[Exclusive skill, 'The Fourth Wall', is strongly activating!]
 I slowly closed my eyes before opening them again, and was immediately overcome with the sensation of the world separating itself from me.
@@ -57,7 +57,7 @@ I slowly closed my eyes before opening them again, and was immediately overcome 
 <!>[Due to the effect of 'The Fourth Wall', your ego has been fully retained.]
 <!>[Probability of the Island is suspicious of your preferential treatment.]
 I was greeted by the feelings of an unfamiliar body. This one didn't belong to me.
-⸢I am Kim Dokja.⸥
+<&>「 "I am Kim Dokja."」
 My consciousness returned to me in full, and the chain of memories was organised in an instant. I was participating in the 'Great War of Saints and Demons' scenario, and had just entered the Main Island.
 It was awash with the various spectrum of 3rd generation Stories. Different Stories created different genres of worldviews, and the one right in front of my eyes was…
 "…Body possession."
@@ -76,7 +76,7 @@ Someone was calling out to me from beyond my hazy view.
 "…Hand me some water."
 "Here it is."
 After drinking large gulps of cold water, I felt my reasoning return bit by bit. My head was in a mess as the memories of someone else rushed in. I was now occupying the body of a man who had already lived for over 30 years.
-⸢In certain areas on the 'Main Island', words that don't align with the applicable worldview will be prohibited from being spoken.⸥
+<&>「 In certain areas on the 'Main Island', words that don't align with the applicable worldview will be prohibited from being spoken.」
 I could just about remember some stuff from the 'Ways of Survival'. Although this particular turn barely got a passing mention, the novel definitely did feature a scenario such as this one.
 The so-called 'Possession scenario'.
 I'd be advancing the scenario 'Great War of Saints and Demons' from this person's perspective from here onwards.
@@ -87,7 +87,7 @@ I'd be advancing the scenario 'Great War of Saints and Demons' from this person'
 <!>[You have performed actions befitting the personality of the host body.]
 <!>[Your understanding of the applicable host body is increasing.]
 Straight away, I began rummaging through the memories from the 'Ways of Survival'.
-⸢The Kaizenix Archipelago, the isle of heroes that led the Age of Saints and Demons.⸥
+<&>「 The Kaizenix Archipelago, the isle of heroes that led the Age of Saints and Demons.」
 I couldn't really recall any particularly useful information. Why did it have to be an area that didn't get much of a mention in the 'Ways of Survival'?
 But, it didn't feel like a completely foreign place to me, though…
 Was that because of the memories of the person I had possessed overflowing into me?
@@ -119,7 +119,7 @@ Tsu-chuchuchut!
 …Screw this damn penalty.
 The butler alongside me must've interpreted my actions in his own way, since he spoke as thus. "Indeed, your highness, it'll be better to enjoy yourself for one last time. Soon, 'his' majesty will call for you. Well, then."
 Leaving behind those words, the butler went away from my side. And I was left all alone in this small room.
-⸢Kim Dok ja is lone ly.⸥
+<&>「Kim Dok ja is lone ly.」
 Right, it's a relief that at least you're here with me. I wonder what had happened to my other companions…
 According to the last message I heard, it was highly probable that they all ended up in the same area as me. For the time being, I switched the scenario window on. The backlogged messages rose up non-stop in my view.
 <!>[You have entered Main Island's 'Kaizenix Archipelago'.]
@@ -140,15 +140,15 @@ My current priority should be to search for the other members of <Kim Dokja's Co
 Just as I began thinking, someone knocked on the door.
 The Knight Bilston Framer – if Ricardo's memories were correct, then that guy was supposed to be my escort knight.
 "His majesty is calling for you, your highness."
-The moment he pushed open the door to enter the room, I was immediately taken over by this unexplainable feeling. The person standing before me was a knight boasting white moustache in his early 40s. Without a doubt, I should've been unfamiliar with his appearance. But then…
+The moment he pushed open the door to enter the room, I was immediately taken over by this unexplainable feeling. The person standing before me was a knight boasting a white moustache in his early 40s. Without a doubt, I should've been unfamiliar with his appearance. But then…
 <!>[Your Stories are reacting towards the applicable individual!]
 <!>[Exclusive attribute, 'Scenario Interpreter', is displaying its effect!]
 The knight's face was changing bit by bit.
-⸢"…Ja-ssi"⸥
+<&>「 "…Ja-ssi"」
 A voice that I really missed entered my head, even though it hadn't been that long since last I heard it.
-⸢"Back when I was still in the military, there was an incident where I lost a spent cartridge."⸥
+<&>「 "Back when I was still in the military, there was an incident where I lost a spent cartridge."」
 The Story accumulated within the man was talking to me right now. Words that lost the majority of their strength were desperately pleading with me regarding something.
-⸢"I told myself to never lose one ever again."⸥
+<&>「 "I told myself to never lose one ever again."」
 I knew the owner of that particular Story well.
 "…Hyunsung-ssi?"
 When I spoke up, Lee Hyunsung stared back at me.
