@@ -51,17 +51,17 @@ No, I had no idea. I hadn't lived that long yet, after all.
 The entire world seemed to wiggle around, and the figure of Han Sooyoung living in this land floated up on the empty air.
 This was her Story. Her history, as she lived in this world.
 More specifically, the history as experienced by her host, 'Yuri di Aristel'.
-⸢The beautiful esteemed daughter of an Earl.⸥
-⸢A girl brought up for the sake of becoming a new queen.⸥
-⸢"Once you turn 18, you shall enter the royal castle."⸥
+<&>「The beautiful esteemed daughter of an Earl.」
+<&>「A girl brought up for the sake of becoming a new queen.」
+<&>「 "Once you turn 18, you shall enter the royal castle."」
 The Han Sooyoung I know could be seen among the chaotically-rising lines of texts.
-⸢"Fine. In that case, should I become a Swordmaster before I turn 18?"⸥
+<&>「 "Fine. In that case, should I become a Swordmaster before I turn 18?"」
 She began fighting against the world itself. She was living in this world with a clear, focused expression on her face.
 She was experiencing this world with an expression I couldn't recognise.
-⸢"Why is a young girl swinging around a sword?"⸥
-⸢"Magic is nothing but an illusion."⸥
+<&>「 "Why is a young girl swinging around a sword?"」
+<&>「 "Magic is nothing but an illusion."」
 Certain cliches would try to hinder a person with the pretext of being cliches. And the Han Sooyoung I know hated cliches more than anyone out there.
-⸢"Screw it, you think I'll marry just because you say so?! Bring someone stronger than me, than I'll marry that person, then!"⸥
+<&>「 "Screw it, you think I'll marry just because you say so?! Bring someone stronger than me, then I'll marry that person, then!"」
 Countless men stepped forward to take possession of the Earl's beautiful daughter. Among them were famed knights of the archipelago as well as renowned magicians.
 Han Sooyoung became stronger and stronger in order to defeat all the potential suitors with her own hands.
 At the end of the harsh training soaked in her blood and sweat, she became the Swordmaster, and eventually rose up as the Ninth Circle Archmage, and finally, the master of fear who controlled the powers of an evil dragon.
@@ -188,4 +188,4 @@ In the following moment, there was an explosion of scenario messages before my e
 …
 …
 And then, someone spoke to me.
-⸢You've managed to figure it out, haven't you, Kim Dokja.⸥
+<&>「You've managed to figure it out, haven't you, Kim Dokja.」
