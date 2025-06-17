@@ -21,7 +21,7 @@ Eighteenth in the ranking, 'Speed of Sound Demon King', 'Bathin'.
 Finally, 29th in the ranking, 'Grand Duke of Dragons and Foul Odour', 'Astaroth'.
 Even after excluding the 'Duke of Everywhere' who died at my hands, there were still three Demon Kings alive. Each and every one of them was not an easy opponent to fight against. Especially so, the 'Monarch of Stars and Logic', and the 'Speed of Sound Demon King'.
 If both of Buer's arms were still intact, or for that matter, Bathin's legs, then I'd probably have to risk my life here.
-<!>['Demon King of Salvation'!]
+<@>['Demon King of Salvation'!]
 <@>[What is the meaning of this?! Why are you fighting against other Demon Kings??]
 I shrugged my shoulders and glibly muttered my excuse. "I simply continued on with the promotion battle, that was all."
 <@>[Do you honestly believe that such an excuse will…]
@@ -30,7 +30,8 @@ I shrugged my shoulders and glibly muttered my excuse. "I simply continued on wi
 Bathin became incensed by what I said and formed an expression of a creature wanting to cut my head off, but too bad, there was nothing he could do when both of his legs were gone.
 <!>[You have re-enacted a portion of the '1st Great War of Saints and Demons'!]
 <!>[Demon King 'Asmodeus' is getting interested in your unexpected actions!]
-Actually, what I've done was exactly the same as what Asmodeus did back in the 1st Great War. The 'Monarch of Stars and Logic' Buer's expression hardened as he threw out a question. [You think you'll be fine after doing something like this?!]
+Actually, what I've done was exactly the same as what Asmodeus did back in the 1st Great War. The 'Monarch of Stars and Logic' Buer's expression hardened as he threw out a question. 
+<@>[You think you'll be fine after doing something like this?!]
 "Of course not." I remained utterly unfazed by the Demon Kings' auras while awakening my Status. "However, I do think that you shouldn't be worried about me here."
 <!>[You have unleashed the Demon King's Status!]
 <!>[Exclusive skill, 'Bookmark', is activating!]
@@ -76,7 +77,7 @@ Rather than answering her, he stared at the Incarnation Bodies strewn about the 
 "You see someone you know?"
 Without saying anything, Yoo Joonghyuk observed the collapsed Reincarnators. A few still surviving and writhing about extended their hands towards him. Their wounds were too serious and it was too late to save them. He lowered himself and stabbed his shortsword in each of their necks. When he did, they all passed on with a peaceful expression on their faces.
 Yuri di Aristel watching that scene suddenly raised her voice.
-⸢Sooyoung.⸥
+<&>「Sooyoung.」
 'Don't worry, Yuri. I won't let that happen to you'.
 She could see the souls of the dead Reincarnators scatter away.
 The ones fettered to the Mandala would be revived even if they were killed on this island. However, being an immortal certainly didn't mean that it was okay for them to die.
@@ -121,7 +122,7 @@ The leader of the Heavenly forces, Metatron, was in the middle of listening to t
 – <Vedas> has sent a dispatch, saying that they will participate.
 – <Asgard> has also declared their intention to participate. However, due to their own Giant Story, it seems that not many Constellations will participate from this side.
 – There hasn't been any contact, but we have spied some movements from <Emperor> as well. They are famous for their stick-and-carrot strategy, so…
-– 'Hell's Scribe' is diligently moving inside the neutral zone. Thanks to him, the participation rate has shot up irrelevant of whether they are Constellations or the Reincarnators.
+– 'Hell's Scribe' is diligently moving inside the neutral zone. Thanks to him, the participation rate has shot up regardless of whether they are Constellations or the Reincarnators.
 Metatron studiously took notes of every single report and after attaching a suitable response, sent them back.
 The 'Great War of Saints and Demons' this time was, as the name implied, a war with the fate of 'Good' and 'Evil' on the line. That was why Metatron was far more cautious and careful with this scenario.
 <!>[Absolute Good Points in the applicable camp is currently 56.]
@@ -132,7 +133,9 @@ The so-called 'Chaos Points'; when he asked the Great Dokkaebi about it, this wa
 – What does that mean?
 – It'll be no fun when detailed explanations are provided, so I won't offer you anything substantial. However, do remember this. No matter what happens, do not let the Chaos Points reach 100. Do you understand? If not, something truly horrifying will occur.
 Great Dokkaebis couldn't care any less about the fate of a Nebula. No, they were only hell-bent on creating more stimulating scenarios. So, these 'Chaos Points' must have been the fruit of their malicious scheme.
-<@>[This is boring, Scribe. Michael, polishing his sword in the corner of the barracks, spoke. I shall bring the head of Agares. Send me out.]
+<@>[This is boring, Scribe.]
+ Michael, polishing his sword in the corner of the barracks, spoke. 
+<@>[I shall bring the head of Agares. Send me out.]
 Michael had tasted humiliation twice at the hands of Kim Dokja and Yoo Joonghyuk on the 'Middle Island' scenario; his Incarnation Body had fully recovered through the authority of revival and now, he found himself inside the 'Main Island's' scenario, waiting.
 Metatron formed a thin smile at Michael and his hotly-burning desire.
 <@>[If we do that, the war will end too soon.]
@@ -141,7 +144,8 @@ Metatron formed a thin smile at Michael and his hotly-burning desire.
 Metatron looked at the screens being broadcast from all parts of the battlefields. Beings who had chosen the side of 'Good' or 'Evil' through their own decision were pointing their weapons at each other. Metatron knew that, although they were participating in this war as nothing more than simple mercenaries, their moral leanings would gradually change the longer the time went on.
 <!>[Oldest Good is wishing for a magnificent holy war.]
 Constellations participating in this war would eventually grow to hate each other in the name of 'Good' and 'Evil', and that hatred would burn brightly to create the next generation of Stories.
-Michael, watching the battle, spoke in a sulky tone of voice. [In that case, allow me to kill the bastards of <Kim Dokja's Company>, at least. I have a score to settle with them.]
+Michael, watching the battle, spoke in a sulky tone of voice. 
+<@>[In that case, allow me to kill the bastards of <Kim Dokja's Company>, at least. I have a score to settle with them.]
 Metatron shook his head. <Kim Dokja's Company> was an important variable in this scenario. That faction had to be used as much as possible.
 <@>[If it was before, sure, but it's not possible now. I have a different plan for them. If you step forward, Michael, then…]
 It was right there that a scenario message announced itself.
