@@ -38,7 +38,7 @@ Aeacus of Mercy and Righteousness.
 Minos of Wisdom and Law.
 Rhadamanthys of Impartiality and Incorruptibility.
 When alive, they walked the path of the king, and now, they tread on the paths of the netherworld's judges. They unleashed the auras befitting the Narrative-grade Constellations that they were and began cutting down the approaching enemies' numbers.
-<!>[How come the <Underworld> has…!!]
+<@>[How come the <Underworld> has…!!]
 <@>[Kuwaaahck!!]
 I landed next to Yoo Joonghyuk and Anna Croft while watching the enemies bleed out Stories and die.
 His entire body was covered in grievous wounds. Even his coat featuring strong resistance against heat couldn't withstand the high temperature and had melted half-way down; I couldn't really hear his breathing, either.
@@ -103,7 +103,8 @@ I could see Indra making a stunned face. But, it's still too early for that.
 "And you're Indra."
 <@>[Why is the <Underworld> helping you?]
 "Do I have a reason to explain that to you?"
-Indra stared at me with a look of a person discovering a mysterious lifeform. [You are 'Evil'. Behave according to the scenario's rules. I shall overlook your disrespectful manners this time in consideration towards other Demon Kings, so…]
+Indra stared at me with a look of a person discovering a mysterious lifeform. 
+<@>[You are 'Evil'. Behave according to the scenario's rules. I shall overlook your disrespectful manners this time in consideration towards other Demon Kings, so…]
 "It was you who caused my companion to end up looking like that. Right?"
 <@>[So? What about it? That is the price to pay for an arrogant human when he opposed a Constellation. Do you wish to avenge him, then?]
 Avenge, was it?
@@ -113,7 +114,8 @@ Kwaaa-boooom!!
 Beams of blinding thunderbolts blanketed the sky and rained down on my position. I managed to deflect a few and defended against others. Some did land on me, but the pain was rather tolerable.
 Indra did possess many Incarnations, but accordingly, the dispersion of his powers was just as great.
 On top of this, he suffered irreversible damage from Yoo Joonghyuk's attack during his Half-God Body state, so he'd be unable to even summon up half of his usual power right now.
-However, Indra was still smiling away. [Oh, you foolish Demon King. You shall regret this!]
+However, Indra was still smiling away. 
+<@>[Oh, you foolish Demon King. You shall regret this!]
 <!>[Nebula, <Vedas>, has blessed 'God-King of Thunderbolts' with its grace!]
 The Nebula had spent Probability for him.
 The power enveloping the God-King was growing even greater. Rapid changes took place on Indra's Incarnation Body, and soon, golden rays of light began shooting out from his entire figure. He grew humongous, and the one thousand eyes he possessed began opening up one by one.
@@ -134,10 +136,11 @@ During the Dark Castle's last scenario, I became the 73rd Demon King.
 The Status I earned after becoming the Demon King flooded out with my heart as the centre. Black wings tore out from the back of my shoulders, and horns broke out from my head.
 <!>[Story, 'Demon King of Salvation', has begun its storytelling.]
 Back when I lost my life to the swords of my allies and was cast out to the scenario's horizon, I looked up at the heavens and swore to myself over and over again.
-⸢Wait for a little while longer. Because I will bring all of you down from the damn sky.⸥
+<&>「Wait for a little while longer. Because I will bring all of you down from the damn sky.」
 The stars in the distant sky, seemingly out of reach no matter what Stories I managed to acquire.
-The distance so far away that it induced despair.
+The distance so far away that# it induced despair.
 Now, I could clearly see the locations of the stars that previously seemed so high up.
-I spoke in my true voice. [Back then, all of you seemed so high up…]
+I spoke in my true voice. 
+<@>[Back then, all of you seemed so high up…]
 I grinned and stared at Indra.
 <@>[But it seems that you're all hung a lot lower than I thought.]
