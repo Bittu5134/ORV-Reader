@@ -2,7 +2,9 @@
 If you were to unpack the contents of my declaration, then they went along the lines of "kill us, and you will definitely die, too".
 At first, the Constellations were agitated, then they began whispering among themselves, and finally, silence descended in their midst. Some stared at Agares, while the others, at Metatron. They were the holders of the highest authorities on this battlefield, but they simply maintained their silence with unreadable expressions on their faces.
 However, even though no orders were issued, the clouds of war unexpectedly began churning slowly on the outskirts of the gathered masses.
-<@>[<Kim Dokja's Company>. We know very well what you're trying to do. It was a Constellation from <Papyrus> who roared out with true voice. However, we still have a score to settle with you.]
+<@>[<Kim Dokja's Company>. We know very well what you're trying to do.]
+ It was a Constellation from <Papyrus> who roared out with true voice. 
+<@>[However, we still have a score to settle with you.]
 "I wonder about that. It's hard to tell who is owing who here."
 My retort prompted the Constellations of <Papyrus> to free their weapons from their sheaths.
 <@>[You said that you're neither 'Good' nor 'Evil'. That also means you are both 'Good' and 'Evil', too.]
@@ -19,9 +21,9 @@ The expressions of my companions froze up. Yoo Joonghyuk changed his attitude an
 He must've known it, too – even if <Underworld> and <Asgard> were with us, even if the members of <Kim Dokja's Company> were in one place…
 …If we clashed directly against them, then someone in our group would definitely die.
 Suddenly, my perception sped up and time slowed down somewhat.
-⸢Their advancing speed is quicker than I thought.⸥
-⸢Too many Constellations came to their decision too quickly.⸥
-⸢Maybe, I should've reached 80 in the Chaos Points first.⸥
+<&>「Their advancing speed is quicker than I thought.」
+<&>「Too many Constellations came to their decision too quickly.」
+<&>「Maybe, I should've reached 80 in the Chaos Points first.」
 Several sentences flitted in and out of my head.
 I recalled the 'Ways of Survival'. Who should I ask for help if I were to emerge victorious from this situation?
 My adopted parents in the <Underworld>?
@@ -73,8 +75,8 @@ The faces of Constellations grumbling away and the Demon Kings spewing out choic
 I realized the reason pretty soon.
 A single Constellation and a single Demon King were floating up above the frozen tsunami wave, that was why.
 They were Metatron and Agares. Two of the strongest beings in this battlefield had for the first time, unleashed their true voices.
-<!>[All Constellations, withdraw your hostilities and return to your positions!]
-<!>[The battle will be paused for the time being.]
+<@>[All Constellations, withdraw your hostilities and return to your positions!]
+<@>[The battle will be paused for the time being.]
 I raised my head up towards the air above after hearing their sudden declaration of a cease-fire.
 The reason for the cease-fire could be seen etched in that spot.
 <!>[Chaos Points have surpassed 80.]
