@@ -95,11 +95,12 @@ function findChapter(value) {
 
     for (let i = 0; i < ChapterList.length; i++) {
 
-        let title = String(ChapterList[i].title).toLowerCase();
+        const displayTitle = String(ChapterList[i].title);
+        let title = displayTitle.toLowerCase();
         let chSearchindex = title.indexOf(value.toLowerCase());
         let index = ChapterList[i].index;
         if (chSearchindex !== -1) {
-            chSearchresult.push(`<div class="chapter_item"><a href="./read/ch_${index + 1}"><p>${title}</p></a></div>`);
+            chSearchresult.push(`<div class="chapter_item"><a href="./read/ch_${index + 1}"><p>${displayTitle}</p></a></div>`);
         }
     }
     chapterSearch.innerHTML = chSearchresult.join("");
