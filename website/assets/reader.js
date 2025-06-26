@@ -513,6 +513,13 @@ async function releaseWakeLock() {
 // Request wake lock when the page loads
 window.addEventListener('load', requestWakeLock);
 
+// Request wake lock when the page is navigated back to
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') {
+    requestWakeLock()
+  }
+});
+
 // Release wake lock when the page is unloaded (navigated away from or closed)
 window.addEventListener('beforeunload', releaseWakeLock);
 
