@@ -122,7 +122,7 @@ The confused executioners looked at the weapons in the air with stupid eyes. I s
 <&>「 There are two ways to withstand Night in the industrial complex. 」
 <&>「 One is to run away from the executioners until the end of the Night. 」
 <&>「 And the other one… 」
-"Have you forgotten? There isn't only the evolutionary and executioner in this scenario."
+"Have you forgotten? There isn't only the revolutionary and executioner in this scenario."
 This was followed by a message in my ears.
 <!>[Someone is using their vitality to protect you.]
 <&>「The second way to survive the Night is with the help of the Guardian. 」
@@ -131,7 +131,8 @@ This meant that other incarnations didn't know the identity of the revolutionary
 Yet what if I declared myself the revolutionary?
 <!>[The guardian was successful and the mark of death has been released!]
 The executioner could only use the mark of death once in one night. The mark had been released so today's execution was over.
-The executioner spoke in a bloodthirsty voice. […Your luck is go od.]
+The executioner spoke in a bloodthirsty voice. 
+<@>[…Your luck is go od.]
 "You better be careful. Next time we meet, it will be daytime."
 The executioners gritted their teeth and scattered one by one. The dreary sound of the flutes disappeared and the darkness went out like a tide.
 Outside the pub, the incarnations were staring inside with passionate eyes. The arrogant Jang Hayoung was glancing this way with shocked eyes. I wondered if I should say something before eventually shrugging and waving my hand.
