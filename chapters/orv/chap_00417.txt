@@ -49,7 +49,8 @@ A faint flash of light flickered in the 'Secretive Plotter's eyes.
 The 'Secretive Plotter' stared at me with a pair of quiet, contemplative eyes. He seemed to be thinking about something, and also, maybe a bit angry, as well.
 Just how long passed by like this? His left eyebrow quivered rather greatly. I suddenly recalled a certain passage from the 'Ways of Survival' just then.
 ⸢Whenever Yoo Joonghyuk makes a serious decision, his left eyebrow would quiver.⸥
-The Secretive Plotter spoke. [I'll put forth a condition.]
+The Secretive Plotter spoke.
+<@>[I'll put forth a condition.]
 "What kind?"
 <@>[I'm sure you're curious as to why I brought you here.]
 I nodded my head. Of course I was curious.
@@ -109,7 +110,8 @@ However, I didn't spot any signs of the storm around the 'Secretive Plotter'.
 "Sounds like you've been rehearsing that answer for a while there. It sounds so natural, too. Even if I assume that you're being truthful, quite unfortunately for you, you seemed less than satisfied after I succeeded in my mission. Also, you looked quite surprised, too."
 <@>[…Ask your next question.]
 "No, you go ahead first. I'll ask mine last."
-The 'Secretive Plotter' stared at me for a little while before eventually opening his lips. [Fine. What is the final reason why I can't be 'Yoo Joonghyuk from the 1863rd turn'?]
+The 'Secretive Plotter' stared at me for a little while before eventually opening his lips.
+<@>[Fine. What is the final reason why I can't be 'Yoo Joonghyuk from the 1863rd turn'?]
 "I have a special method to find that out. I possess a skill that allows me to read the inner thoughts of the other party."
 <@>[So?]
 "But then, the 1863rd turn's Yoo Joonghyuk became an existence that I can't read anymore."
@@ -122,7 +124,8 @@ I clearly remembered the moment that Yoo Joonghyuk left for the next turn. The m
 <!>[Your degree of understanding on the applicable individual is simply far too inadequate!]
 <!>[Your degree of understanding simply can't catch up to the Status of the applicable individual!]
 I quietly looked up at the messages floating up in the air.
-The 'Secretive Plotter' frowned deeply. [I can't accept that as your reason. You are…]
+The 'Secretive Plotter' frowned deeply.
+<@>[I can't accept that as your reason. You are…]
 "I'll ask my last question," said I, not giving him any chance to speak. "Back in the planet where I used to live, there happened to be a novel called 'Three Ways to Survive a Ruined World'."
 Almost instantly, the surrounding atmosphere changed. The expression on the Secretive Plotter's face sunk to its coldest yet. His eyes had become cold-blooded, as if he'd murder me at any given second.
 I desperately resisted that aura and continued on. This was one question that I wanted to ask all along. "'Secretive Plotter'. Are you someone who knows the epilogue of that novel?"
