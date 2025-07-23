@@ -8,7 +8,7 @@ The constellations chasing after us stopped one by one in distant places and all
 <!>[Some constellations who failed to chase you are disappointed.]
 <!>[The constellation 'Prisoner of the Golden Headband' is yawning and asking if it is all over.]
 <!>[The constellation 'Demon-like Judge of Fire' is rejoicing with sleepy eyes!]
-<!>[The constellation 'Dragon Lying Down' is nodding at you ploy.]
+<!>[The constellation 'Dragon Lying Down' is nodding at your ploy.]
 <!>[Some constellations are pointing fingers at your cowardice.]
 It didn't matter if they pointed fingers or not. The most important thing was to survive. Dokgak stared down at me with disapproving eyes and sent me compensation.
 <!>[You have obtained 200,000 coins as compensation.]
@@ -67,8 +67,8 @@ I could feel the mood just be looking at the beings entering the channel.
 The constellations I had met also appeared in the high skies.
 I tried to relax as I looked up at them in the sky. I had finally come to this place. There were still many scenarios remaining and they were far away. Nevertheless, it wasn't a long way off now. At the very least, I came to a place where these lofty constellations were located in this mountain range.
 <!>[The 25th main scenario has arrived!]
-<!>[Excessive skipping of the main scenario has damaged party of your status.]
-I didn't carry out the scenarios in the 20s. I started to 25th scenario straight away so it was unavoidable that there would be a loss in probability.
+<!>[Excessive skipping of the main scenario has damaged part of your status.]
+I didn't carry out the scenarios in the 20s. I started the 25th scenario straight away so it was unavoidable that there would be a loss in probability.
 <!>[The Main Scenario ― 'Demon King Selection' has started!]
 +
 [Main Scenario #25 - Demon King Selection]
