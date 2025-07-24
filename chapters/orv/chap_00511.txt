@@ -66,7 +66,8 @@ The companions and I disembarked from the unmoving train and dashed towards the 
 <!>[You can't interfere with the 'Final Wall's' sentences.]
 <!>[Applicable paragraphs are prohibited from being overwritten.]
 <!>[Please input the cancellation code.]
-The 'Secretive Plotter' spoke up. 【No regular methods will work. I've already used physical force before, but couldn't destroy this wall.】
+The 'Secretive Plotter' spoke up. 
+<#>【No regular methods will work. I've already used physical force before, but couldn't destroy this wall.】
 Jung Heewon shouted out. "We came this far, so there must be…!"
 <#>【From here on, it's your job.】
 He was now looking at me. Somewhere within that gaze was the 3rd turn Yoo Joonghyuk's, who had completed the scenarios alongside me.
@@ -137,7 +138,9 @@ It felt like my hand was set on fire. Stories clung onto me and stabbed into my 
 <!>[The 'Final Wall' is puzzled by your actions.]
 <!>[The 'Final Wall' is asking you, wasn't this the story you wanted?]
 I didn't want it. Who would want a conclusion like this?
-<@>[Stop! I said, stop that right now!! The 'Dokkaebi King' persistently chased after us, Stories dripping from all over his body. Thick murderous aura was filling up his eyes. You must not touch the Wall! You'll regret it! There is nothing beyond this Wall! Not even what you wished for, not even what you wanted to see!]
+<@>[Stop! I said, stop that right now!!]
+The 'Dokkaebi King' persistently chased after us, Stories dripping from all over his body. Thick murderous aura was filling up his eyes.
+<@>[You must not touch the Wall! You'll regret it! There is nothing beyond this Wall! Not even what you wished for, not even what you wanted to see!]
 He was wrong. The 'Oldest Dream' was beyond this Wall.
 "Wenny King!"
 The Wenny King hiding within my shadow imprisoned the Dokkaebi King's body.

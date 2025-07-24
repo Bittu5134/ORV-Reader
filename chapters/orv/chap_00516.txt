@@ -117,7 +117,7 @@ The sights of the world they used to live in could be seen faintly just beyond t
 The Constellations were alive, too.
 Even the Maritime War God, Goryeo's First Sword… Everyone was still alive. Even though they had lost their previous lustre, they were still drawing breaths in this world-line.
 Biyoo spoke up as she looked at those Constellations.
-<!>[<Star Stream> still remains. The channel system has crumbled down, and Constellations can no longer wield as much power as they used to, but still, it was such a huge Story that it'll take some time for it to completely crumble down.]
+<@>[<Star Stream> still remains. The channel system has crumbled down, and Constellations can no longer wield as much power as they used to, but still, it was such a huge Story that it'll take some time for it to completely crumble down.]
 A couple of my companions sighed in relief. A sigh that they themselves couldn't really understand.
 Lee Jihye asked again. "But, the dream is over, right? So how can this world continue to exist?"
 <@>[I already told you, I also don't know. Be smart enough to listen properly when someone tells you something the first time.]
@@ -209,7 +209,7 @@ Right in the next second, my transparent figure emerged from the empty space. Ac
 I smiled wryly. "This was the only way."
 I looked up, and the messages clogging up the message log all floated up at once.
 <!>[You have cleared the 'Final Scenario'.]
-<@>[You are the only person who knows the secret of this world.]
+<!>[You are the only person who knows the secret of this world.]
 <!>[Currently, the 'Oldest Dream' is absent.]
 <!>[The world's time will not flow if the dream doesn't continue.]
 These were the messages only visible to me.

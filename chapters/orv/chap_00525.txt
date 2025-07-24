@@ -26,7 +26,7 @@ I couldn't show Yoo Joonghyuk what's beyond the [Wall]. Even if I was the 'Oldes
 Yoo Joonghyuk continued on. "You told me this once upon a time. If I sign the contract with you, you will grant any one wish of mine. Back then, I didn't accept your offer because I was suspicious of you. However, if it's not too late…"
 His fingers hovered in the air, searching for a log message that reached him in the distant past.
 <!>[Constellation, 'Demon King of Salvation', wishes to become your Constellation sponsor.]
-<@>[Will you accept the offer?]
+<!>[Will you accept the offer?]
 "I shall accept it now."
 Dizziness rushed in and the shaking of my surroundings worsened.
 I called out to [The Fourth Wall].

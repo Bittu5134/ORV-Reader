@@ -61,10 +61,11 @@ After Biyoo heard about the general gist of the situation, she responded in the 
 Yoo Joonghyuk frowned deeply at that somewhat mocking tone of voice. The more he heard her talk, the more she began sounding like Kim Dokja for some reason.
 <@>[The odds of success are not very good, you know.]
 "I know."
-<!>[The 'Oldest Dream' of that world-line might not even read the story. And the more advanced a civilisation is, the less important the contents made up purely of letters becomes. So you may not even get a chance to approach such a world, too.]
+<@>[The 'Oldest Dream' of that world-line might not even read the story. And the more advanced a civilisation is, the less important the contents made up purely of letters becomes. So you may not even get a chance to approach such a world, too.]
 "Before that, crossing the world-lines is the biggest problem."
 Yoo Joonghyuk stared at the half-destroyed ark. Although he got lucky with Biyoo's help and managed to survive, it was impossible to visit other world-lines without the vessel.
-Biyoo thought about something for a while then spoke what's in her mind. [Why can't you go? What are the coordinates? Give to me.]
+Biyoo thought about something for a while then spoke what's in her mind.
+<@>[Why can't you go? What are the coordinates? Give to me.]
 With a slightly unconvinced face, Yoo Joonghyuk handed over the list of coordinates Yoo Sangah gave him earlier. Biyoo confirmed all the world-lines on it and smiled refreshingly.
 <@>[You do know who I am, right? I'm none other than the 'Dokkaebi King', you know.]
 It was right then, Yoo Joonghyuk recalled an obvious fact.
@@ -179,7 +180,8 @@ Yoo Joonghyuk clicked on the confirmation icon. When he did, a transparent threa
 <!>[Dokkaebi King 'Biyoo' has exercised her authority and altered the 'Cloud System'.]
 <!>[The system's influence is minimal in this worldview. Additional Probability will be consumed!]
 <!>[The set-up, 'Inspiration Sharing', has been created!]
-Biyoo wiped away the strands of sweat from her forehead and spoke. [I've synchronised the cloud's files with this guy's subconsciousness. From now on, the stories Han Sooyoung writes in the future will be updated automatically to this guy's subconscious mind.]
+Biyoo wiped away the strands of sweat from her forehead and spoke.
+<@>[I've synchronised the cloud's files with this guy's subconsciousness. From now on, the stories Han Sooyoung writes in the future will be updated automatically to this guy's subconscious mind.]
 Now that was a truly stunning Story manipulation ability. Even Han Sooyoung needed quite a lot of time to create a single Stigma, so this…
 Yoo Joonghyuk asked her. "Is this method safe? What if this fool unnecessarily starts suspecting something…?"
 <@>[Suspect? Not very likely. No, he's gonna love the change, actually. I mean, he's being showered by inspirations, so which writer wouldn't welcome that with open arms? He'll definitely believe that he's the one writing this story.]
