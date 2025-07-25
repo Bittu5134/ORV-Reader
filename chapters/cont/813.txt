@@ -22,12 +22,12 @@ I looked around because the back of my neck felt cold. There was nothing in part
 I looked at the fourth guideline.
 —Your current exploration level: 10%
 If this guideline is false, there is a problem that you cannot know the exact exploration level, but the exploration level itself does not disappear, so it is not a big problem.
-The last fifth.
+The last, fifth.
 —All 'Fear' has an interpretation. Find a probable interpretation and increase the Fear exploration level.
-If this guideline is false, it means that 'uninterpretable Fear' exists.
+If this guideline is false, it means that 'Uninterpretable Fear' exists.
 After reading it carefully, I thought that this could be false.
 The world of the <Star Stream> is vast, and the Fear Realm has not been interpreted yet.
-There are many Fears that neither 'Ways of Survival' nor the 'Fear Realm Expedition' have recorded, so it would not be strange if 'uninterpretable Fear' exists.
+There are many Fears that neither 'Ways of Survival' nor the 'Fear Realm Expedition' have recorded, so it would not be strange if 'Uninterpretable Fear' exists.
 After finishing my thoughts, I slowly raised my head and saw a side road that spread out into the hazy darkness.
 I wondered if it was because I thought that a threatening Fear could appear at any time or place. I unknowingly tensed my throat.
 <&>「Let's calm down.」
@@ -40,6 +40,7 @@ No one else but Kim Dokja and my own history proved that fact.
 I slowly took my first step toward the side road.
 ***
 <#>【I'm here.】
+# is this an outer god speaking? I wonder who....
 ***
 A lot of time had passed since I confidently took my first step. I couldn't tell exactly how much time had passed.
 What was certain was that I had walked quite a bit.
@@ -67,10 +68,10 @@ I literally saw it briefly. But just that 'short glimpse' sent an alarm bell rin
 There was no separate message, but I could tell that it was some kind of 'Fear'.
 Damn, did I make the wrong choice.
 The moment I turned my back to turn back belatedly.
-<!>['An unknown Fear' is looking at you.]
+<!>[An 'Unknown Fear' is looking at you.]
 I barely managed to take a step.
-<!>['An unknown Fear' is looking at you!]
-<!>['An unknown Fear' is warning you!]
+<!>[An 'Unknown Fear' is looking at you!]
+<!>[An 'Unknown Fear' is warning you!]
 My instincts were warning me.
 It was already wrong to turn back.
 If I turned back now, there was a high chance that I would die.
@@ -78,9 +79,10 @@ I turned my back again and looked forward. The long-necked thing was still stand
 The guy didn't react. It seemed like this was the right thing to do.
 Upon closer inspection, I saw a white ladder-like thing drawn on the side road leading to the guy. I started walking along the ladder drawing.
 How long did I walk?
-xThe eyes of the long-necked guy blinked.
+The eyes of the long-necked guy blinked.
 <!>['Nameless Fear' is looking at you.]
 <!>['Nameless Fear' warns you.]
+# I think it is same for An Unknown Fear
 I stopped walking reflexively. The place I stopped was a land without a ladder drawing.
 The long-necked guy's eyes blinked abnormally fast and then changed to a different color.
 Ah.
@@ -88,14 +90,14 @@ Only then did I realize what this 'Fear' was.
 The 'long-necked guy' shining through the dim darkness.
 That guy's identity was.
 <&>「Traffic light.」
-I was right. It was a 'traffic light'. A traffic light with red and green  lights.
+I was right. It was a 'traffic light'. A traffic light with red and green lights.
 I belatedly understood the ladder drawing I had been walking along.
 <&>「Crosswalk.」
 I don't know why a traffic system exists here, but one thing is certain: this is also a 'Fear'.
-<!>['An unknown Fear' is looking at you.]
+<!>['An Unknown Fear' is looking at you.]
 I turned the page of 'Ways of Survival' that I had been reading so far in my head.
 Was there a Fear related to 'traffic lights' in the Fear Realm?
-<&>「There are a total of 14 'Fears' in the 'entrance area' introduced in 'Ways of Survival'.」
+<&>「There are a total of 14 'Fears' in the 'Entrance Area' introduced in 'Ways of Survival'.」
 Out of the 14 Fears that I know of, there is no Fear related to 'traffic lights'.
 That meant that 'Fear' was a relatively recent Fear.
 I took a deep breath and thought.
@@ -138,12 +140,12 @@ The moment I thought about it, my ankles began to tingle.
 <&>「Then you should not cross the 'crosswalk' even more.」
 Crack.
 The sound of flesh being crushed and bones breaking. The sound of organs bursting. The sound of blood vessels being torn. Almost all the sounds that could crush and destroy a human body were heard right in front of my face.
-Even I, who could compete with the great-grade Constellations, could not observe the moment of the impact.
+Even I, who could compete with the Great-grade Constellations, could not observe the moment of the impact.
 <!>['Unknown Fear' is looking at you.]
 The sound disappeared and I came back, leaving only the traffic light.
 The red light of the traffic light illuminated the quiet crosswalk. On the crosswalk that had been crowded with people until then, only footprints and dark red skid marks remained.
 <!>[The exclusive skill 'Fourth Wall' is activated.]
-The rule of keeping the signal is not wrong. If so, the problem is when will 'the signal change?
+The rule of keeping the signal is not wrong. If so, the problem is when will 'the signal' change?
 No matter how much I thought about it, there was no way to figure out the rule. I guess I just have to wait for the signal to change.
 <!>[The exclusive skill 'Fourth Wall' is strongly activated!]
 At that moment, I heard the sound of teeth chattering from somewhere.
@@ -152,13 +154,13 @@ A moment later, I remembered that people were being chased by something.
 <#>【Teeth Teeth Teeth Teeth Teeth Teeth】
 This damn thing.
 <#>【Mirror Mirror Mirror Mirror Mirror Mirror Mirror Mirror】
-When I looked back, I saw a shark head running recklessly from the distant darkness. As expected, the guy had chased me from the martial arts world.
+When I looked back, I saw a shark-head running recklessly from the distant darkness. As expected, the guy had chased me from the martial arts world.
 The size of the guy who revealed his complete appearance from inside the Fear world was truly enormous.
 The moment I saw the heads of the martial arts people caught in the guy's teeth, I made a judgment.
 I must run away no matter what.
 The situation was different from the martial arts world. This is 'the Fear Realm'. It was a place where that Outer God could run wild, ignoring the plausibility of the scenario.
 <#>【Teeth and teeth】
-A shark's head behind, a traffic light in front.
+A shark-head behind, a traffic light in front.
 There is only one way to survive.
 <&>「I must interpret the Fear.」
 I thought about the logic of the traffic light in my head.
