@@ -165,8 +165,8 @@ The two could become comrades.
 <!>[Some of the documents of SVRP 040 will be modified.]
 <!>[The Master of Fear approves your records.]
 …
-<!>[The 'Recorder of Fear' who previously wrote the horror approves your edits.]
-<!>[Your horror is recorded in the blank space on the wall.]
+<!>[The 'Recorder of Fear' who previously wrote the Fear approves your edits.]
+<!>[Your Fear is recorded in the blank space on the wall.]
 A voice I knew very well whispered in my ear.
 <#>【Good. This is the story I was waiting for. Kim Dokja.】
 ***
