@@ -5,25 +5,35 @@ If I didn't know the initial strategy, I would have ended up like the first Fear
 By the way, which of these instructions is false?
 I looked through the instructions from the beginning and checked if each instruction was 'false'.
 First, the first instruction.
++
 —To complete the main scenario, you must successfully complete 'Fear Realm'.
++
 If this instruction is false, I can think of one possibility.
 That is, to complete the main scenario, I don't need to successfully complete 'Fear Realm Exploration'.
 A guideline being 'false' does not necessarily mean a bad outcome.
 If this interpretation is possible, it is actually beneficial to me if this instruction is false. Because it means 'There is a way to complete the main scenario without filling up all the exploration maps'.
 And then the second.
++
 —The Fear Realm is divided into 'Entry Zone', 'Middle Zone', and 'End Zone'.
++
 If this guideline is false, it means that the Fear Realm has additional zones other than the 'three zones'.
 According to the records of the previous Fear Realm expedition, the Fear Realm has only three zones, so the possibility of this guideline being false is not high.
 The problem is the next guideline.
++
 — You are currently located in the 'Entry Zone' of the Fear Realm.
++
 If this guideline is false, the problem becomes a little more serious.
 If the place I am now is not the 'Entry Zone'...
 I looked around because the back of my neck felt cold. There was nothing in particular, but not seeing anything made me even more scared.
 I looked at the fourth guideline.
++
 —Your current exploration level: 10%
++
 If this guideline is false, there is a problem that you cannot know the exact exploration level, but the exploration level itself does not disappear, so it is not a big problem.
 The last, fifth.
++
 —All 'Fear' has an interpretation. Find a probable interpretation and increase the Fear exploration level.
++
 If this guideline is false, it means that 'Uninterpretable Fear' exists.
 After reading it carefully, I thought that this could be false.
 The world of the <Star Stream> is vast, and the Fear Realm has not been interpreted yet.
@@ -80,8 +90,8 @@ The guy didn't react. It seemed like this was the right thing to do.
 Upon closer inspection, I saw a white ladder-like thing drawn on the side road leading to the guy. I started walking along the ladder drawing.
 How long did I walk?
 The eyes of the long-necked guy blinked.
-<!>['Nameless Fear' is looking at you.]
-<!>['Nameless Fear' warns you.]
+<!>[An 'Unknown Fear' is looking at you.]
+<!>[An 'Unknown Fear' warns you.]
 # I think it is same for An Unknown Fear
 I stopped walking reflexively. The place I stopped was a land without a ladder drawing.
 The long-necked guy's eyes blinked abnormally fast and then changed to a different color.
@@ -94,7 +104,7 @@ I was right. It was a 'traffic light'. A traffic light with red and green lights
 I belatedly understood the ladder drawing I had been walking along.
 <&>「Crosswalk.」
 I don't know why a traffic system exists here, but one thing is certain: this is also a 'Fear'.
-<!>['An Unknown Fear' is looking at you.]
+<!>[An 'Unknown Fear' is looking at you.]
 I turned the page of 'Ways of Survival' that I had been reading so far in my head.
 Was there a Fear related to 'traffic lights' in the Fear Realm?
 <&>「There are a total of 14 'Fears' in the 'Entrance Area' introduced in 'Ways of Survival'.」
@@ -169,4 +179,4 @@ A traffic system where the signal changes after a certain amount of time. A cert
 <&>「Time.」
 A light flashed in my head for a moment.
 <&>「A traffic light that doesn't change even after time passes.」
-Maybe I aleady knew the answer.
+Maybe I aleady knew the answer. 

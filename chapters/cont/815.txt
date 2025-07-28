@@ -40,7 +40,7 @@ Wow.
 A faint green light began to glow on the tunnel wall.
 "This is—"
 I knew what it was.
-<!>['Nameless Fear' is activated!]
+<!>[An 'Unknown Fear' is activated!]
 <!>[Disaster-level Fear — 'Sanctuary of the Brave' is activated.]
 Sanctuary of the Brave.
 It was right.

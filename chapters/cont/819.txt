@@ -21,7 +21,7 @@ What if the first scenario is about to break out inside there, and the suppressi
 "I said not to ride it."
 —Don't say that! That's the trigger!
 "Huh?"
-<!>[A 'Nameless Fear' has been unlocked.]
+<!>[An 'Unknown Fear' has been unlocked.]
 <!>[Catastrophic Fear 'Strong Negation is Strong Affirmation' is activated!]
 What?
 <!>['Strong Negation is Strong Affirmation's effect is realized!]

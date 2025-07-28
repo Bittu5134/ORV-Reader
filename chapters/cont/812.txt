@@ -80,7 +80,7 @@ Finally, I entered.
 Into the Fear.
 ***
 As soon as I entered the Fear, what hit me was a terrifying cold air that seemed to freeze even my thoughts.
-<!>['Nameless Fear' is invading you.]
+<!>[An 'Unknown Fear' is invading you.]
 My breathing slowly became suffocated. My hands and feet were shaking and my head was dizzy.
 I realized that the scenario had already begun. If I just stayed like this, I would definitely die.
 But there was nothing I could do. Left, right, front, back, up, down. No matter where I looked, all I could see was pitch-black darkness. What spread out was just endless darkness. And 'me', whose presence was gradually fading away.
@@ -114,7 +114,6 @@ I exhaled, "Huh-huh-huh." I heard a sound again, and felt breathing.
 <!>[Interpretation success!]
 <!>[Interpretation suggestion: Maybe the world is a fiction that is newly created every time you blink.]
 <!>[The Fear Realm accepts your interpretation.]
-+
 <!>[An interpretation reward will be awarded.]
 The interpreted 'Fear' soon became a legend.
 <!>[You have acquired the Story Fragment 'Fictionalization'.]
@@ -127,7 +126,7 @@ I barely passed the hurdle.
 With this, I also obtained the qualification to explore 'Fear Realm'.
 <!>[Additional scenario content will be revealed.]
 +
-<Fear Realm Exploration Guidelines>
+[Fear Realm Exploration Guidelines]
 —To complete the main scenario, you must successfully complete 'Fear Realm Exploration'.
 —Fear Realm's sections are divided into 'Entry Area', 'Middle Area', and 'End Area'.
 —You are currently located in the 'Entry Area' of Fear Realm.
