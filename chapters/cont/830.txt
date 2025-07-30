@@ -109,7 +109,7 @@ For example, it goes like this.
 <&>「Eliminate the Disaster-level Fear 'Backstepper' that appeared in [2-16 Round] (incomplete).」
 <&>「Eliminate the Disaster-level Fear 'Dragon Eater' that appeared in [22-14 Round] (currently in progress).」
 <&>「Eliminate the Natural Disaster-level Fear 'Founder of the Absolute Throne' that appeared in [124-24 Round] (currently on hold).」
-# I think here there should be system msg or something like that but not sure.
+
 According to the Transcendents, these tasks were a kind of earthquake that occurred in the 'Time Fault'.
 The Otherworldly Deities, Outer Gods, or Fears that were wandering around the <Star Stream> would wander around looking for a place to hide and become parasites in the 'Time Fault', and from there, problems would occur throughout the Fault.
 The Transcendents of the Transcendent Alliance were in charge of eliminating such strange phenomena and managing the 'Time Fault'.
@@ -191,7 +191,7 @@ These were the characters in 「The World After The Fall」 written by Kiyeon an
 "People from a world that has already been destroyed."
 Before coming here, they were the colleagues of 'Jaehwan-nim' whom I had met.
 
-# add images of world after the fall characters
+
 <img>[830 - Chunghuh - God of Despair - The World After the Fall.png][Chunghuh Image]
 <?> Image of the character Chunghuh - God of Despair from The World After the Fall (It is another work of the author Sing N Song, which they introduced in ORV)
 
