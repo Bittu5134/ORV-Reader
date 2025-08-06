@@ -19,7 +19,7 @@ The man put down the tea he was drinking on the table and asked.
 Another man stood behind him.
 A man with bright hair and narrowed eyes. A dark red coat reminiscent of dried blood.
 <&>「That’s how it is. After writing, you always feel regret.」
-<&>「The record of '40th round' has changed just as you wanted.」
+<&>「The record of '40th Round' has changed just as you wanted.」
 <&>「Well, that’s it for now.」
 <&>「Then it wouldn’t matter if you left.」
 Cheon Inho smiled and sat down in the chair the man had prepared. Then he spoke with his characteristic narrowed eyes even narrower.

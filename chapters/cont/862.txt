@@ -163,7 +163,7 @@ I thought I could get out.
 <&>「What are you going to do when you go out?」
 I’m going to stop the apocalypse.
 <&>「How?」
-I have to convince the second Kim Dokja.
+I have to convince the Second Kim Dokja.
 I have to ask him to stop the apocalypse.
 I got goosebumps for a moment.
 The [Fourth Wall] is now broken.
@@ -173,5 +173,5 @@ The dust of stories fluttering from his wings like snowflakes. The moment I smel
 The snow flurry that made me feel drunk if I lost my mind even for a moment.
 The boy landed gracefully with his mysteriously sparkling, translucent wings spread wide.
 <&>「How?」
-The second Kim Dokja.
+The Second Kim Dokja.
 He was the 'King of Fear'.
