@@ -87,7 +87,7 @@ I saved my life several times with this skill at the beginning of the scenarios.
 <!>[The time to enter the 'Snowfield' is reduced.]
 <!>[Describe your next action.]
 +
-# Choi Huryong's Paragraph
+# Apocalypse Dragon's Paragraph
 <&>「At that moment, ■■■ is □□□□□□□□□□□□□□□□□□…」
 * Based on the current proficiency, a total of ??? additional descriptions are possible.
 +
