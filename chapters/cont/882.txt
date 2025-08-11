@@ -34,15 +34,15 @@ At that moment, an ominous spark began to fly from her entire body.
 The moment I suddenly stood up from my seat, sensing the ominousness, the scenery of the world stopped.
 <!>[Exclusive skill, '□□', is activated!]
 The scenery was dyed colorless.
-<@>[Entering 'Snowfield'.]
+<!>[Entering 'Snowfield'.]
 <!>[There is a lack of probability for 'Snowfield' to continue.]
-<@>['Snowfield' does not function smoothly in this area.]
-<@>['Snowfield' will end soon.]
+<!>['Snowfield' does not function smoothly in this area.]
+<!>['Snowfield' will end soon.]
 If 'Snowfield' was activated regardless of my will, there is only one reason.
 A decisive event in this 'worldline' is about to happen right before my eyes.
 I immediately looked up at the sky and saw a pitch-black lightning bolt flowing out of the 'Great Hall' just before it closed.
 It was clear who the lightning bolt was targeting. Han Sooyoung opened her eyes wide. I had no time to think or write a sentence.
-<@>['Snowfield' ends.]
+<!>['Snowfield' ends.]
 I almost instinctively flew toward Han Sooyoung.
 Following that, a massive torrent poured down from the sky, piercing through the outer wall of the base and exploding into the room. Darkness fell upon the world.
 ***
@@ -64,8 +64,8 @@ In the strange darkness, I could hear mutterings.
 "What's a direct hit? It must've just grazed."
 "Even if it grazed, it's enough power to annihilate a mediocre Constellation."
 "How did this guy endure that?"
-"I don't know. Anyway, the captain survived thanks to this ahjussi."
-"Damn, I should have been next to the captain!"
+"I don't know. Anyway, the Captain survived thanks to this ahjussi."
+"Damn, I should have been next to the Captain!"
 I tried to catch my breath and roll over several times. After about an hour or two, I gradually regained my senses.
 <!>[The story, 'One Who Rewrites Fate', continues its storytelling.]
 <!>[The exclusive skill, 'Fourth Wall', is activated.]
