@@ -116,7 +116,8 @@ What if, they could move to another world-line's specific point in history? If t
 Han Sooyoung hurriedly shouted out. "Bihyung. The world-line we want to go to is…!"
 However, even before she could finish, a message came to her first.
 <!>[It's impossible to set sail to the applicable world-line.]
-Bihyung's expression became confused. [Mm? What's gotten into it? I don't think it has ever said something like this before?]
+Bihyung's expression became confused.
+<@>[Mm? What's gotten into it? I don't think it has ever said something like this before?]
 "What's wrong? Is it broken?"
 <@>[Call out a different world-line.]
 Han Sooyoung spoke up again. That resulted in yet another message.
@@ -127,7 +128,8 @@ She repeatedly mentioned other world-lines. She spoke, then spoke again. However
 …
 …
 <!>[It's impossible to set sail to the applicable world-line.]
-Utterly flustered now, Bihyung began muttering out. [Passageways to all those world-lines have been closed off. It means the possibilities that used to be open between the world-lines have completely shut down.]
+Utterly flustered now, Bihyung began muttering out.
+<@>[Passageways to all those world-lines have been closed off. It means the possibilities that used to be open between the world-lines have completely shut down.]
 "We can't go?!"
 <@>[Looks that way. Huh, can something like this even happen?]
 All the world-lines related to the 'Ways of Survival', the ones she could remember, were blocked off.

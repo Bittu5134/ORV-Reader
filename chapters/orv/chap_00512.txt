@@ -37,14 +37,15 @@ That was all he needed to remember.
 Remember that those damned Dokkaebis took away the Wenny's song; remember the fact that they expelled him from the <Star Stream>'s scenarios by stealing away his nativity Story.
 <@>[You look confused, my old friend.]
 The Wenny King was startled by that true voice and hurriedly looked behind him. The face of the Dokkaebi King was floating within the pitch-black darkness.
-<!>[Dokkaebi King!]
+<@>[Dokkaebi King!]
 The former growled and unleashed his Status. However, things didn't go according to plan. Within this space where nothing existed, the Status he emitted only left behind faint sparks.
 The Dokkaebi King spoke with a disinterested expression.
 <@>[You aren't allowed to fight in here. Our powers aren't valid in this place.]
 <@>[…You somehow managed to survive. I thought that you died at the blade of that puppet.]
 <@>[It's not much different from having died already. And, will die again, too.]
 In the spot where the Dokkaebi King's gaze landed, they could see a circular exit of light swirling around. The soul forms of these two beings were slowly heading towards that exit.
-The Wenny King shouted out. [No, hold on! My Story has just begun! I will be crossing over the 'Final Wall'! I shall encounter the lazy god that imagined everything of this world, and become the sole creature that knows the secret of this world!!]
+The Wenny King shouted out.
+<@>[No, hold on! My Story has just begun! I will be crossing over the 'Final Wall'! I shall encounter the lazy god that imagined everything of this world, and become the sole creature that knows the secret of this world!!]
 <@>[Are you that curious about this world's secret?]
 <@>[You speak of something obvious. There isn't a single creature not curious about the origin of their own birth.]
 <@>[And that's precisely the reason why creatures become unhappy.]
@@ -56,7 +57,7 @@ The Dokkaebi King gently caressed them, before crushing that Story into powder.
 <@>[Rubbish! The universe is infinite. Just like how the end of the 'Final Wall' doesn't exist.]
 <@>[Even if there are plenty of blank margins left on the Wall, just how much of that do you think is permitted to the measly extras?]
 The Dokkaebi King looked down at his own body slowly crumbling away.
-<!>[Unfortunately, the protagonist the 'Final Wall' has chosen is neither you or me.]
+<@>[Unfortunately, the protagonist the 'Final Wall' has chosen is neither you or me.]
 <@>[I don't know what rubbish you're trying to spew here, but…!]
 <@>[Even then, you shall soon meet the one you so dearly wished to meet.]
 It was then the Wenny King's shoulders flinched.

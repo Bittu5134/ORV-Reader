@@ -85,7 +85,7 @@ setTimeout(() => {
     let type = scriptElement.dataset.type;
     localStorage.setItem("lastread", String(index))
     localStorage.setItem("lasttype", String(type))
-}, 60000);
+}, 10000);
 
 function classChangeTheme(elementClass, elemetTheme) {
     let element = document.getElementsByClassName(elementClass)
@@ -402,6 +402,63 @@ document.addEventListener('DOMContentLoaded', function () {
     settingsForm.addEventListener('reset', function (event) {
         setTimeout(applySettings, 0);
     });
+
+    const scriptElement = document.getElementById('main-script');
+    if (!scriptElement) {
+        console.error("Element #main-script not found.");
+        return;
+    }
+    const index = scriptElement.dataset.index;
+    const type = scriptElement.dataset.type;
+    const scrollKey = `scrollY_${type}_${index}`;
+
+    try {
+        const savedScroll = localStorage.getItem(scrollKey);
+        if (savedScroll !== null) {
+            window.scrollTo(0, parseInt(savedScroll, 10));
+        }
+    } catch (e) {
+        console.error('Error restoring scroll:', e);
+    }
+
+    function saveScrollPosition() {
+        try {
+            localStorage.setItem(scrollKey, window.scrollY);
+
+            const SCROLL_HISTORY_KEY = `scroll_history_${type}`;
+            const MAX_HISTORY_SIZE = 5;
+
+            let history = JSON.parse(localStorage.getItem(SCROLL_HISTORY_KEY)) || [];
+
+            history = history.filter(key => key !== scrollKey);
+
+            history.unshift(scrollKey);
+
+            while (history.length > MAX_HISTORY_SIZE) {
+                const oldestKey = history.pop();
+                localStorage.removeItem(oldestKey);
+            }
+
+            localStorage.setItem(SCROLL_HISTORY_KEY, JSON.stringify(history));
+        } catch (e) {
+            console.error('Error saving scroll:', e);
+        }
+    }
+
+    function debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    }
+
+    window.addEventListener('scroll', debounce(saveScrollPosition, 500));
+    window.addEventListener('beforeunload', saveScrollPosition);
 });
 
 

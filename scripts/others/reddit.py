@@ -157,7 +157,7 @@ ___
 
 * [Munipa](https://link.munpia.com/n/104753)
 * [Naver](http://naver.me/5eOtt9rN)
-* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (Unofficial Fan TL)
+* [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapter_number}) (Low Quality MTL)
 
 ___
 
@@ -168,7 +168,7 @@ Chapter Comments: [ORV-Reader](https://orv.pages.dev/stories/cont/read/ch_{chapt
 ___
 
 - Please support the Authors by purchasing chapters on Munipa or Naver.
-- You can read the English Translations on [ORV-Reader](https://orv.pages.dev/).
+- Contact u/jdcomplex and show him proof of purchase to get access to a superior TL of the side stories.
 - If for some reason you can't buy the chapters then consider writing Reviews for ORV on Goodreads and/or other places.
 - Spreading word about a Story is another good way to show your appreciation for the Authors.
 
