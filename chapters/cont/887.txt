@@ -55,7 +55,7 @@ I recalled the 'Siren Countermeasure' from 'Ways of Survival' in my head.
 However, it seemed that there were no incarnations around that could use [Sound Blocking].
 <&>「Even if you don't have [Sound Blocking], there's no need to panic. If you have a high-grade [Mental Barrier], you can sufficiently resist the Siren's song heard from a distance.」
 <!>[Exclusive skill, 'Fourth Wall', activates!]
-<@>[Fourth Wall activated as if it had been waiting for it. Fortunately, if you have a high-level mental barrier skill like me, the Siren's story is hardly a threat. The problem was that such advanced skills would not be easily distributed to ordinary incarnations.]
+<&>「Fourth Wall activated as if it had been waiting for it. Fortunately, if you have a high-level mental barrier skill like me, the Siren's story is hardly a threat. The problem was that such advanced skills would not be easily distributed to ordinary incarnations.」
 Even with a mental barrier, it was not 100% safe.
 <&>「However, there are reports that incarnations with particularly high sensitivity are more sensitive to the Siren's Song.」
 The new form of the 'Chimera Dragon' that covered the sky was shaking dangerously. Lee Jihye noticed this and shouted.
@@ -63,7 +63,7 @@ The new form of the 'Chimera Dragon' that covered the sky was shaking dangerousl
 The Chimera Dragon that had been flying in the air suddenly lost its direction and began to fall. The dragon's gigantic body fell to the ground with a loud noise.
 "Ah..."
 A faint groan could be heard in the thick dust.
-"Th, thank you."
+"Th-thank you."
 Shin Yoosoung stuttered as she was held in my arms while I activated [Way of the Wind]. She looked up at me with her eyes wide open in surprise and asked.
 "But... I think something similar happened before..."
 I put Shin Yoosoung down on the ground. Perhaps she remembered Kim Dokja who visited two years ago.
@@ -84,10 +84,10 @@ But I wasn't worried.
 I had [Fourth Wall], and Kim Namwoon—
 "Euhahahaha!"
 Even if he didn't listen to that song, he was already crazy.
-<&>「The delusional demon is resistant to one-dimensional 'mental attacks'.」
+<&>「The Delusional Demon is resistant to one-dimensional 'mental attacks'.」
 His exclusive trait, 'Middle School Syndrome', has probably evolved into 'the Ultimate Delusionist' by now.
 "It's nice to listen to!"
-To Kim Namwoon, who reinterprets all information in reality with his own 'delusion filter', the siren's song posed no threat at all.
+To Kim Namwoon, who reinterprets all information in reality with his own 'Delusion Filter', the siren's song posed no threat at all.
 Scream!
 In an instant, Kim Namwoon climbed the wall and cut off the first siren's neck.
 I also activated [Way of the Wind] and reached the second siren's eyes.
@@ -137,7 +137,7 @@ I couldn't figure out whether Han Sooyoung, who created this world, had gone cra
 Since I couldn't figure it out, I laughed like a crazy person. I laughed alone in a scenery where no one was laughing. Then, I suddenly stopped laughing and said,
 "But it seems like no one is alive."
 I couldn't believe those words came out of my mouth.
-Do avatars Exist?
+Do Avatars exist?
 Isn't it? If the avatar commits suicide, is it suicide or not? If the avatar dies, is it death or not?
 The avatar, I.
 "Kim Dokja. You are not a human in this world."
