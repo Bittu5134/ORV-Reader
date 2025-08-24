@@ -98,7 +98,7 @@ Along with Bihyung's words, a large hologram of a 'stage' appeared on the screen
 There was exaggerated applause as the map created by the Mass Production Maker appeared on the hologram.
 <!>[The game 'Mythical Battlefield' is loaded!]
 The map was a vast forest area with huge cliffs at the edges. The forest zone contained patterns of the 'industrial complex' in the east, west, north and south, which probably signified the starting points of each industrial complex.
-<!>[As you might have expected, this 'selection' isn't simply a hit and run fight. It will be held in the form of a 'team competition', with each team being an industrial complex.]
+<@>[As you might have expected, this 'selection' isn't simply a hit and run fight. It will be held in the form of a 'team competition', with each team being an industrial complex.]
 Some of the constellations were surprised by the dokkaebis' words and sent indirect messages. Of course, I wasn't surprised. I knew it well through the original novel.
 <@>[The rules of the game are simple. All participants can make a team of seven people, including themselves.]
 <@>[Every team member is given a different position and will play a role in the scenario through that position.]
