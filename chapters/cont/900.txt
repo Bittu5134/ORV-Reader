@@ -2,42 +2,42 @@
 <!>[Main Scenario #■■ - 'Fear Realm Expedition' has ended!]
 The main episode 'Fear Realm' has been cleared. The strange thing is that even though the scenario has been cleared, the scenario number has not been unlocked.
 Well, considering what happened inside, the Management Bureau must have had a hard time assigning scenario numbers.
-Considering that giant nebulae and mythical constellations appeared and natural disaster-level fears ran rampant, it wouldn't have been strange if the scenario difficulty had been around 70 or higher.
+Considering that Giant Nebulae and Mythical Constellations appeared and Natural Disaster-level Fears ran rampant, it wouldn't have been strange if the scenario difficulty had been around 70 or higher.
 <!>[Your 'Fear Realm Exploration' is 300%.]
 Not 100%, but 300%.
-I invaded the 'Fear Realm's' final region, joined the 'Transcendent Alliance', and even faced and fought the 'King of Fear'.
+I invaded the 'Fear Realm's' End Zone, joined the 'Transcendent Alliance', and even faced and fought the 'King of Fear'.
 If you don't give me proper recognition, I'll be the one who feels bad.
-<!>[A 'temporary channel' is in operation in the area.]
-<!>[Some constellations are curious about your identity!]
-The constellations didn't seem to recognize me right away. Right now, I was wearing the hood I received when I crossed over from the 1,863rd round’s train. It was something Han Sooyoung had given me.
+<!>[A 'Temporary Channel' is in operation in the area.]
+<!>[Some Constellations are curious about your identity!]
+The Constellations didn't seem to recognize me right away. Right now, I was wearing the hood I received when I crossed over from the 1,863rd Round. It was something Han Sooyoung had given me.
 <&>「"Wear it later. You never know what might have happened in your worldline. It's an item that makes it difficult to identify your identity."」
 <&>「"You want me to live in a state of exhaustion?"」
-<&>「"Because the constellations are having fun."」
+<&>「"Because the Constellations are having fun."」
 <&>「"What a genius writer."」
 In fact, in the air, there was a guy who had been curious about my identity for a while, sending me an indirect message.
-<!>[The constellation, 'Master of Baekrokdam', is curious about your identity.]
-'Master of Baekrokdam'.
-A nebula came to mind.
-But why was that 'nebula's' constellation on the temporary channel?
+<!>[The Constellation, 'Master of White Deer Lake', is curious about your identity.]
+'Master of White Deer Lake'.
+A Nebula came to mind.
+But why was that 'Nebula's' Constellation on the Temporary Channel?
 The question didn't last long. That was why the message from the Management Bureau that followed filled my head.
 <!>[The Management Bureau is checking the clear record of the scenario in question!]
-<!>[The dokkaebis of the Management Bureau are not convinced that you cleared it.]
+<!>[The Dokkaebis of the Management Bureau are not convinced that you cleared it.]
 <!>[The Management Bureau is conducting a full investigation of the scenario.]
 Are you saying you don’t want to give me a reward?
 Since the scenario wasn’t even numbered, there was a possibility that I would receive a poor reward with some ridiculous excuse.
 <!>[The Management Bureau has checked your scenario clear record.]
-However, the <Star Stream> knows what happened that day, and the constellations remember it.
-A great number of constellations participated, comparable to the 'Giant Tale Scenario', and just as many constellations fell.
+However, the <Star Stream> knows what happened that day, and the Constellations remember it.
+A great number of Constellations participated, comparable to the 'Giant Tale Scenario', and just as many Constellations fell.
 I barely made it out of that terrible scenario.
 If my contribution is not acknowledged here, it will not only damage the prestige of the Management Bureau, but also the probability of the <Star Stream> as a whole.
 <!>[The <Star Stream> acknowledges your eligibility for a reward.]
 As expected. Then, let's start with the reward...
 <!>[The 'Returnee Scenario' that was supposed to be given to you has been temporarily postponed.]
 I looked up into the air with a slightly embarrassed heart. Not another scenario, but the 'Returner Scenario' was postponed?
-The main story's development flowed through my head. Even Kim Dokja, who had been there 1,863 times, had not experienced something like this.
+The main story's development flowed through my head. Even Kim Dokja, who had been to the 1,863 Round, had not experienced something like this.
 <!>[A 'Dokkaebi in Charge' will be dispatched to you soon.]
 'Dokkaebi in Charge' dispatched.
-I was momentarily silent, but soon I thought it was better. Rather than receiving a mediocre reward, it might have been better to request a private meeting with that dokkaebi in charge and receive a proper reward.
+I was momentarily silent, but soon I thought it was better. Rather than receiving a mediocre reward, it might have been better to request a private meeting with that Dokkaebi in charge and receive a proper reward.
 More than anything, there is the 'Demon King of Salvation' here, so there is no need to be pushed back.
 <!>[A temporary scenario will be issued to you!]
 <!>[The sub-scenario, 'Familiar Sky' has begun!]
@@ -52,51 +52,51 @@ Failure: –
 +
 Sub-scenario 'Familiar Sky'.
 This was a sub-scenario that incarnations who temporarily visited other dimensions often received.
-It seemed to mean that they were to perform this or that until the 'dokkaebi in charge' was dispatched… But I saw one thing that bothered me. It was something that was listed as a reward.
+It seemed to mean that they were to perform this or that until the 'Dokkaebi in charge' was dispatched… But I saw one thing that bothered me. It was something that was listed as a reward.
 …D-coin?
 That was when the man who had been walking with me at the entrance to the Fear Realm spoke.
-"I, Eun-gong."
+"I, Benefactor."
 "Yes."
-"My name is Nam-gung-myeong."
+"My name is Namgung Myung."
 Come to think of it, we hadn't even properly introduced ourselves while walking together.
 I answered with an embarrassed smile.
-"Ah, you're from Nam-gung-se-ga."
-Looking back, I had a small connection with 'Namgung-se-ga'.
-When the 'Fear Realm Expedition' was called, I had participated in the expedition with the help of Namgung-se-ga's head, Je-wang-geom Namgung Jincheon.
-Namgung-myeong nodded vigorously as if he had gained strength from my answer.
-"Yes, the head of the Namgung Se family at that time. Now it is just a name in name only."
-The head of the Namgung Se family. When I heard that, things came to mind.
-"Father! Please save me! Father!"
+"Ah, you're from Namgung Se Family."
+Looking back, I had a small connection with 'Namgung Se Family'.
+When the 'Fear Realm Expedition' was called, I had participated in the expedition with the help of Namgung Se Family's head, Emperor's Sword Namgung Jincheon.
+Namgung Myung nodded vigorously as if he had gained strength from my answer.
+"Yes, the head of the Namgung Se Family at that time. Now it is just a name in name only."
+The head of the Namgung Se Family. When I heard that, things came to mind.
+<&>「"Father! Please save me! Father!"」
 A young man from a prestigious family who was contaminated by the tales of the other world and cried out for his father.
 Although his face was much older than I remembered, the man in front of me seemed to be the same martial artist from back then.
-In other words, the man in front of me was the son of the King Sword Namgung Jincheon.
-"Is the King Sword okay?"
+In other words, the man in front of me was the son of the Emperor's Sword Namgung Jincheon.
+"Is the Emperor's Sword okay?"
 "Do you know my father?"
 I know. A greedy old man who advertised a dumpling franchise by selling the story of Breaking the Sky Sword Saint.
 "I met him once before."
-Still, the King Sword called me a god and I was able to repair my incarnation body. It was part of business, but I wasn't completely ungrateful.
+Still, the Emperor's Sword called me a god and I was able to repair my incarnation body. It was part of business, but I wasn't completely ungrateful.
 I thought I should buy him dumplings when we met this time.
 "My father passed away a few years ago."
 Unfortunately, those dumplings were no longer edible.
-"I, I'm sorry."
+"I-I'm sorry."
 "No. It’s nice to see someone who remembers my father after a long time.”
 A faint longing appeared in Namgung Myung’s eyes and disappeared. He quickly collected his emotions and added with a smile.
 "I have received the grace of the Great Swordsman this time. May I ask your name?"
 I was about to answer, 'Kim Dokja', as usual, but stopped.
-<!>[The constellation, 'Master of Baekrokdam,' listens to your answer.]
+<!>[The Constellation, 'Master of White Deer Lake,' listens to your answer.]
 Come to think of it, the name 'Kim Dokja' was already well-known even before I entered the Fear Realm.
 Since I’ve decided to hide my identity, I think it would be better to just watch the situation unfold here for a while.
 “Actually, I don’t remember. It seems that I lost some of my memories while staying in the 'Fear Realm'."
 Namgung Myung looked surprised, but soon seemed to believe me.
-"Oh, you were consumed by fear."
+"Oh, you were consumed by Fear."
 "I think so."
-"Well, it's the 'Fear Realm', not anywhere else... Among my friends, there is a guy who faints at the sight of a white ladder because he is consumed by fear.”
-A white ladder? Did he see an 'alien traffic light'?
-"That fear is scary."
-"As expected, even Eun-gong knows about the dangers of 'disaster-level fear'."
+"Well, it's the 'Fear Realm', not anywhere else... Among my friends, there is a guy who faints at the sight of a white ladder because he is consumed by Fear.”
+A white ladder? Did he see an 'Alien Traffic Light'?
+"That Fear is scary."
+"As expected, even Benefactor knows about the dangers of 'Disaster-level Fear'."
 "Hmm, yes."
-What kind of expression would Namgung-myeong make if he found out that I could control that traffic light?
-"If you’re suffering from memory loss, even Eun-gong must have been trapped in a 'disaster-level' or higher fear for a long time."
+What kind of expression would Namgung Myung make if he found out that I could control that Traffic Light?
+"If you’re suffering from memory loss, even Benefactor must have been trapped in a 'Disaster-level' or higher Fear for a long time."
 Disaster-level…
 I smiled and replied.
 "Yes, similar."
@@ -113,41 +113,41 @@ Somehow, I felt like I knew how the situation was going.
 "Are there fights over the tales of the dead Outer Gods?"
 "That's right."
 "But most of his tales must have disappeared with the fall of the Fear Realm."
-"Ah, Your Majesty, you felt it too. As Your Majesty said, the 'Great King of Fear's' great ruins were reportedly stolen by Outer Gods of the level of myths on the day the 'Fear Realm' fell..."
+"Ah, Benefactor, you felt it too. As Benefactor said, the 'Great King of Fear's' great ruins were reportedly stolen by Outer Gods of the level of Myths on the day the 'Fear Realm' fell..."
 So that's how the events of that day became known.
-Suddenly, I became a myth-grade Outer God.
+Suddenly, I became a Myth-grade Outer God.
 "The other small fragments of the ruins were scattered all over the Fear Realm. Since that day, traces of the 'King of Fear' have been found in the appendix of the 'Nameless Things' and 'Divine Beings of the Other World' that appear in the Fear Realm."
-"Could it be that Namgung Sohyeop entered the Fear Realm because...?"
+"Could it be that Namgung Young Hero entered the Fear Realm because...?"
 "Yes. That's right. I am collecting the 'crumbs' of the ruins under the orders of the corporation."
 Corporation?
 "What is a 'corporation'? Did something like that exist in the 'First Murim'?"
-"Ah, Your Majesty, you may not know. I'm at a loss as to where to begin explaining this. May I ask when you first entered the Fear Realm?"
+"Ah, Benefactor, you may not know. I'm at a loss as to where to begin explaining this. May I ask when you first entered the Fear Realm?"
 "Um, I don't have a good sense of time either."
-"That could be possible. Then do you remember which expedition you participated in?"
+"That could be possible. Then do you remember which Expedition you participated in?"
 I tried to recall my memories for a moment.
-"I think it was the 191st expedition."
-"The 191st? Oh my. Your Majesty, you were a survivor of 'that day'."
+"I think it was the 191st Expedition."
+"The 191st? Oh my. Benefactor, you were a survivor of 'that day'."
 I recalled the scene of 'that day' that Namgung Myung had spoken of.
 The day the Great Hall opened and 'Tooth Fin' appeared in the Blue Dragon Castle of the 'First Murim'.
 At that time, I dragged him into the 'Fear Realm' to prevent the destruction of the 'First Murim'.
 "Then you can't help but not know. First, let me tell you the conclusion."
 Namgung Myung sighed with a worried expression on his face, as if he was worried that I might be shocked, and added the following.
-"The 'First Murim' that Eungong knows about was destroyed eight years ago."
+"The 'First Murim' that Benefactor knows about was destroyed eight years ago."
 ***
-The destruction of the 'First Murim' was an episode that was covered several times in 'Ways of Survival'. It was destroyed by the invasion of a giant nebula or an invasion by Outer Gods, was consumed as a lower scenario area of ​​<Emperor>, and there was a bloody disaster caused by a rebellion of a lower Murim.
+The destruction of the 'First Murim' was an episode that was covered several times in 'Ways of Survival'. It was destroyed by the invasion of a Giant Nebula or an invasion by Outer Gods, was consumed as a lower scenario area of ​​<Emperor>, and there was a bloody disaster caused by a rebellion of a lower Murim.
 Not to mention, in the main story, it almost was destroyed by the invasion of the 'Divine Being of the Other World'.
 So the problem was not the destruction of Murim itself.
 "How many years?"
 Namgung Myung answered with a trembling face as I asked him with a dumbfounded expression.
 "Eight years."
 Eight years.
-For the constellations, the divine beings of the other world, and the transcendent beings of the 'Time Fault', it was almost a moment.
+For the Constellations, the God of the Outer World, and the Transcendents of the 'Time Fault', it was almost a moment.
 However, in the 'main story', if the 'main scenario' is the standard, the story is different.
 I felt dizzy.
 Even in the past, there were times when Kim Dokja would deviate from the main scenarios for three years, but he had never disappeared for eight years.
 <&>「I wonder what happened to all the party members.」
 My heart was beating dangerously.
-<!>[Activate exclusive skill, 'Omniscient Reader's Viewpoint'!]
+<!>[Exclusive skill, 'Omniscient Reader's Viewpoint'activated!]
 If there was even one person who thought of me right now, I could connect with them.
 However, even though I activated [Omniscient Reader's Viewpoint], there was no one I could contact. It meant that no one was thinking of me.
 Eight years was that kind of time.
