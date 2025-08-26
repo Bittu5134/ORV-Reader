@@ -11,7 +11,7 @@ I stepped through the boundaries of the door and Biyoo's voice suddenly faded aw
 <&>「 I'll come back. 」
 <!>[The Outer World Covenant is activated!]
 <!>[You have been deported from the Star Stream.]
-<!>[Your modifier will disappear from the "Star Stream>.]
+<!>[Your modifier will disappear from the "Star Stream".]
 
 ***
 
