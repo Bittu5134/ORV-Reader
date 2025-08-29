@@ -57,19 +57,19 @@ If he makes good use of the notes I put in the box, he'll still get a decent inc
 Of course, whatever he gets will be less than the bracelet on my wrist.
 +
 [Item Information]
-Name: Idea of Almost Anything
+Name: Thoughts of Almost Everything
 Rating: Star Relic (遺物)
 Description: A mysterious slime that was once the product of a constellation's obsession of studying 'almost everything'.
 When worn, it increases Agility and Magic Power levels by 1 each.
 * 'Idea' can use 'mimicry'.
 +
 Formed Idea (意態).
-'Idea of Almost Anything' can mimic an item by touching it.
+'Thoughts of Almost Everything' can mimic an item by touching it.
 Since it's a top-rated item, it cannot mimic others simply by touching them, but only after certain conditions are met.
 Once successfully mimicked, the item can be used continuously until the mimicked form is destroyed.
-However, the 'Idea of Almost Anything' may, out of its own free will, refuse to obey its owner's 'mimicry command'.
+However, the 'Thoughts of Almost Everything' may, out of its own free will, refuse to obey its owner's 'mimicry command'.
 As you can probably tell from the description, this was a scam item. In theory, it could be almost anything.
-However, 'Idea of Almost Anything' had two fatal flaws.
+However, 'Thoughts of Almost Everything' had two fatal flaws.
 One was that you can't rely on it if you don't meet the 'mimicry' conditions.
 And the second was that the 'idea' itself could refuse the 'mimicry command'.
 So I guess it's not a scam item after all.

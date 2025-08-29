@@ -113,7 +113,7 @@ I'm guessing it's the 'Plague-Carrying Rat' we fought a while back. Maybe there'
 "Do I still look like Sein?"
 The two were still talking about ghosts.
 By now, we were more than halfway through the tunnel. It was time to get ready.
-I unwrapped the 'Idea of Almost Everything' from my wrist.
+I unwrapped the 'Thoughts of Almost Everything' from my wrist.
 It was shaped like a bracelet now, but it could mimic any item it touched.
 I opened the list of items that could be mimicked.
 +
@@ -129,11 +129,11 @@ In preparation for this time, I put a few items on the mimicry list.
 <!>[The item can be mimicked for 1 hour.]
 One hour. That's more than enough.
 The problem is.
-<!>['Idea of Almost Anything' refuses to mimic.]
+<!>['Thoughts of Almost Everything' refuses to mimic.]
 This guy could refuse the mimicry.
 Two long narrow eyes and a mouth appeared on the ring of the bracelet, and a small babbling sound came out.
 "Si-jyo."
-That was the only downside to the item ego 'Idea of Almost Anything'.
+That was the only downside to the item ego 'Thoughts of Almost Everything'.
 I couldn't transform it into the shape I needed when I needed it.
 Of course, I had a solution.
 <!>[The exclusive skill 'Incite Lv.4' is activated!]
@@ -141,7 +141,7 @@ Of course, I had a solution.
 <!>[Incite is effective!]
 "Jyo—jyo!"
 With a mystic light, the bracelet's form began to change.
-<!>['Idea of Almost Anything' has become 'Damaged Samyeongdang's Bamboo Stick'.]
+<!>['Thoughts of Almost Everything' has become 'Damaged Samyeongdang's Bamboo Stick'.]
 <!>[The duration of the mimicry is 1 hour.]
 Sure enough, it looked exactly like 'Damaged Samyeongdang's Bamboo Stick'. The performance was the same.
 <!>[The constellation 'Bald General of Justice' is shocked!]

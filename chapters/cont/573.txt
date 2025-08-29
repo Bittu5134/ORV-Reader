@@ -8,7 +8,7 @@ Just before I collided with the surface, I felt like I was going to lose my mind
 <!>[Physique Lv.4 → Physique Lv.10]
 <!>[Your physique level has increased dramatically!]
 <!>[Your physical durability has increased dramatically!]
-<!>[Coin Possessed: 1,800 C]
+<!>[Coins Possessed: 1,800 C]
 My body was numb from head to toe from the impact, and my ears were deafening. I could feel my body temperature dropping rapidly.
 It was a message from the constellations that held my fading consciousness together.
 <!>[The constellation 'Sneaking Schemer' appreciates your survivability.]
@@ -54,7 +54,7 @@ The river raged in the darkness.
 Upon closer inspection, I realized we were sitting on the remains of a small plastic structure. I wondered if it was the remains of a sailboat used by the Han River rescue team.
 The air was strangely humid. I turned on my phone's flash and saw a wall of crimson above, below, and to the left.
 In the back of my mind, I remembered what happened before I lost consciousness.
-We had been eaten by an ichthyousaur.
+We had been eaten by an ichthyosaur.
 "You seem happy to have survived. We're about to die."
 I threw up water and smiled bitterly.
 The light from my cell phone cast the shadows of the two of us against the crimson stomach of the ichthyosaur.

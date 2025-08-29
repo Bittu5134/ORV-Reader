@@ -54,7 +54,7 @@ I looked at the big guy and activated [Character List.]
 <Character Summary>
 Name: Lee Cheoldoo
 Age: 39 years old
-Sponsor: None (one constellation is currently showing intereset in this person).
+Sponsor: None (one constellation is currently showing interest in this person).
 Exclusive Attributes: Gangster (general), Ex-convict (general)
 Exclusive Skills: [Dogfight Lv.3], [Bluff Lv.3], [Intimidation Lv.3], [Headbutting Lv.2]
 Overall Stats: [Physique Lv.7], [Strength Lv.7], [Agility Lv.6], [Magic Power Lv.1]

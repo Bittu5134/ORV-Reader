@@ -67,7 +67,7 @@ Occasionally I could see gear or clothing dropped by people, but I couldn't find
 It was definitely difficult for a single player dungeon.
 Defeating hundreds of Nagak and obtaining a notification of the award must be a formidable task for ordinary incarnations.
 <!>[The constellation 'Demon-like Judge of Fire' rejoices in your growth.]
-<!>[The constellation 'Maritime Admiral' says that he has caught on to his income.]
+<!>[The constellation 'Maritime War God' says that he has caught on to his income.]
 <!>[The constellation 'Bald General of Justice' says he heard that the horn meat is good for hair loss and strengthening stamina.]
 <!>[The constellation 'Prisoner of the Golden Headband asks if that's true.]
 The messages of the constellations came into my head.
@@ -102,7 +102,7 @@ There is no 'Unbreakable Faith', but there is 'Broken Faith' that can be infinit
 <!>[The constellation 'Bald General of Justice' says that the meat of the Ancient Nagak is in the limelight as a food to prevent hair loss.]
 <!>[The constellation 'Prisoner of the Golden Headband' asks if it's real.]
 <!>[The constellation 'Bald General of Justice' bets his hair and says it's real.]
-<!>[The constellation 'Maritime Admiral' says that this 'Bald General of Justice'has never eaten Nagaks’ meat.]
+<!>[The constellation 'Maritime War God' says that this 'Bald General of Justice'has never eaten Nagaks’ meat.]
 …
 <!>[A new bounty scenario has arrived!]
 +
