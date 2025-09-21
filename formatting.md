@@ -82,7 +82,7 @@ This guide outlines the formatting rules for creating content in the [`/chapters
   ```
   <&>「 To the Breaking the Sky Sword Namgung Minyoung, the First Murim was home. 」
   <&>「...」
-  <&>「This is the power of Transcendence <br>- Yoo Jonghyuk」
+  <&>「This is the power of Transcendence <br>- Yoo Joonghyuk」
   ```
 
 ### Notices
