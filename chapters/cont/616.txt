@@ -53,7 +53,7 @@ Tsutsutsutsutsutsutsu.
 <!>[The <Star Stream> looks at you.]
 <!>[Some nebulae watch your actions.]
 <!>[Some constellations are wary of your actions!]
-<!>[The Administration Bureau determines the 「Probability Conformity」 of your actions!]
+<!>[The Administration Bureau determines the [Probability Conformity] of your actions!]
 The channel fluctuated violently, and the foreshadowing of a probable aftermath was felt.
 In the <Star Stream>, there is much more chance of killing someone than saving someone. Moreover, if death is already confirmed, there is no need to mention it.
 Moments later, a small pill was held in Han Sooyoung's hand.

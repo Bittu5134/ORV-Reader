@@ -84,8 +84,8 @@ Platform: Textia
 Total Comments : 32
 Reader level : 16
 +
-<!> You can use coins to view the comments written by this reader.
-<!> Number of comments currently available for free: 3.
+<!>[You can use coins to view the comments written by this reader.]
+<!>[Number of comments currently available for free: 3.]
 No, I can see this?
 I looked at the sorrowful ahjussi's profile.
 Should I see just one?

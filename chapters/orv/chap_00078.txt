@@ -46,7 +46,7 @@ Overall Evaluation: The current comprehensive evaluation is currently in progres
 Look at this, the First Sorceror of Joseon?
 <!>[The constellation 'First Sorceror of Joseon' is looking at you with wary eyes.]
 I didn't think there would already be a woman with Jeon Woochi¹ as a sponsor.
-<?>[1]Jeon Woo-chi was a Taoist scholar during the Joseon dynasty of Korea. He is known by many as the most prominent "sorcerer" in Korean history, and a representative trickster from old Korean literature. 
+<?>[1]Jeon Woo-chi was a Taoist scholar during the Joseon dynasty of Korea. He is known by many as the most prominent "sorcerer" in Korean history, and a representative trickster from old Korean literature.
 In addition, she had the fairly good attribute of Officer of Justice, although it was less than the 'judge'.
 If the subordinate was this good, what was the king like? I immediately looked at the tall woman.
 <!>[The information of this person can't be read in 'Character List'.]

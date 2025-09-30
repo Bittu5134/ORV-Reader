@@ -66,7 +66,7 @@ The companions and I disembarked from the unmoving train and dashed towards the 
 <!>[You can't interfere with the 'Final Wall's' sentences.]
 <!>[Applicable paragraphs are prohibited from being overwritten.]
 <!>[Please input the cancellation code.]
-The 'Secretive Plotter' spoke up. 
+The 'Secretive Plotter' spoke up.
 <#>【No regular methods will work. I've already used physical force before, but couldn't destroy this wall.】
 Jung Heewon shouted out. "We came this far, so there must be…!"
 <#>【From here on, it's your job.】

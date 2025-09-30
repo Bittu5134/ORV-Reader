@@ -114,9 +114,9 @@ And this was the result.
 <!>[Would you like to check the reader feedback?]
 I nodded.
 I guess I should hear the opinions of our kkoma Kim Dokjas. But I didn’t hear the evaluations of the readers. Instead, I heard.
-<&>[rlaehrwk37 is saddened by your story.]
-<&>[rlaehrwk61 is saddened by your story.]
-<&>[rlaehrwk99 is saddened by your story.]
+<&>「rlaehrwk37 is saddened by your story.」
+<&>「rlaehrwk61 is saddened by your story.」
+<&>「rlaehrwk99 is saddened by your story.」
 …
 I imagined the little readers reading this story in a movie theater, a library, or somewhere in a world I don’t know.
 <!>[Would you like to try to reproduce it?]

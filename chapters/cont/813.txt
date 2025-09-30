@@ -179,4 +179,4 @@ A traffic system where the signal changes after a certain amount of time. A cert
 <&>「Time.」
 A light flashed in my head for a moment.
 <&>「A traffic light that doesn't change even after time passes.」
-Maybe I aleady knew the answer. 
+Maybe I aleady knew the answer.

@@ -20,7 +20,7 @@ Suddenly, I felt goosebumps.
 <&>「3rd round Yoo Joonghyuk doesn't use a spear.」
 Without hesitation, I activated 'Character List'.
 <!>['Character List' is activating!]
-<!>[The exclusive skill 'Character List' is activated!] 
+<!>[The exclusive skill 'Character List' is activated!]
 <!>[There is too much information about this person. 'Character List' is converted to 'Character Summary'.]
 Along with a slight dizziness, Yoo Joonghyuk's information flashed before my eyes.
 +
