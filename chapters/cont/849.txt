@@ -233,7 +233,7 @@ The moment I reached out to the empty space, a light came on in the ceiling. Alm
 <&>「"Cheon Inho."」
 That was the last day of the <Underworld>.
 It was a conversation between Cheon Inho and the Blood Demon.
-<!>["Even if I use my 'story', it won't be able to turn all humans into undead."]
+<&>「"Even if I use my 'story', it won't be able to turn all humans into undead."」
 <&>「"Hmm? Is that so?"」
 Listening to the conversation flowing in my head, I slowly looked around the warehouse. It was a space that was almost the size of a stadium.
 <&>「"Some bodies have such strong thoughts that my 'King of the Dead' can't resurrect them. Especially the ones you mentioned—"」
