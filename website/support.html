@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support ORV Reader - A Ruined World Needs You</title>
+    <title>Support ORV-Reader</title>
     <style>
-        /* --- UPDATED CSS START --- */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #0d0d1a;
@@ -19,15 +19,18 @@
             min-height: 100vh;
             text-align: center;
             font-size: 1em;
+            overflow-x: hidden;
         }
 
         .container {
             max-width: 800px;
+            width: 100%;
             padding: 30px;
             border: 1px solid #333;
             background-color: #1a1a2e;
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
             border-radius: 10px;
+            box-sizing: border-box;
         }
 
         h1 {
@@ -55,13 +58,13 @@
             margin-bottom: 10px;
         }
 
-        .crypto-addresses, .gift-cards, .trocador-option {
+        .crypto-addresses, .giftcards-section {
             margin-bottom: 20px;
         }
 
-        .crypto-addresses p, .gift-cards p, .trocador-option p {
+        .crypto-addresses p, .giftcards-section p {
             font-size: 0.9em;
-            margin-top: 5px;
+            margin-top: 10px;
             margin-bottom: 10px;
         }
 
@@ -71,75 +74,109 @@
             padding: 10px;
             border-radius: 5px;
             font-family: 'Courier New', Courier, monospace;
+            word-wrap: break-word;
             overflow-wrap: break-word;
             font-size: 0.8em;
+            cursor: pointer;
+            position: relative;
         }
 
-        .button-group {
-            margin-top: 30px;
+        .crypto-addresses span::after {
+            content: "Click to copy";
+            font-size: 0.7em;
+            color: #aaa;
+            display: block;
+            margin-top: 3px;
         }
 
-        .btn {
-            background-color: #4a4a6e;
-            color: #e0e0e0;
-            padding: 12px 24px;
+        .highlight-note {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+            color: #bbb;
+        }
+
+        .giftcards-list {
+            margin-top: 5px;
+            text-align: left;
+        }
+
+        .giftcards-list li {
+            margin-bottom: 5px;
+        }
+
+        .giftcards-list a {
+            color: #ffb74d;
             text-decoration: none;
-            border-radius: 5px;
-            font-size: 1.1em;
-            border: 1px solid #5a5a7e;
-            transition: background-color 0.3s, transform 0.2s;
-            margin: 0 10px;
         }
 
-        .btn:hover {
-            background-color: #5a5a7e;
-            transform: translateY(-2px);
+        .giftcards-list a:hover {
+            text-decoration: underline;
         }
 
-        .footer-note {
-            margin-top: 40px;
-            font-size: 0.9em;
-            color: #888;
+        .additional-note {
+            font-size: 0.85em;
+            color: #aaa;
+            margin-top: 10px;
+            text-align: left;
         }
-        /* --- UPDATED CSS END --- */
+
+        .contact-link {
+            color: #ffb74d;
+            text-decoration: none;
+        }
+
+        .contact-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Three Ways to Survive... And We Need Your Help to Continue</h1>
-        <p>This world, this story, it lives on because of you. We are building a sanctuary for readers in a ruined world, but every little effort counts to keep the servers running and the content flowing. Your support helps us survive.</p>
+        <h1>Support ORV Reader</h1>
+        <p class="highlight-note">Every small contribution, no matter how insignificant it may seem, helps us keep the lights on and the story alive for everyone.</p>
 
+        <!-- Gift Cards Section -->
+        <div class="donation-section giftcards-section">
+            <h2>Donate Using Gift Cards</h2>
+            <p>You can directly send gift cards to me via Discord <a href="https://discord.gg/wsRTfQm8" target="_blank" class="contact-link">@bittu5134</a> or email <a href="mailto:ssr7a5134@gmail.com" class="contact-link">ssr7a5134@gmail.com</a>.</p>
+            <p>Accepted gift cards:</p>
+            <ul class="giftcards-list">
+                <li><a href="https://www.eneba.com/store/eneba-gift-cards" target="_blank">Eneba Wallet (preferred)</a></li>
+                <li><a href="https://www.eneba.com/store/all?text=amazon%20gift%20card%20india" target="_blank">Amazon Wallet (preferred)</a></li>
+                <li><a href="https://www.eneba.com/store/all?text=amazon%20voucher%20india" target="_blank">Amazon Voucher</a></li>
+                <li>Game Keys</li>
+                <li>Other gift cards</li>
+            </ul>
+            <p class="additional-note">You can also send other things besides gift cards — feel free to discuss it with me on Discord or email.</p>
+        </div>
+
+        <!-- Crypto Section -->
         <div class="donation-section">
-            <h2>Support Us Directly</h2>
+            <h2>Donate Using Crypto</h2>
             <div class="crypto-addresses">
-                <p><strong>Cryptocurrency is the most direct path.</strong></p>
+                <p>Your donations go directly into keeping this site alive and ad-free.</p>
                 <p>Bitcoin (BTC):</p>
-                <span>bc1qu3vqcvfgzhwagpsyqcgcqs94vtymm6eagm2sw3</span>
+                <span onclick="copyToClipboard(this)">bc1qu3vqcvfgzhwagpsyqcgcqs94vtymm6eagm2sw3</span>
                 <p>Ethereum (ETH):</p>
-                <span>0x9Ed0416c9083E836aB3C855e08b54BE77eff6c7B</span>
+                <span onclick="copyToClipboard(this)">0x9Ed0416c9083E836aB3C855e08b54BE77eff6c7B</span>
                 <p>Solana (SOL):</p>
-                <span>BEXMTBvrN9zC52LqR8rLxnMSWRhL52kSUiWx7ePnCDQE</span>
-            </div>
-            
-            <p>Every small contribution, no matter how insignificant it may seem, helps us keep the lights on and the story alive for everyone.</p>
-        </div>
-        
-        <div class="donation-section">
-            <h2>Donate Using Trocador</h2>
-            <div class="trocador-option">
-                <p><strong>Want to use a different crypto?</strong> Trocador allows you to send any cryptocurrency you want, and it will be automatically converted to our preferred coin (e.g., Monero) for added privacy and efficiency.</p>
-                <iframe src="https://trocador.app/anonpay/?ticker_to=btc&network_to=Mainnet&address=bc1qu3vqcvfgzhwagpsyqcgcqs94vtymm6eagm2sw3&donation=True&amount=4.3e-05&name=ORV-Reader&description=Thank+you+for+your+support.&email=chickenmc66@proton.me&bgcolor=" width="310" height="350" style="border:0" scrolling="no"></iframe>
-            </div>
-
-        <div class="donation-section">
-            <h2>Alternatively, A Different Path</h2>
-            <div class="gift-cards">
-                <p>If you prefer, you can also support us by sending gift cards or other forms of digital gifts.</p>
-                <p>Please send a message to <span style="color: #ff5e1f">@bittu5134</span> on discord with the details. We accept gift cards for platforms like Amazon, Google Play, or Steam, which help us with various operational costs.</p>
+                <span onclick="copyToClipboard(this)">BEXMTBvrN9zC52LqR8rLxnMSWRhL52kSUiWx7ePnCDQE</span>
             </div>
         </div>
-
-        <p class="footer-note">Thank you for being a part of this journey. You who are currently reading these words will help this site survive.</p>
     </div>
+
+    <script>
+        function copyToClipboard(element) {
+            const text = element.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                const original = element.textContent;
+                element.textContent = "Copied!";
+                setTimeout(() => {
+                    element.textContent = original;
+                }, 1000);
+            });
+        }
+    </script>
 </body>
 </html>
