@@ -50,7 +50,7 @@ In my fading consciousness, I heard the tick, tick, tick of time stopping.
 <!>[Your creativity has been recharged.]
 I realized what was about to happen.
 <!>[The character 'Jung Heewon' wants to do something unexpected.]
-<!>[The exclusive skill '⬜⬜' is activated!]
+<!>[The exclusive skill '■■' is activated!]
 <!>[You have entered the 'Snowfield'.]
 Looking at the blank space in front of me, a bitter laugh escaped from his dwindling
 consciousness.
@@ -58,7 +58,7 @@ Damn it. I'm supposed to write until I die.
 +
 # Jung Heewon's Awakening
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 * At your current skill level, you can write a total of 180 additional characters.
 +
 <!>[You can stay in the 'Snowfield' for a total of 4 minutes.]

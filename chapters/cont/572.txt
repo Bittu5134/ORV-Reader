@@ -115,7 +115,7 @@ Now.
 <!>[You want to do something unexpected.]
 <!>[Describe your own behavior.]
 <!>[You have spent 5 probability points.]
-<!>[The activation conditions for the exclusive skill '⬜⬜' have been met.]
+<!>[The activation conditions for the exclusive skill '■■' have been met.]
 My writer sense was telling me. I must use it now. If I fail to overcome this crisis, I will die.
 <!>[You have exhausted the number of additional entrances to the 'Snowfield'.]
 <!>[You will get a probability penalty.]
@@ -124,7 +124,7 @@ My writer sense was telling me. I must use it now. If I fail to overcome this cr
 +
 # Cheon Inho's Death
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 * At your current skill level, you can write a total of 150 additional characters.
 +
 <!>[You have received a penalty.]

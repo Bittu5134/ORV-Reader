@@ -38,24 +38,24 @@ But can I win against them?
 If Killer King wasn't bad enough, Literary Girl 64 over there was a monster who could deal with the Dark Keeper alone.
 It was then that the surroundings began to turn colorless.
 <&>「Time stopped.」
-Signs of the skill '⬜⬜'.
+Signs of the skill '■■'.
 However, I didn't see anyone doing anything 'unexpected'.
 Why then?
 <!>[Your skill has reached a certain level.]
 The reason was quickly apparent.
-<!>[Your exclusive skill '⬜⬜' is blossoming!]
-<!>[The activation conditions for the exclusive skill '⬜⬜' have been relaxed.]
+<!>[Your exclusive skill '■■' is blossoming!]
+<!>[The activation conditions for the exclusive skill '■■' have been relaxed.]
 <!>[The skill will be urgently triggered when one or more of the following conditions are met.]
 +
 1. A specific character attempts an 'unexpected behavior'.
 2. An important 'event' branch occurs (limited to 3 times per day).
 +
-Perhaps because I used the skill a lot, a new condition to trigger '⬜⬜' has been added. If the skill is triggered now, it means that an important 'event' branch is coming. And in Omniscient Reader, 'important' is the same as 'dangerous'.
+Perhaps because I used the skill a lot, a new condition to trigger '■■' has been added. If the skill is triggered now, it means that an important 'event' branch is coming. And in Omniscient Reader, 'important' is the same as 'dangerous'.
 <!>[You have entered the 'Snowfield'.]
 +
 # Villain's Crisis
 「At that moment, Cheon Inho」
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 * At your current skill level, you can write a total of 200 additional characters.
 +
 <!>[You can stay in the 'Snowfield' for a total of 5 minutes.]

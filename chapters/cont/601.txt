@@ -155,7 +155,7 @@ I roughly understood the scenario.
 So, it's a kind of movie version of a 'board game'.
 We're the pieces of the board game in groups of three, and we roll the dice, and if we get a high number, we go up the stairs. If you get stuck on a stage, you have to complete a mission.
 If this is a scenario where you're trying to catch up to the upper incarnations, the stages will be much shorter than the movie.
-"It's like Bl⬛Mar³, right? Ugh, the filtering."
+"It's like Bl■Mar³, right? Ugh, the filtering."
 <?>[3] Blue Marble Game is a Korean board game similar to Monopoly (Wikipedia).
 Both Kyung Sein and Dansoo ahjussi seemed to have figured out what the game was about.
 So did other readers.

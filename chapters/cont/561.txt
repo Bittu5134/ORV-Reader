@@ -54,12 +54,12 @@ As soon as I did that.
 <!>[The character 'Kim Cheolyang' is looking at you.]
 <!>[The character 'Kim Cheolyang' wants to do something unexpected.]
 A message rang in your head.
-<!>[The activation conditions for the exclusive skill '⬜⬜' has been met.]
-<!>[The exclusive skill '⬜⬜' has been activated.]
-......⬜⬜?
+<!>[The activation conditions for the exclusive skill '■■' has been met.]
+<!>[The exclusive skill '■■' has been activated.]
+......■■?
 <!>[The character 'Kim Cheolyang's attribute is preparing to bloom.]
 <!>[You can interfere with character 'Kim Cheolyang's attribute blooming.]
-<!>[The exclusive skill '⬜⬜' is activated!]
+<!>[The exclusive skill '■■' is activated!]
 The scenery around me turned colorless, and people's actions slowed down drastically.
 I, too, stiffened and stopped moving.
 In a world where time had stopped, only the letters floated in the colorless background.
@@ -74,14 +74,14 @@ Then a message appeared in the white space in front of me.
 +
 # Kim Cheolyang's Awakening
 
-Cheolyang⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+Cheolyang■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 * At your current skill level, you can write a total of 150 additional characters.
 +
 Spaces that emerged like unfinished manuscripts.
 It wasn't hard to understand what those blanks were.
 <!>[You can stay in the 'Snowfield (雪源)' for a total of 3 minutes.]
 Just as Kim Dokja had a 'reader' skill, I had a 'writer' skill.
-Skill '⬜⬜'.
+Skill '■■'.
 Will what I write come true?
 Since I didn't have much time, I decided to write a sentence in the blank first. The purpose was clear.
 Use Kim Cheolyang to save me and the ahjussi from the crisis.

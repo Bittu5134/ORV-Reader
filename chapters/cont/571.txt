@@ -59,14 +59,14 @@ The moment Kyung Sein said that.
 <&>「Time stopped.」
 I panicked as I watched the world around me turn colorless in an instant.
 If time had stopped now, there was only one reason.
-The skill [⬜⬜] had been triggered.
+The skill [■■] had been triggered.
 But why?
 I didn't see anyone around me who would suddenly do something unexpected?
 <!>[Someone wants to do something unexpected.]
 Huh?
 The letters swirled around me, and a snowy landscape appeared.
-<!>[The activation conditions for the exclusive skill '⬜⬜' have been partially met.]
-<!>[The exclusive skill '⬜⬜' has been activated.]
+<!>[The activation conditions for the exclusive skill '■■' have been partially met.]
+<!>[The exclusive skill '■■' has been activated.]
 What do you mean 'someone'?
 <!>[You have an absurdly low understanding of that character.]
 <!>[Your can't intervene in the character's actions.]
@@ -90,14 +90,14 @@ This skill is triggered when someone wants to do something 'unexpected'.
 <!>[Describe your own behavior.]
 <!>[You have spent 5 probability points.]
 And that, I can do.
-<!>[The activation conditions for the exclusive skill '⬜⬜' have been met again.]
-<!>[The exclusive skill '⬜⬜' has been reactivated.]
+<!>[The activation conditions for the exclusive skill '■■' have been met again.]
+<!>[The exclusive skill '■■' has been reactivated.]
 <!>[You have entered the 'Snowfield'.]
 <!>[Describe the next action of 'Cheon Inho'.]
 And a window appeared in front of my eyes.
 +
 # Cheon Inho's Station
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜.......」
+■■■■■■■■■■■■■■■■■■■.......」
 * At your current skill level, you can write a total of 160 additional characters.
 +
 <!>[You can stay in the 'Snowfield' for a total of 3 minutes.]

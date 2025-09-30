@@ -4,11 +4,11 @@ In the colorless world, all blood looked the same.
 No red blood, no blue blood. Everything was gray.
 I felt sad.
 In this wide world.
-<!>[The exclusive skill '⬜⬜' resonates with your emotions.]
+<!>[The exclusive skill '■■' resonates with your emotions.]
 There's not a single piece of paper for extras.
 +
 # Words That Can't Be Said
-「⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜.......」
+「■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■.......」
 * At your current skill level, you can write a total of 260 additional characters.
 +
 <!>[You can stay in the 'Snowfield' for a total of 3 minutes.]
