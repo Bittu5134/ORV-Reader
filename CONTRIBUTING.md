@@ -1,11 +1,11 @@
 # Contribution Guide
 
-This guide provides detailed instructions on how to contribute to the ORV-Reader project. Whether you're fixing typos, adding images, or improving the front end, your contributions are welcome!
+Welcome to the ORV-Reader project! This guide provides detailed instructions on how to contribute. Whether you're fixing typos, adding images, or improving the front end, your contributions are welcome!
 
 ---
 
-## Index
-1. [Editing Files](#how-to-edit-files)
+## Table of Contents
+1. [How to Edit Files](#how-to-edit-files)
 2. [What You Can Edit](#what-you-can-edit)
 3. [Adding Images](#adding-images)
 4. [Improving the Front End](#improving-the-front-end)
@@ -15,37 +15,43 @@ This guide provides detailed instructions on how to contribute to the ORV-Reader
 
 ## How to Edit Files
 
-1.  **Click the Pencil Icon:** Locate and click the pencil icon (✏️) at the top of the webpage.
+### Step-by-Step Instructions
 
-2.  **GitHub Redirection:** You'll be taken to the text file on the GitHub website.
+1. **Click the Pencil Icon:** Locate and click the pencil icon (✏️) at the top of the webpage.
 
-3.  **Sign In/Up:** Log in to your existing GitHub account or create a new one.
+2. **GitHub Redirection:** You'll be taken to the text file on the GitHub website.
 
-4.  **File View:** You'll see the content of the text file.
+3. **Sign In/Up:** Log in to your existing GitHub account or create a new one.
 
-5.  **"Edit this file" Button:** Look for and click the button that allows you to edit the file (it might still be a pencil icon or text like "Edit this file").
+4. **File View:** You'll see the content of the text file.
 
-6.  **Forking (If Necessary):** GitHub might create a copy ("fork") of the project in your account.
+5. **Edit This File:** Look for and click the button that allows you to edit the file (it might be a pencil icon or text like "Edit this file").
 
-7.  **Make Edits:** Use the online text editor to modify the file content.
+6. **Forking (If Necessary):** GitHub might create a copy ("fork") of the project in your account if you don't have write access.
 
-8.  **"Propose changes":** Scroll down and describe your changes in the provided fields (title and optional description).
+7. **Make Edits:** Use the online text editor to modify the file content.
 
-9.  **Click "Propose changes":** Submit your edits.
+8. **Propose Changes:** Scroll down and describe your changes in the provided fields (title and optional description).
 
-10.  After clicking on "Propose Changes", a new page will open. Click on **Create pull request** which is a *green* colour button. Again on the next page click on **Create pull request**. Congrats! You have contributed to this site and improved it for everyone.
+9. **Click "Propose changes":** Submit your edits.
+
+10. **Create Pull Request:** After clicking "Propose Changes", a new page will open. Click the **Create pull request** button (green). On the next page, click **Create pull request** again. Congratulations! You've contributed to this site and improved it for everyone.
 
 > [!NOTE]
-> Make sure you are not creating new branch everything you make an edit, when prompted choose the `commit to main brach option` and periodically keep syncing your repository to keep it upto date.
+> Make sure you are not creating a new branch every time you make an edit. When prompted, choose the `commit to main branch` option and periodically keep syncing your repository to keep it up to date.
 
 ---
 
-### What You Can Edit
-- Fix typos or grammatical errors.
-- Correct system message types, constellation speech, or outer god dialogues.
-- Add missing tags or improve formatting.
+## What You Can Edit
 
-Refer to the [Formatting Guide](./formatting.md) for detailed instructions on using tags and formatting styles.
+You can contribute by editing the chapter text files located in the `/chapters` directory. Here's what you can help with:
+
+- **Fix Typos:** Correct spelling and grammatical errors.
+- **Correct Formatting:** Fix system message types, constellation speech, or outer god dialogues.
+- **Improve Content:** Add missing tags or improve the overall formatting.
+
+> [!IMPORTANT]
+> Always refer to the [Formatting Guide](./formatting.md) for detailed instructions on using tags and formatting styles.
 
 ---
 
@@ -54,10 +60,15 @@ Refer to the [Formatting Guide](./formatting.md) for detailed instructions on us
 You can contribute by adding illustrations and cover images to the chapters.
 
 ### Steps to Add Images
-1. Upload the image to the `website/assets/images` folder with a unique name (e.g., `CH512-01.jpg`).
-2. Edit the corresponding chapter file to include the image using the `<img>` tag. Refer to the [Formatting Guide](./formatting.md) for the correct syntax.
 
-Example:
+1. **Upload the Image:** Upload the image to the `website/assets/images` folder with a unique name (e.g., `CH512-01.jpg`).
+
+2. **Edit the Chapter File:** Edit the corresponding chapter file in the `/chapters` directory to include the image using the `<img>` tag.
+
+3. **Use Proper Syntax:** Refer to the [Formatting Guide](./formatting.md) for the correct syntax.
+
+### Example
+
 ```
 <img>[CH512-01.jpg][Illustration for Chapter 512]
 ```
@@ -68,24 +79,36 @@ Example:
 
 If you're up for a challenge, you can contribute to improving the front end of the website.
 
-### Front-End Files
-- All front-end files are located in the `/website` directory.
-- The files for individual chapters are dynamically generated using GitHub Actions. To edit these, modify the corresponding `template.html` files:
-  - `website/stories/orv/read/template.html`
-  - `website/stories/cont/read/template.html`
-  - `website/stories/side/read/template.html`
+### Front-End File Locations
 
-### Important Notes
-- Do not copy-paste content between template files. Each template contains unique data tags that must remain intact.
-- Test your changes locally before submitting a pull request.
+- All front-end files are located in the `/website` directory.
+- Static pages and assets can be edited directly.
+
+### Editing Chapter Pages
+
+> [!WARNING]
+> **Chapter HTML files (e.g., `ch_1.html`, `ch_2.html`) are automatically generated by GitHub Actions and should NOT be edited directly!**
+
+To modify the chapter pages:
+
+1. **Edit Template Files:** Modify the corresponding `template.html` files:
+   - `website/stories/orv/read/template.html` (Main story)
+   - `website/stories/cont/read/template.html` (Continuation)
+   - `website/stories/side/read/template.html` (Side stories)
+
+2. **Preserve Data Tags:** Do not copy-paste content between template files. Each template contains unique data tags that must remain intact.
+
+3. **Test Locally:** Always test your changes locally before submitting a pull request.
 
 ---
 
 ## Important Notes
 
-- Always follow the [Formatting Guide](./formatting.md) to ensure consistency.
-- Avoid making unnecessary changes to dynamically generated files.
-- If you're unsure about anything, feel free to open an issue on GitHub for clarification.
-- Be respectful and patient during the review process.
+- **Follow the Formatting Guide:** Always follow the [Formatting Guide](./formatting.md) to ensure consistency.
+- **Avoid Auto-Generated Files:** Do not edit chapter HTML files in the `/website/stories/*/read/` directories (e.g., `ch_1.html`, `ch_2.html`). These are automatically generated by GitHub Actions.
+- **Ask for Help:** If you're unsure about anything, feel free to open an issue on GitHub for clarification.
+- **Be Patient:** Be respectful and patient during the review process.
+
+---
 
 Thank you for contributing to the ORV-Reader project!
