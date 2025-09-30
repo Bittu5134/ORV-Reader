@@ -28,7 +28,7 @@ Briareas gave a knowing smile instead of answering.
 Giant's Liberator. This was the first story I should obtain from this Olympus war.
 <@>[Giant's Liberator. Soon the giants of this place will enter Gigantomachia. Is there anything you specifically want?]
 "There is no such thing. Just do what you want."
-<@>[…I'm becoming curious. Why do you want to reach ■■? No other constellations have every built up achievement like you. Are you dreaming of a 'perfect story'?]
+<#>【…I'm becoming curious. Why do you want to reach ■■? No other constellations have every built up achievement like you. Are you dreaming of a 'perfect story'?】
 A perfect story. Some people called 'A Single Story' by such a name. A story that never existed before and was made up of stories that never existed.
 "I just want to see the end with my colleagues. Together without losing anyone."
 <@>[It will be the hardest story in the world. There has never been such a story.]

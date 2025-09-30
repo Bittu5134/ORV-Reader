@@ -61,7 +61,7 @@ It was silent. Then the blazing sun spoke.
 <@>[We can't sit idly by. Kim Dokja's big Company? The small nebula is provoking us.]
 <@>[We need to severely punish them.]
 Then a winged shoe with numerous data windows around it spoke.
-<@>[It won't be easy. Like the three chiefs, the master of the nebula has received the indication of the end ■■ hint.]
+<#>【It won't be easy. Like the three chiefs, the master of the nebula has received the indication of the end ■■ hint.】
 <@>[…Is that true Hermes?]
 <@>[Yes.]
 <@>[Huh, it is funny. The master of the nebula is building a 'story' on the same level as the Lightning Throne?]
