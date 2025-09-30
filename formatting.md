@@ -98,13 +98,13 @@ This guide shows you how to format chapter text files. These special tags help m
 
 **Tag:** `<@>`
 
-**What it does:** Shows dialogue from constellations (the gods watching the story).
+**What it does:** Shows dialogue from constellations or other powerful entities (dokkaibe, transcendents, etc).
 
-**When to use it:** When a constellation is speaking or reacting.
+**When to use it:** When a constellation is speaking directly in their true voice.
 
 **Example:**
 ```
-<@>[The stars are watching you]
+<@>[These incarnations have gotten really lazy]
 ```
 
 ---
@@ -113,9 +113,9 @@ This guide shows you how to format chapter text files. These special tags help m
 
 **Tag:** `<#>`
 
-**What it does:** Shows dialogue from outer gods and powerful entities.
+**What it does:** Shows dialogue from outer gods.
 
-**When to use it:** For speech from beings like the Dream Eater or other cosmic entities.
+**When to use it:** For speech from outergods like the Devourer of dreams, secretive plotter etc.
 
 **Example:**
 ```
