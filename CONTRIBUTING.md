@@ -1,71 +1,84 @@
-# Contribution Guide
+# How to Contribute
 
-Welcome to the ORV-Reader project! This guide provides detailed instructions on how to contribute. Whether you're fixing typos, adding images, or improving the front end, your contributions are welcome!
+Welcome to the ORV-Reader project! This guide will help you make your first contribution. Don't worry if you've never used GitHub before—we'll walk you through everything step by step!
 
 ---
 
-## Table of Contents
+## What's Inside This Guide
+
 1. [How to Edit Files](#how-to-edit-files)
 2. [What You Can Edit](#what-you-can-edit)
 3. [Adding Images](#adding-images)
-4. [Improving the Front End](#improving-the-front-end)
-5. [Important Notes](#important-notes)
+4. [Important Notes](#important-notes)
 
 ---
 
 ## How to Edit Files
 
-### Step-by-Step Instructions
+Don't worry if this is your first time using GitHub! Just follow these simple steps:
 
-1. **Click the Pencil Icon:** Locate and click the pencil icon (✏️) at the top of the webpage.
+### Easy Step-by-Step Guide
 
-2. **GitHub Redirection:** You'll be taken to the text file on the GitHub website.
+1. **Find the Edit Button:** On the chapter page you want to edit, look for the pencil icon (✏️) at the top and click it.
 
-3. **Sign In/Up:** Log in to your existing GitHub account or create a new one.
+2. **You'll Go to GitHub:** The website will take you to a page showing the chapter text file.
 
-4. **File View:** You'll see the content of the text file.
+3. **Sign In (or Create an Account):** 
+   - If you already have a GitHub account, sign in
+   - If not, you can create a free account—it only takes a minute!
 
-5. **Edit This File:** Look for and click the button that allows you to edit the file (it might be a pencil icon or text like "Edit this file").
+4. **Click Edit:** Look for another pencil icon or a button that says "Edit this file" and click it.
 
-6. **Forking (If Necessary):** GitHub might create a copy ("fork") of the project in your account if you don't have write access.
+5. **GitHub Will Make a Copy:** GitHub will automatically create your own copy of the project (this is called a "fork"). Don't worry—this is normal and safe!
 
-7. **Make Edits:** Use the online text editor to modify the file content.
+6. **Make Your Changes:** Now you can edit the text! Use the online editor to fix typos, add tags, or make other improvements.
 
-8. **Propose Changes:** Scroll down and describe your changes in the provided fields (title and optional description).
+7. **Describe Your Changes:** Scroll down to the bottom. You'll see boxes where you can:
+   - Write a short title describing what you changed (e.g., "Fixed typo in Chapter 5")
+   - Add more details if needed (optional)
 
-9. **Click "Propose changes":** Submit your edits.
+8. **Click "Propose changes":** This green button saves your edits.
 
-10. **Create Pull Request:** After clicking "Propose Changes", a new page will open. Click the **Create pull request** button (green). On the next page, click **Create pull request** again. Congratulations! You've contributed to this site and improved it for everyone.
+9. **Create a Pull Request:** 
+   - A new page will open with another green button that says **"Create pull request"**
+   - Click it once
+   - Another page appears—click **"Create pull request"** one more time
+   - That's it! You've just contributed! 🎉
 
-> [!NOTE]
-> Make sure you are not creating a new branch every time you make an edit. When prompted, choose the `commit to main branch` option and periodically keep syncing your repository to keep it up to date.
+> [!TIP]
+> **Quick Tip:** When you make more edits in the future, GitHub might ask if you want to create a new branch. Choose the option to **"commit to main branch"** to keep things simple. Also, remember to sync your copy of the project regularly to get the latest updates!
 
 ---
 
 ## What You Can Edit
 
-You can contribute by editing the chapter text files located in the `/chapters` directory. Here's what you can help with:
+All chapter files are stored in text files that you can edit. Here are the most helpful ways you can contribute:
 
-- **Fix Typos:** Correct spelling and grammatical errors.
-- **Correct Formatting:** Fix system message types, constellation speech, or outer god dialogues.
-- **Improve Content:** Add missing tags or improve the overall formatting.
+- **Fix Spelling and Grammar:** Spot a typo? Fix it! Every correction helps.
+- **Fix Formatting:** Make sure system messages, constellation speech, and outer god dialogues use the right tags.
+- **Improve the Story Text:** Add missing tags or improve how the text is formatted.
 
 > [!IMPORTANT]
-> Always refer to the [Formatting Guide](./formatting.md) for detailed instructions on using tags and formatting styles.
+> **Need help with tags?** Check out the [Formatting Guide](./formatting.md) to learn how to use special tags like `<!>` for system messages, `<@>` for constellation speech, and more!
 
 ---
 
 ## Adding Images
 
-You can contribute by adding illustrations and cover images to the chapters.
+Want to add artwork or cover images to chapters? That's awesome! Here's how:
 
-### Steps to Add Images
+### How to Add an Image
 
-1. **Upload the Image:** Upload the image to the `website/assets/images` folder with a unique name (e.g., `CH512-01.jpg`).
+1. **Upload the Image:** 
+   - Go to the `website/assets/images` folder
+   - Upload your image with a clear name (example: `CH512-01.jpg`)
 
-2. **Edit the Chapter File:** Edit the corresponding chapter file in the `/chapters` directory to include the image using the `<img>` tag.
+2. **Add the Image Tag:** 
+   - Open the chapter text file you want to add the image to
+   - Use the special `<img>` tag to insert it
 
-3. **Use Proper Syntax:** Refer to the [Formatting Guide](./formatting.md) for the correct syntax.
+3. **Check the Format:** 
+   - Look at the [Formatting Guide](./formatting.md) to make sure you're using the right format
 
 ### Example
 
@@ -73,42 +86,17 @@ You can contribute by adding illustrations and cover images to the chapters.
 <img>[CH512-01.jpg][Illustration for Chapter 512]
 ```
 
----
-
-## Improving the Front End
-
-If you're up for a challenge, you can contribute to improving the front end of the website.
-
-### Front-End File Locations
-
-- All front-end files are located in the `/website` directory.
-- Static pages and assets can be edited directly.
-
-### Editing Chapter Pages
-
-> [!WARNING]
-> **Chapter HTML files (e.g., `ch_1.html`, `ch_2.html`) are automatically generated by GitHub Actions and should NOT be edited directly!**
-
-To modify the chapter pages:
-
-1. **Edit Template Files:** Modify the corresponding `template.html` files:
-   - `website/stories/orv/read/template.html` (Main story)
-   - `website/stories/cont/read/template.html` (Continuation)
-   - `website/stories/side/read/template.html` (Side stories)
-
-2. **Preserve Data Tags:** Do not copy-paste content between template files. Each template contains unique data tags that must remain intact.
-
-3. **Test Locally:** Always test your changes locally before submitting a pull request.
+This tells the website: "Show the image `CH512-01.jpg` with the description 'Illustration for Chapter 512'"
 
 ---
 
 ## Important Notes
 
-- **Follow the Formatting Guide:** Always follow the [Formatting Guide](./formatting.md) to ensure consistency.
-- **Avoid Auto-Generated Files:** Do not edit chapter HTML files in the `/website/stories/*/read/` directories (e.g., `ch_1.html`, `ch_2.html`). These are automatically generated by GitHub Actions.
-- **Ask for Help:** If you're unsure about anything, feel free to open an issue on GitHub for clarification.
-- **Be Patient:** Be respectful and patient during the review process.
+- **Use the Formatting Guide:** Always check the [Formatting Guide](./formatting.md) to make sure you're using tags correctly.
+- **Don't Edit HTML Files:** The website automatically creates HTML files from the text files. Only edit the `.txt` chapter files, not the `.html` files.
+- **Need Help?** If you're confused about something, just ask! Open an issue on GitHub and we'll help you out.
+- **Be Patient:** After you submit your changes, someone will review them. This might take a little time, so please be patient!
 
 ---
 
-Thank you for contributing to the ORV-Reader project!
+Thank you for helping make ORV-Reader better for everyone! Every contribution, no matter how small, makes a difference. 💜

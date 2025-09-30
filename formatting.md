@@ -1,30 +1,31 @@
-# Formatting Guide for Contributors
+# Formatting Guide
 
-This guide outlines the formatting rules for creating content in the [`/chapters/*`](/chapters) directory. The [`htmlBuilder.py`](/scripts/side/htmlBuilder.py) script processes these files and converts them into HTML for the website.
+This guide shows you how to format chapter text files. These special tags help make the story look great on the website!
 
-> [!NOTE]
-> Please read the [Contribution Guide](CONTRIBUTING.md) before proceeding with this formatting guide.
-
----
-
-## General Rules
-
-- Each chapter file should be a `.txt` file located in the `/chapters` directory.
-- Files are automatically processed; manual addition is not required.
-- Use the specified tags and formatting styles for consistency.
-- Avoid leaving unformatted content; use the appropriate tags for each type of text.
-- All tags are case-sensitive and must be used exactly as shown in this guide.
+> [!TIP]
+> **New to contributing?** Read the [How to Contribute guide](CONTRIBUTING.md) first to learn how to edit files.
 
 ---
 
-## Supported Tags and Their Usage
+## Basic Rules
 
-### Title
+- Chapter files are simple `.txt` (text) files
+- You don't need to create new files—they already exist in the `/chapters` folder
+- Use the special tags shown below to format different types of text
+- Tags are case-sensitive (use exact capitalization shown)
+- The website automatically converts these tags into pretty formatted text
+
+---
+
+## How to Use Tags
+
+### Chapter Title
 
 **Tag:** `<title>`
 
-- Use to define the title of the chapter.
-- This should be the very first line in the file.
+**What it does:** Sets the chapter title that appears at the top of the page.
+
+**When to use it:** This should always be the very first line in every chapter file.
 
 **Example:**
 ```
@@ -33,12 +34,13 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 ---
 
-### Cover Images
+### Cover Image
 
 **Tag:** `<cover>`
 
-- Use with the format `[image_path][alt_text]` for cover images.
-- Place this tag immediately after the `<title>` tag.
+**What it does:** Adds a cover image at the start of the chapter.
+
+**How to use it:** Write `[image_name][description]` after the tag. Put this right after the title.
 
 **Example:**
 ```
@@ -47,10 +49,13 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 ---
 
-### Empty Lines
+### Empty Lines (Paragraph Breaks)
 
-- Leave an empty line in the text file to insert a `<br>` tag in the HTML.
-- Avoid adding unnecessary empty lines; the website automatically adjusts spacing.
+**How to use it:** Just leave a blank line in your text file.
+
+**What it does:** Creates a space between paragraphs on the website.
+
+**Tip:** Don't add too many blank lines—one is enough!
 
 ---
 
@@ -58,8 +63,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `<!>`
 
-- Use for system messages.
-- These appear as messages shown to the incarnations.
+**What it does:** Shows game system messages (like skill activations or status updates).
+
+**When to use it:** For messages that the characters see in their system interface.
 
 **Example:**
 ```
@@ -72,9 +78,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `+`
 
-- Use `+` before and after text for system windows.
-- Adding a line inside `[...]` turns it into the title of the window.
-- These appear as windows shown to the incarnations.
+**What it does:** Creates a system window box with information.
+
+**How to use it:** Put `+` on a line before and after the content. Add `[Title Text]` on the first line inside for a window title.
 
 **Example:**
 ```
@@ -92,8 +98,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `<@>`
 
-- Use for constellation speech.
-- These are dialogues spoken by constellations.
+**What it does:** Shows dialogue from constellations (the gods watching the story).
+
+**When to use it:** When a constellation is speaking or reacting.
 
 **Example:**
 ```
@@ -106,8 +113,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `<#>`
 
-- Use for outer god speech.
-- These are dialogues spoken by outer gods, including nameless ones or powerful entities like the Dream Eater.
+**What it does:** Shows dialogue from outer gods and powerful entities.
+
+**When to use it:** For speech from beings like the Dream Eater or other cosmic entities.
 
 **Example:**
 ```
@@ -121,8 +129,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `<&>`
 
-- Use for quotes.
-- For quotes with additional context (e.g., author names), use `<br>` for line breaks.
+**What it does:** Formats quoted text or special narration.
+
+**How to use it:** Use `<br>` if you want to add an author name or note on a new line within the quote.
 
 **Example:**
 ```
@@ -133,12 +142,13 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 ---
 
-### Notices
+### Notices (Translator Notes)
 
 **Tag:** `<?>`
 
-- Use for notices.
-- These provide side notes or translator notes for readers.
+**What it does:** Adds helpful notes for readers (like explaining Korean words or cultural references).
+
+**When to use it:** When you want to explain something that might confuse readers.
 
 **Example:**
 ```
@@ -151,8 +161,9 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 **Tag:** `<img>`
 
-- Use with the format `[image_path][alt_text]` for images.
-- The `image_path` should match the file name in the [`website/assets/images/`](/website/assets/images) directory.
+**What it does:** Adds an illustration or image in the middle of a chapter.
+
+**How to use it:** Write `[image_name][description]`. The image must already be uploaded to `website/assets/images/`.
 
 **Example:**
 ```
@@ -161,13 +172,15 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 ---
 
-### Horizontal Rules
+### Section Break
 
 **Tag:** `***`
 
-- Use for horizontal rulers (section breaks).
-- It's recommended to add blank lines before and after it.
-- These signify section breaks and should be used at the end of chapters.
+**What it does:** Creates a horizontal line to separate sections.
+
+**When to use it:** At the end of a chapter or to show a major scene break.
+
+**Tip:** Add blank lines before and after it!
 
 **Example:**
 ```
@@ -178,20 +191,22 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 
 ---
 
-## Notes
+## Quick Tips
 
-- Ensure all tags are properly closed where applicable.
-- Avoid using unsupported tags or raw HTML unless explicitly required.
-- Do not add unnecessary empty lines between tags.
-- Maintain consistency with the existing formatting in other chapters.
-- Test your formatting by checking how it appears on the website after the changes are merged.
+- Always use tags exactly as shown (they're case-sensitive!)
+- Don't use HTML code directly unless you really know what you're doing
+- Keep formatting consistent with other chapters
+- If you're not sure, look at how other chapters do it
+- Your changes will appear on the website after they're approved
 
 ---
 
-## Summary of Tags
+## Quick Reference Table
 
-| Tag | Purpose | Example |
-|-----|---------|---------|
+Here's a handy table to quickly find the tag you need:
+
+| Tag | What It's For | Example |
+|-----|---------------|---------|
 | `<title>` | Chapter title | `<title>Chapter 1: The Beginning` |
 | `<cover>` | Cover image | `<cover>[cover.jpg][Cover Image]` |
 | `<!>` | System messages | `<!>[Skill activated!]` |
@@ -199,6 +214,6 @@ This guide outlines the formatting rules for creating content in the [`/chapters
 | `<@>` | Constellation speech | `<@>[The stars are watching you]` |
 | `<#>` | Outer god speech | `<#>【The void whispers】` |
 | `<&>` | Quotes | `<&>「Quote text」` |
-| `<?>` | Notices/translator notes | `<?>Translation note here` |
+| `<?>` | Notes for readers | `<?>Translation note here` |
 | `<img>` | Images | `<img>[image.jpg][Alt text]` |
-| `***` | Horizontal rule | `\n***\n` |
+| `***` | Section break | `\n***\n` |
