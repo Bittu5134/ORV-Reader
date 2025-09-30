@@ -56,20 +56,20 @@ I narrowly avoided the giant forest boar and refined my sword using the story �
 The wild boar fell down in an instant, blood pouring from its side.
 <!>[The 7th grade monster species 'Forest Wild Boar' has been defeated.]
 After collecting its core, I immediately started butchering it. Because I haven't eaten anything for two days already.
-<&>「You can never starve. If you don't have enough energy, your head won't work well. Yoo Jonghyuk eats eight meals a day.」
+<&>「You can never starve. If you don't have enough energy, your head won't work well. Yoo Joonghyuk eats eight meals a day.」
 I looked for and read about the 'Forest Wild Boar’s butchering' in 'Ways of Survival'.
 The poisonous horns were removed, the skin was removed, the intestines were taken out, and the meat was sliced along the spine.
 I gathered twigs and lit a fire.
 There was no [Magic Brazier], but now it is possible to light a cooking flame without a brazier.
-<&>「Youngest, Yoo Jonghyuk, the best cook, what number of sessions did he say?」
-For cooking wild boar, refer to Yoo Jonghyuk's recipe from the 81st round. However, even though I followed Yoo Jonghyuk's recipe, the dish did not turn out well for some reason.
-Probably because I am not Yoo Jonghyuk.
-<&>「Yoo Jonghyuk thought. 'Is it possible to achieve transcendence through cooking?'」
+<&>「Youngest, Yoo Joonghyuk, the best cook, what number of sessions did he say?」
+For cooking wild boar, refer to Yoo Joonghyuk's recipe from the 81st round. However, even though I followed Yoo Joonghyuk's recipe, the dish did not turn out well for some reason.
+Probably because I am not Yoo Joonghyuk.
+<&>「Yoo Joonghyuk thought. 'Is it possible to achieve transcendence through cooking?'」
 There are some obvious facts I learned while living alone.
 For example, not all monster species are as delicious as 'Ground Puppy' or 'Yana Spreta'.
-<&>「Yoo Jonghyuk thought as he watched Kim Namwoon spitting up what he just ate. 'You can’t eat these ingredients by cooking them'.」
+<&>「Yoo Joonghyuk thought as he watched Kim Namwoon spitting up what he just ate. 'You can’t eat these ingredients by cooking them'.」
 Monsters must be slaughtered three or four times a day, and emergency food must be stored in case the hunt fails.
-<&>「Yoo Jonghyuk thought as he looked at Kim Namwoon foaming at the mouth. 'If you eat this fruit, you will die within 1 minute'.」
+<&>「Yoo Joonghyuk thought as he looked at Kim Namwoon foaming at the mouth. 'If you eat this fruit, you will die within 1 minute'.」
 Even in the apocalypse, you have to maintain hygiene and occasionally wash your body under running water.
 <&>「"Kim Namwoon, you smell bad."」
 Then Lee Jihye held her nose and walked away.
@@ -83,21 +83,21 @@ It's been a long time since I've been alone like this.
 Suddenly, memories of the day I first started living here came to mind.
 <&>「Kim Namwoon prayed. "Captain, can’t I eat first this time?"」
 The fact is that humans need to eat something every day to survive.
-<&>「Yoo Jonghyuk gave the order. "No. From now on, you will be in charge of doing the laundry, Kim Namwoon!"」
+<&>「Yoo Joonghyuk gave the order. "No. From now on, you will be in charge of doing the laundry, Kim Namwoon!"」
 The fact is that someone has to constantly run the washing machine in order to wear clean clothes.
-<&>「Yoo Jonghyuk gave the order. 'It’s your responsibility to clean up after monsters, Kim Namwoon."」
+<&>「Yoo Joonghyuk gave the order. 'It’s your responsibility to clean up after monsters, Kim Namwoon."」
 The fact is that if you don't clean up what you eat right away, bugs will be attracted.
-<&>「Yoo Jonghyuk gave the order. "And pay back 10,000 coins a day, Kim Namwoon."」
+<&>「Yoo Joonghyuk gave the order. "And pay back 10,000 coins a day, Kim Namwoon."」
 The fact is that you have to work and earn money to pay rent and resident tax.
 By experiencing those extremely obvious facts firsthand, I managed to grow into a decent member of society.
-<&>「Yoo Jonghyuk gave the order, "Practice cutting 20,000 times a day!"」
+<&>「Yoo Joonghyuk gave the order, "Practice cutting 20,000 times a day!"」
 Things that must be done to become an ordinary adult.
 <&>「Namwoon asked, "Damn it, how can I do all that!"」
 Since when did Kim Dokja start doing things like that on his own?
-<&>「Yoo Jonghyuk answered, "I did it!"」
+<&>「Yoo Joonghyuk answered, "I did it!"」
 I often thought about Kim Dokja, who endured his childhood alone without the help of his parents—the Demon King of Salvation at a time when no one could yet save him.
 A boy who worked to earn money, did laundry, cooked meals, washed dishes, occasionally paid rent, and read Ways of Survival before going to sleep.
-<&>「Yoo Jonghyuk answered, "You can do it too."」
+<&>「Yoo Joonghyuk answered, "You can do it too."」
 Thinking of that boy, I also read 'Ways of Survival'.
 And a week has passed.
 Now monster hunting has become much more natural. The speed of butchering has also increased, and the skill proficiency has also increased.
@@ -122,8 +122,8 @@ An area that can only be reached through the 'Star Ladder'.
 <&>「Any incarnation that graduates from the 'Recycling Center' can definitely become a 'Constellation' regardless of their origin.」
 According to the explanation of the 'Ways of Survival', it was possible to rise to the status of a constellation with a sponsor by using the 'Recycling Center'.
 If you look at it up to this point, it wasn't a bad scenario.
-<&>「But Yoo Jonghyuk almost never used the 'Recycling Center'.」
-The problem is that the level of difficulty of this 'Recycling Center' is such that even regressor Yoo Jonghyuk shakes his head.
+<&>「But Yoo Joonghyuk almost never used the 'Recycling Center'.」
+The problem is that the level of difficulty of this 'Recycling Center' is such that even regressor Yoo Joonghyuk shakes his head.
 It was understandable that the Demon King of Salvation was reluctant about this scenario.
 But he eventually sent me here.
 <!>[Guide ends.]
