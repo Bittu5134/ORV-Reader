@@ -61,7 +61,7 @@ body {
 
 .card {
     width: min(300px, 90vw);
-    height: fit-content;
+    aspect-ratio: 1 / 1.5;
     background-color: rgba(0, 0, 0, 0.3);
     border: 0.15em solid rgba(255, 255, 255, 0.3);
     margin: 0;
@@ -75,7 +75,7 @@ body {
     position: relative;
     text-decoration: none;
     transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
-    border-radius: 8px;
+    border-radius: 20px;
 }
 
 .card:hover {
@@ -120,9 +120,9 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), transparent);
-    backdrop-filter: blur(5px);
-    -webkit-backdrop-filter: blur(5px);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0.7) 40%, transparent 100%);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
     z-index: -1;
 }
 
