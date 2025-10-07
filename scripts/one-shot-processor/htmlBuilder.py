@@ -108,7 +108,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     # Handle Previous button
     if file_index == first_chapter_index:
         template = template.replace(r"{{PREV}}", "../")
-        template = template.replace(r"{{PREV-TEXT}}", "Overview")
+        template = template.replace(r"{{PREV-TEXT}}", "Home")
         template = template.replace(
             r"{{PREV-SVG}}",
             '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
@@ -124,7 +124,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     # Handle Next button
     if file_index == last_chapter_index:
         template = template.replace(r"{{NEXT}}", "../")
-        template = template.replace(r"{{NEXT-TEXT}}", "Overview")
+        template = template.replace(r"{{NEXT-TEXT}}", "Home")
         template = template.replace(
             r"{{NEXT-SVG}}",
             '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
