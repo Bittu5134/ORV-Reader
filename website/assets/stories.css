@@ -59,17 +59,6 @@ body {
     left: 20px;
     text-decoration: none;
     z-index: 100;
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 0.5em;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background-color 0.3s ease;
-}
-
-.back:hover {
-    background-color: rgba(0, 0, 0, 0.8);
 }
 
 .cards {
