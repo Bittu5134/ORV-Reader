@@ -105,12 +105,25 @@ body {
     white-space: nowrap;
     text-overflow: ellipsis;
     width: 100%;
-    backdrop-filter: blur(5px) brightness(40%);
     margin: 0;
     position: absolute;
     bottom: 0;
     font-weight: 500;
     letter-spacing: 0.5px;
+    z-index: 2;
+}
+
+.card p::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    backdrop-filter: blur(5px) brightness(40%);
+    -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    mask-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    z-index: -1;
 }
 
 a {
