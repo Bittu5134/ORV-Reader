@@ -1,9 +1,44 @@
 html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100dvh;
+    width: 100dvw;
+    overflow: hidden;
+    position: relative;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     background-image: url("./background-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-position: center;
     background-color: rgb(24, 24, 24);
+    z-index: 0;
+}
+
+.content-wrapper {
+    position: relative;
+    color: white;
+    backdrop-filter: blur(0.3px);
+    background-color: rgba(0, 0, 0, 0.551);
+    height: 100dvh;
+    width: 100dvw;   
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1;
 }
 
 .back {
@@ -16,19 +51,6 @@ html {
 
 .back svg {
     scale: 1.5;
-}
-body {
-    color: white;
-    backdrop-filter: blur(0.3px);
-    margin: 0;
-    padding: 0;
-    background-color: rgba(0, 0, 0, 0.551);
-    height: 100dvh;
-    width: 100dvw;   
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    position: relative;
 }
 
 .back {
