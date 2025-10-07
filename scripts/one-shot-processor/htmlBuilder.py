@@ -111,7 +111,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
         template = template.replace(r"{{PREV-TEXT}}", "Overview")
         template = template.replace(
             r"{{PREV-SVG}}",
-            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>',
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
         )
     else:
         template = template.replace(r"{{PREV}}", f"ch_{file_index}")
@@ -127,7 +127,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
         template = template.replace(r"{{NEXT-TEXT}}", "Overview")
         template = template.replace(
             r"{{NEXT-SVG}}",
-            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg>',
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
         )
     else:
         template = template.replace(r"{{NEXT}}", f"ch_{file_index+2}")
@@ -140,8 +140,8 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     while html and (html[-1] == "<br>" or html[-1] == "<hr>"):
         html.pop()
 
-    html.append("<hr>")
     html.append("<br>")
+    html.append("<hr>")
 
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"side/{file}")
