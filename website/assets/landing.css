@@ -116,6 +116,7 @@ body {
     color: rgba(255, 255, 255, 0.95);
     font-size: clamp(0.9rem, 2vw, 1.2rem);
     line-height: 1.6;
+    scale: 1.05;
     margin: 0;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -330,7 +331,7 @@ body {
 /* Small mobile adjustments */
 @media (max-width: 480px) {
     .logo {
-        width: clamp(200px, 70vw, 350px);
+        width: clamp(250px, 80vw, 500px);
     }
 
     .quote-container {
