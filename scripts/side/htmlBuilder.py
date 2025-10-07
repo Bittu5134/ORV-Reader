@@ -137,7 +137,7 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
 
     html.append("<br>")
     html.append("<hr>")
-    html.append('<p class="orv_line">Dear Readers! Are you enjoying your read? Please consider donating to help keep the ORV-Reader running! Thank you for your support! (My rent is due TwT)</p> <ul><li><a href="../../../support/"><span style="color: #ff5e1f">Support ORV-Reader</span></a></li></ul>')
+    html.append('<p class="orv_line">Dear Readers! Are you enjoying your read? Please consider donating to help keep the ORV-Reader running! Thank you for your support! (My rent is due TwT)</p> <ul><li><a href="../../../donate/"><span style="color: #ff5e1f">Support ORV-Reader</span></a></li></ul>')
     html.append("<hr>")
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"cont/{file}")
