@@ -79,7 +79,7 @@ A small window emerged in front of everyone's blank eyes.
 [Main Scenario #1 – Proof of Value]
 Category: Main
 Difficulty: F
-Clear Conditions: Kill one or more creatures.
+Clear Conditions: Kill one or more living things.
 Time Limit: 30 minutes
 Compensation: 300 coins
 Failure: Death
