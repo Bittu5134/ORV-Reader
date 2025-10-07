@@ -139,50 +139,23 @@ body {
     font-size: clamp(0.95rem, 2vw, 1.1rem);
     font-weight: 600;
     text-decoration: none;
-    border-radius: 50px;
     transition: all 0.3s ease;
     cursor: pointer;
-    border: none;
-    position: relative;
-    overflow: hidden;
+    background: transparent;
+    border: 2px solid white;
+    color: white;
 }
 
-.btn::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 0;
-    height: 100%;
+.btn:hover {
     background: rgba(255, 255, 255, 0.1);
-    transition: width 0.3s ease;
-    z-index: -1;
-}
-
-.btn:hover::before {
-    width: 100%;
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
-}
-
-.btn-primary:hover {
-    box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
+    /* Start Reading button - solid white border design */
 }
 
 .btn-secondary {
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    color: white;
-    border: 2px solid rgba(255, 255, 255, 0.3);
-}
-
-.btn-secondary:hover {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.5);
+    /* Download EPUB button - solid white border design */
 }
 
 /* Bottom Group - Made by + Quick Links */
@@ -252,20 +225,15 @@ body {
     gap: 0.4rem;
     padding: clamp(0.9rem, 2vh, 1.2rem) clamp(1.2rem, 3vw, 1.5rem);
     min-width: clamp(90px, 20vw, 120px);
-    background: rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    border: 2px solid rgba(255, 255, 255, 0.3);
-    border-radius: 16px;
+    background: transparent;
+    border: 2px solid white;
     color: white;
     text-decoration: none;
-    transition: all 0.3s ease;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: color 0.3s ease, border-color 0.3s ease;
 }
 
 .link-btn:hover {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.5);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    background: rgba(255, 255, 255, 0.1);
 }
 
 /* Colored hover effects for individual buttons */
@@ -303,6 +271,7 @@ body {
     opacity: 0.9;
     height: clamp(20px, 3vh, 24px);
     width: clamp(20px, 3vh, 24px);
+    transition: fill 0.3s ease;
 }
 
 .link-btn span {
