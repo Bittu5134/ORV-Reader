@@ -2,6 +2,7 @@ html {
     background-image: url("./background-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     background-color: rgb(24, 24, 24);
 }
 
