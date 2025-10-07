@@ -6,14 +6,6 @@ html {
     background-color: rgb(24, 24, 24);
 }
 
-
-@media screen and (max-width: 800px) {
-    html {
-        background-image: url("./background-stars-mobile.jpg");
-    }
-    
-}
-
 body {
     text-align: center;
     color: white;
@@ -39,6 +31,24 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     text-decoration: none !important;
+    animation: glowOnLoad 3s ease-in-out;
+}
+
+@keyframes glowOnLoad {
+    0% {
+        filter: brightness(50%);
+        text-shadow: 0 0 0px rgba(255, 255, 255, 0);
+    }
+    50% {
+        filter: brightness(200%);
+        text-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 
+                     0 0 30px rgba(255, 255, 255, 0.6),
+                     0 0 40px rgba(255, 255, 255, 0.4);
+    }
+    100% {
+        filter: brightness(50%);
+        text-shadow: 0 0 0px rgba(255, 255, 255, 0);
+    }
 }
 
 .made-by a:hover {
