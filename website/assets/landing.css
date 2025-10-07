@@ -3,7 +3,6 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    overflow: hidden;
     background-color: rgb(24, 24, 24);
 }
 
@@ -15,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.551);
-    height: 100dvh;
+    min-height: 100dvh;
     width: 100dvw;
     display: flex;
     align-items: center;
