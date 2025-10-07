@@ -46,35 +46,20 @@ body {
 /* Hero Section */
 .hero-section {
     position: relative;
-    min-height: 100dvh;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    padding: 2rem;
+    justify-content: flex-start;
+    padding: 0.5rem 1.5rem 1rem;
     z-index: 1;
-}
-
-.hero-content {
-    max-width: 900px;
-    text-align: center;
-    animation: fadeInUp 1s ease-out;
-}
-
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    padding-bottom: 160px;
 }
 
 .logo {
     width: min(500px, 80vw);
     height: auto;
-    margin-bottom: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.5));
     animation: float 6s ease-in-out infinite;
 }
@@ -88,27 +73,46 @@ body {
     }
 }
 
-.tagline {
-    color: white;
-    font-size: clamp(1.5rem, 4vw, 2.5rem);
-    font-weight: 700;
-    margin-bottom: 1.5rem;
-    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.8);
-    letter-spacing: -0.5px;
+/* Quote with corner borders */
+.quote-container {
+    position: relative;
+    border: none;
+    max-width: min(700px, 85vw);
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.quote-container::before,
+.quote-container::after {
+    position: absolute;
+    content: "";
+    width: 2em;
+    height: 1em;
+}
+
+.quote-container::before {
+    left: 0;
+    top: 0;
+    border-left: 0.15em solid white;
+    border-top: 0.15em solid white;
+}
+
+.quote-container::after {
+    right: 0;
+    bottom: 0;
+    border-right: 0.15em solid white;
+    border-bottom: 0.15em solid white;
 }
 
 .quote {
-    color: rgba(255, 255, 255, 0.9);
+    color: rgba(255, 255, 255, 0.95);
     font-size: clamp(1rem, 2vw, 1.25rem);
-    line-height: 1.8;
-    max-width: 700px;
-    margin: 0 auto 3rem;
-    padding: 1.5rem;
-    background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(10px);
-    border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    line-height: 1.7;
+    margin: 0;
     font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* CTA Buttons */
@@ -117,7 +121,7 @@ body {
     gap: 1rem;
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
 }
 
 .btn {
@@ -176,63 +180,28 @@ body {
     transform: translateY(-3px);
 }
 
-/* Quick Links */
-.quick-links {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    gap: 1.5rem;
-    flex-wrap: wrap;
-    padding: 2rem;
-    z-index: 1;
-    max-width: 800px;
-    margin: 0 auto;
-}
-
-.link-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 1.5rem 2rem;
-    background: rgba(0, 0, 0, 0.4);
-    backdrop-filter: blur(15px);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 16px;
-    color: white;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    min-width: 140px;
-}
-
-.link-card:hover {
-    background: rgba(0, 0, 0, 0.6);
-    border-color: rgba(255, 255, 255, 0.3);
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
-
-.link-card svg {
-    opacity: 0.9;
-}
-
-.link-card span {
-    font-size: 1rem;
-    font-weight: 500;
-}
-
-/* Footer */
+/* Footer - Fixed above quick links */
 .footer {
-    position: relative;
+    position: fixed;
+    bottom: 80px;
+    left: 0;
+    right: 0;
     text-align: center;
-    padding: 2rem;
-    color: rgba(255, 255, 255, 0.6);
-    font-size: 0.95rem;
-    z-index: 1;
+    padding: 0.8rem;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.9rem;
+    z-index: 50;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer p {
+    margin: 0;
 }
 
 .footer a {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -241,27 +210,74 @@ body {
     color: white;
 }
 
+/* Quick Links - Anchored at Bottom */
+.quick-links {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(20px);
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    z-index: 100;
+}
+
+.link-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1.2rem 1rem;
+    background: transparent;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.link-card:last-child {
+    border-right: none;
+}
+
+.link-card:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.link-card svg {
+    opacity: 0.9;
+}
+
+.link-card span {
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .hero-section {
-        padding: 1rem;
+        padding: 0.5rem 1rem 1rem;
+        padding-bottom: 140px;
     }
 
-    .tagline {
+    .logo {
+        margin-top: 0.5rem;
         margin-bottom: 1rem;
     }
 
-    .quote {
-        margin-bottom: 2rem;
-        padding: 1rem;
-        font-size: 1rem;
+    .quote-container {
+        margin-bottom: 1.5rem;
+        padding: 1.5rem;
     }
 
     .cta-buttons {
         flex-direction: column;
         width: 100%;
         max-width: 300px;
-        margin: 0 auto 2rem;
+        margin: 0 auto 1rem;
     }
 
     .btn {
@@ -270,33 +286,62 @@ body {
         padding: 0.9rem 1.5rem;
     }
 
-    .quick-links {
-        gap: 1rem;
-        padding: 1rem;
+    .footer {
+        bottom: 70px;
+        padding: 0.7rem;
+        font-size: 0.85rem;
     }
 
     .link-card {
-        padding: 1rem 1.5rem;
-        min-width: 120px;
+        padding: 1rem 0.8rem;
+    }
+
+    .link-card span {
+        font-size: 0.85rem;
     }
 }
 
 @media (max-width: 480px) {
+    .hero-section {
+        padding: 0.25rem 0.8rem 0.8rem;
+        padding-bottom: 130px;
+    }
+
     .logo {
-        margin-bottom: 1.5rem;
+        margin-top: 0.25rem;
+        margin-bottom: 0.8rem;
     }
 
-    .tagline {
-        font-size: 1.5rem;
+    .quote-container {
+        padding: 1.2rem;
+        margin-bottom: 1.2rem;
     }
 
-    .quick-links {
-        flex-direction: column;
-        align-items: stretch;
+    .cta-buttons {
+        gap: 0.8rem;
+    }
+
+    .btn {
+        padding: 0.85rem 1.2rem;
+        font-size: 1rem;
+    }
+
+    .footer {
+        bottom: 65px;
+        padding: 0.6rem;
+        font-size: 0.8rem;
     }
 
     .link-card {
-        flex-direction: row;
-        justify-content: center;
+        padding: 0.9rem 0.5rem;
+    }
+
+    .link-card svg {
+        height: 20px;
+        width: 20px;
+    }
+
+    .link-card span {
+        font-size: 0.8rem;
     }
 }
