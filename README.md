@@ -71,7 +71,7 @@ For how to contribute to this project follow the given links.
 
 ## Support the Project
 
-If you enjoy ORV-Reader and would like to support the project, you can donate using **crypto**, **gift cards**, or **Steam games**. You can also contact me directly via Discord [@bittu5134](https://discord.gg/wsRTfQm8) or email [ssr7a5134@gmail.com](mailto:ssr7a5134@gmail.com).
+If you enjoy ORV-Reader and would like to support the project, you can donate using **Crypto**, **Gift Cards**, or **Steam games**. You can also contact me directly via Discord **@bittu5134** or email [ssr7a5134@gmail.com](mailto:ssr7a5134@gmail.com).
 
 **Please visit the [Donate page](https://orv.pages.dev/donate.html) for all donation options and details.**
 
