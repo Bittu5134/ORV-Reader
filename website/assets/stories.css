@@ -22,12 +22,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgba(0, 0, 0, 0.551);
-    height: fit-content;
+    height: 100dvh;
     width: 100dvw;   
-    min-height: 100dvh;
-    height: max-content;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .back {
@@ -45,14 +44,26 @@ body {
     align-items: center;
     flex-grow: 1;
     padding: 20px;
+    gap: 2em;
+    overflow-y: auto;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        overflow: hidden;
+    }
+    
+    .cards {
+        overflow: hidden;
+    }
 }
 
 .card {
-    width: min(300px,60vw);
+    width: min(300px, 90vw);
     height: fit-content;
-    background-color: #00000026;
-    border: 0.1em solid #000000;
-    margin: 1em;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 0.15em solid rgba(255, 255, 255, 0.3);
+    margin: 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -62,6 +73,14 @@ body {
     overflow: hidden;
     position: relative;
     text-decoration: none;
+    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 .card img{
@@ -69,25 +88,28 @@ body {
     height: 100%;
     max-width: fit-content;
     max-height: fit-content;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 }
-.card img:hover{
-    scale: 1.2;
+
+.card:hover img{
+    scale: 1.05;
 }
 
 .card p {
     color: white;
-    padding: 3% 0px;
+    padding: 1em 0.5em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     width: 100%;
-    backdrop-filter: blur(0.5px) brightness(10%);
+    backdrop-filter: blur(5px) brightness(40%);
     margin: 0;
     position: absolute;
-    bottom: -1px;
+    bottom: 0;
+    font-weight: 500;
+    letter-spacing: 0.5px;
 }
 
 a {
