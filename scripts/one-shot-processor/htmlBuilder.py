@@ -132,6 +132,9 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     while html and (html[-1] == "<br>" or html[-1] == "<hr>"):
         html.pop()
 
+    html.append("<hr>")
+    html.append("<br>")
+
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"side/{file}")
     template = template.replace(r"{{INDEX}}", str(file_index))
