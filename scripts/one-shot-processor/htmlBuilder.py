@@ -114,7 +114,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
                 '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>',
             )
 
-        if file_index == len(os.listdir("chapters/orv")) - 1:
+        if file_index == len(os.listdir("chapters/side")) - 1:
             template = template.replace(r"{{NEXT}}", "../")
             template = template.replace(r"{{NEXT-TEXT}}", "Overview")
             template = template.replace(
@@ -132,10 +132,6 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     while html and (html[-1] == "<br>" or html[-1] == "<hr>"):
         html.pop()
 
-    html.append("<br>")
-    html.append("<hr>")
-    html.append('<p class="orv_line">Dear Readers! Are you enjoying your read? Please consider donating to help keep the ORV-Reader running! Thank you for your support! (My rent is due TwT)</p> <ul><li><a href="../../../donate/"><span style="color: #ff5e1f">Support ORV-Reader</span></a></li></ul>')
-    html.append("<hr>")
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"side/{file}")
     template = template.replace(r"{{INDEX}}", str(file_index))
