@@ -61,12 +61,14 @@ body {
     border: 0.1em solid #000000;
     margin: 1em;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
     box-sizing: border-box;
     overflow: hidden;
     position: relative;
+    text-decoration: none;
 }
 
 .card img{
