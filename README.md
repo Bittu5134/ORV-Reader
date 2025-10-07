@@ -69,6 +69,18 @@ For how to contribute to this project follow the given links.
 
 ---
 
+## Support the Project
+
+If you enjoy ORV-Reader and would like to support the project, you can donate using various methods:
+
+- **Gift Cards**: Send gift cards via Discord [@bittu5134](https://discord.gg/wsRTfQm8) or email [ssr7a5134@gmail.com](mailto:ssr7a5134@gmail.com)
+- **Steam**: [Gift a wishlisted game](https://store.steampowered.com/wishlist/id/bittu5134?sort=topsellers) or [send a Digital Steam card](https://store.steampowered.com/digitalgiftcards/selectgiftcard) (username: bittu5134)
+- **Cryptocurrency**: Bitcoin, Ethereum, or Solana
+
+For more donation options, visit the [Support page](https://orv.pages.dev/support.html).
+
+---
+
 ## Star History
 
 <a href="https://www.star-history.com/#Bittu5134/ORV-Reader&Date">
