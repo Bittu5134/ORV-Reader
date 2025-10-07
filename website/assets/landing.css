@@ -73,7 +73,7 @@ body {
 .logo {
     width: clamp(250px, 40vw, 500px);
     height: auto;
-    margin-top: 1rem;
+    margin-top: 5vh;
     margin-bottom: clamp(0.3rem, 1vh, 0.5rem);
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.5));
 }
@@ -84,7 +84,7 @@ body {
     border: none;
     max-width: min(700px, 85vw);
     padding: clamp(1rem, 3vh, 2rem);
-    margin-top: clamp(-2rem, -3vh, -1.5rem);
+    margin-top: 0;
     margin-bottom: clamp(0.8rem, 2vh, 1.5rem);
     box-sizing: border-box;
     text-align: center;

@@ -1,378 +1,228 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 html {
-    scroll-behavior: smooth;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-    height: 100dvh;
-    width: 100dvw;
-    overflow: hidden;
-    position: relative;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-    color: white;
-}
-
-/* Fixed Background - Absolutely static */
-.background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
     background-image: url("./background-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-attachment: fixed;
     background-color: rgb(24, 24, 24);
-    z-index: 0;
-    overflow: hidden;
 }
 
-.background::after {
-    content: '';
-    position: absolute;
+body {
+    color: white;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (max-width: 700px) {
+
+    html {
+        /* background-image: url("./start-tile.jpeg"); */
+        background-repeat: repeat;
+        background-size: 300dvh,auto;
+        background-color: rgb(24, 24, 24);
+    }
+
+    body {
+        background-color: rgba(0, 0, 0, 0.550);
+        backdrop-filter: blur(3px);
+        flex-direction: column;
+        height: auto;
+    }
+
+    .info {
+        width: 100%;
+        height: auto;
+        overflow: visible;
+    }
+
+    .cover {
+        height: 50dvh;
+        width: auto;
+    }
+
+    .chapters {
+        flex-grow: 1;
+        width: 100%;
+        position: relative;
+        margin-top: 1em;
+        overflow-y: visible;
+    }
+
+    .ch-container {
+        position: static;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 701px) {
+    .info {
+        width: clamp(200px, 45vw, 400px);
+        overflow-y: scroll;
+    }
+
+    .chapters {
+        flex-grow: 1;
+    }
+
+    html {
+        height: max-content;
+    }
+
+    body {
+        height: 100dvh;
+        background-color: rgba(0, 0, 0, 0.550);
+    }
+}
+
+.info {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    backdrop-filter: blur(3px) brightness(75%);
+}
+
+.info::-webkit-scrollbar {
+    display: none;
+}
+
+.info {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.info .cover {
+    margin-top: 5vh;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: auto;
+}
+
+.info .cover img {
+    border: black solid 0.1em;
+    border-radius: 10%;
+    max-width: 95%;
+    width: auto;
+    height: 50dvh;
+    max-height: max-content;
+    display: block;
+}
+
+.read-btn {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.info #read {
+    border: white 0.2em solid;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 5%;
+    font-weight: bold;
+    color: white;
+    ;
+    margin: 1em 0px;
+    font-size: 1em;
+    padding: 1em 2em;
+    transition-duration: 0.5s;
+}
+
+.info #read:hover {
+    background-color: white;
+    color: black;
+}
+
+.info .status {
+    margin-left: 0.8em;
+}
+
+.info .status p:first-child {
+    font-size: 1.3em;
+}
+
+.info .synopsis {
+    margin-left: 0.8em;
+    margin-top: 0;
+}
+
+.chapters {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ch-container {
+    margin-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+.ch-container input {
+    padding: 0.2em 2em;
+}
+
+.ch-container svg {
+    scale: 1.5;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.back {
+    z-index: 2;
+    position: fixed;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(180deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.85) 100%);
-    z-index: 1;
-}
-
-/* Back Button */
-.back {
-    position: fixed;
-    top: 20px;
-    left: 20px;
-    z-index: 100;
-    width: 48px;
-    height: 48px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: rgba(0, 0, 0, 0.6);
-    backdrop-filter: blur(10px);
-    border-radius: 50%;
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    transition: all 0.3s ease;
-    text-decoration: none;
-    color: white;
-}
-
-.back:hover {
-    background: rgba(0, 0, 0, 0.8);
-    border-color: rgba(255, 255, 255, 0.3);
-    transform: scale(1.1);
+    padding: 1em;
+    margin: 0.1em;
 }
 
 .back svg {
-    fill: white;
+    scale: 1.5;
 }
 
-/* Story Container - compact and free */
-.story-container {
-    position: relative;
-    z-index: 1;
-    height: 100dvh;
-    overflow-y: auto;
-    overflow-x: hidden;
-    padding: 1rem;
+#chapter-result {
+    overflow-y: scroll;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-/* Compact Header Section */
-.story-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1.5rem;
-    margin-top: 1rem;
-    margin-bottom: 2rem;
-    padding: 2rem;
-    max-width: 800px;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.4);
-    backdrop-filter: blur(15px);
-    border-radius: 20px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
-
-.cover-section {
-    position: relative;
-}
-
-.cover-img {
-    width: clamp(200px, 50vw, 280px);
-    height: auto;
-    border-radius: 16px;
-    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    transition: transform 0.3s ease;
-}
-
-.cover-img:hover {
-    transform: scale(1.05);
-}
-
-/* Info Section - Compact */
-.info-section {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    width: 100%;
-    text-align: center;
-}
-
-.story-title {
-    font-size: clamp(1.5rem, 4vw, 2.5rem);
-    font-weight: 700;
-    background: linear-gradient(135deg, #fff 0%, #aaa 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin-bottom: 0.5rem;
-}
-
-/* Meta Info - Compact inline */
-.meta-info {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
-    align-items: center;
-}
-
-.meta-item {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.8);
-}
-
-.meta-item svg {
-    width: 18px;
-    height: 18px;
-    fill: rgba(255, 255, 255, 0.7);
-}
-
-/* Status Badge */
-.status-badge {
-    padding: 0.3rem 0.8rem;
-    border-radius: 12px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    text-transform: uppercase;
-}
-
-.status-badge.completed {
-    background: linear-gradient(135deg, #4CAF50, #388E3C);
-    color: white;
-}
-
-.status-badge.ongoing {
-    background: linear-gradient(135deg, #FF9800, #F57C00);
-    color: white;
-}
-
-/* Synopsis - Compact */
-.synopsis {
-    text-align: left;
-}
-
-.synopsis h3 {
-    font-size: 1.1rem;
-    margin-bottom: 0.5rem;
-    color: rgba(255, 255, 255, 0.9);
-}
-
-.synopsis p {
-    font-size: 0.95rem;
-    line-height: 1.6;
-    color: rgba(255, 255, 255, 0.75);
-}
-
-/* Action Button */
-.action-buttons {
-    display: flex;
-    justify-content: center;
-    margin-top: 1rem;
-}
-
-.btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.9rem 1.8rem;
-    font-size: 1rem;
-    font-weight: 600;
-    text-decoration: none;
-    border-radius: 50px;
-    transition: all 0.3s ease;
-    cursor: pointer;
-    border: none;
-}
-
-.btn-read {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
-}
-
-.btn-read:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 12px 30px rgba(102, 126, 234, 0.6);
-}
-
-/* Chapters Section - Compact */
-.chapters-section {
-    width: 100%;
-    max-width: 900px;
-    padding: 1.5rem;
-    background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(10px);
-    border-radius: 16px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    margin-bottom: 2rem;
-}
-
-.chapters-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 1.5rem;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.chapters-header h2 {
-    font-size: 1.5rem;
-    color: white;
-}
-
-.search-container {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.6rem 1rem;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 30px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    flex: 1;
-    max-width: 400px;
-}
-
-.search-container svg {
-    fill: rgba(255, 255, 255, 0.7);
-    cursor: pointer;
-    transition: fill 0.2s ease;
-}
-
-.search-container svg:hover {
-    fill: white;
-}
-
-.search-container input {
-    flex: 1;
-    background: transparent;
-    border: none;
-    outline: none;
-    color: white;
-    font-size: 0.95rem;
-}
-
-.search-container input::placeholder {
-    color: rgba(255, 255, 255, 0.5);
-}
-
-/* Chapter List with proper boxes */
-.chapter-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-}
-
-.chapter-item {
-    padding: 1rem;
-    background: rgba(255, 255, 255, 0.08);
-    border-radius: 12px;
-    border: 2px solid rgba(255, 255, 255, 0.2);
+#chapter-result a {
     text-decoration: none;
     color: white;
-    transition: all 0.3s ease;
-    display: block;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
-.chapter-item:hover {
-    background: rgba(255, 255, 255, 0.15);
-    border-color: rgba(102, 126, 234, 0.6);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+#chapter-result::-webkit-scrollbar {
+    display: none;
 }
 
-.chapter-item h3 {
-    font-size: 1rem;
-    margin-bottom: 0.3rem;
-    font-weight: 600;
+#chapter-result {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
-.chapter-item p {
-    font-size: 0.85rem;
-    color: rgba(255, 255, 255, 0.7);
+.chapter_item {
+    width: min(500px, 90%);
+    margin: 0.3em;
+    border: 0.1em white solid;
+    border-radius: 1em;
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    .story-header {
-        margin-top: 0.8rem;
-        padding: 1.5rem;
-    }
-
-    .chapters-section {
-        padding: 1rem;
-    }
-
-    .chapters-header {
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    .search-container {
-        max-width: 100%;
-    }
-
-    .chapter-list {
-        grid-template-columns: 1fr;
-    }
-
-    .meta-info {
-        flex-direction: column;
-        gap: 0.7rem;
-    }
+.chapter_item:first-child {
+    margin-top: 2em;
 }
 
-@media (max-width: 480px) {
-    .story-header {
-        margin-top: 0.5rem;
-        padding: 1rem;
-        gap: 1rem;
-    }
+.chapter_item p {
+    margin: 0;
+    padding: 0.2em 1em;
+}
 
-    .story-title {
-        font-size: 1.5rem;
-    }
-
-    .synopsis {
-        font-size: 0.9rem;
-    }
+.chapter_item a {
+    width: 100%;
+    padding: 1em;
 }
