@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', function () {
         const reada = document.getElementById("read-a");
 
         reada.href = `./read/ch_${LastRead + 1}`;
-        readbtn.textContent = "Continue";
+        readbtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 -960 960 960" width="20px" fill="currentColor">
+            <path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Z"/>
+        </svg><span>Continue Reading</span>`;
     }
 });
 

@@ -19,19 +19,20 @@ body {
     color: white;
 }
 
-/* Fixed Background */
+/* Fixed Background - Absolutely static */
 .background {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     background-image: url("./background-stars.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     background-color: rgb(24, 24, 24);
     z-index: 0;
+    overflow: hidden;
 }
 
 .background::after {
@@ -94,7 +95,7 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 1.5rem;
-    margin-top: 5rem;
+    margin-top: 1rem;
     margin-bottom: 2rem;
     padding: 2rem;
     max-width: 800px;
@@ -293,7 +294,7 @@ body {
     color: rgba(255, 255, 255, 0.5);
 }
 
-/* Chapter List */
+/* Chapter List with proper boxes */
 .chapter-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -304,22 +305,25 @@ body {
     padding: 1rem;
     background: rgba(255, 255, 255, 0.08);
     border-radius: 12px;
-    border: 1px solid rgba(255, 255, 255, 0.15);
+    border: 2px solid rgba(255, 255, 255, 0.2);
     text-decoration: none;
     color: white;
     transition: all 0.3s ease;
     display: block;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 .chapter-item:hover {
     background: rgba(255, 255, 255, 0.15);
-    border-color: rgba(255, 255, 255, 0.3);
+    border-color: rgba(102, 126, 234, 0.6);
     transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
 }
 
 .chapter-item h3 {
     font-size: 1rem;
     margin-bottom: 0.3rem;
+    font-weight: 600;
 }
 
 .chapter-item p {
@@ -330,7 +334,7 @@ body {
 /* Responsive */
 @media (max-width: 768px) {
     .story-header {
-        margin-top: 4rem;
+        margin-top: 0.8rem;
         padding: 1.5rem;
     }
 
@@ -359,7 +363,7 @@ body {
 
 @media (max-width: 480px) {
     .story-header {
-        margin-top: 3.5rem;
+        margin-top: 0.5rem;
         padding: 1rem;
         gap: 1rem;
     }

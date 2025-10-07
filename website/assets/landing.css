@@ -44,18 +44,17 @@ body {
     z-index: 1;
 }
 
-/* Content container */
+/* Content container - Groups always anchored */
 .content-container {
     position: relative;
     z-index: 1;
     height: 100dvh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
-    padding: 1rem;
-    overflow-y: auto;
-    overflow-x: hidden;
+    padding: 0;
+    overflow: hidden;
 }
 
 /* Top Group - Logo, Quote, Buttons */
@@ -66,23 +65,17 @@ body {
     justify-content: flex-start;
     width: 100%;
     max-width: 900px;
+    margin-top: clamp(0.5rem, 2vh, 2rem);
+    padding: 0 1rem;
+    flex-shrink: 0;
 }
 
 .logo {
-    width: min(500px, 80vw);
+    width: clamp(250px, 40vw, 500px);
     height: auto;
-    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: clamp(0.3rem, 1vh, 0.5rem);
     filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.5));
-    animation: float 6s ease-in-out infinite;
-}
-
-@keyframes float {
-    0%, 100% {
-        transform: translateY(0px);
-    }
-    50% {
-        transform: translateY(-10px);
-    }
 }
 
 /* Quote with corner borders */
@@ -90,8 +83,9 @@ body {
     position: relative;
     border: none;
     max-width: min(700px, 85vw);
-    padding: 2rem;
-    margin-bottom: 2rem;
+    padding: clamp(1rem, 3vh, 2rem);
+    margin-top: clamp(-2rem, -3vh, -1.5rem);
+    margin-bottom: clamp(0.8rem, 2vh, 1.5rem);
     box-sizing: border-box;
     text-align: center;
 }
@@ -120,8 +114,8 @@ body {
 
 .quote {
     color: rgba(255, 255, 255, 0.95);
-    font-size: clamp(1rem, 2vw, 1.25rem);
-    line-height: 1.7;
+    font-size: clamp(0.9rem, 2vw, 1.2rem);
+    line-height: 1.6;
     margin: 0;
     font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -130,18 +124,18 @@ body {
 /* CTA Buttons */
 .cta-buttons {
     display: flex;
-    gap: 1rem;
+    gap: clamp(0.8rem, 2vw, 1rem);
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: 2rem;
+    margin-bottom: clamp(0.5rem, 1.5vh, 1rem);
 }
 
 .btn {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 1rem 2rem;
-    font-size: 1.1rem;
+    padding: clamp(0.8rem, 2vh, 1rem) clamp(1.5rem, 4vw, 2rem);
+    font-size: clamp(0.95rem, 2vw, 1.1rem);
     font-weight: 600;
     text-decoration: none;
     border-radius: 50px;
@@ -175,7 +169,6 @@ body {
 }
 
 .btn-primary:hover {
-    transform: translateY(-3px);
     box-shadow: 0 15px 40px rgba(102, 126, 234, 0.6);
 }
 
@@ -189,7 +182,6 @@ body {
 .btn-secondary:hover {
     background: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.5);
-    transform: translateY(-3px);
 }
 
 /* Bottom Group - Made by + Quick Links */
@@ -197,15 +189,18 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
+    gap: clamp(0.8rem, 2vh, 1.5rem);
     width: 100%;
     max-width: 900px;
+    margin-bottom: clamp(1rem, 3vh, 2rem);
+    padding: 0 1rem;
+    flex-shrink: 0;
 }
 
 /* Made by text with glowing animation */
 .made-by {
     color: rgba(255, 255, 255, 0.7);
-    font-size: 1.15rem;
+    font-size: 1.35rem;
     text-align: center;
     margin: 0;
     animation: glowOnLoad 3s ease-in-out;
@@ -253,9 +248,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 0.5rem;
-    padding: 1.2rem 1.5rem;
-    min-width: 120px;
+    gap: 0.4rem;
+    padding: clamp(0.9rem, 2vh, 1.2rem) clamp(1.2rem, 3vw, 1.5rem);
+    min-width: clamp(90px, 20vw, 120px);
     background: rgba(255, 255, 255, 0.1);
     backdrop-filter: blur(10px);
     border: 2px solid rgba(255, 255, 255, 0.3);
@@ -269,192 +264,147 @@ body {
 .link-btn:hover {
     background: rgba(255, 255, 255, 0.2);
     border-color: rgba(255, 255, 255, 0.5);
-    transform: translateY(-3px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Colored hover effects for individual buttons */
+.link-btn:nth-child(1):hover {
+    /* Support - Red */
+    color: #ff6b6b;
+    border-color: #ff6b6b;
+}
+
+.link-btn:nth-child(1):hover svg {
+    fill: #ff6b6b;
+}
+
+.link-btn:nth-child(2):hover {
+    /* Contribute - Green */
+    color: #51cf66;
+    border-color: #51cf66;
+}
+
+.link-btn:nth-child(2):hover svg {
+    fill: #51cf66;
+}
+
+.link-btn:nth-child(3):hover {
+    /* About - Blue */
+    color: #4dabf7;
+    border-color: #4dabf7;
+}
+
+.link-btn:nth-child(3):hover svg {
+    fill: #4dabf7;
 }
 
 .link-btn svg {
     opacity: 0.9;
+    height: clamp(20px, 3vh, 24px);
+    width: clamp(20px, 3vh, 24px);
 }
 
 .link-btn span {
-    font-size: 0.95rem;
+    font-size: clamp(0.8rem, 1.5vw, 0.95rem);
     font-weight: 500;
 }
 
-/* Desktop Layout - Center everything */
-@media (min-width: 769px) {
-    .content-container {
-        justify-content: center;
-    }
-}
-
-/* Mobile Layout - Top group anchored top, bottom group anchored bottom */
+/* Responsive adjustments - Keep anchored layout for all viewports */
 @media (max-width: 768px) {
-    .content-container {
-        justify-content: space-between;
-        padding: 0;
-    }
-
-    .top-group {
-        margin-top: 10vh;
-        padding: 0 1rem;
-    }
-
-    .logo {
-        margin-bottom: 1rem;
-    }
-
     .quote-container {
-        margin-bottom: 1.5rem;
-        padding: 1.5rem;
+        padding: 1.2rem;
     }
 
     .cta-buttons {
         flex-direction: column;
         width: 100%;
-        max-width: 300px;
-        margin: 0 auto 1rem;
+        max-width: 280px;
     }
 
     .btn {
         width: 100%;
         justify-content: center;
-        padding: 0.9rem 1.5rem;
-    }
-
-    .bottom-group {
-        margin-bottom: 2rem;
-        padding: 0 1rem;
-    }
-
-    .made-by {
-        font-size: 1rem;
-    }
-
-    .link-btn {
-        padding: 1rem 1.2rem;
-        min-width: 100px;
-    }
-
-    .link-btn span {
-        font-size: 0.85rem;
     }
 }
 
-/* Small mobile layout */
+/* Small mobile adjustments */
 @media (max-width: 480px) {
-    .top-group {
-        margin-top: 8vh;
-    }
-
     .logo {
-        margin-bottom: 0.8rem;
-    }
-
-    .quote-container {
-        padding: 1.2rem;
-        margin-bottom: 1.2rem;
-    }
-
-    .cta-buttons {
-        gap: 0.8rem;
-    }
-
-    .btn {
-        padding: 0.85rem 1.2rem;
-        font-size: 1rem;
-    }
-
-    .bottom-group {
-        margin-bottom: 1.5rem;
-    }
-
-    .made-by {
-        font-size: 0.8rem;
-    }
-
-    .quick-links {
-        gap: 0.8rem;
-    }
-
-    .link-btn {
-        padding: 0.9rem 1rem;
-        min-width: 90px;
-    }
-
-    .link-btn svg {
-        height: 20px;
-        width: 20px;
-    }
-
-    .link-btn span {
-        font-size: 0.8rem;
-    }
-}
-
-/* Landscape mobile layout */
-@media (max-width: 900px) and (max-height: 500px) and (orientation: landscape) {
-    .content-container {
-        justify-content: flex-start;
-        padding-top: 2vh;
-    }
-
-    .top-group {
-        margin-top: 0;
-    }
-
-    .logo {
-        width: min(300px, 40vw);
-        margin-bottom: 0.5rem;
+        width: clamp(200px, 70vw, 350px);
     }
 
     .quote-container {
         padding: 1rem;
-        margin-bottom: 1rem;
+    }
+
+    .made-by {
+        font-size: clamp(0.9rem, 3vw, 1.1rem);
+    }
+
+    .quick-links {
+        gap: 0.7rem;
+    }
+}
+
+/* Landscape mobile - compact vertical spacing */
+@media (max-width: 900px) and (max-height: 500px) and (orientation: landscape) {
+    .top-group {
+        margin-top: 0.5rem;
+    }
+
+    .logo {
+        width: clamp(180px, 30vw, 280px);
+        margin-bottom: 0.3rem;
+    }
+
+    .quote-container {
+        padding: 0.8rem;
+        margin-top: -1rem;
+        margin-bottom: 0.5rem;
     }
 
     .quote {
-        font-size: 0.9rem;
-        line-height: 1.5;
+        font-size: 0.85rem;
+        line-height: 1.4;
     }
 
     .cta-buttons {
         flex-direction: row;
-        gap: 0.8rem;
-        margin-bottom: 1rem;
+        gap: 0.7rem;
+        margin-bottom: 0.5rem;
     }
 
     .btn {
         padding: 0.7rem 1.2rem;
-        font-size: 0.95rem;
-    }
-
-    .bottom-group {
-        margin-bottom: 1rem;
-        gap: 1rem;
-    }
-
-    .made-by {
         font-size: 0.9rem;
     }
 
-    .quick-links {
+    .bottom-group {
+        margin-bottom: 0.8rem;
         gap: 0.8rem;
     }
 
+    .made-by {
+        font-size: 0.85rem;
+    }
+
+    .quick-links {
+        gap: 0.7rem;
+    }
+
     .link-btn {
-        padding: 0.8rem 1rem;
+        padding: 0.7rem 1rem;
         flex-direction: row;
         min-width: auto;
+        gap: 0.3rem;
     }
 
     .link-btn svg {
-        height: 18px;
-        width: 18px;
+        height: 16px;
+        width: 16px;
     }
 
     .link-btn span {
-        font-size: 0.8rem;
+        font-size: 0.75rem;
     }
 }
