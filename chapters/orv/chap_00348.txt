@@ -29,7 +29,8 @@ Blood rose and the head of a negligent incarnation body rolled to the ground.
 <!>[Your Demon Realm ranking is adjusted!]
 <!>[You have become the 71st Demon King!]
 I looked at the last remaining one, Performer of Musical Instruments Amdusias.
-Amdusias asked, [Do you really have to do this?]
+Amdusias asked,
+<@>[Do you really have to do this?]
 <@>[Why, are you scared?]
 <@>[Do you see me in the same class as Andromalius and Dantalion?]
 The atmosphere changed. Unlike the two demon kings I had previously defeated, Amdusias was prepared for a fight. The horn of a unicorn grew from the head of the incarnation.

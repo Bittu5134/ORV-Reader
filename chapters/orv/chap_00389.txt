@@ -13,7 +13,7 @@ For a tone of voice coming from a troubled-looking face, she sure sounded rather
 <@>[An eternal battle between a father and a son, with the mother in between…]
 …That sounded like a narrative deeply stained by the ways of Olympus.
 As if to say I shouldn't worry, Persephone lightly patted me on the shoulder. Only then did I sense the muscles of my body frozen by Hades's Status loosen up.
-<@>[Do not be too concerned, for your father's personality has always been like that.]
+<@>[Do not be too concerned, your father's personality has always been like that.]
 "…"
 <@>[However, your guilt in this matter is just as grave after daring to spout a lie first. You've never harboured thoughts of staying in <Underworld> from the beginning, have you?]
 She perfectly hit the mark and I had nothing to say. I never wanted to take over for Hades and become this realm's king. What I wanted was <Underworld's> powers, not to inherit its throne.
@@ -27,9 +27,9 @@ Persephone's eyes arched to a pair of gentle crescents.
 ***
 
 Persephone's dining table I hadn't seen in a while remained pretty much the same; slabs of well-cooked and delicious-looking steaks, as well as salad, laid out in several layers on top of a large plate. On the outside, they resembled foods commonly found everywhere, but I already knew very well that those were no ordinary meal.
-<!>[Bravery of an Empress of Swords who Conquered the World]
-<@>[Wisdom of a 3rd Circle Magician who Spent his Entire Life in a Library]
-<@>[Will of a Swordmaster who Couldn't use Either Sword Strengthening or Sword Manifestation]
++[Bravery of an Empress of Swords who Conquered the World]
++[Wisdom of a 3rd Circle Magician who Spent his Entire Life in a Library]
++[Will of a Swordmaster who Couldn't use Either Sword Strengthening or Sword Manifestation]
 I wondered if I saw something wrong here and read the menu one more time.
 <@>[Hurry and have your fill. Do you not find the menu to your liking?]
 "…No, it's not that, but…"
@@ -39,12 +39,12 @@ She sounded like my real mother by saying that.
 My hand moving towards the fork came to a stop at her words. "Have you spoken to my mother?"
 <@>[Fufu. We've talked to each other a few times.]
 If it was Persephone, then she was fully capable of doing that. The foie gras placed before me had this name, even:
-<@>[Heart of a Mother Sending her Child Away]
++[Heart of a Mother Sending her Child Away]
 …This couldn't have been my mother's actual heart, now was it?
 I put the fork down and spoke. "I see that the type of foods has changed since the last time. There were Swordmasters and Archmages here in the past, if I recall correctly."
 <@>[The 'Isle of Reincarnators' have opened now, so we should enjoy special dishes for a change, wouldn't you agree? I may look this way, but I'm still a member of the Gourmet Association, so I shouldn't be eating the same food every day.]
 Her fork and knife moved; accompanied by rich gravy, aromatic paragraphs leaked out from thinly-sliced Stories. Persephone's graceful hand movements brought that food into her mouth. What she ate just now was
-<@>[Will of a Swordmaster who Couldn't use Either Sword Strengthening or Sword Manifestation.]
++[Will of a Swordmaster who Couldn't use Either Sword Strengthening or Sword Manifestation.]
 <@>[And, some Stories will disappear if you don't make an effort to consume them.]
 Dying Stories were disintegrating at the end of the fork.
 Stories that no one searched for were pouring out entrancing sentences on the tip of Persephone's tongue right up until she consumed them.
@@ -60,7 +60,7 @@ But, I was sure that she didn't invite me here to speak of her philosophy toward
 "May I ask what is it that you really wish to tell me about?"
 <@>[In truth, Hades does not want you to remain in this place.]
 "…Does that mean he doesn't want me to be his successor?"
-<@>[It's different from that. If I were to put it into words… ]
+<@>[It's different from that. If I were to put it into words…]
 Persephone spoke, as she began cutting the delicacy placed on the plate in the middle of the table.
 <@>[Hades, and I… We do not wish for you to stop as just the 'King of the Underworld'.]
 "That means…"
@@ -81,14 +81,14 @@ If I failed to acquire the power of <Underworld>, then <Kim Dokja's Company> wou
 <!>['Fruit of Good and Evil' is worsening your guilty conscience.]
 …Even if that confirmation turned out to be a useless waste of time.
 Persephone quietly studied me for a little while, lightly wiped her lips with a napkin, and extended her hand in my direction. Her eyes were gentle and friendly, with not a hint of animosity in them. Flustered, I tried to get up, but her Status had already reached my shoulder.
-<!>[A very long time ago, we have received a certain revelation from the 'three sisters of fate'.]
+<@>[A very long time ago, we have received a certain revelation from the 'three sisters of fate'.]
 "…A revelation?"
-<!>[It said, 'A successor to the darkest night who will end the most ancient Myth, will appear'.]
+<@>[It said, 'A successor to the darkest night who will end the most ancient Myth, will appear'.]
 Abruptly, I recalled the story Dionysus told me before.
 – Several Constellations, including myself, believe that you will be the one to reach the ■■.
 The 'several Constellations' back then must've been Persephone and Hades.
 Meanwhile, she continued on.
-<@>[I was initially furious after hearing that oracle.]
+<@>[I was initially furio	ter hearing that oracle.]
 …Furious?
 <@>[Because I possess the Story 'One that can't have children'.]
 I had no idea that Persephone had such a backstory. Could it be that the reason why she had no children until now was because of that?
