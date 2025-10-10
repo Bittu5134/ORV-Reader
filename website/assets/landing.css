@@ -1,42 +1,188 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 html {
-    background-image: url("./background-stars.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-color: rgb(24, 24, 24);
+    scroll-behavior: smooth;
 }
 
 body {
-    text-align: center;
-    color: white;
-    flex-direction: column;
-    backdrop-filter: blur(0.3px);
     margin: 0;
     padding: 0;
-    background-color: rgba(0, 0, 0, 0.551);
-    min-height: 100dvh;
+    height: 100dvh;
     width: 100dvw;
-    display: flex;
-    align-items: center;
+    overflow: hidden;
+    position: relative;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 }
 
-.made-by a {
-    filter: brightness(50%);
-    transition-duration: 1s;
+/* Fixed background div */
+.background {
     position: fixed;
-    bottom: 0;
+    top: 0;
     left: 0;
-    padding: 1em;
-    margin: 1em;
+    width: 100%;
+    height: 100%;
+    background-image: url("./background-stars.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(24, 24, 24);
+    z-index: 0;
+}
+
+.background::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.7) 100%);
+    z-index: 1;
+}
+
+/* Content container - Groups always anchored */
+.content-container {
+    position: relative;
+    z-index: 1;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Top Group - Logo, Quote, Buttons */
+.top-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    max-width: 900px;
+    margin-top: clamp(0.5rem, 2vh, 2rem);
+    padding: 0 1rem;
+    flex-shrink: 0;
+}
+
+.logo {
+    width: clamp(250px, 40vw, 500px);
+    height: auto;
+    margin-top: 5vh;
+    margin-bottom: clamp(0.3rem, 1vh, 0.5rem);
+    filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.5));
+}
+
+/* Quote with corner borders */
+.quote-container {
+    position: relative;
+    border: none;
+    max-width: min(700px, 85vw);
+    padding: clamp(1rem, 3vh, 2rem);
+    margin-top: 0;
+    margin-bottom: clamp(0.8rem, 2vh, 1.5rem);
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.quote-container::before,
+.quote-container::after {
+    position: absolute;
+    content: "";
+    width: 2em;
+    height: 1em;
+}
+
+.quote-container::before {
+    left: 0;
+    top: 0;
+    border-left: 0.15em solid white;
+    border-top: 0.15em solid white;
+}
+
+.quote-container::after {
+    right: 0;
+    bottom: 0;
+    border-right: 0.15em solid white;
+    border-bottom: 0.15em solid white;
+}
+
+.quote {
+    color: rgba(255, 255, 255, 0.95);
+    font-size: clamp(0.9rem, 2vw, 1.2rem);
+    line-height: 1.6;
+    scale: 1.05;
+    margin: 0;
+    font-style: italic;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* CTA Buttons */
+.cta-buttons {
+    display: flex;
+    gap: clamp(0.8rem, 2vw, 1rem);
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: clamp(0.5rem, 1.5vh, 1rem);
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: clamp(0.8rem, 2vh, 1rem) clamp(1.5rem, 4vw, 2rem);
+    font-size: clamp(0.95rem, 2vw, 1.1rem);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    background: transparent;
+    border: 2px solid white;
     color: white;
-    text-decoration: none !important;
+}
+
+.btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.btn-primary {
+    /* Start Reading button - solid white border design */
+}
+
+.btn-secondary {
+    /* Download EPUB button - solid white border design */
+}
+
+/* Bottom Group - Made by + Quick Links */
+.bottom-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: clamp(0.8rem, 2vh, 1.5rem);
+    width: 100%;
+    max-width: 900px;
+    margin-bottom: clamp(1rem, 3vh, 2rem);
+    padding: 0 1rem;
+    flex-shrink: 0;
+}
+
+/* Made by text with glowing animation */
+.made-by {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.35rem;
+    text-align: center;
+    margin: 0;
     animation: glowOnLoad 3s ease-in-out;
 }
 
 @keyframes glowOnLoad {
     0% {
-        filter: brightness(50%);
+        filter: brightness(70%);
         text-shadow: 0 0 0px rgba(255, 255, 255, 0);
     }
     50% {
@@ -46,75 +192,189 @@ body {
                      0 0 40px rgba(255, 255, 255, 0.4);
     }
     100% {
-        filter: brightness(50%);
+        filter: brightness(70%);
         text-shadow: 0 0 0px rgba(255, 255, 255, 0);
     }
 }
 
+.made-by a {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
 .made-by a:hover {
+    color: white;
     filter: brightness(150%);
 }
 
-
-.title-img {
-    filter: brightness(125%);
-    margin-top: 5vh;
-    width: auto;
-    max-width: min-content;
-    height: 30%;
-    max-height: 40vw;
+/* Quick Links - Square buttons with rounded corners */
+.quick-links {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
 }
 
-.quote {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
-    max-width: min(500px,90%);
-    position: relative;
-    border: none;
-    text-align: center;
-    box-sizing: border-box;
-    padding: 1em;
-}
-
-
-.quote::before,
-.quote::after {
-    position: absolute;
-    content: "";
-    width: 2em;
-    height: 1em;
-}
-
-.quote::before {
-    left: 0;
-    top: 0;
-    border-left: 0.1em solid white;
-    border-top: 0.1em solid white;
-}
-
-.quote::after {
-    right: 0;
-    bottom: 0;
-    border-right: 0.1em solid white;
-    border-bottom: 0.1em solid white;
-}
-
-.buttons {
-    width: min(300px,90%);
-}
-
-.buttons button {
-    transition-duration: 500ms;
-    font-size: large;
+.link-btn {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    padding: clamp(0.9rem, 2vh, 1.2rem) clamp(1.2rem, 3vw, 1.5rem);
+    min-width: clamp(90px, 20vw, 120px);
+    background: transparent;
+    border: 0px solid white;
     color: white;
-    margin: 0.2em 0.1em;
-    padding: 0.5em 1em;
-    background-color: rgba(0, 0, 0, 0.112);
-    border: 0.2em white solid;
+    text-decoration: none;
+    transition: color 0.3s ease, border-color 0.3s ease;
 }
 
-.buttons button:hover {
-    background-color: white;
-    color: black;
+.link-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
 }
 
+/* Colored hover effects for individual buttons */
+.link-btn:nth-child(1):hover {
+    /* Support - Red */
+    color: #ff6b6b;
+    border-color: #ff6b6b;
+}
+
+.link-btn:nth-child(1):hover svg {
+    fill: #ff6b6b;
+}
+
+.link-btn:nth-child(2):hover {
+    /* Contribute - Green */
+    color: #51cf66;
+    border-color: #51cf66;
+}
+
+.link-btn:nth-child(2):hover svg {
+    fill: #51cf66;
+}
+
+.link-btn:nth-child(3):hover {
+    /* About - Blue */
+    color: #4dabf7;
+    border-color: #4dabf7;
+}
+
+.link-btn:nth-child(3):hover svg {
+    fill: #4dabf7;
+}
+
+.link-btn svg {
+    opacity: 0.9;
+    height: clamp(20px, 3vh, 24px);
+    width: clamp(20px, 3vh, 24px);
+    transition: fill 0.3s ease;
+}
+
+.link-btn span {
+    font-size: clamp(0.8rem, 1.5vw, 0.95rem);
+    font-weight: 500;
+}
+
+/* Responsive adjustments - Keep anchored layout for all viewports */
+@media (max-width: 768px) {
+    .quote-container {
+        padding: 1.2rem;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* Small mobile adjustments */
+@media (max-width: 480px) {
+    .logo {
+        width: clamp(250px, 80vw, 500px);
+    }
+
+    .quote-container {
+        padding: 1rem;
+    }
+
+    .made-by {
+        font-size: clamp(0.9rem, 3vw, 1.1rem);
+    }
+
+    .quick-links {
+        gap: 0.7rem;
+    }
+}
+
+/* Landscape mobile - compact vertical spacing */
+@media (max-width: 900px) and (max-height: 500px) and (orientation: landscape) {
+    .top-group {
+        margin-top: 0.5rem;
+    }
+
+    .logo {
+        width: clamp(180px, 30vw, 280px);
+        margin-bottom: 0.3rem;
+    }
+
+    .quote-container {
+        padding: 0.8rem;
+        margin-top: -1rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .quote {
+        font-size: 0.85rem;
+        line-height: 1.4;
+    }
+
+    .cta-buttons {
+        flex-direction: row;
+        gap: 0.7rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .btn {
+        padding: 0.7rem 1.2rem;
+        font-size: 0.9rem;
+    }
+
+    .bottom-group {
+        margin-bottom: 0.8rem;
+        gap: 0.8rem;
+    }
+
+    .made-by {
+        font-size: 0.85rem;
+    }
+
+    .quick-links {
+        gap: 0.7rem;
+    }
+
+    .link-btn {
+        padding: 0.7rem 1rem;
+        flex-direction: row;
+        min-width: auto;
+        gap: 0.3rem;
+    }
+
+    .link-btn svg {
+        height: 16px;
+        width: 16px;
+    }
+
+    .link-btn span {
+        font-size: 0.75rem;
+    }
+}
