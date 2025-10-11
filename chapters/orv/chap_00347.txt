@@ -106,4 +106,5 @@ It was a real hassle to use Electrification without Miniaturization.
 <!>[Your current body configuration is different from that of the character.]
 <!>[Your status has overcome the penalty of the physical conditions.]
 Andromalius' fist stopped in front of my nose. He stared at me with astonishment before his eyes shifted to his stomach. Half of his body was gone.
-I pulled my sword out of his body and declared. [First, the 72nd place.]
+I pulled my sword out of his body and declared.
+<@>[First, the 72nd place.]
