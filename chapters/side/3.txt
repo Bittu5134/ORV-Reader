@@ -1,11 +1,9 @@
-Yoo Mia/Lost Child(*) Side Story
+<title>Story 3 — Missing Child
 ***
 
-【Is he really here?】
+<#>Is he really here?
 
-【It's possible.】
-
-***
+<#>It's possible.
 
 Yoo Joonghyuk's day started like this.
 
@@ -42,7 +40,7 @@ Looking back and forth at the food on the plate, Yoo Miah pouted.
 “Yes.”
 
 “Chicken breast too.”
-"Boring."
+"Boring."
 
 "Eat it."
 
@@ -89,7 +87,7 @@ Yoo Joonghyuk looked at the last comment for a long time. Although he couldn't s
 content, he could guess a part through the comments below.
 
 — But Yoo Joonghyuk is truly an orphan, so it probably won't hurt him at all, right?
-Orphan.
+Orphan.
 
 Yoo Joonghyuk glanced at that word with expressionless eyes. Such words cannot really
 attack him. On the contrary, it was the words that didn't appear that bothered him.
@@ -137,7 +135,7 @@ Manager Kang Woohyun looked worried and glanced at Yoo Joonghyuk.
 “I still eat well.”
 
 “Just lettuce and chicken breast, right? What diet is that? Let's eat cooked rice. Beef too.”
-Yoo Joonghyuk did not respond. But he felt a bit strange. Why do people keep asking him
+Yoo Joonghyuk did not respond. But he felt a bit strange. Why do people keep asking him
 what he ate?
 
 “If you eat and drink enough, you're lucky.”
@@ -184,7 +182,7 @@ in the world knows it.
 
 If someone has a grudge against him, he just needs to be prepared to face that hatred. Then
 everything is under his control.
-— What do you guys know?
+— What do you guys know?
 
 But…
 
@@ -229,7 +227,7 @@ Yoo Joonghyuk nodded slightly and looked at Kang Woohyun for a moment before get
 out of the car.
 
 "What's up? Do you need anything?”
-Yoo Joonghyuk thought for a moment whether to ask Kang Woohyun if he had breakfast or
+Yoo Joonghyuk thought for a moment whether to ask Kang Woohyun if he had breakfast or
 not, but then he shook his head and went to the practice room as usual.
 
 ***
@@ -277,7 +275,7 @@ But Yoo Joonghyuk didn't care. He was used to being the center of attention. Bes
 also liked the fact that he didn't have to cause unnecessary arguments with his team
 members. Because except for the supervisor and manager Kang Woohyun, the only person
 who can talk to Yoo Joonghyuk in the gym was coach Park Jinsang.
-“Joonghyuk, let's start.”
+“Joonghyuk, let's start.”
 
 Park Jinsang tapped his glasses to signal and Yoo Joonghyuk nodded. He relaxed his arms
 and shoulders with simple stretching movements, took a deep breath and then put on his
@@ -324,7 +322,7 @@ not cramp. Seeing the opponent fighting, Yoo Joonghyuk immediately took the init
 the match. He did not waste any openings, did not hold back, and let the match end quickly.
 
 [VICTORY.]
-After each match, he took a short break of less than 5 minutes and then went straight to the
+After each match, he took a short break of less than 5 minutes and then went straight to the
 next match. He must remind himself of the mistakes he made in the previous match and
 improve his weaknesses.
 
@@ -371,7 +369,7 @@ who was making a fuss in front of him.
 “Ah, hello!”
 
 When the girl turned her head, her brown hair moved slightly. The first time he saw that face.
-Yoo Joonghyuk nodded slightly and looked at the girl's name tag.
+Yoo Joonghyuk nodded slightly and looked at the girl's name tag.
 
 New manager Y.S.
 
@@ -418,7 +416,7 @@ The new employee pouted and invited him again.
 “Hey, Joonghyuk eats almost nothing but lettuce and chicken breast. He only eats what he
 cooks himself. Joonghyuk, finish training and go eat. As for the new girl, stop talking
 nonsense, go over there and take care of the other kids!”
-Park Jinsang pressed Yoo Joonghyuk's back to urge him. Yoo Joonghyuk glanced at the
+Park Jinsang pressed Yoo Joonghyuk's back to urge him. Yoo Joonghyuk glanced at the
 new employee's gloomy face and then walked to the employee cafeteria.
 
 Lunch time is 50 minutes. That is too limited a period of time to absorb enough calories
@@ -465,7 +463,7 @@ be able to package like that, the skills are not ordinary.
 “Did you do it yourself?”
 
 “As expected… Shall we split it in half?”
-"No, I do not like it."
+"No, I do not like it."
 
 “Try a bite, maybe you'll like it.”
 
@@ -511,7 +509,7 @@ if water was pouring into his ears.
 Immediately after that, he saw white walls surrounding him. High, solid walls that he could
 not break or overcome with his own strength. The sound of a pen writing echoed from the
 other side of the wall.
-Rustle.
+Rustle.
 
 Someone is writing something on the wall. But he couldn't read a word. They are like hidden
 comments, even though they are still there, he can never read them.
@@ -559,7 +557,7 @@ dumpling. Seeing the girl like that, Park Jinsang clicked his tongue.
 
 “The kids are really cool these days. Hey Joonghyuk, just now the supervisor watched the
 morning practice session and left a comment."
-Thinking back, he had forgotten about the comment in the morning. The supervisor said that
+Thinking back, he had forgotten about the comment in the morning. The supervisor said that
 he had a schedule today so he had to leave early.
 
 Yoo Joonghyuk nodded and Park Jinsang spoke.
@@ -606,7 +604,7 @@ always judged the results of wins and losses so quickly that many fans called hi
 
 But the new employee's expression after hearing the above explanation was strange. Park
 Jinsang pursed his lips and asked.
-“Why are you smiling? Is what I said funny?"
+“Why are you smiling? Is what I said funny?"
 
 "A little?"
 
@@ -645,15 +643,15 @@ into the main story.
 
 【…… I told you. Can you believe it?]
 
-【Also…… cute.】
+<#>Also…… cute.
 
-【…… You really……】
+<#>…… You really……
 
 ***
 
 (*) T/N: Originally 미아 – Miah, also Yoo Joonghyuk's sister's name. However, these two
 words are just homonyms with different meanings. This may be a play on words by the
-author. Based on the content of this side story, the translator believes that the word Miah
+author. Based on the content of this side story, the translator believes that the word Miah
 here refers to a lost child rather than to little girl Yoo Miah. ⬆
 
 [1] Oppa/oraboni: These are both ways of addressing women when talking to men older than
@@ -701,7 +699,7 @@ face covered in cold darkness.
 
 “Do you know how chaotic you've been lately? How did you. . . . . . We've gotten so far, have
 you forgotten everything?”
-One move and he grabbed the other man's shoulder. In fact, this is the true face of Park
+One move and he grabbed the other man's shoulder. In fact, this is the true face of Park
 Jinsang that Yoo Joonghyuk always remembered.
 
 Coach Park Jinsang.
@@ -748,7 +746,7 @@ And on the first day he brought Yoo Joonghyuk here, Park Jinsang said.
 And now, with the same expression, Park Jinsang spoke again.
 
 "Just lose one game."
-Lose.
+Lose.
 
 "I'm not telling you to quit fighting, it's like... You know. It was like you tried your best, but
 unfortunately it ended like that. Understand?"
@@ -792,7 +790,7 @@ Park Jinsang did not bring Yoo Joonghyuk here to exploit his talent and win.
 
 He knew. 700 million was his salary for two years…… More precisely, it was more than the
 amount of money that Park Jinsang pocketed in the past two years.
-“Think carefully. The market is not very good these days. Everyone is switching to AOS so
+“Think carefully. The market is not very good these days. Everyone is switching to AOS so
 the tournament is gradually closing. You and I can't end like this. You have to be responsible
 for your family, and you should also think about Miah.”
 
@@ -840,7 +838,7 @@ Park Jinsang sighed softly and said.
 there was no way to win. You often give up easily.”
 
 “I have never given up easily. I always do my best.”
-Park Jinsang glared at Yoo Joonghyuk as if he didn't know anything. He looked at Yoo
+Park Jinsang glared at Yoo Joonghyuk as if he didn't know anything. He looked at Yoo
 Joonghyuk's face, the old jacket, and the lunch box in his hand. After that, he angrily flicked
 his cigarette butt down and said.
 
@@ -887,7 +885,7 @@ He immediately turned on his phone and called someone.
 “Hey, you look really handsome.”
 
 The taxi driver kept talking all the way home. This often happens every time he takes a taxi.
-“I used to also—”
+“I used to also—”
 
 Even though Yoo Joonghyuk didn't respond, he continued to gossip. He let the driver talk as
 he pleased.
@@ -934,7 +932,7 @@ It was late at night, the night road was deserted with not many people. A few st
 secretly smoking in the corner of the alley, avoiding Yoo Joonghyuk's gaze. A few men lined
 up to drink alcohol at a roadside bar. An annoyed Yoo Joonghyuk grabbed a middle-aged
 man who was drunk and asked.
-“Did… did you see…”
+“Did… did you see…”
 
 Yoo Joonghyuk was not used to starting conversations like this with strangers, so he took a
 deep breath and rearranged what he needed to say.
@@ -980,7 +978,7 @@ received from his parents, and there are books that say he can never replace the
 However, he did everything he could and lived until now.
 
 But there was no book that told him how to handle this situation.
-Just think of this as a game.
+Just think of this as a game.
 
 Yoo Joonghyuk muttered in his head.
 
@@ -1026,7 +1024,7 @@ you picked her up, there was only a letter attached. Don't take her for a DNA te
 
 — If so, where will this poor girl end up? I will help you as much as I can. So if possible, it's
 best not to let outsiders know.
-Yoo Joonghyuk called the police. But why? The police didn't pick up the phone. He called the
+Yoo Joonghyuk called the police. But why? The police didn't pick up the phone. He called the
 second time, too. It wasn't until the third time that the police received the call.
 
 Yoo Joonghyuk reported that his sister was missing.
@@ -1074,7 +1072,7 @@ front of the house.
 He needed help from people around him, not the police.
 
 Someone who knew him.
-A person who would immediately go with him to find his sister who is wandering somewhere
+A person who would immediately go with him to find his sister who is wandering somewhere
 instead of asking him who he is or where he is.
 
 Names of people he knew randomly appeared in his mind. The faces of Kang Woohyun,
@@ -1121,7 +1119,7 @@ surveillance room.
 Cigarette smoke.
 
 Cigarette smoke and a choking cough covered his vision.
-In just a blink of an eye, he was in a familiar scene. The smell of rotten food and unbathed
+In just a blink of an eye, he was in a familiar scene. The smell of rotten food and unbathed
 sweat.
 
 The sound of mouse clicking and keyboard typing echoed from everywhere.
@@ -1167,7 +1165,7 @@ Joonghyuk's shoulder.
 “Hey uncle. Are you deaf?”
 
 Yoo Joonghyuk smiled lightly.
-“Are you laughing?”
+“Are you laughing?”
 
 The face of the boy who was raising his fist suddenly distorted. Even so, Yoo Joonghyuk still
 smiled. His sense of reality was completely shattered.
@@ -1213,7 +1211,7 @@ Suddenly. Then it flashed again.
 
 In the end, all the kids collapsed before the needle, and the cigarette smoke surrounding Yoo
 Joonghyuk also disappeared.
-The surrounding scene was gradually changing, and when he blinked again, Yoo Joonghyuk
+The surrounding scene was gradually changing, and when he blinked again, Yoo Joonghyuk
 was standing at the beginning of the dead-end alley. He lightly vomited and then raised his
 head to see two dark shadows walking slowly under the streetlight at the intersection. What
 was surprising was that he heard their voices very clearly.
@@ -1248,7 +1246,7 @@ Yoo Joonghyuk just closed his eyes.
 
 【Is it okay to interfere to this extent? If uncle ■■ or sister ■■ finds out, then ……]
 
-【Um… but those people will like it.】
+<#>Um… but those people will like it.
 
 [1] Dark Gamer: often used in fantasy game novels, refers to people who make a living by
 exchanging game money and goods into cash. ⬆
@@ -1260,7 +1258,7 @@ person has lived.
 
 But there is no way to explain what happened to Yoo Joonghyuk that day other than to say it
 was a miracle.
-Yoo Joonghyuk gasped and woke up to see Yoo Miah sleeping soundly next to him.
+Yoo Joonghyuk gasped and woke up to see Yoo Miah sleeping soundly next to him.
 
 It was just a dream.
 
@@ -1304,7 +1302,7 @@ It seemed like she was talking about pizza.
 Yoo Joonghyuk remembered the woman and the dumpling he saw in his dream last night.
 
 She stuck a silver needle into those smoking teenagers.
-Why was she there? Why did she save him?
+Why was she there? Why did she save him?
 
 Why did she carry such a needle?
 
@@ -1347,7 +1345,7 @@ If not then……
 How the hell did that woman find Mia anyway?
 
 Park Jinsang's words flashed in his mind, giving rise to a bad premonition.
-— Just lose one match.
+— Just lose one match.
 
 Yoo Joonghyuk made a simple salad for breakfast and rearranged his thinking.
 
@@ -1389,7 +1387,7 @@ resignation? What if you still haven't started yet?
 “Kang Woohyun quit his job?”
 
 - What? Didn't he say anything to you?
-Yoo Joonghyuk thought for a moment then said he didn't know. Then, the other coach sighed
+Yoo Joonghyuk thought for a moment then said he didn't know. Then, the other coach sighed
 and added.
 
 — Okay, I've sent someone else to you urgently. Come as early as possible. There's no time
@@ -1402,7 +1400,7 @@ intercom.
 
 ***
 
-【I thought he liked dumplings since he was born.】
+<#>I thought he liked dumplings since he was born.
 
 ***
 
@@ -1432,7 +1430,7 @@ preparing, Yoo Joonghyuk hugged Yoo Miah and sat in the back seat. The new emplo
 immediately started the car. For some reason, her actions were a bit clumsy.
 
 “Ahem, let's go.”
-Yoo Joonghyuk quickly checked the match list for today's match. Now the first match has
+Yoo Joonghyuk quickly checked the match list for today's match. Now the first match has
 begun. According to the list, his match was the fifth match. If they were careless, the match
 could end before it was his turn.
 
@@ -1475,7 +1473,7 @@ Yoo Joonghyuk shook his head.
 “You don't want to reveal your name?”
 
 “Yes, I don't want to say my name.”
-The car exited the alley and drove straight onto the avenue. But it couldn't speed up.
+The car exited the alley and drove straight onto the avenue. But it couldn't speed up.
 Especially when going to the bridge, it almost stood still.
 
 “Traffic jam. Swimming across is faster.”
@@ -1519,7 +1517,7 @@ The new employee asked.
 Yoo Joonghyuk thought for a moment then answered.
 
 "I do not know."
-“Looks like someone has a grudge against you.”
+“Looks like someone has a grudge against you.”
 
 Popping.
 
@@ -1562,7 +1560,7 @@ Yoo Joonghyuk silently looked at the new employee. The girl continued speaking.
 
 He couldn't read the new employee's face reflected in the rearview mirror. He still hasn't
 stopped doubting the girl. But his mind was wavering at her words.
-“Do you want to go to the Han River? Sitting and eating pizza by the Han River is very
+“Do you want to go to the Han River? Sitting and eating pizza by the Han River is very
 delicious.”
 
 "Bi-sa..."
@@ -1607,7 +1605,7 @@ But there is at least one thing Yoo Joonghyuk is definitely very good at.
 “Obaboni plays games. He's a good gamer."
 
 He didn't know when Yoo Miah woke up raised her pinky finger and said that.
-The new employee said nothing. Yoo Joonghyuk was also silent. Only the sound of the
+The new employee said nothing. Yoo Joonghyuk was also silent. Only the sound of the
 exhaust pipe and the noisy engine still echoed. Occasionally there was also the sound of car
 horns from behind.
 
@@ -1652,7 +1650,7 @@ How to protect the world.
 He had never heard anyone talk like that. That phrase could appear in any story.
 
 The new employee continued.
-“But this uncle.”
+“But this uncle.”
 
 “……?”
 
@@ -1696,7 +1694,7 @@ For some reason, Yoo Joonghyuk didn't find it strange at all.
 Yoo Joonghyuk remembered the pitch-black darkness in that semi-underground camp. No
 one played games there. But in the darkness, Yoo Joonghyuk killed monsters, killed people,
 climbed the ranks and survived.
-“No matter what, I will survive.”
+“No matter what, I will survive.”
 
 “And then what?”
 
@@ -1739,7 +1737,7 @@ a movie.
 Yoo Joonghyuk didn't know if what the new employee said was some kind of joke or not.
 
 “When did you get your driver's license?”
-“I haven't gotten my license yet."
+“I haven't gotten my license yet."
 
 "What?"
 
@@ -1784,7 +1782,7 @@ the door from the outside. Yoo Joonghyuk hugged Yoo Miah, struggling to escape.
 Yoo Joonghyuk wanted to ask. What happened? She was injured in—
 
 “Are you okay?”
-"Miss-"
+"Miss-"
 
 “I'm okay. And over there is the gym. Please run now! It's not too late now!"
 
@@ -1828,7 +1826,7 @@ comments on the other side of the wall. The words came from a world he didn't kn
 really wanted to know.
 
 So he tried to understand it but in the end had to give up.
-There are things that people can only accept before understanding what they mean. Right
+There are things that people can only accept before understanding what they mean. Right
 now Yoo Joonghyuk had realized that truth.
 
 “I'll call the police, so take your chance and run away.”
@@ -1854,13 +1852,13 @@ a long time.
 
 ***
 
-【Did you find the fragment of the anecdote?】
+<#>Did you find the fragment of the anecdote?
 
-【Yes, the collection is complete.】
+<#>Yes, the collection is complete.
 
-【As expected, uncle ■■ is here…… How are the manager and that coach?】
+<#>As expected, uncle ■■ is here…… How are the manager and that coach?
 
-【Very interesting.】
+<#>Very interesting.
 
 ***
 
@@ -1872,7 +1870,7 @@ The score is 2-2, as expected.
 Now is the moment to decide which team will advance to the play-off round through the final
 match, the decisive ACE match. Of course, the opponent was a player considered one of his
 rivals.
-He wondered if it was because his condition was different today? Right from the beginning of
+He wondered if it was because his condition was different today? Right from the beginning of
 the match, the situation was unfavorable for Yoo Joonghyuk.
 
 Right arm ached constantly. My mind was confused.
@@ -1916,7 +1914,7 @@ stopped.
 He slowly took a breath and blinked back at the ruins of the battlefield.
 
 The scene where everything in the world was destroyed.
-Yoo Joonghyuk looked at that scene for a long time. When the door to the game room
+Yoo Joonghyuk looked at that scene for a long time. When the door to the game room
 opened, outside the destroyed world in the computer screen, a large audience was waiting
 for him to appear.
 
@@ -1961,7 +1959,7 @@ He didn't know why he chose that.
 He only knew one thing: Park Jinsang came to the police station with his face covered in
 blood. After confessing that he was a match broker, he handed over a list of all the players
 and sponsors involved in the case.
-— Because of that bastard, our players are finished. But Joonghyuk you….. I know but I still
+— Because of that bastard, our players are finished. But Joonghyuk you….. I know but I still
 have to watch it again. You are not on Park Jinsang's list.
 
 All the way home that day, Yoo Joonghyuk felt lightheaded.
@@ -2005,7 +2003,7 @@ no one who does not participate in betting.
 I don't understand why he can't see the hidden comments anymore.
 
 Yoo Joonghyuk continued reading the headlines of the articles.
-— Official announcement of the Association, canceling the results of all official matches
+— Official announcement of the Association, canceling the results of all official matches
 today.
 
 — The list of players participating in matchmaking has been revealed……
@@ -2049,5 +2047,4 @@ stars from a distant universe. If so, so what?
 But perhaps today was already a day full of absurdities.
 
 Yoo Joonghyuk thought for a moment, then he looked up at the distant sky and said.
-“Pizza.”
-
+“Pizza.”
