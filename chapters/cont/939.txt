@@ -10,7 +10,7 @@ Just as an ordinary human would freeze when confronted by a beast, all beings be
 "Heewon-ssi! Come to your senses!"
 Jung Heewon didn't budge despite my shout. She must have been overwhelmed by the mythical status, completely out of her mind.
 Damn it.
-Breaking the Sky Sword Master was charging toward me.
+Breaking the Sky Sword Saint was charging toward me.
 I quickly closed the distance between us and raised my voice.
 "Nameless fear, reveal your name immediately!"
 I didn't know exactly what 'that thing' was disguised as the Breaking the Sky Sword Saint. To interpret the fear, I first needed to identify its source.
@@ -18,12 +18,12 @@ I didn't know exactly what 'that thing' was disguised as the Breaking the Sky Sw
 <&>「All fears will reveal their names before the throne.」
 Is this because I had forcibly unleashed the power of the 'King of Fear'? I felt a shiver run through my body, and dizzying sparks began to course through my veins.
 Breaking the Sky Sword Saint's pitch-black eyes stared at me.
-<#>【Na me】
+<#>【Name】
 Those who ask for the name of something are obligated to bear the weight of that name.
-<@>[The constellation, 'First Heavenly Demon', glares.]
-<!>[The constellation, 'Emperor of Power', groans at the power of Breaking the Sky Sword Saint.]
-<!>[Many constellations point out the probability of the scenario!]
-The constellations, belatedly confirming the power of Breaking Sword Saint, flashed a fierce light in the air.
+<!>[The Constellation, 'First Heavenly Demon', glares.]
+<!>[The Constellation, 'Emperor of Power', groans at the power of Breaking the Sky Sword Saint.]
+<!>[Many Constellations point out the probability of the scenario!]
+The constellations, belatedly confirming the power of the Breaking the Sky Sword Saint, flashed a fierce light in the air.
 Tsutsutsutsutsutsu!
 <!>[The natural disaster-level fear, 'Impossible Agreement', is looking at you.]
 The Impossible Agreement. That was the name of the fear into which the Breaking the Sky Sword Saint had evolved.
@@ -41,14 +41,14 @@ In fact, inciting a fear on the scale of a 'natural disaster' was absurd. But th
 Now, less than ten paces remained between Breaking the Sky Sword Saint and me. It was time to take a gamble.
 "What will Kyrgios think when he sees this?"
 No matter how coarse the net, if you keep casting, something will inevitably get caught.
-"How pathetic! This is why they say the world is a paradox! Why don't talk so much!"
+"How pathetic! This is why they say the world is a paradox! Why do you talk so much!"
 For the first time, something resembling emotion flashed across her pitch-black eyes.
 I seized the opportunity and continued to babble.
 "Remember your disciple! That damned handsome man with your exact style! What would he say if he found out you were fooled by a story and ended up like this!"
 Her steps, which had been drawing near, suddenly stopped.
 "Do you know why he comes to you every time he regresses? Why, despite so many betrayals, he trusts you? Why does he confide in you alone—"
 The moment I spoke, a pitch-black energy began to flow from Breaking the Sky Sword Saint's entire body.
-<#>【Yoo Joong hyuk】
+<#>【Yoo Joonghyuk】
 "Yes, that's right. Yoo Joonghyuk! If you've come to your senses, you should go slap that damned disciple's ass…"
 The moment I met Breaking the Sky Sword Saint's gaze, I realized something.
 <&>「This isn't the kind of 'fear' I can persuade or incite.」
@@ -58,26 +58,26 @@ The aura of D-Coins rippled through her body. The coins, made from my brother's 
 Cold sweat ran down my spine.
 "Dokja-ssi."
 Jung Heewon, just as she regained consciousness, turned to me. I gave her a slight nod and stepped forward.
-<#>【Di ? Sci ? Ple】
+<#>【Disciple】
 Breaking the Sky Sword Saint, approaching, muttered something incomprehensible as she raised her hand. A sword energy that seemed at least several dozen meters thick was surging from her hand.
-<#>【I'm sor ry】
+<#>【I'm sorry】
 If I get hit by that, I'll die. Even if the Great Demon King of Salvation descends, not the Demon King of Salvation, he can't stop it.
 <&>「Therefore, the difficulty of this scenario is clearly abnormal.」
 I summoned the 'Unchanging One'.
 "Unchanging One! Now is the time!"
 There was a reason I was desperately trying to buy some time.
-<!>[Many constellations doubt the probability of this scenario.]
+<!>[Many Constellations doubt the probability of this scenario.]
 I needed time to describe this absurd situation in even the slightest detail.
 Ultimately, the story of this world is driven by the probability of the constellations.
 All scenarios are regulated by the constellations that watch over them.
-<!>[The constellation, 'First Heavenly Demon', agrees with the unfairness of the scenario.]
-<!>[The constellation, 'Emperor of Power', agrees with the unfairness of the scenario.]
+<!>[The Constellation, 'First Heavenly Demon', agrees with the unfairness of the scenario.]
+<!>[The Constellation, 'Emperor of Power', agrees with the unfairness of the scenario.]
 Of course, the reason they were pointing out the probability wasn't simply because of the scenario's difficulty.
-<!>[The constellation, 'Omnipotent Sun', declares that a mere human could never attain the level of myth.]
-<@>[The constellation, 'Blacksmith of the Volcano', shakes its head.]
-<!>[The constellation, 'God King of Thunder', says a mere half-breed of a giant is...]
+<!>[The Constellation, 'Omnipotent Sun', declares that a mere human could never attain the level of myth.]
+<!>[The Constellation, 'Blacksmith of the Volcano', shakes its head.]
+<!>[The Constellation, 'God King of Thunder', says a mere half-breed of a giant is...]
 They simply cannot tolerate a mere mortal daring to claim a higher status than themselves.
-<!>[The constellation, 'One Who Draws the Boundaries of the Seas', expresses strong displeasure.]
+<!>[The Constellation, 'One Who Draws the Boundaries of the Seas', expresses strong displeasure.]
 The next moment, sparks flew through the air, and the record of the constellations' approval gained momentum.
 The probability of the <Star Stream> finally began to shift.
 Those who manage this world's scenarios are the ones who make that probability a reality.
@@ -89,6 +89,7 @@ A message floated into the air, accompanied by a seemingly joyful, intangible vo
 Asking the name of the fear, asking questions to buy time, gathering the constellations, and completing the records to persuade them.
 All of this preparation was solely to reach this moment.
 <!>[The sub-scenario has arrived!]
++
 <Sub-scenario — Defeating Fear>
 Category: Main
 Difficulty: ???
