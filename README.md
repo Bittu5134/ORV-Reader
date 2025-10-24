@@ -2,7 +2,7 @@
 
 # ORV-Reader
 
- **ORV-Reader** is a fan-made project hosting unofficial fan translations of the popular webnovel ***Omniscient Reader's Viewpoint!***
+ **ORV-Reader** is a Fan-made project hosting unofficial fan translations of the popular webnovel ***Omniscient Reader's Viewpoint!***
 
 🌐: [https://orv.pages.dev](https://orv.pages.dev) \
 ⭐: Dont forget to star this repository 
