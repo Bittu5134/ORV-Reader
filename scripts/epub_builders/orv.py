@@ -2,7 +2,6 @@ import datetime
 import re
 import os
 import urllib.parse as urlparse
-import uuid
 
 
 titles = []
@@ -119,8 +118,6 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
         lines = lines.replace("<@>", "")
         lines = lines.replace("<&>", "")
 
-        # lines.replace("<?>", "")
-
         lines = lines.splitlines()
         lines.reverse()
         while lines[0] == "" or lines[0] == "***":
@@ -129,15 +126,12 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
 
         for line_index, line in enumerate(lines):
 
-
-
-
             if line.startswith("<title>"):
                 if lines[line_index + 1].startswith("<cover>"):
                     cover_img = re.findall(r"\[(.*?)\]", lines[line_index + 1])
-                    xhtml += f"""<img style="text-align:cente;page-break-after: always; break-after: page;" alt="cover" src="images/{urlparse.quote(cover_img[0])}"/>\n"""
+                    xhtml += f"""<img style="display:block;margin:auto;height:100%;width:auto;page-break-after: always; break-after: page;" alt="cover" src="images/{urlparse.quote(cover_img[0])}"/>\n"""
 
-                xhtml += '<img style="text-align:center;" alt="icon" src="stigma.png"/>'
+                xhtml += '<img style="display:block;margin:auto" alt="icon" src="stigma.png"/>'
                 xhtml += f'<h2 style="text-align:center;">{line[7:].strip()}</h2>\n'
                 xhtml += "<hr/>\n"
 
@@ -150,7 +144,7 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
                 xhtml += "<br/>\n"
             elif line.startswith("<img>"):
                 line = re.findall(r"\[(.*?)\]", line)
-                xhtml += f"""<img style="text-align:cente" alt="cover" src="images/{urlparse.quote(line[0])}"/>\n"""
+                xhtml += f"""<img style="display:block;margin:auto;height:100%;width:auto" src="images/{urlparse.quote(line[0])}"/><br/><br/>\n"""
             elif line.startswith("<?>"):
                 line = line.replace("<?>", "").strip()
                 if line.startswith("["):
@@ -171,12 +165,14 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
                     isWindow = False
             
             elif isWindow == True and isWindowTitle == True:
-                if line.startswith("["):
-                    xhtml += f'<h3 style="text-align:center;">{line}</h3>\n'
+                if line.startswith("[") or line.startswith("<"):
+                    xhtml += f'<h3 style="text-align:center;">{line.replace("<","&lt").replace(">","&gt")}</h3>\n'
+                else:
+                    xhtml += f"<p>{line.strip().replace("<","&lt").replace(">","&gt")}</p>\n"
                 isWindowTitle = False
 
             else:
-                xhtml += f"<p>{line.strip()}</p>\n"
+                xhtml += f"<p>{line.strip().replace("<","&lt").replace(">","&gt")}</p>\n"
         xhtml += f"""<hr/><p style="text-align: center;"><a href="https://orv.pages.dev/stories/orv/read/ch_{file_index+1}#comments" target="_blank" style="font-weight: bold; text-decoration: none;">[CLICK TO READ CHAPTER COMMENTS]</a></p>\n"""
         xhtml += (
             "<hr/><section epub:type='endnotes' role='doc-endnotes'>\n"
