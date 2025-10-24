@@ -1,0 +1,25 @@
+https://pastebin.com/hZsW8QD6
+---
+WORD REPLACER EXTENSION LIST FOR OMNISCIENT READER'S VIEWPOINT
+LINK TO WORD REPLACER ON CHROME: https://chrome.google.com/webstore/detail/word-replacer-ii/djakfbefalbkkdgnhkkdiihelkjdpbfh
+LINK TO WORD REPLACER ON FIREFOX: https://addons.mozilla.org/en-US/firefox/addon/word_replacer/
+
+Instructions:
+	- Delete any existing ORV word replacements you already have, since this list won't overwrite them, it'll just add them on to the end! If you have too many replacements it'll get difficult to navigate, particularly if you have multiples of the same replacement.
+	- Copy this entire list from the first { onwards, all the way to the end.
+	- Delete any existing text in the large text box located on the bottom right, above the "Export/Import" buttons.
+	- Paste this list into the same text box and select "Import".
+	- Go to the extension options and enable it only for the sites "https://webnovel.com/*", "https://boxnovel.com/*", or whatever site you're using to read ORV.
+	- You're done! Enjoy a neater and more streamlined reading experience. Feel free to go through the list and disable/delete any replacements you'd rather do without, or edit ones you don't fully agree with.
+
+General layout of the replacements:
+	- Real names (e.g "Jonghyuk/Jung-Hyeok/Joong-Hyeok" and some misspelled variants to "Joonghyuk")
+	- Honorifics (e.g. "Miss Heewon" to "Heewon-ssi")
+	- Titles/Modifiers (e.g. "Demon King of Lust and Fury" and its variants to "Devil of Lust and Wrath")
+	- Story grades and other terminology (e.g. "fable-grade" to "narrative grade"; "Great War of Saints and Demons"/"Constellation and Demon War" to "Great War of Constellations and Demons")
+	- Items (e.g. "Black Demon Sword" to "Black Heavenly Demon Sword")
+	- Skills/Stigmas (e.g. "Judgement Time" to "Hour of Judgement")
+	- Stories (e.g. "Pebble and I" to "Stone and I")
+	- Fixes for grammar/spelling errors and some quirks of APW's translation (e.g. censored swearing gets uncensored, "simply dichotomy" to "simple dichotomy")
+	- Removal of now-obsolete translation notes or T/Ns that don't contribute to understanding of cultural references in the text. HEAVY editing to other T/Ns to give missing information, or to make them more concise. (e.g. Since fable is changed to story, "TL: Previous term for ‘설화’ changed from ‘Story’ to ‘Fable’" gets removed. Furthermore, obscure cultural references like the Hounds of Tindalos are annotated to explain in-text details.)
+	- Pronoun error fixes for Asmodeus and Biyoo

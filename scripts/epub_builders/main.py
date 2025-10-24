@@ -163,7 +163,6 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
 
             elif line == "+":
                 if isWindow == False:
-                    print(file)
                     xhtml += "<fieldset>\n"
                     isWindow = True
                     isWindowTitle = True
