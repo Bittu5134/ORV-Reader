@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Omniscient Reader's Viewpoint [Sequel]</dc:title>
+    <dc:creator opf:role="aut">singNshong</dc:creator> 
+    <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
+    <dc:language>en</dc:language>
+    <dc:publisher>ORV-Reader Project</dc:publisher> 
+    <dc:date>10-24-2025</dc:date>
+    <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
+    <meta name="cover" content="cover-img"/>
+    <dc:subject>Korean Novel</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Webnovel</dc:subject>
+    <dc:subject>Apocalypse</dc:subject>
+    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Sequel]</meta> 
+    <meta property="file-as" id="author-sort">singNshong</meta>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
+    <item id="cover-img" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="stigma" href="stigma.png" media-type="image/png"/>
+    <item href="intro.xhtml" id="intro" media-type="application/xhtml+xml"/>
+    <item id="afterword" href="afterword.xhtml" media-type="application/xhtml+xml"/>
+<item href="ch_1.xhtml" id="1" media-type="application/xhtml+xml"/>
+<item href="ch_2.xhtml" id="2" media-type="application/xhtml+xml"/>
+<item href="ch_3.xhtml" id="3" media-type="application/xhtml+xml"/>
+<item href="ch_4.xhtml" id="4" media-type="application/xhtml+xml"/>
+<item href="ch_5.xhtml" id="5" media-type="application/xhtml+xml"/>
+<item href="ch_6.xhtml" id="6" media-type="application/xhtml+xml"/>
+<item href="ch_7.xhtml" id="7" media-type="application/xhtml+xml"/>
+<item href="ch_8.xhtml" id="8" media-type="application/xhtml+xml"/>
+<item href="ch_9.xhtml" id="9" media-type="application/xhtml+xml"/>
+<item href="ch_10.xhtml" id="10" media-type="application/xhtml+xml"/>
+<item href="ch_11.xhtml" id="11" media-type="application/xhtml+xml"/>
+<item href="ch_12.xhtml" id="12" media-type="application/xhtml+xml"/>
+<item href="ch_13.xhtml" id="13" media-type="application/xhtml+xml"/>
+<item href="ch_14.xhtml" id="14" media-type="application/xhtml+xml"/>
+<item href="ch_15.xhtml" id="15" media-type="application/xhtml+xml"/>
+<item href="ch_16.xhtml" id="16" media-type="application/xhtml+xml"/>
+<item href="ch_17.xhtml" id="17" media-type="application/xhtml+xml"/>
+<item href="ch_18.xhtml" id="18" media-type="application/xhtml+xml"/>
+<item href="ch_19.xhtml" id="19" media-type="application/xhtml+xml"/>
+<item href="ch_20.xhtml" id="20" media-type="application/xhtml+xml"/>
+<item href="ch_21.xhtml" id="21" media-type="application/xhtml+xml"/>
+<item href="ch_22.xhtml" id="22" media-type="application/xhtml+xml"/>
+<item href="ch_23.xhtml" id="23" media-type="application/xhtml+xml"/>
+<item href="ch_24.xhtml" id="24" media-type="application/xhtml+xml"/>
+<item href="ch_25.xhtml" id="25" media-type="application/xhtml+xml"/>
+<item href="ch_26.xhtml" id="26" media-type="application/xhtml+xml"/>
+<item href="ch_27.xhtml" id="27" media-type="application/xhtml+xml"/>
+<item href="ch_28.xhtml" id="28" media-type="application/xhtml+xml"/>
+<item href="ch_29.xhtml" id="29" media-type="application/xhtml+xml"/>
+<item href="ch_30.xhtml" id="30" media-type="application/xhtml+xml"/>
+<item href="ch_31.xhtml" id="31" media-type="application/xhtml+xml"/>
+<item href="ch_32.xhtml" id="32" media-type="application/xhtml+xml"/>
+<item href="ch_33.xhtml" id="33" media-type="application/xhtml+xml"/>
+<item href="ch_34.xhtml" id="34" media-type="application/xhtml+xml"/>
+<item href="ch_35.xhtml" id="35" media-type="application/xhtml+xml"/>
+<item href="ch_36.xhtml" id="36" media-type="application/xhtml+xml"/>
+<item href="ch_37.xhtml" id="37" media-type="application/xhtml+xml"/>
+<item href="ch_38.xhtml" id="38" media-type="application/xhtml+xml"/>
+<item href="ch_39.xhtml" id="39" media-type="application/xhtml+xml"/>
+<item href="ch_40.xhtml" id="40" media-type="application/xhtml+xml"/>
+<item href="ch_41.xhtml" id="41" media-type="application/xhtml+xml"/>
+<item href="ch_42.xhtml" id="42" media-type="application/xhtml+xml"/>
+<item href="ch_43.xhtml" id="43" media-type="application/xhtml+xml"/>
+<item href="ch_44.xhtml" id="44" media-type="application/xhtml+xml"/>
+<item href="ch_45.xhtml" id="45" media-type="application/xhtml+xml"/>
+<item href="ch_46.xhtml" id="46" media-type="application/xhtml+xml"/>
+<item href="ch_47.xhtml" id="47" media-type="application/xhtml+xml"/>
+<item href="ch_48.xhtml" id="48" media-type="application/xhtml+xml"/>
+<item href="ch_49.xhtml" id="49" media-type="application/xhtml+xml"/>
+<item href="ch_50.xhtml" id="50" media-type="application/xhtml+xml"/>
+<item href="ch_51.xhtml" id="51" media-type="application/xhtml+xml"/>
+<item href="ch_52.xhtml" id="52" media-type="application/xhtml+xml"/>
+<item href="ch_53.xhtml" id="53" media-type="application/xhtml+xml"/>
+<item href="ch_54.xhtml" id="54" media-type="application/xhtml+xml"/>
+<item href="ch_55.xhtml" id="55" media-type="application/xhtml+xml"/>
+<item href="ch_56.xhtml" id="56" media-type="application/xhtml+xml"/>
+<item href="ch_57.xhtml" id="57" media-type="application/xhtml+xml"/>
+<item href="ch_58.xhtml" id="58" media-type="application/xhtml+xml"/>
+<item href="ch_59.xhtml" id="59" media-type="application/xhtml+xml"/>
+<item href="ch_60.xhtml" id="60" media-type="application/xhtml+xml"/>
+<item href="ch_61.xhtml" id="61" media-type="application/xhtml+xml"/>
+<item href="ch_62.xhtml" id="62" media-type="application/xhtml+xml"/>
+<item href="ch_63.xhtml" id="63" media-type="application/xhtml+xml"/>
+<item href="ch_64.xhtml" id="64" media-type="application/xhtml+xml"/>
+<item href="ch_65.xhtml" id="65" media-type="application/xhtml+xml"/>
+<item href="ch_66.xhtml" id="66" media-type="application/xhtml+xml"/>
+<item href="ch_67.xhtml" id="67" media-type="application/xhtml+xml"/>
+<item href="ch_68.xhtml" id="68" media-type="application/xhtml+xml"/>
+<item href="ch_69.xhtml" id="69" media-type="application/xhtml+xml"/>
+<item href="ch_70.xhtml" id="70" media-type="application/xhtml+xml"/>
+<item href="ch_71.xhtml" id="71" media-type="application/xhtml+xml"/>
+<item href="ch_72.xhtml" id="72" media-type="application/xhtml+xml"/>
+<item href="ch_73.xhtml" id="73" media-type="application/xhtml+xml"/>
+<item href="ch_74.xhtml" id="74" media-type="application/xhtml+xml"/>
+<item href="ch_75.xhtml" id="75" media-type="application/xhtml+xml"/>
+<item href="ch_76.xhtml" id="76" media-type="application/xhtml+xml"/>
+<item href="ch_77.xhtml" id="77" media-type="application/xhtml+xml"/>
+<item href="ch_78.xhtml" id="78" media-type="application/xhtml+xml"/>
+<item href="ch_79.xhtml" id="79" media-type="application/xhtml+xml"/>
+<item href="ch_80.xhtml" id="80" media-type="application/xhtml+xml"/>
+<item href="ch_81.xhtml" id="81" media-type="application/xhtml+xml"/>
+<item href="ch_82.xhtml" id="82" media-type="application/xhtml+xml"/>
+<item href="ch_83.xhtml" id="83" media-type="application/xhtml+xml"/>
+<item href="ch_84.xhtml" id="84" media-type="application/xhtml+xml"/>
+<item href="ch_85.xhtml" id="85" media-type="application/xhtml+xml"/>
+<item href="ch_86.xhtml" id="86" media-type="application/xhtml+xml"/>
+<item href="ch_87.xhtml" id="87" media-type="application/xhtml+xml"/>
+<item href="ch_88.xhtml" id="88" media-type="application/xhtml+xml"/>
+<item href="ch_89.xhtml" id="89" media-type="application/xhtml+xml"/>
+<item href="ch_90.xhtml" id="90" media-type="application/xhtml+xml"/>
+<item href="ch_91.xhtml" id="91" media-type="application/xhtml+xml"/>
+<item href="ch_92.xhtml" id="92" media-type="application/xhtml+xml"/>
+<item href="ch_93.xhtml" id="93" media-type="application/xhtml+xml"/>
+<item href="ch_94.xhtml" id="94" media-type="application/xhtml+xml"/>
+<item href="ch_95.xhtml" id="95" media-type="application/xhtml+xml"/>
+<item href="ch_96.xhtml" id="96" media-type="application/xhtml+xml"/>
+<item href="ch_97.xhtml" id="97" media-type="application/xhtml+xml"/>
+<item href="ch_98.xhtml" id="98" media-type="application/xhtml+xml"/>
+<item href="ch_99.xhtml" id="99" media-type="application/xhtml+xml"/>
+<item href="ch_100.xhtml" id="100" media-type="application/xhtml+xml"/>
+<item href="ch_101.xhtml" id="101" media-type="application/xhtml+xml"/>
+<item href="ch_102.xhtml" id="102" media-type="application/xhtml+xml"/>
+<item href="ch_103.xhtml" id="103" media-type="application/xhtml+xml"/>
+<item href="ch_104.xhtml" id="104" media-type="application/xhtml+xml"/>
+<item href="ch_105.xhtml" id="105" media-type="application/xhtml+xml"/>
+<item href="ch_106.xhtml" id="106" media-type="application/xhtml+xml"/>
+<item href="ch_107.xhtml" id="107" media-type="application/xhtml+xml"/>
+<item href="ch_108.xhtml" id="108" media-type="application/xhtml+xml"/>
+<item href="ch_109.xhtml" id="109" media-type="application/xhtml+xml"/>
+<item href="ch_110.xhtml" id="110" media-type="application/xhtml+xml"/>
+<item href="ch_111.xhtml" id="111" media-type="application/xhtml+xml"/>
+<item href="ch_112.xhtml" id="112" media-type="application/xhtml+xml"/>
+<item href="ch_113.xhtml" id="113" media-type="application/xhtml+xml"/>
+<item href="ch_114.xhtml" id="114" media-type="application/xhtml+xml"/>
+<item href="ch_115.xhtml" id="115" media-type="application/xhtml+xml"/>
+<item href="ch_116.xhtml" id="116" media-type="application/xhtml+xml"/>
+<item href="ch_117.xhtml" id="117" media-type="application/xhtml+xml"/>
+<item href="ch_118.xhtml" id="118" media-type="application/xhtml+xml"/>
+<item href="ch_119.xhtml" id="119" media-type="application/xhtml+xml"/>
+<item href="ch_120.xhtml" id="120" media-type="application/xhtml+xml"/>
+<item href="ch_121.xhtml" id="121" media-type="application/xhtml+xml"/>
+<item href="ch_122.xhtml" id="122" media-type="application/xhtml+xml"/>
+<item href="ch_123.xhtml" id="123" media-type="application/xhtml+xml"/>
+<item href="ch_124.xhtml" id="124" media-type="application/xhtml+xml"/>
+<item href="ch_125.xhtml" id="125" media-type="application/xhtml+xml"/>
+<item href="ch_126.xhtml" id="126" media-type="application/xhtml+xml"/>
+<item href="ch_127.xhtml" id="127" media-type="application/xhtml+xml"/>
+<item href="ch_128.xhtml" id="128" media-type="application/xhtml+xml"/>
+<item href="ch_129.xhtml" id="129" media-type="application/xhtml+xml"/>
+<item href="ch_130.xhtml" id="130" media-type="application/xhtml+xml"/>
+<item href="ch_131.xhtml" id="131" media-type="application/xhtml+xml"/>
+<item href="ch_132.xhtml" id="132" media-type="application/xhtml+xml"/>
+<item href="ch_133.xhtml" id="133" media-type="application/xhtml+xml"/>
+<item href="ch_134.xhtml" id="134" media-type="application/xhtml+xml"/>
+<item href="ch_135.xhtml" id="135" media-type="application/xhtml+xml"/>
+<item href="ch_136.xhtml" id="136" media-type="application/xhtml+xml"/>
+<item href="ch_137.xhtml" id="137" media-type="application/xhtml+xml"/>
+<item href="ch_138.xhtml" id="138" media-type="application/xhtml+xml"/>
+<item href="ch_139.xhtml" id="139" media-type="application/xhtml+xml"/>
+<item href="ch_140.xhtml" id="140" media-type="application/xhtml+xml"/>
+<item href="ch_141.xhtml" id="141" media-type="application/xhtml+xml"/>
+<item href="ch_142.xhtml" id="142" media-type="application/xhtml+xml"/>
+<item href="ch_143.xhtml" id="143" media-type="application/xhtml+xml"/>
+<item href="ch_144.xhtml" id="144" media-type="application/xhtml+xml"/>
+<item href="ch_145.xhtml" id="145" media-type="application/xhtml+xml"/>
+<item href="ch_146.xhtml" id="146" media-type="application/xhtml+xml"/>
+<item href="ch_147.xhtml" id="147" media-type="application/xhtml+xml"/>
+<item href="ch_148.xhtml" id="148" media-type="application/xhtml+xml"/>
+<item href="ch_149.xhtml" id="149" media-type="application/xhtml+xml"/>
+<item href="ch_150.xhtml" id="150" media-type="application/xhtml+xml"/>
+<item href="ch_151.xhtml" id="151" media-type="application/xhtml+xml"/>
+<item href="ch_152.xhtml" id="152" media-type="application/xhtml+xml"/>
+<item href="ch_153.xhtml" id="153" media-type="application/xhtml+xml"/>
+<item href="ch_154.xhtml" id="154" media-type="application/xhtml+xml"/>
+<item href="ch_155.xhtml" id="155" media-type="application/xhtml+xml"/>
+<item href="ch_156.xhtml" id="156" media-type="application/xhtml+xml"/>
+<item href="ch_157.xhtml" id="157" media-type="application/xhtml+xml"/>
+<item href="ch_158.xhtml" id="158" media-type="application/xhtml+xml"/>
+<item href="ch_159.xhtml" id="159" media-type="application/xhtml+xml"/>
+<item href="ch_160.xhtml" id="160" media-type="application/xhtml+xml"/>
+<item href="ch_161.xhtml" id="161" media-type="application/xhtml+xml"/>
+<item href="ch_162.xhtml" id="162" media-type="application/xhtml+xml"/>
+<item href="ch_163.xhtml" id="163" media-type="application/xhtml+xml"/>
+<item href="ch_164.xhtml" id="164" media-type="application/xhtml+xml"/>
+<item href="ch_165.xhtml" id="165" media-type="application/xhtml+xml"/>
+<item href="ch_166.xhtml" id="166" media-type="application/xhtml+xml"/>
+<item href="ch_167.xhtml" id="167" media-type="application/xhtml+xml"/>
+<item href="ch_168.xhtml" id="168" media-type="application/xhtml+xml"/>
+<item href="ch_169.xhtml" id="169" media-type="application/xhtml+xml"/>
+<item href="ch_170.xhtml" id="170" media-type="application/xhtml+xml"/>
+<item href="ch_171.xhtml" id="171" media-type="application/xhtml+xml"/>
+<item href="ch_172.xhtml" id="172" media-type="application/xhtml+xml"/>
+<item href="ch_173.xhtml" id="173" media-type="application/xhtml+xml"/>
+<item href="ch_174.xhtml" id="174" media-type="application/xhtml+xml"/>
+<item href="ch_175.xhtml" id="175" media-type="application/xhtml+xml"/>
+<item href="ch_176.xhtml" id="176" media-type="application/xhtml+xml"/>
+<item href="ch_177.xhtml" id="177" media-type="application/xhtml+xml"/>
+<item href="ch_178.xhtml" id="178" media-type="application/xhtml+xml"/>
+<item href="ch_179.xhtml" id="179" media-type="application/xhtml+xml"/>
+<item href="ch_180.xhtml" id="180" media-type="application/xhtml+xml"/>
+<item href="ch_181.xhtml" id="181" media-type="application/xhtml+xml"/>
+<item href="ch_182.xhtml" id="182" media-type="application/xhtml+xml"/>
+<item href="ch_183.xhtml" id="183" media-type="application/xhtml+xml"/>
+<item href="ch_184.xhtml" id="184" media-type="application/xhtml+xml"/>
+<item href="ch_185.xhtml" id="185" media-type="application/xhtml+xml"/>
+<item href="ch_186.xhtml" id="186" media-type="application/xhtml+xml"/>
+<item href="ch_187.xhtml" id="187" media-type="application/xhtml+xml"/>
+<item href="ch_188.xhtml" id="188" media-type="application/xhtml+xml"/>
+<item href="ch_189.xhtml" id="189" media-type="application/xhtml+xml"/>
+<item href="ch_190.xhtml" id="190" media-type="application/xhtml+xml"/>
+<item href="ch_191.xhtml" id="191" media-type="application/xhtml+xml"/>
+<item href="ch_192.xhtml" id="192" media-type="application/xhtml+xml"/>
+<item href="ch_193.xhtml" id="193" media-type="application/xhtml+xml"/>
+<item href="ch_194.xhtml" id="194" media-type="application/xhtml+xml"/>
+<item href="ch_195.xhtml" id="195" media-type="application/xhtml+xml"/>
+<item href="ch_196.xhtml" id="196" media-type="application/xhtml+xml"/>
+<item href="ch_197.xhtml" id="197" media-type="application/xhtml+xml"/>
+<item href="ch_198.xhtml" id="198" media-type="application/xhtml+xml"/>
+<item href="ch_199.xhtml" id="199" media-type="application/xhtml+xml"/>
+<item href="ch_200.xhtml" id="200" media-type="application/xhtml+xml"/>
+<item href="ch_201.xhtml" id="201" media-type="application/xhtml+xml"/>
+<item href="ch_202.xhtml" id="202" media-type="application/xhtml+xml"/>
+<item href="ch_203.xhtml" id="203" media-type="application/xhtml+xml"/>
+<item href="ch_204.xhtml" id="204" media-type="application/xhtml+xml"/>
+<item href="ch_205.xhtml" id="205" media-type="application/xhtml+xml"/>
+<item href="ch_206.xhtml" id="206" media-type="application/xhtml+xml"/>
+<item href="ch_207.xhtml" id="207" media-type="application/xhtml+xml"/>
+<item href="ch_208.xhtml" id="208" media-type="application/xhtml+xml"/>
+<item href="ch_209.xhtml" id="209" media-type="application/xhtml+xml"/>
+<item href="ch_210.xhtml" id="210" media-type="application/xhtml+xml"/>
+<item href="ch_211.xhtml" id="211" media-type="application/xhtml+xml"/>
+<item href="ch_212.xhtml" id="212" media-type="application/xhtml+xml"/>
+<item href="ch_213.xhtml" id="213" media-type="application/xhtml+xml"/>
+<item href="ch_214.xhtml" id="214" media-type="application/xhtml+xml"/>
+<item href="ch_215.xhtml" id="215" media-type="application/xhtml+xml"/>
+<item href="ch_216.xhtml" id="216" media-type="application/xhtml+xml"/>
+<item href="ch_217.xhtml" id="217" media-type="application/xhtml+xml"/>
+<item href="ch_218.xhtml" id="218" media-type="application/xhtml+xml"/>
+<item href="ch_219.xhtml" id="219" media-type="application/xhtml+xml"/>
+<item href="ch_220.xhtml" id="220" media-type="application/xhtml+xml"/>
+<item href="ch_221.xhtml" id="221" media-type="application/xhtml+xml"/>
+<item href="ch_222.xhtml" id="222" media-type="application/xhtml+xml"/>
+<item href="ch_223.xhtml" id="223" media-type="application/xhtml+xml"/>
+<item href="ch_224.xhtml" id="224" media-type="application/xhtml+xml"/>
+<item href="ch_225.xhtml" id="225" media-type="application/xhtml+xml"/>
+<item href="ch_226.xhtml" id="226" media-type="application/xhtml+xml"/>
+<item href="ch_227.xhtml" id="227" media-type="application/xhtml+xml"/>
+<item href="ch_228.xhtml" id="228" media-type="application/xhtml+xml"/>
+<item href="ch_229.xhtml" id="229" media-type="application/xhtml+xml"/>
+<item href="ch_230.xhtml" id="230" media-type="application/xhtml+xml"/>
+<item href="ch_231.xhtml" id="231" media-type="application/xhtml+xml"/>
+<item href="ch_232.xhtml" id="232" media-type="application/xhtml+xml"/>
+<item href="ch_233.xhtml" id="233" media-type="application/xhtml+xml"/>
+<item href="ch_234.xhtml" id="234" media-type="application/xhtml+xml"/>
+<item href="ch_235.xhtml" id="235" media-type="application/xhtml+xml"/>
+<item href="ch_236.xhtml" id="236" media-type="application/xhtml+xml"/>
+<item href="ch_237.xhtml" id="237" media-type="application/xhtml+xml"/>
+<item href="ch_238.xhtml" id="238" media-type="application/xhtml+xml"/>
+<item href="ch_239.xhtml" id="239" media-type="application/xhtml+xml"/>
+<item href="ch_240.xhtml" id="240" media-type="application/xhtml+xml"/>
+<item href="ch_241.xhtml" id="241" media-type="application/xhtml+xml"/>
+<item href="ch_242.xhtml" id="242" media-type="application/xhtml+xml"/>
+<item href="ch_243.xhtml" id="243" media-type="application/xhtml+xml"/>
+<item href="ch_244.xhtml" id="244" media-type="application/xhtml+xml"/>
+<item href="ch_245.xhtml" id="245" media-type="application/xhtml+xml"/>
+<item href="ch_246.xhtml" id="246" media-type="application/xhtml+xml"/>
+<item href="ch_247.xhtml" id="247" media-type="application/xhtml+xml"/>
+<item href="ch_248.xhtml" id="248" media-type="application/xhtml+xml"/>
+<item href="ch_249.xhtml" id="249" media-type="application/xhtml+xml"/>
+<item href="ch_250.xhtml" id="250" media-type="application/xhtml+xml"/>
+<item href="ch_251.xhtml" id="251" media-type="application/xhtml+xml"/>
+<item href="ch_252.xhtml" id="252" media-type="application/xhtml+xml"/>
+<item href="ch_253.xhtml" id="253" media-type="application/xhtml+xml"/>
+<item href="ch_254.xhtml" id="254" media-type="application/xhtml+xml"/>
+<item href="ch_255.xhtml" id="255" media-type="application/xhtml+xml"/>
+<item href="ch_256.xhtml" id="256" media-type="application/xhtml+xml"/>
+<item href="ch_257.xhtml" id="257" media-type="application/xhtml+xml"/>
+<item href="ch_258.xhtml" id="258" media-type="application/xhtml+xml"/>
+<item href="ch_259.xhtml" id="259" media-type="application/xhtml+xml"/>
+<item href="ch_260.xhtml" id="260" media-type="application/xhtml+xml"/>
+<item href="ch_261.xhtml" id="261" media-type="application/xhtml+xml"/>
+<item href="ch_262.xhtml" id="262" media-type="application/xhtml+xml"/>
+<item href="ch_263.xhtml" id="263" media-type="application/xhtml+xml"/>
+<item href="ch_264.xhtml" id="264" media-type="application/xhtml+xml"/>
+<item href="ch_265.xhtml" id="265" media-type="application/xhtml+xml"/>
+<item href="ch_266.xhtml" id="266" media-type="application/xhtml+xml"/>
+<item href="ch_267.xhtml" id="267" media-type="application/xhtml+xml"/>
+<item href="ch_268.xhtml" id="268" media-type="application/xhtml+xml"/>
+<item href="ch_269.xhtml" id="269" media-type="application/xhtml+xml"/>
+<item href="ch_270.xhtml" id="270" media-type="application/xhtml+xml"/>
+<item href="ch_271.xhtml" id="271" media-type="application/xhtml+xml"/>
+<item href="ch_272.xhtml" id="272" media-type="application/xhtml+xml"/>
+<item href="ch_273.xhtml" id="273" media-type="application/xhtml+xml"/>
+<item href="ch_274.xhtml" id="274" media-type="application/xhtml+xml"/>
+<item href="ch_275.xhtml" id="275" media-type="application/xhtml+xml"/>
+<item href="ch_276.xhtml" id="276" media-type="application/xhtml+xml"/>
+<item href="ch_277.xhtml" id="277" media-type="application/xhtml+xml"/>
+<item href="ch_278.xhtml" id="278" media-type="application/xhtml+xml"/>
+<item href="ch_279.xhtml" id="279" media-type="application/xhtml+xml"/>
+<item href="ch_280.xhtml" id="280" media-type="application/xhtml+xml"/>
+<item href="ch_281.xhtml" id="281" media-type="application/xhtml+xml"/>
+<item href="ch_282.xhtml" id="282" media-type="application/xhtml+xml"/>
+<item href="ch_283.xhtml" id="283" media-type="application/xhtml+xml"/>
+<item href="ch_284.xhtml" id="284" media-type="application/xhtml+xml"/>
+<item href="ch_285.xhtml" id="285" media-type="application/xhtml+xml"/>
+<item href="ch_286.xhtml" id="286" media-type="application/xhtml+xml"/>
+<item href="ch_287.xhtml" id="287" media-type="application/xhtml+xml"/>
+<item href="ch_288.xhtml" id="288" media-type="application/xhtml+xml"/>
+<item href="ch_289.xhtml" id="289" media-type="application/xhtml+xml"/>
+<item href="ch_290.xhtml" id="290" media-type="application/xhtml+xml"/>
+<item href="ch_291.xhtml" id="291" media-type="application/xhtml+xml"/>
+<item href="ch_292.xhtml" id="292" media-type="application/xhtml+xml"/>
+<item href="ch_293.xhtml" id="293" media-type="application/xhtml+xml"/>
+<item href="ch_294.xhtml" id="294" media-type="application/xhtml+xml"/>
+<item href="ch_295.xhtml" id="295" media-type="application/xhtml+xml"/>
+<item href="ch_296.xhtml" id="296" media-type="application/xhtml+xml"/>
+<item href="ch_297.xhtml" id="297" media-type="application/xhtml+xml"/>
+<item href="ch_298.xhtml" id="298" media-type="application/xhtml+xml"/>
+<item href="ch_299.xhtml" id="299" media-type="application/xhtml+xml"/>
+<item href="ch_300.xhtml" id="300" media-type="application/xhtml+xml"/>
+<item href="ch_301.xhtml" id="301" media-type="application/xhtml+xml"/>
+<item href="ch_302.xhtml" id="302" media-type="application/xhtml+xml"/>
+<item href="ch_303.xhtml" id="303" media-type="application/xhtml+xml"/>
+<item href="ch_304.xhtml" id="304" media-type="application/xhtml+xml"/>
+<item href="ch_305.xhtml" id="305" media-type="application/xhtml+xml"/>
+<item href="ch_306.xhtml" id="306" media-type="application/xhtml+xml"/>
+<item href="ch_307.xhtml" id="307" media-type="application/xhtml+xml"/>
+<item href="ch_308.xhtml" id="308" media-type="application/xhtml+xml"/>
+<item href="ch_309.xhtml" id="309" media-type="application/xhtml+xml"/>
+<item href="ch_310.xhtml" id="310" media-type="application/xhtml+xml"/>
+<item href="ch_311.xhtml" id="311" media-type="application/xhtml+xml"/>
+<item href="ch_312.xhtml" id="312" media-type="application/xhtml+xml"/>
+<item href="ch_313.xhtml" id="313" media-type="application/xhtml+xml"/>
+<item href="ch_314.xhtml" id="314" media-type="application/xhtml+xml"/>
+<item href="ch_315.xhtml" id="315" media-type="application/xhtml+xml"/>
+<item href="ch_316.xhtml" id="316" media-type="application/xhtml+xml"/>
+<item href="ch_317.xhtml" id="317" media-type="application/xhtml+xml"/>
+<item href="ch_318.xhtml" id="318" media-type="application/xhtml+xml"/>
+<item href="ch_319.xhtml" id="319" media-type="application/xhtml+xml"/>
+<item href="ch_320.xhtml" id="320" media-type="application/xhtml+xml"/>
+<item href="ch_321.xhtml" id="321" media-type="application/xhtml+xml"/>
+<item href="ch_322.xhtml" id="322" media-type="application/xhtml+xml"/>
+<item href="ch_323.xhtml" id="323" media-type="application/xhtml+xml"/>
+<item href="ch_324.xhtml" id="324" media-type="application/xhtml+xml"/>
+<item href="ch_325.xhtml" id="325" media-type="application/xhtml+xml"/>
+<item href="ch_326.xhtml" id="326" media-type="application/xhtml+xml"/>
+<item href="ch_327.xhtml" id="327" media-type="application/xhtml+xml"/>
+<item href="ch_328.xhtml" id="328" media-type="application/xhtml+xml"/>
+<item href="ch_329.xhtml" id="329" media-type="application/xhtml+xml"/>
+<item href="ch_330.xhtml" id="330" media-type="application/xhtml+xml"/>
+<item href="ch_331.xhtml" id="331" media-type="application/xhtml+xml"/>
+<item href="ch_332.xhtml" id="332" media-type="application/xhtml+xml"/>
+<item href="ch_333.xhtml" id="333" media-type="application/xhtml+xml"/>
+<item href="ch_334.xhtml" id="334" media-type="application/xhtml+xml"/>
+<item href="ch_335.xhtml" id="335" media-type="application/xhtml+xml"/>
+<item href="ch_336.xhtml" id="336" media-type="application/xhtml+xml"/>
+<item href="ch_337.xhtml" id="337" media-type="application/xhtml+xml"/>
+<item href="ch_338.xhtml" id="338" media-type="application/xhtml+xml"/>
+<item href="ch_339.xhtml" id="339" media-type="application/xhtml+xml"/>
+<item href="ch_340.xhtml" id="340" media-type="application/xhtml+xml"/>
+<item href="ch_341.xhtml" id="341" media-type="application/xhtml+xml"/>
+<item href="ch_342.xhtml" id="342" media-type="application/xhtml+xml"/>
+<item href="ch_343.xhtml" id="343" media-type="application/xhtml+xml"/>
+<item href="ch_344.xhtml" id="344" media-type="application/xhtml+xml"/>
+<item href="ch_345.xhtml" id="345" media-type="application/xhtml+xml"/>
+<item href="ch_346.xhtml" id="346" media-type="application/xhtml+xml"/>
+<item href="ch_347.xhtml" id="347" media-type="application/xhtml+xml"/>
+<item href="ch_348.xhtml" id="348" media-type="application/xhtml+xml"/>
+<item href="ch_349.xhtml" id="349" media-type="application/xhtml+xml"/>
+<item href="ch_350.xhtml" id="350" media-type="application/xhtml+xml"/>
+<item href="ch_351.xhtml" id="351" media-type="application/xhtml+xml"/>
+<item href="ch_352.xhtml" id="352" media-type="application/xhtml+xml"/>
+<item href="ch_353.xhtml" id="353" media-type="application/xhtml+xml"/>
+<item href="ch_354.xhtml" id="354" media-type="application/xhtml+xml"/>
+<item href="ch_355.xhtml" id="355" media-type="application/xhtml+xml"/>
+<item href="ch_356.xhtml" id="356" media-type="application/xhtml+xml"/>
+<item href="ch_357.xhtml" id="357" media-type="application/xhtml+xml"/>
+<item href="ch_358.xhtml" id="358" media-type="application/xhtml+xml"/>
+<item href="ch_359.xhtml" id="359" media-type="application/xhtml+xml"/>
+<item href="ch_360.xhtml" id="360" media-type="application/xhtml+xml"/>
+<item href="ch_361.xhtml" id="361" media-type="application/xhtml+xml"/>
+<item href="ch_362.xhtml" id="362" media-type="application/xhtml+xml"/>
+<item href="ch_363.xhtml" id="363" media-type="application/xhtml+xml"/>
+<item href="ch_364.xhtml" id="364" media-type="application/xhtml+xml"/>
+<item href="ch_365.xhtml" id="365" media-type="application/xhtml+xml"/>
+<item href="ch_366.xhtml" id="366" media-type="application/xhtml+xml"/>
+<item href="ch_367.xhtml" id="367" media-type="application/xhtml+xml"/>
+<item href="ch_368.xhtml" id="368" media-type="application/xhtml+xml"/>
+<item href="ch_369.xhtml" id="369" media-type="application/xhtml+xml"/>
+<item href="ch_370.xhtml" id="370" media-type="application/xhtml+xml"/>
+<item href="ch_371.xhtml" id="371" media-type="application/xhtml+xml"/>
+<item href="ch_372.xhtml" id="372" media-type="application/xhtml+xml"/>
+<item href="ch_373.xhtml" id="373" media-type="application/xhtml+xml"/>
+<item href="ch_374.xhtml" id="374" media-type="application/xhtml+xml"/>
+<item href="ch_375.xhtml" id="375" media-type="application/xhtml+xml"/>
+<item href="ch_376.xhtml" id="376" media-type="application/xhtml+xml"/>
+<item href="ch_377.xhtml" id="377" media-type="application/xhtml+xml"/>
+<item href="ch_378.xhtml" id="378" media-type="application/xhtml+xml"/>
+<item href="ch_379.xhtml" id="379" media-type="application/xhtml+xml"/>
+<item href="ch_380.xhtml" id="380" media-type="application/xhtml+xml"/>
+<item href="ch_381.xhtml" id="381" media-type="application/xhtml+xml"/>
+<item href="ch_382.xhtml" id="382" media-type="application/xhtml+xml"/>
+<item href="ch_383.xhtml" id="383" media-type="application/xhtml+xml"/>
+<item href="ch_384.xhtml" id="384" media-type="application/xhtml+xml"/>
+<item href="ch_385.xhtml" id="385" media-type="application/xhtml+xml"/>
+<item href="ch_386.xhtml" id="386" media-type="application/xhtml+xml"/>
+<item href="ch_387.xhtml" id="387" media-type="application/xhtml+xml"/>
+<item id="img_0" href="002%20-%20In%20short%2C%20my%20life%20was%20like%20this%20Kim%20Dokja%2C%2028%20years%20old%2C%20single.jpg" media-type="image/jpeg"/>
+<item id="img_1" href="002%20-%20Yoo%20Sangah%20smiled%20brightly.jpg" media-type="image/jpeg"/>
+<item id="img_2" href="006%20-%20I%20wiped%20at%20the%20blood%20on%20my%20cheeks.%20The%20bloodwasn%27t%20erased.%20It%20turned%20out%20to%20be%20blood%20on%20the%20window.jpg" media-type="image/jpeg"/>
+<item id="img_3" href="009%20-%20There%20was%20a%20sound%20like%20a%20huge%20spring%20turning%20and%20the%20door%20started%20to%20move.jpg" media-type="image/jpeg"/>
+<item id="img_4" href="016%20-%20I%20plunged%20into%20the%20Han%20River.jpg" media-type="image/jpeg"/>
+<item id="img_5" href="025%20-%20At%20that%20moment%2C%20someone%20moved%20ahead%20of%20me%20and%20stuck%20their%20blade%20into%20the%20fallen%20Cheoldoo%20Group%20members.jpg" media-type="image/jpeg"/>
+<item id="img_6" href="027%20-%20As%20scheduled%2C%20it%20was%20the%20sponsor%20behind%20Lee%20Jihye.%20She%20was%20a%20must%20in%20future%20maritime%20wars.jpg" media-type="image/jpeg"/>
+<item id="img_7" href="040%20-%20The%20character%20%27Lee%20Jihye%27%20has%20activated%20the%20stigma%20%27Ghost%20Fleet%20Lv.%201%21.jpg" media-type="image/jpeg"/>
+<item id="img_8" href="041%20-%20Yoo%20Joonghyuk%20emanated%20the%20whitish%20aura%20and%20slowly%20turned%20towards%20me.jpg" media-type="image/jpeg"/>
+<item id="img_9" href="042%20-%20It%20was%20like%20a%20gigantic%20praying%20mantis%2C%20the%20insect%20king%20of%20great%20size.jpg" media-type="image/jpeg"/>
+<item id="img_10" href="055%20-%20The%20blade%20moved%20silently.%20No%20one%20could%20see%20anything.jpg" media-type="image/jpeg"/>
+<item id="img_11" href="071%20-%20However%2C%20it%20was%20too%20late.%20There%20was%20a%20sound%20like%20a%20sonic%20boom.jpg" media-type="image/jpeg"/>
+<item id="img_12" href="072%20-%20I%20swung%20the%20sword%20towards%20the%20Absolute%20Throne.%20There%20was%20a%20loud%20sound%20and%20fire%20flared.jpg" media-type="image/jpeg"/>
+<item id="img_13" href="074%20-%20Old%20Gentleman%27s%20Close%20Combat%20Suit.jpg" media-type="image/jpeg"/>
+<item id="img_14" href="074%20-%20We%20took%20their%20lives%20slowly%20and%20carefully%20until%20only%20a%20few%20survivors%20were%20left.jpg" media-type="image/jpeg"/>
+<item id="img_15" href="082%20-%20I%20hadn%27t%20met%20her%20in%20two%20days%20yet%20she%20was%20completely%20different%20from%20the%20girl%20I%20knew.jpg" media-type="image/jpeg"/>
+<item id="img_16" href="082%20-%20She%20isn%27t%20the%20person%20I%20remember.%20I%20knew%20it.jpg" media-type="image/jpeg"/>
+<item id="img_17" href="083%20-%20One%20of%20the%2010%20Evils%2C%20the%20Poisoner%20Lee%20Seolhwa%20asked.jpg" media-type="image/jpeg"/>
+<item id="img_18" href="097%20-%20Of%20course%2C%20she%20wasn%27t%20a%20heroine%20candidate.jpg" media-type="image/jpeg"/>
+<item id="img_19" href="105%20-%20The%20two%20different%20times%20were%20facing%20each%20other.jpg" media-type="image/jpeg"/>
+<item id="img_20" href="114%20-%20She%20pointed%20to%20the%20steak%20she%20just%20cut.jpg" media-type="image/jpeg"/>
+<item id="img_21" href="119%20-%20Yoo%20Sangah%20wasn%27t%20looking%20at%20me.%20Thus%2C%20I%20wasn%27t%20looking%20at%20her%20either.jpg" media-type="image/jpeg"/>
+<item id="img_22" href="127%20-%20Kyrgios%20Rodgraim%20of%20Peace%20Land.%20He%20was%20one%20of%20the%20strongest%20returnees%20in%20Ways%20of%20Survival.jpg" media-type="image/jpeg"/>
+<item id="img_23" href="130%20-%20I%20looked%20back%20and%20saw%20three%20snake%20heads%20falling%20to%20the%20ground.jpg" media-type="image/jpeg"/>
+<item id="img_24" href="130%20-%20Lightning%20stretched%20out%20as%20Kyrgios%20soared%20towards%20the%20sky.jpg" media-type="image/jpeg"/>
+<item id="img_25" href="136%20-%20A%20fearsome%20killing%20intent%20was%20released%20from%20Nirvana%27s%20body%20and%20a%20huge%20mandala%20appeared%20behind%20him.jpg" media-type="image/jpeg"/>
+<item id="img_26" href="144%20-%20She%20stretched%20out%20a%20finger%20and%20touched%20Kim%20Dokja%27s%20mouth.jpg" media-type="image/jpeg"/>
+<item id="img_27" href="145%20-%20Hahaha%21%20You%20are%20caught%21.jpg" media-type="image/jpeg"/>
+<item id="img_28" href="148%20-%20There%20was%20a%20mischievous%20look%20on%20the%20face%20covered%20with%20white-gold%20hair.jpg" media-type="image/jpeg"/>
+<item id="img_29" href="150%20-%20Uriel%20pulled%20me%20into%20a%20surprise%20embrace.jpg" media-type="image/jpeg"/>
+<item id="img_30" href="157%20-%20Yoo%20Mia%20watched%20her%20brother%2C%20who%20had%20spoken%20in%20a%20cold%20voice.jpg" media-type="image/jpeg"/>
+<item id="img_31" href="161%20-%20Nope%2C%20only%20Heewon-ssi%20is%20eligible%20for%20this%20sword.jpg" media-type="image/jpeg"/>
+<item id="img_32" href="168%20-%20The%20two%20children%20had%20done%20it%20after%20all.jpg" media-type="image/jpeg"/>
+<item id="img_33" href="180%20-%20Someone%20has%20to%20live%20as%20a%20murderer.jpg" media-type="image/jpeg"/>
+<item id="img_34" href="180%20-%20The%20little%20boy%20hiding%20in%20the%20room%20stuck%20out%20his%20head.jpg" media-type="image/jpeg"/>
+<item id="img_35" href="188%20-%20It%20was%20my%20story.%20I%20laughed%20as%20Yoo%20Joonghyuk%27s%20sword%20pierced%20my%20heart.jpg" media-type="image/jpeg"/>
+<item id="img_36" href="190%20-%20Are%20you%20the%20Demon%20King%20of%20Salvation.jpg" media-type="image/jpeg"/>
+<item id="img_37" href="196%20-%20Who%20would%20see%20this%20guy%27s%20information%20and%20think%20he%20was%20the%20second%20protagonist%20of%20Ways%20of%20Survival.jpg" media-type="image/jpeg"/>
+<item id="img_38" href="208%20-%20Even%20so%2C%20Dokja-ssi%20is%20still%20Dokja-ssi.jpg" media-type="image/jpeg"/>
+<item id="img_39" href="209%20-%20jang%20hayoung%20was%20a%20good%20candidate%20to%20be%20a%20fighter%20even%20without%20the%20unidentified%20wall.jpg" media-type="image/jpeg"/>
+<item id="img_40" href="211%20-%20The%20Star%20Stream%20is%20watching%20the%20birth%20of%20a%20new%20streamer.jpg" media-type="image/jpeg"/>
+<item id="img_41" href="212%20-%20Yoo%20Joonghyuk%20frowned%20at%20the%20sight%20and%20asked.jpg" media-type="image/jpeg"/>
+<item id="img_42" href="223%20-%20Asmodeus%27s%20small%20fingers%20snapped.jpg" media-type="image/jpeg"/>
+<item id="img_43" href="226%20-%20As%20I%20listened%2C%20I%20felt%20somewhat%20sweet%2C%20sad%20and%20nostalgic.jpg" media-type="image/jpeg"/>
+<item id="img_44" href="229%20-%20I%20smiled%20and%20replied.jpg" media-type="image/jpeg"/>
+<item id="img_45" href="231%20-%20Yoo%20Joonghyuk%20ate%20the%20dumpling%20with%20an%20unapologetic%20face%20and%20continued%20talking.jpg" media-type="image/jpeg"/>
+<item id="img_46" href="231%20-%20Yoo%20Joonghyuk%27s%20complexion%20changed%20at%20my%20words.jpg" media-type="image/jpeg"/>
+<item id="img_47" href="232%20-%20Yoo%20Joonghyuk%27s%20feet%20only%20hit%20empty%20air.jpg" media-type="image/jpeg"/>
+<item id="img_48" href="235%20-%20You%20can%20never%20tell%20that%20guy%20out%20there.jpg" media-type="image/jpeg"/>
+<item id="img_49" href="239%20-%20Anna%20Croft%20came%20to%20this%20place%20knowing%20it.jpg" media-type="image/jpeg"/>
+<item id="img_50" href="245%20-%20The%20screen%20was%20completely%20obscured%20by%20the%20more%20than%20100%20constellations%20gathered%20in%20front%20of%20it.jpg" media-type="image/jpeg"/>
+<item id="img_51" href="247%20-%20It%20had%20been%20a%20week%20since%20I%20went%20to%20the%20Gourmet%20Association.jpg" media-type="image/jpeg"/>
+<item id="img_52" href="247%20-%20Thus%2C%20I%20was%20stressed%20because%20I%20was%20left%20alone%20with%20Yoo%20Joonghyuk%20in%20the%20training%20field.jpg" media-type="image/jpeg"/>
+<item id="img_53" href="248%20-%20The%20Breaking%20the%20Sky%20Sword%20Saint%20stared%20up%20at%20the%20raging%20sky%20that%20had%20become%20dark.jpg" media-type="image/jpeg"/>
+<item id="img_54" href="262%20-%20The%20Ruler%20of%20Amusement.%20It%20is%20that.jpg" media-type="image/jpeg"/>
+<item id="img_55" href="262%20-%20While%20this%20game%20was%20in%20progress%2C%20Yoo%20Joonghyuk%20wouldn%27t%20be%20penalized%20for%20using%20any%20types%20of%20weapons.jpg" media-type="image/jpeg"/>
+<item id="img_56" href="267%20-%20Yoo%20Joonghyuk%27s%20gaze%20stayed%20on%20Kim%20Dokja%27s%20face%20for%20a%20moment.jpg" media-type="image/jpeg"/>
+<item id="img_57" href="267%20-%20You%20will%20die%20forever.jpg" media-type="image/jpeg"/>
+<item id="img_58" href="270%20-%20Han%20Myungoh%20was%20running%20while%20carrying%20him.jpg" media-type="image/jpeg"/>
+<item id="img_59" href="271%20-%20The%20constellation%20%27Demon-like%20Judge%20of%20Fire%27%20has%20appeared%20in%20the%2073rd%20Demon%20Realm.jpg" media-type="image/jpeg"/>
+<item id="img_60" href="273%20-%20Cheok%20Jungyeong%20shot%20forward%20towards%20the%20sky.%20Yoo%20Joonghyuk%20and%20I%20chased%20after%20him.jpg" media-type="image/jpeg"/>
+<item id="img_61" href="275%20-%20The%20face%20of%20a%20little%20boy%20with%20red%20eyes%20underneath%20black%20hair%20flashed.jpg" media-type="image/jpeg"/>
+<item id="img_62" href="282%20-%20I%20waited%20for%20you%2C%20the%20one%20pursuing%20the%20%27final%20chapter%27.jpg" media-type="image/jpeg"/>
+<item id="img_63" href="284%20-%20I%20was%20suffocated%20as%20he%20gripped%20my%20neck.jpg" media-type="image/jpeg"/>
+<item id="img_64" href="287%20-%20I%20released%20Yoo%20Joonghyuk%27s%20hands%20and%20told%20him.jpg" media-type="image/jpeg"/>
+<item id="img_65" href="290%20-%20I%20looked%20at%20the%20woman%20with%20a%20bob%20cut%20and%20asked%2C%20Are%20you%20Han%20Sooyoung%27s%20avatar.jpg" media-type="image/jpeg"/>
+<item id="img_66" href="291%20-%20However%2C%20Yoo%20Joonghyuk%20didn%27t%20have%20a%20proper%20consciousness%20and%20didn%27t%20know%20what%20this%20feeling%20was.jpg" media-type="image/jpeg"/>
+<item id="img_67" href="293%20-%20Han%20Sooyoung%20looked%20at%20such%20a%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
+<item id="img_68" href="297%20-%20The%20white%20coat%20fitted%20to%20his%20body%20like%20it%20was%20made%20for%20him%20from%20the%20beginning.jpg" media-type="image/jpeg"/>
+<item id="img_69" href="301%20-%20Lee%20Jihye%20stared%20at%20me.%20Kid%2C%20I%20will%20kill%20that%20squid.jpg" media-type="image/jpeg"/>
+<item id="img_70" href="301%20-%20She%20is%20drinking%20coffee%20in%20the%20break%20room.jpg" media-type="image/jpeg"/>
+<item id="img_71" href="308%20-%20A%20girl%20sucking%20on%20candy%20suddenly%20pointed%20at%20me%20and%20declared%2C%20Squid.jpg" media-type="image/jpeg"/>
+<item id="img_72" href="312%20-%20Jung%20Heewon%20stepped%20through%20the%20dirt%20and%20pointed%20the%20Sword%20of%20Judgment%20at%20Han%20Sooyoung.jpg" media-type="image/jpeg"/>
+<item id="img_73" href="315%20-%20She%20was%20different%20from%20when%20I%20had%20seen%20her%20at%20the%20Constellation%20Banquet.jpg" media-type="image/jpeg"/>
+<item id="img_74" href="320%20-%20The%20night%20of%20the%20Underworld%20looked%20down%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_75" href="326%20-%20Just%20a%20moment.%20Please%20lend%20me%20your%20strength.jpg" media-type="image/jpeg"/>
+<item id="img_76" href="330%20-%20Pluto%20appeared%20in%20the%20sky%20and%20blocked%20Heracles%27%20fist.jpg" media-type="image/jpeg"/>
+<item id="img_77" href="331%20-%20Thus%2C%20this%20one%20chance%20couldn%27t%20fail.%20We%20threw%20the%20spear%20at%20the%20same%20time.jpg" media-type="image/jpeg"/>
+<item id="img_78" href="337%20-%20It%20had%20a%20lemon%20flavour.%20I%20ate%20the%20candy%20and%20Han%20Sooyoung%20looked%20at%20me%20quietly.jpg" media-type="image/jpeg"/>
+<item id="img_79" href="338%20-%20%27Yoo%20Joonghyuk%27%20of%20this%20round%20is%20passed%20onto%20others.jpg" media-type="image/jpeg"/>
+<item id="img_80" href="342%20-%20There%20are%20some%20things%20in%20the%20world%20you%20don%27t%20know%20about%2C%20you%20idiot.jpg" media-type="image/jpeg"/>
+<item id="img_81" href="349%20-%20Once%20the%20preparations%20were%20over%2C%20I%20walked%20over%20the%20opening%20bridge%20with%20my%20companions.jpg" media-type="image/jpeg"/>
+<item id="img_82" href="355%20-%20In%20that%20story%2C%20I%20met%20them.jpg" media-type="image/jpeg"/>
+<item id="img_83" href="367%20-%20As%20the%20ginormous%20storm%20of%20magical%20energy%20raged%20around%20me.jpg" media-type="image/jpeg"/>
+<item id="img_84" href="367%20-%20Because%E2%80%A6%20Anna%20Croft%20had%20cut%20her%20palm%20open%20to%20feed%20me%20her%20own%20blood.jpg" media-type="image/jpeg"/>
+<item id="img_85" href="369%20-%20Looks%20like%20this%20regression%20will%20end%20up%20as%20a%20failure%20if%20this%20keeps%20up%2C%20huh.jpg" media-type="image/jpeg"/>
+<item id="img_86" href="371%20-%20Even%20still%2C%20wouldn%27t%20we%20have%20tried%20to%20call%20each%20other%20some%20times.jpg" media-type="image/jpeg"/>
+<item id="img_87" href="371%20-%20It%20was%20then%2C%20a%20bright%20light%20from%20a%20lantern%20lit%20up%20in%20front%20of%20my%20eyes.jpg" media-type="image/jpeg"/>
+<item id="img_88" href="372%20-%20Hey%2C%20why%20are%20you%20crying%20like%20that.jpg" media-type="image/jpeg"/>
+<item id="img_89" href="375%20-%20I%20stared%20at%20the%20face%20of%20this%20king.jpg" media-type="image/jpeg"/>
+<item id="img_90" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%282%29.jpg" media-type="image/jpeg"/>
+<item id="img_91" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%283%29.jpg" media-type="image/jpeg"/>
+<item id="img_92" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
+<item id="img_93" href="380%20-%20Han%20Sooyoung%20glanced%20at%20the%20corner%20of%20the%20room%20and%20spoke%20up.jpg" media-type="image/jpeg"/>
+<item id="img_94" href="389%20-%20He%20had%20always%20been%20looking%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_95" href="390%20-%20He%20pointed%20his%20weapon%20at%20her%20as%20she%20remained%20composed%20in%20her%20spot.jpg" media-type="image/jpeg"/>
+<item id="img_96" href="391%20-%20Even%20as%20the%20arrows%20pierced%20his%20side%2C%20shoulders%2C%20and%20thighs.jpg" media-type="image/jpeg"/>
+<item id="img_97" href="396%20-%20And%20then%2C%20the%20Ring%20of%20Chaos%20materialised%20within%20Jung%20Heewon%27s%20eyes%20as%20she%20took%20in%20the%20sight%20of%20the%20Demon%20Kings.jpg" media-type="image/jpeg"/>
+<item id="img_98" href="397%20-%20She%20plopped%20down%20to%20the%20ground%20as%20the%20ripples%20from%20the%20explosion%20swallowed%20up%20the%20whole%20battlefield.jpg" media-type="image/jpeg"/>
+<item id="img_99" href="397%20-%20Sparks%20danced%20wildly%20around%20her%20figure%20as%20she%20gripped%20the%20%5BSword%20of%20Judgement%5D.jpg" media-type="image/jpeg"/>
+<item id="img_100" href="397%20-%20Sparks%20danced%20wildly%20around%20her%20figure%20as%20she%20gripped%20the.jpg" media-type="image/jpeg"/>
+<item id="img_101" href="403%20-%20Han%20Sooyoung%20and%20Yoo%20Joonghyuk%2C%20two%20very%20different%20people.jpg" media-type="image/jpeg"/>
+<item id="img_102" href="405%20-%20It%20literally%20transformed%20into%20a%2015-year-old%20boy%20in%20an%20instant%20and%20through%20the%20Dragon%20Voice%20magic.jpg" media-type="image/jpeg"/>
+<item id="img_103" href="407%20-%20And%20the%20existence%20that%20appeared%20now%20was%20a%20grand%20being%20who%20could%20handle%20such%20Probability%20all%20by%20himself.jpg" media-type="image/jpeg"/>
+<item id="img_104" href="410%20-%20Jang%20Hayoung%20extended%20her%20hand%20out%20and%20the%20world%27s%20heaviest%20staff%20found%20itself%20in%20her%20grip%20in%20the%20next%20moment.jpg" media-type="image/jpeg"/>
+<item id="img_105" href="414%20-%20However%2C%20his%20sword%20came%20to%20a%20dead%20stop%20after%20a%20loud%2C%20sharp%20metallic%20clang%20resounded%20out.jpg" media-type="image/jpeg"/>
+<item id="img_106" href="414%20-%20You%20should%20know%20very%20well%20that%20I%20hate%20that%20question.jpg" media-type="image/jpeg"/>
+<item id="img_107" href="416%20-%20The%20being%20I%20thought%20I%27d%20not%20get%20to%20meet%20again%20was%20sitting%20right%20on%20that%20throne.jpg" media-type="image/jpeg"/>
+<item id="img_108" href="417%20-%20I%27m%20merely%20treating%20you%20the%20way%20that%20fits%20with%20your%20choice%20to%20appear%20as%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
+<item id="img_109" href="429%20-%20Han%20Sooyoung%20looked%20at%20the%20message%20floating%20up%20before%20her%20eyes%20and%20scrolled%20to%20the%20next%20page.jpg" media-type="image/jpeg"/>
+<item id="img_110" href="429%20-%20That%20I%20wouldn%27t%20have%20minded%20this%20story%20going%20on%20for%20a%20little%20while%20longer.jpg" media-type="image/jpeg"/>
+<item id="img_111" href="432%20-%20Lee%20Jihye%2C%20wearing%20a%20T-shirt%20with%20a%20large%20butterfly%20printed%20on%20it%20and%20chewing%20on%20bubblegum.jpg" media-type="image/jpeg"/>
+<item id="img_112" href="437%20-%20I%20placed%20my%20hand%20on%20top%20of%20his%20head%20first.jpg" media-type="image/jpeg"/>
+<item id="img_113" href="438%20-%20Your%20existence%20is%20evolving%20into%20an%20Outer%20God.jpg" media-type="image/jpeg"/>
+<item id="img_114" href="442%20-%20The%20spot%20where%20Kim%20Dokja%20had%20been%20standing%20only%20until%20a%20moment%20ago%20was%20now%20occupied%20by%20a%20tall%20man.jpg" media-type="image/jpeg"/>
+<item id="img_115" href="444%20-%20Confronted%20by%20the%20unfathomable%20life%20lived%20by%20one%20individual%2C%20the%20lives%20of%20his%20companions%20all%20crumbled%20away.jpg" media-type="image/jpeg"/>
+<item id="img_116" href="444%20-%20The%20loneliest%20king%20in%20this%20universe%2C%20the%20white%20coat-wearing%20Yoo%20Joonghyuk%20from%20the%201863rd%20turn%20now%20stood%20there.jpg" media-type="image/jpeg"/>
+<item id="img_117" href="455%20-%20Han%20Sooyoung%20then%20began%20muttering%20in%20a%20reverential%20voice.jpg" media-type="image/jpeg"/>
+<item id="img_118" href="458%20-%20These%20two%20palms%20may%20have%20overlapped%20after%20transcending%20time%20and%20space.jpg" media-type="image/jpeg"/>
+<item id="img_119" href="461%20-%20I%20looked%20back%20and%20sure%20enough%2C%20Yoo%20Joonghyuk%20and%20his%20fox%20ears%20were%20standing%20there.jpg" media-type="image/jpeg"/>
+<item id="img_120" href="462%20-%20Lee%20Hyunsung%21%20The%20order%20of%20your%20exercise%20is%20wrong%21.jpg" media-type="image/jpeg"/>
+<item id="img_121" href="463%20-%20Uriel%20dashed%20towards%20the%20figure%20of%20the%20Abyssal%20Black%20Flame%20Dragon%20and%20performed%20a%20head-lock.jpg" media-type="image/jpeg"/>
+<item id="img_122" href="466%20-%20Uriel%2C%20Black%20Flame%20Dragon%2C%20and%20the%20Great%20Sage%2C%20Heaven%27s%20Equal.jpg" media-type="image/jpeg"/>
+<item id="img_123" href="470%20-%20I%20wish%20to%20become%20someone%20like%20him.jpg" media-type="image/jpeg"/>
+<item id="img_124" href="470%20-%20It%20was%20the%20Outer%20God%2C%20the%20%27Master%20of%20the%20Sunken%20Island%27.jpg" media-type="image/jpeg"/>
+<item id="img_125" href="471%20-%20On%20top%20of%20this%20wall%2C%20the%20one-eyed%20Yoo%20Joonghyuk%20and%20his%20lone%20arm%20were%20staring%20at%20the%20battlefield.jpg" media-type="image/jpeg"/>
+<item id="img_126" href="477%20-%20The%20golden-hued%20Status%20settled%20on%20top%20of%20my%20coat.jpg" media-type="image/jpeg"/>
+<item id="img_127" href="479%20-%20Cheongil%20High%20School%2C%20was%20now%20leaking%20out%20from%20its%20hidden%20spot%20beneath%20his%20mask.jpg" media-type="image/jpeg"/>
+<item id="img_128" href="479%20-%20However%2C%20the%20999th%20turn%27s%20Kim%20Namwoon%20remained%20on%20his%20knees.jpg" media-type="image/jpeg"/>
+<item id="img_129" href="482%20-%20About%20Earth%27s%20saviour%2C%20the%20%27Demon%20King%20of%20Salvation%27.jpg" media-type="image/jpeg"/>
+<item id="img_130" href="482%20-%20I%20have%20no%20thoughts%20of%20saving%20you.jpg" media-type="image/jpeg"/>
+<item id="img_131" href="484%20-%20Jung%20Heewon%20watched%20that%20for%20a%20long%20time%20before%20placing%20her%20hand%20on%20the%20panel.jpg" media-type="image/jpeg"/>
+<item id="img_132" href="484%20-%20Supreme%20King%20Yoo%20Joonghyuk%2C%20declares%20his%20desperate%20resistance.jpg" media-type="image/jpeg"/>
+<item id="img_133" href="488%20-%20She%20didn%27t%20want%20to%20make%20that%20kind%20of%20a%20face.%20She%20didn%27t%20want%20to%20look%20at%20Kim%20Dokja%20with%20that%20sort%20of%20eyes.jpg" media-type="image/jpeg"/>
+<item id="img_134" href="492%20-%20And%20Kim%20Dokja%20was%20standing%20there.jpg" media-type="image/jpeg"/>
+<item id="img_135" href="500%20-%20He%20was%20massacring%20Constellations%20with%20a%20great%20bow.jpg" media-type="image/jpeg"/>
+<item id="img_136" href="501%20-%20Don%27t%20worry%2C%20Heewon-ah.%20I%27ll%20make%20it%20happen%2C%20no%20matter%20what.jpg" media-type="image/jpeg"/>
+<item id="img_137" href="503%20-%20Torn%20white%20feathers%20were%20cascading%20downwards%20one%20by%20one.jpg" media-type="image/jpeg"/>
+<item id="img_138" href="507%20-%20The%20broken%20chains%20clanged%20in%20the%20empty%20air.jpg" media-type="image/jpeg"/>
+<item id="img_139" href="511%20-%20Stories%20clung%20onto%20me%20and%20stabbed%20into%20my%20hand%20like%20sharp%20blades.jpg" media-type="image/jpeg"/>
+<item id="img_140" href="513%20-%20And%20the%20boy%20slowly%20raised%20his%20head%20to%20look%20back%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_141" href="514%20-%20I%20stared%20helplessly%20at%20the%20flying%20blade%20piece.jpg" media-type="image/jpeg"/>
+<item id="img_142" href="515%20-%20My%20own%20tragedy%20couldn%27t%20even%20compare%20to%20their%20pain.jpg" media-type="image/jpeg"/>
+<item id="img_143" href="516%20-%20The%20only%20person%20who%20didn%27t%20was%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
+<item id="img_144" href="517%20-%20My%20vision%20darkened%2C%20then%20the%20sights%20of%20the%20world-line%20spread%20out%20like%20a%20kaleidoscope.jpg" media-type="image/jpeg"/>
+<item id="img_145" href="518%20-%20And%20%27hell%27%20began%20from%20then.jpg" media-type="image/jpeg"/>
+<item id="img_146" href="518%20-%20Incarnation%20%27Yoo%20Joonghyuk%27s%27%20attribute%2C%20%27Pro%20Gamer%27%20is%20awakening.jpg" media-type="image/jpeg"/>
+<item id="img_147" href="519%20-%20By%20the%20way%20ahjussi%2C%20you%20think%20Santa%20Claus%20is%20a%20Constellation.jpg" media-type="image/jpeg"/>
+<item id="img_148" href="519%20-%20Kim%20Dokja%20felt%20a%20certain%20corner%20of%20his%20heart%20ache%20for%20some%20reason.jpg" media-type="image/jpeg"/>
+<item id="img_149" href="519%20-%20You%2C%20just%20who%20the%20hell%20are%20you.jpg" media-type="image/jpeg"/>
+<item id="img_150" href="522%20-%20The%20running%20man%20soaked%20from%20head%20to%20toe%20in%20sweat%20glanced%20at%20her%20before%20returning%20his%20gaze%20back%20to%20the%20road.jpg" media-type="image/jpeg"/>
+<item id="img_151" href="525%20-%20Tell%20me%2C%20you%20fool.%20If%20I%20continue%20to%20regress.jpg" media-type="image/jpeg"/>
+<item id="img_152" href="529%20-%20The%20Great%20Sage%20smiled%2C%20his%20pearly-white%20teeth%20in%20full%20display.jpg" media-type="image/jpeg"/>
+<item id="img_153" href="530%20-%20The%20pitch-black%20particles%20stained%20her%20hand%20this%20time%20as%20well.jpg" media-type="image/jpeg"/>
+<item id="img_154" href="531%20-%20Would%20I%20eventually%20become%20the%20%27Oldest%20Dream%27%20I%20saw%20back%20then.jpg" media-type="image/jpeg"/>
+<item id="img_155" href="532%20-%20Han%20Sooyoung%20finally%20figured%20out%20the%20Dokkaebi%20King%27s%20true%20aim.jpg" media-type="image/jpeg"/>
+<item id="img_156" href="533%20-%20She%20figured%20it%20must%27ve%20been%20her%20parents%20again.jpg" media-type="image/jpeg"/>
+<item id="img_157" href="534%20-%20Now%2C%20behold.%20Isn%27t%20this%20a%20truly%20perfect%20story.jpg" media-type="image/jpeg"/>
+<item id="img_158" href="535%20-%20She%20spotted%20Kim%20Dokja%20standing%20on%20the%20platform.jpg" media-type="image/jpeg"/>
+<item id="img_159" href="537%20-%20Go%20on%20ahead%21%20I%20shall%20catch%20up%20to%20you%20soon%21.jpg" media-type="image/jpeg"/>
+<item id="img_160" href="539%20-%20The%20sentences%20protecting%20Kim%20Dokja%20fell%20away%20one%20by%20one.jpg" media-type="image/jpeg"/>
+<item id="img_161" href="543%20-%20A%20story%20of%20a%20person%20they%20all%20loved.jpg" media-type="image/jpeg"/>
+<item id="img_162" href="543%20-%20Great%20Sage%20wielding%20the%20mic%20delivered%20an%20impassioned%20vibrato-filled%20roar.jpg" media-type="image/jpeg"/>
+<item id="img_163" href="543%20-%20Two%20of%20them%20walked%20on%20the%20street%2C%20one%20sipping%20on%20the%20iced%20Americano.jpg" media-type="image/jpeg"/>
+<item id="img_164" href="545%20-%20Yoo%20Joonghyuk%20staring%20at%20that%20spectacle%20for%20a%20long%20while%20spoke%20in%20passing.jpg" media-type="image/jpeg"/>
+<item id="img_165" href="549%20-%20I%20pray%20that%20we%20don%27t%20have%20to%20run%20into%20each%20other%20again.jpg" media-type="image/jpeg"/>
+<item id="img_166" href="550%20-%20I%27ve%20completely%20forgotten%20about%20it.%20There%20was%20something%20like%20that%2C%20wasn%27t%20there.jpg" media-type="image/jpeg"/>
+<item id="img_167" href="551%20-%20While%20thinking%20about%20those%20sentences%2C%20Han%20Sooyoung%20grinned%20like%20an%20idiot.jpg" media-type="image/jpeg"/>
+<item id="img_168" href="551%20-%20Yoo%20Joonghyuk%20slowly%20closed%20his%20eyes%2C%20before%20opening%20them%20again.jpg" media-type="image/jpeg"/>
+<item id="img_169" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
+<item id="img_170" href="830%20-%20Karlton%20-%20Silver%20Binding%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
+<item id="img_171" href="844%20-%20Manri%20Shintong%20Heo%20Poong%20-%20Murim%20Dumpling%20Master%20Chief%20-%20The%20World%20After%20the%20Fall.jpg" media-type="image/jpeg"/>
+<item id="img_172" href="Cover%20001%20-%20Episodes%2000-35.jpg" media-type="image/jpeg"/>
+<item id="img_173" href="Cover%20190%20-%20Episodes%2036-53.jpg" media-type="image/jpeg"/>
+<item id="img_174" href="Cover%20286%20-%20Episodes%2054-70.jpg" media-type="image/jpeg"/>
+<item id="img_175" href="Cover%20374%20-%20Episodes%2071-98.jpg" media-type="image/jpeg"/>
+<item id="img_176" href="Cover%20409.jpg" media-type="image/jpeg"/>
+<item id="img_177" href="Cover%20455.jpg" media-type="image/jpeg"/>
+<item id="img_178" href="Cover%20516%20-%20Episodes%2099-Epilogue%201.jpg" media-type="image/jpeg"/>
+<item id="img_179" href="Cover%20526.jpg" media-type="image/jpeg"/>
+<item id="img_180" href="Cover%20532.jpg" media-type="image/jpeg"/>
+<item id="img_181" href="Cover%20Part%201%20-%20002%20-%20Vol%201%20-%20Episodes%2001-06.jpg" media-type="image/jpeg"/>
+<item id="img_182" href="Cover%20Part%201%20-%20026%20-%20Vol%202%20-%20Episodes%2006-10.jpg" media-type="image/jpeg"/>
+<item id="img_183" href="Cover%20Part%201%20-%20048%20-%20Vol%203%20-%20Episodes%2011-15.jpg" media-type="image/jpeg"/>
+<item id="img_184" href="Cover%20Part%201%20-%20073%20-%20Vol%204%20-%20Episodes%2015-19.jpg" media-type="image/jpeg"/>
+<item id="img_185" href="Cover%20Part%201%20-%20097%20-%20Vol%205%20-%20Episodes%2019-23.jpg" media-type="image/jpeg"/>
+<item id="img_186" href="Cover%20Part%201%20-%20121%20-%20Vol%206%20-%20Episodes%2024-28.jpg" media-type="image/jpeg"/>
+<item id="img_187" href="Cover%20Part%201%20-%20143%20-%20Vol%207%20-%20Episodes%2028-32.jpg" media-type="image/jpeg"/>
+<item id="img_188" href="Cover%20Part%201%20-%20166%20-%20Vol%208%20-%20Episodes%2032-35.jpg" media-type="image/jpeg"/>
+<item id="img_189" href="Cover%20Part%202%20-%20189%20-%20Vol%201%20-%20Episodes%2036-41.jpg" media-type="image/jpeg"/>
+<item id="img_190" href="Cover%20Part%202%20-%20221%20-%20Vol%202%20-%20Episodes%2042-47.jpg" media-type="image/jpeg"/>
+<item id="img_191" href="Cover%20Part%202%20-%20255%20-%20Vol%203%20-%20Episodes%2048-53.jpg" media-type="image/jpeg"/>
+<item id="img_192" href="Cover%20Part%203%20-%20285%20-%20Vol%201%20-%20Episodes%2054-59.jpg" media-type="image/jpeg"/>
+<item id="img_193" href="Cover%20Part%203%20-%20316%20-%20Vol%202%20-%20Episodes%2060-64.jpg" media-type="image/jpeg"/>
+<item id="img_194" href="Cover%20Part%203%20-%20345%20-%20Vol%203%20-%20Episodes%2065-70.jpg" media-type="image/jpeg"/>
+<item id="img_195" href="Cover%20Part%204%20-%20373%20-%20Vol%201%20-%20Episodes%2071-75.jpg" media-type="image/jpeg"/>
+<item id="img_196" href="Cover%20Part%204%20-%20399%20-%20Vol%202%20-%20Episodes%2076-80.jpg" media-type="image/jpeg"/>
+<item id="img_197" href="Cover%20Part%204%20-%20428%20-%20Vol%203%20-%20Episodes%2081-86.jpg" media-type="image/jpeg"/>
+<item id="img_198" href="Cover%20Part%204%20-%20459%20-%20Vol%204%20-%20Episodes%2087-92.jpg" media-type="image/jpeg"/>
+<item id="img_199" href="Cover%20Part%205%20-%20487%20-%20Vol%201%20-%20Episodes%2093-99.jpg" media-type="image/jpeg"/>
+<item id="img_200" href="Cover%20Part%205%20-%20517%20-%20Vol%202%20-%20Epilogue%201-5.jpg" media-type="image/jpeg"/>
+</manifest><spine toc="ncx">
+<itemref idref="intro"/><itemref idref="toc"/>
+<itemref idref="1"/>
+<itemref idref="2"/>
+<itemref idref="3"/>
+<itemref idref="4"/>
+<itemref idref="5"/>
+<itemref idref="6"/>
+<itemref idref="7"/>
+<itemref idref="8"/>
+<itemref idref="9"/>
+<itemref idref="10"/>
+<itemref idref="11"/>
+<itemref idref="12"/>
+<itemref idref="13"/>
+<itemref idref="14"/>
+<itemref idref="15"/>
+<itemref idref="16"/>
+<itemref idref="17"/>
+<itemref idref="18"/>
+<itemref idref="19"/>
+<itemref idref="20"/>
+<itemref idref="21"/>
+<itemref idref="22"/>
+<itemref idref="23"/>
+<itemref idref="24"/>
+<itemref idref="25"/>
+<itemref idref="26"/>
+<itemref idref="27"/>
+<itemref idref="28"/>
+<itemref idref="29"/>
+<itemref idref="30"/>
+<itemref idref="31"/>
+<itemref idref="32"/>
+<itemref idref="33"/>
+<itemref idref="34"/>
+<itemref idref="35"/>
+<itemref idref="36"/>
+<itemref idref="37"/>
+<itemref idref="38"/>
+<itemref idref="39"/>
+<itemref idref="40"/>
+<itemref idref="41"/>
+<itemref idref="42"/>
+<itemref idref="43"/>
+<itemref idref="44"/>
+<itemref idref="45"/>
+<itemref idref="46"/>
+<itemref idref="47"/>
+<itemref idref="48"/>
+<itemref idref="49"/>
+<itemref idref="50"/>
+<itemref idref="51"/>
+<itemref idref="52"/>
+<itemref idref="53"/>
+<itemref idref="54"/>
+<itemref idref="55"/>
+<itemref idref="56"/>
+<itemref idref="57"/>
+<itemref idref="58"/>
+<itemref idref="59"/>
+<itemref idref="60"/>
+<itemref idref="61"/>
+<itemref idref="62"/>
+<itemref idref="63"/>
+<itemref idref="64"/>
+<itemref idref="65"/>
+<itemref idref="66"/>
+<itemref idref="67"/>
+<itemref idref="68"/>
+<itemref idref="69"/>
+<itemref idref="70"/>
+<itemref idref="71"/>
+<itemref idref="72"/>
+<itemref idref="73"/>
+<itemref idref="74"/>
+<itemref idref="75"/>
+<itemref idref="76"/>
+<itemref idref="77"/>
+<itemref idref="78"/>
+<itemref idref="79"/>
+<itemref idref="80"/>
+<itemref idref="81"/>
+<itemref idref="82"/>
+<itemref idref="83"/>
+<itemref idref="84"/>
+<itemref idref="85"/>
+<itemref idref="86"/>
+<itemref idref="87"/>
+<itemref idref="88"/>
+<itemref idref="89"/>
+<itemref idref="90"/>
+<itemref idref="91"/>
+<itemref idref="92"/>
+<itemref idref="93"/>
+<itemref idref="94"/>
+<itemref idref="95"/>
+<itemref idref="96"/>
+<itemref idref="97"/>
+<itemref idref="98"/>
+<itemref idref="99"/>
+<itemref idref="100"/>
+<itemref idref="101"/>
+<itemref idref="102"/>
+<itemref idref="103"/>
+<itemref idref="104"/>
+<itemref idref="105"/>
+<itemref idref="106"/>
+<itemref idref="107"/>
+<itemref idref="108"/>
+<itemref idref="109"/>
+<itemref idref="110"/>
+<itemref idref="111"/>
+<itemref idref="112"/>
+<itemref idref="113"/>
+<itemref idref="114"/>
+<itemref idref="115"/>
+<itemref idref="116"/>
+<itemref idref="117"/>
+<itemref idref="118"/>
+<itemref idref="119"/>
+<itemref idref="120"/>
+<itemref idref="121"/>
+<itemref idref="122"/>
+<itemref idref="123"/>
+<itemref idref="124"/>
+<itemref idref="125"/>
+<itemref idref="126"/>
+<itemref idref="127"/>
+<itemref idref="128"/>
+<itemref idref="129"/>
+<itemref idref="130"/>
+<itemref idref="131"/>
+<itemref idref="132"/>
+<itemref idref="133"/>
+<itemref idref="134"/>
+<itemref idref="135"/>
+<itemref idref="136"/>
+<itemref idref="137"/>
+<itemref idref="138"/>
+<itemref idref="139"/>
+<itemref idref="140"/>
+<itemref idref="141"/>
+<itemref idref="142"/>
+<itemref idref="143"/>
+<itemref idref="144"/>
+<itemref idref="145"/>
+<itemref idref="146"/>
+<itemref idref="147"/>
+<itemref idref="148"/>
+<itemref idref="149"/>
+<itemref idref="150"/>
+<itemref idref="151"/>
+<itemref idref="152"/>
+<itemref idref="153"/>
+<itemref idref="154"/>
+<itemref idref="155"/>
+<itemref idref="156"/>
+<itemref idref="157"/>
+<itemref idref="158"/>
+<itemref idref="159"/>
+<itemref idref="160"/>
+<itemref idref="161"/>
+<itemref idref="162"/>
+<itemref idref="163"/>
+<itemref idref="164"/>
+<itemref idref="165"/>
+<itemref idref="166"/>
+<itemref idref="167"/>
+<itemref idref="168"/>
+<itemref idref="169"/>
+<itemref idref="170"/>
+<itemref idref="171"/>
+<itemref idref="172"/>
+<itemref idref="173"/>
+<itemref idref="174"/>
+<itemref idref="175"/>
+<itemref idref="176"/>
+<itemref idref="177"/>
+<itemref idref="178"/>
+<itemref idref="179"/>
+<itemref idref="180"/>
+<itemref idref="181"/>
+<itemref idref="182"/>
+<itemref idref="183"/>
+<itemref idref="184"/>
+<itemref idref="185"/>
+<itemref idref="186"/>
+<itemref idref="187"/>
+<itemref idref="188"/>
+<itemref idref="189"/>
+<itemref idref="190"/>
+<itemref idref="191"/>
+<itemref idref="192"/>
+<itemref idref="193"/>
+<itemref idref="194"/>
+<itemref idref="195"/>
+<itemref idref="196"/>
+<itemref idref="197"/>
+<itemref idref="198"/>
+<itemref idref="199"/>
+<itemref idref="200"/>
+<itemref idref="201"/>
+<itemref idref="202"/>
+<itemref idref="203"/>
+<itemref idref="204"/>
+<itemref idref="205"/>
+<itemref idref="206"/>
+<itemref idref="207"/>
+<itemref idref="208"/>
+<itemref idref="209"/>
+<itemref idref="210"/>
+<itemref idref="211"/>
+<itemref idref="212"/>
+<itemref idref="213"/>
+<itemref idref="214"/>
+<itemref idref="215"/>
+<itemref idref="216"/>
+<itemref idref="217"/>
+<itemref idref="218"/>
+<itemref idref="219"/>
+<itemref idref="220"/>
+<itemref idref="221"/>
+<itemref idref="222"/>
+<itemref idref="223"/>
+<itemref idref="224"/>
+<itemref idref="225"/>
+<itemref idref="226"/>
+<itemref idref="227"/>
+<itemref idref="228"/>
+<itemref idref="229"/>
+<itemref idref="230"/>
+<itemref idref="231"/>
+<itemref idref="232"/>
+<itemref idref="233"/>
+<itemref idref="234"/>
+<itemref idref="235"/>
+<itemref idref="236"/>
+<itemref idref="237"/>
+<itemref idref="238"/>
+<itemref idref="239"/>
+<itemref idref="240"/>
+<itemref idref="241"/>
+<itemref idref="242"/>
+<itemref idref="243"/>
+<itemref idref="244"/>
+<itemref idref="245"/>
+<itemref idref="246"/>
+<itemref idref="247"/>
+<itemref idref="248"/>
+<itemref idref="249"/>
+<itemref idref="250"/>
+<itemref idref="251"/>
+<itemref idref="252"/>
+<itemref idref="253"/>
+<itemref idref="254"/>
+<itemref idref="255"/>
+<itemref idref="256"/>
+<itemref idref="257"/>
+<itemref idref="258"/>
+<itemref idref="259"/>
+<itemref idref="260"/>
+<itemref idref="261"/>
+<itemref idref="262"/>
+<itemref idref="263"/>
+<itemref idref="264"/>
+<itemref idref="265"/>
+<itemref idref="266"/>
+<itemref idref="267"/>
+<itemref idref="268"/>
+<itemref idref="269"/>
+<itemref idref="270"/>
+<itemref idref="271"/>
+<itemref idref="272"/>
+<itemref idref="273"/>
+<itemref idref="274"/>
+<itemref idref="275"/>
+<itemref idref="276"/>
+<itemref idref="277"/>
+<itemref idref="278"/>
+<itemref idref="279"/>
+<itemref idref="280"/>
+<itemref idref="281"/>
+<itemref idref="282"/>
+<itemref idref="283"/>
+<itemref idref="284"/>
+<itemref idref="285"/>
+<itemref idref="286"/>
+<itemref idref="287"/>
+<itemref idref="288"/>
+<itemref idref="289"/>
+<itemref idref="290"/>
+<itemref idref="291"/>
+<itemref idref="292"/>
+<itemref idref="293"/>
+<itemref idref="294"/>
+<itemref idref="295"/>
+<itemref idref="296"/>
+<itemref idref="297"/>
+<itemref idref="298"/>
+<itemref idref="299"/>
+<itemref idref="300"/>
+<itemref idref="301"/>
+<itemref idref="302"/>
+<itemref idref="303"/>
+<itemref idref="304"/>
+<itemref idref="305"/>
+<itemref idref="306"/>
+<itemref idref="307"/>
+<itemref idref="308"/>
+<itemref idref="309"/>
+<itemref idref="310"/>
+<itemref idref="311"/>
+<itemref idref="312"/>
+<itemref idref="313"/>
+<itemref idref="314"/>
+<itemref idref="315"/>
+<itemref idref="316"/>
+<itemref idref="317"/>
+<itemref idref="318"/>
+<itemref idref="319"/>
+<itemref idref="320"/>
+<itemref idref="321"/>
+<itemref idref="322"/>
+<itemref idref="323"/>
+<itemref idref="324"/>
+<itemref idref="325"/>
+<itemref idref="326"/>
+<itemref idref="327"/>
+<itemref idref="328"/>
+<itemref idref="329"/>
+<itemref idref="330"/>
+<itemref idref="331"/>
+<itemref idref="332"/>
+<itemref idref="333"/>
+<itemref idref="334"/>
+<itemref idref="335"/>
+<itemref idref="336"/>
+<itemref idref="337"/>
+<itemref idref="338"/>
+<itemref idref="339"/>
+<itemref idref="340"/>
+<itemref idref="341"/>
+<itemref idref="342"/>
+<itemref idref="343"/>
+<itemref idref="344"/>
+<itemref idref="345"/>
+<itemref idref="346"/>
+<itemref idref="347"/>
+<itemref idref="348"/>
+<itemref idref="349"/>
+<itemref idref="350"/>
+<itemref idref="351"/>
+<itemref idref="352"/>
+<itemref idref="353"/>
+<itemref idref="354"/>
+<itemref idref="355"/>
+<itemref idref="356"/>
+<itemref idref="357"/>
+<itemref idref="358"/>
+<itemref idref="359"/>
+<itemref idref="360"/>
+<itemref idref="361"/>
+<itemref idref="362"/>
+<itemref idref="363"/>
+<itemref idref="364"/>
+<itemref idref="365"/>
+<itemref idref="366"/>
+<itemref idref="367"/>
+<itemref idref="368"/>
+<itemref idref="369"/>
+<itemref idref="370"/>
+<itemref idref="371"/>
+<itemref idref="372"/>
+<itemref idref="373"/>
+<itemref idref="374"/>
+<itemref idref="375"/>
+<itemref idref="376"/>
+<itemref idref="377"/>
+<itemref idref="378"/>
+<itemref idref="379"/>
+<itemref idref="380"/>
+<itemref idref="381"/>
+<itemref idref="382"/>
+<itemref idref="383"/>
+<itemref idref="384"/>
+<itemref idref="385"/>
+<itemref idref="386"/>
+<itemref idref="387"/>
+<itemref idref="afterword"/>
+</spine>
+  <guide>
+    <reference href="cover.jpg" title="Cover" type="cover"/>
+    <reference type="toc" href="toc.html" title="Table of Contents"/>
+  </guide>
+</package>

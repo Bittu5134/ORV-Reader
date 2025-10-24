@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Omniscient Reader's Viewpoint [Side Stories]</dc:title>
+    <dc:creator opf:role="aut">singNshong</dc:creator> 
+    <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
+    <dc:language>en</dc:language>
+    <dc:publisher>ORV-Reader Project</dc:publisher> 
+    <dc:date>10-24-2025</dc:date>
+    <dc:description>Collection of short stories released after the completion of the main novel, and can be read anytime after completing the main story.</dc:description>
+    <meta name="cover" content="cover-img"/>
+    <dc:subject>Korean Novel</dc:subject>
+    <dc:subject>Fantasy</dc:subject>
+    <dc:subject>Webnovel</dc:subject>
+    <dc:subject>Apocalypse</dc:subject>
+    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Side Stories]</meta> 
+    <meta property="file-as" id="author-sort">singNshong</meta>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
+    <item id="cover-img" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="stigma" href="stigma.png" media-type="image/png"/>
+    <item href="intro.xhtml" id="intro" media-type="application/xhtml+xml"/>
+    <item id="afterword" href="afterword.xhtml" media-type="application/xhtml+xml"/>
+<item href="ch_1.xhtml" id="1" media-type="application/xhtml+xml"/>
+<item href="ch_2.xhtml" id="2" media-type="application/xhtml+xml"/>
+<item href="ch_3.xhtml" id="3" media-type="application/xhtml+xml"/>
+<item href="ch_4.xhtml" id="4" media-type="application/xhtml+xml"/>
+</manifest><spine toc="ncx">
+<itemref idref="intro"/><itemref idref="toc"/>
+<itemref idref="1"/>
+<itemref idref="2"/>
+<itemref idref="3"/>
+<itemref idref="4"/>
+<itemref idref="afterword"/>
+</spine>
+  <guide>
+    <reference href="cover.jpg" title="Cover" type="cover"/>
+    <reference type="toc" href="toc.html" title="Table of Contents"/>
+  </guide>
+</package>

@@ -1,0 +1,86 @@
+name: EPUB Generation and Release
+
+# 1. Trigger the workflow manually or on a daily schedule
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build_and_release:
+    # 2. Run on a Windows runner
+    runs-on: windows-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Step to get the current date for the release name/tag
+      - name: Set Release Date
+        id: set_date
+        shell: pwsh
+        run: |
+          $date = Get-Date -Format "yyyy-MM-dd"
+          Write-Output "build_date=$date" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
+
+      # 3. Run EPUB Builders on Windows with UTF-8 encoding
+      - name: Run EPUB Builders
+        env:
+          # This ensures Python uses UTF-8 for I/O operations across all files
+          PYTHONIOENCODING: utf-8
+        shell: pwsh
+        run: |
+          # The shell is set to PowerShell (pwsh) for consistent environment
+          python .\scripts\epub_builders\orv.py
+          python .\scripts\epub_builders\cont.py
+          python .\scripts\epub_builders\side.py
+
+      # 4. Create EPUB Archives from the output folders
+      - name: Create EPUB Archives (Zipping)
+        shell: pwsh
+        run: |
+          # Ensure the output directory for final artifacts exists
+          mkdir -Force .\artifacts
+          
+          # EPUB files are just zipped folders with the .epub extension
+          # 1. Main Story
+          Compress-Archive -Path .\epub\orv\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Main Story].epub" -Force
+          
+          # 2. Sequel
+          Compress-Archive -Path .\epub\cont\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Sequel].epub" -Force
+          
+          # 3. Side Stories
+          Compress-Archive -Path .\epub\side\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Side Stories].epub" -Force
+
+      # 5. Upload the generated EPUBs as workflow artifacts
+      - name: Upload EPUB Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: orv-epubs-build-${{ steps.set_date.outputs.build_date }}
+          path: .\artifacts\*.epub
+          retention-days: 2 # Keep artifacts for 2 days
+
+      # 6. Create a GitHub Release and attach the EPUB files as binaries
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        if: success() # Only create the release if all previous steps succeeded
+        with:
+          # Use the date and run number for a unique tag
+          tag_name: EPUB-BUILD-${{ steps.set_date.outputs.build_date }}-${{ github.run_number }}
+          name: Daily EPUB Release ${{ steps.set_date.outputs.build_date }}
+          body: |
+            Automated EPUB build of Omniscient Reader's Viewpoint, generated on ${{ steps.set_date.outputs.build_date }}.
+            
+            **Included Files:**
+            - Main Story
+            - Sequel
+            - Side Stories
+          # Attach all files from the artifacts directory to the release
+          files: .\artifacts\*.epub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
