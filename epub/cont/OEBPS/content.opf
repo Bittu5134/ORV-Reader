@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Omniscient Reader's Viewpoint [Main Story]</dc:title>
+    <dc:title>Omniscient Reader's Viewpoint [Sequel]</dc:title>
     <dc:creator opf:role="aut">singNshong</dc:creator> 
     <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
     <dc:language>en</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
     <dc:date>10-24-2025</dc:date>
-    <dc:description>Only I know the end of this world. One day our MC finds himself stuck in the world of his favorite webnovel. What does he do to survive? It is a world struck by catastrophe and danger all around. His edge? He knows the plot of the story to end. Because he was the sole reader that stuck with it. Read his story to see how he survives!</dc:description>
+    <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
     <dc:subject>Fantasy</dc:subject>
     <dc:subject>Webnovel</dc:subject>
     <dc:subject>Apocalypse</dc:subject>
-    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Main Story]</meta> 
+    <meta property="file-as" id="title-sort">Omniscient Reader's Viewpoint [Sequel]</meta> 
     <meta property="file-as" id="author-sort">singNshong</meta>
   </metadata>
   <manifest>
@@ -410,170 +410,6 @@
 <item href="ch_385.xhtml" id="385" media-type="application/xhtml+xml"/>
 <item href="ch_386.xhtml" id="386" media-type="application/xhtml+xml"/>
 <item href="ch_387.xhtml" id="387" media-type="application/xhtml+xml"/>
-<item href="ch_388.xhtml" id="388" media-type="application/xhtml+xml"/>
-<item href="ch_389.xhtml" id="389" media-type="application/xhtml+xml"/>
-<item href="ch_390.xhtml" id="390" media-type="application/xhtml+xml"/>
-<item href="ch_391.xhtml" id="391" media-type="application/xhtml+xml"/>
-<item href="ch_392.xhtml" id="392" media-type="application/xhtml+xml"/>
-<item href="ch_393.xhtml" id="393" media-type="application/xhtml+xml"/>
-<item href="ch_394.xhtml" id="394" media-type="application/xhtml+xml"/>
-<item href="ch_395.xhtml" id="395" media-type="application/xhtml+xml"/>
-<item href="ch_396.xhtml" id="396" media-type="application/xhtml+xml"/>
-<item href="ch_397.xhtml" id="397" media-type="application/xhtml+xml"/>
-<item href="ch_398.xhtml" id="398" media-type="application/xhtml+xml"/>
-<item href="ch_399.xhtml" id="399" media-type="application/xhtml+xml"/>
-<item href="ch_400.xhtml" id="400" media-type="application/xhtml+xml"/>
-<item href="ch_401.xhtml" id="401" media-type="application/xhtml+xml"/>
-<item href="ch_402.xhtml" id="402" media-type="application/xhtml+xml"/>
-<item href="ch_403.xhtml" id="403" media-type="application/xhtml+xml"/>
-<item href="ch_404.xhtml" id="404" media-type="application/xhtml+xml"/>
-<item href="ch_405.xhtml" id="405" media-type="application/xhtml+xml"/>
-<item href="ch_406.xhtml" id="406" media-type="application/xhtml+xml"/>
-<item href="ch_407.xhtml" id="407" media-type="application/xhtml+xml"/>
-<item href="ch_408.xhtml" id="408" media-type="application/xhtml+xml"/>
-<item href="ch_409.xhtml" id="409" media-type="application/xhtml+xml"/>
-<item href="ch_410.xhtml" id="410" media-type="application/xhtml+xml"/>
-<item href="ch_411.xhtml" id="411" media-type="application/xhtml+xml"/>
-<item href="ch_412.xhtml" id="412" media-type="application/xhtml+xml"/>
-<item href="ch_413.xhtml" id="413" media-type="application/xhtml+xml"/>
-<item href="ch_414.xhtml" id="414" media-type="application/xhtml+xml"/>
-<item href="ch_415.xhtml" id="415" media-type="application/xhtml+xml"/>
-<item href="ch_416.xhtml" id="416" media-type="application/xhtml+xml"/>
-<item href="ch_417.xhtml" id="417" media-type="application/xhtml+xml"/>
-<item href="ch_418.xhtml" id="418" media-type="application/xhtml+xml"/>
-<item href="ch_419.xhtml" id="419" media-type="application/xhtml+xml"/>
-<item href="ch_420.xhtml" id="420" media-type="application/xhtml+xml"/>
-<item href="ch_421.xhtml" id="421" media-type="application/xhtml+xml"/>
-<item href="ch_422.xhtml" id="422" media-type="application/xhtml+xml"/>
-<item href="ch_423.xhtml" id="423" media-type="application/xhtml+xml"/>
-<item href="ch_424.xhtml" id="424" media-type="application/xhtml+xml"/>
-<item href="ch_425.xhtml" id="425" media-type="application/xhtml+xml"/>
-<item href="ch_426.xhtml" id="426" media-type="application/xhtml+xml"/>
-<item href="ch_427.xhtml" id="427" media-type="application/xhtml+xml"/>
-<item href="ch_428.xhtml" id="428" media-type="application/xhtml+xml"/>
-<item href="ch_429.xhtml" id="429" media-type="application/xhtml+xml"/>
-<item href="ch_430.xhtml" id="430" media-type="application/xhtml+xml"/>
-<item href="ch_431.xhtml" id="431" media-type="application/xhtml+xml"/>
-<item href="ch_432.xhtml" id="432" media-type="application/xhtml+xml"/>
-<item href="ch_433.xhtml" id="433" media-type="application/xhtml+xml"/>
-<item href="ch_434.xhtml" id="434" media-type="application/xhtml+xml"/>
-<item href="ch_435.xhtml" id="435" media-type="application/xhtml+xml"/>
-<item href="ch_436.xhtml" id="436" media-type="application/xhtml+xml"/>
-<item href="ch_437.xhtml" id="437" media-type="application/xhtml+xml"/>
-<item href="ch_438.xhtml" id="438" media-type="application/xhtml+xml"/>
-<item href="ch_439.xhtml" id="439" media-type="application/xhtml+xml"/>
-<item href="ch_440.xhtml" id="440" media-type="application/xhtml+xml"/>
-<item href="ch_441.xhtml" id="441" media-type="application/xhtml+xml"/>
-<item href="ch_442.xhtml" id="442" media-type="application/xhtml+xml"/>
-<item href="ch_443.xhtml" id="443" media-type="application/xhtml+xml"/>
-<item href="ch_444.xhtml" id="444" media-type="application/xhtml+xml"/>
-<item href="ch_445.xhtml" id="445" media-type="application/xhtml+xml"/>
-<item href="ch_446.xhtml" id="446" media-type="application/xhtml+xml"/>
-<item href="ch_447.xhtml" id="447" media-type="application/xhtml+xml"/>
-<item href="ch_448.xhtml" id="448" media-type="application/xhtml+xml"/>
-<item href="ch_449.xhtml" id="449" media-type="application/xhtml+xml"/>
-<item href="ch_450.xhtml" id="450" media-type="application/xhtml+xml"/>
-<item href="ch_451.xhtml" id="451" media-type="application/xhtml+xml"/>
-<item href="ch_452.xhtml" id="452" media-type="application/xhtml+xml"/>
-<item href="ch_453.xhtml" id="453" media-type="application/xhtml+xml"/>
-<item href="ch_454.xhtml" id="454" media-type="application/xhtml+xml"/>
-<item href="ch_455.xhtml" id="455" media-type="application/xhtml+xml"/>
-<item href="ch_456.xhtml" id="456" media-type="application/xhtml+xml"/>
-<item href="ch_457.xhtml" id="457" media-type="application/xhtml+xml"/>
-<item href="ch_458.xhtml" id="458" media-type="application/xhtml+xml"/>
-<item href="ch_459.xhtml" id="459" media-type="application/xhtml+xml"/>
-<item href="ch_460.xhtml" id="460" media-type="application/xhtml+xml"/>
-<item href="ch_461.xhtml" id="461" media-type="application/xhtml+xml"/>
-<item href="ch_462.xhtml" id="462" media-type="application/xhtml+xml"/>
-<item href="ch_463.xhtml" id="463" media-type="application/xhtml+xml"/>
-<item href="ch_464.xhtml" id="464" media-type="application/xhtml+xml"/>
-<item href="ch_465.xhtml" id="465" media-type="application/xhtml+xml"/>
-<item href="ch_466.xhtml" id="466" media-type="application/xhtml+xml"/>
-<item href="ch_467.xhtml" id="467" media-type="application/xhtml+xml"/>
-<item href="ch_468.xhtml" id="468" media-type="application/xhtml+xml"/>
-<item href="ch_469.xhtml" id="469" media-type="application/xhtml+xml"/>
-<item href="ch_470.xhtml" id="470" media-type="application/xhtml+xml"/>
-<item href="ch_471.xhtml" id="471" media-type="application/xhtml+xml"/>
-<item href="ch_472.xhtml" id="472" media-type="application/xhtml+xml"/>
-<item href="ch_473.xhtml" id="473" media-type="application/xhtml+xml"/>
-<item href="ch_474.xhtml" id="474" media-type="application/xhtml+xml"/>
-<item href="ch_475.xhtml" id="475" media-type="application/xhtml+xml"/>
-<item href="ch_476.xhtml" id="476" media-type="application/xhtml+xml"/>
-<item href="ch_477.xhtml" id="477" media-type="application/xhtml+xml"/>
-<item href="ch_478.xhtml" id="478" media-type="application/xhtml+xml"/>
-<item href="ch_479.xhtml" id="479" media-type="application/xhtml+xml"/>
-<item href="ch_480.xhtml" id="480" media-type="application/xhtml+xml"/>
-<item href="ch_481.xhtml" id="481" media-type="application/xhtml+xml"/>
-<item href="ch_482.xhtml" id="482" media-type="application/xhtml+xml"/>
-<item href="ch_483.xhtml" id="483" media-type="application/xhtml+xml"/>
-<item href="ch_484.xhtml" id="484" media-type="application/xhtml+xml"/>
-<item href="ch_485.xhtml" id="485" media-type="application/xhtml+xml"/>
-<item href="ch_486.xhtml" id="486" media-type="application/xhtml+xml"/>
-<item href="ch_487.xhtml" id="487" media-type="application/xhtml+xml"/>
-<item href="ch_488.xhtml" id="488" media-type="application/xhtml+xml"/>
-<item href="ch_489.xhtml" id="489" media-type="application/xhtml+xml"/>
-<item href="ch_490.xhtml" id="490" media-type="application/xhtml+xml"/>
-<item href="ch_491.xhtml" id="491" media-type="application/xhtml+xml"/>
-<item href="ch_492.xhtml" id="492" media-type="application/xhtml+xml"/>
-<item href="ch_493.xhtml" id="493" media-type="application/xhtml+xml"/>
-<item href="ch_494.xhtml" id="494" media-type="application/xhtml+xml"/>
-<item href="ch_495.xhtml" id="495" media-type="application/xhtml+xml"/>
-<item href="ch_496.xhtml" id="496" media-type="application/xhtml+xml"/>
-<item href="ch_497.xhtml" id="497" media-type="application/xhtml+xml"/>
-<item href="ch_498.xhtml" id="498" media-type="application/xhtml+xml"/>
-<item href="ch_499.xhtml" id="499" media-type="application/xhtml+xml"/>
-<item href="ch_500.xhtml" id="500" media-type="application/xhtml+xml"/>
-<item href="ch_501.xhtml" id="501" media-type="application/xhtml+xml"/>
-<item href="ch_502.xhtml" id="502" media-type="application/xhtml+xml"/>
-<item href="ch_503.xhtml" id="503" media-type="application/xhtml+xml"/>
-<item href="ch_504.xhtml" id="504" media-type="application/xhtml+xml"/>
-<item href="ch_505.xhtml" id="505" media-type="application/xhtml+xml"/>
-<item href="ch_506.xhtml" id="506" media-type="application/xhtml+xml"/>
-<item href="ch_507.xhtml" id="507" media-type="application/xhtml+xml"/>
-<item href="ch_508.xhtml" id="508" media-type="application/xhtml+xml"/>
-<item href="ch_509.xhtml" id="509" media-type="application/xhtml+xml"/>
-<item href="ch_510.xhtml" id="510" media-type="application/xhtml+xml"/>
-<item href="ch_511.xhtml" id="511" media-type="application/xhtml+xml"/>
-<item href="ch_512.xhtml" id="512" media-type="application/xhtml+xml"/>
-<item href="ch_513.xhtml" id="513" media-type="application/xhtml+xml"/>
-<item href="ch_514.xhtml" id="514" media-type="application/xhtml+xml"/>
-<item href="ch_515.xhtml" id="515" media-type="application/xhtml+xml"/>
-<item href="ch_516.xhtml" id="516" media-type="application/xhtml+xml"/>
-<item href="ch_517.xhtml" id="517" media-type="application/xhtml+xml"/>
-<item href="ch_518.xhtml" id="518" media-type="application/xhtml+xml"/>
-<item href="ch_519.xhtml" id="519" media-type="application/xhtml+xml"/>
-<item href="ch_520.xhtml" id="520" media-type="application/xhtml+xml"/>
-<item href="ch_521.xhtml" id="521" media-type="application/xhtml+xml"/>
-<item href="ch_522.xhtml" id="522" media-type="application/xhtml+xml"/>
-<item href="ch_523.xhtml" id="523" media-type="application/xhtml+xml"/>
-<item href="ch_524.xhtml" id="524" media-type="application/xhtml+xml"/>
-<item href="ch_525.xhtml" id="525" media-type="application/xhtml+xml"/>
-<item href="ch_526.xhtml" id="526" media-type="application/xhtml+xml"/>
-<item href="ch_527.xhtml" id="527" media-type="application/xhtml+xml"/>
-<item href="ch_528.xhtml" id="528" media-type="application/xhtml+xml"/>
-<item href="ch_529.xhtml" id="529" media-type="application/xhtml+xml"/>
-<item href="ch_530.xhtml" id="530" media-type="application/xhtml+xml"/>
-<item href="ch_531.xhtml" id="531" media-type="application/xhtml+xml"/>
-<item href="ch_532.xhtml" id="532" media-type="application/xhtml+xml"/>
-<item href="ch_533.xhtml" id="533" media-type="application/xhtml+xml"/>
-<item href="ch_534.xhtml" id="534" media-type="application/xhtml+xml"/>
-<item href="ch_535.xhtml" id="535" media-type="application/xhtml+xml"/>
-<item href="ch_536.xhtml" id="536" media-type="application/xhtml+xml"/>
-<item href="ch_537.xhtml" id="537" media-type="application/xhtml+xml"/>
-<item href="ch_538.xhtml" id="538" media-type="application/xhtml+xml"/>
-<item href="ch_539.xhtml" id="539" media-type="application/xhtml+xml"/>
-<item href="ch_540.xhtml" id="540" media-type="application/xhtml+xml"/>
-<item href="ch_541.xhtml" id="541" media-type="application/xhtml+xml"/>
-<item href="ch_542.xhtml" id="542" media-type="application/xhtml+xml"/>
-<item href="ch_543.xhtml" id="543" media-type="application/xhtml+xml"/>
-<item href="ch_544.xhtml" id="544" media-type="application/xhtml+xml"/>
-<item href="ch_545.xhtml" id="545" media-type="application/xhtml+xml"/>
-<item href="ch_546.xhtml" id="546" media-type="application/xhtml+xml"/>
-<item href="ch_547.xhtml" id="547" media-type="application/xhtml+xml"/>
-<item href="ch_548.xhtml" id="548" media-type="application/xhtml+xml"/>
-<item href="ch_549.xhtml" id="549" media-type="application/xhtml+xml"/>
-<item href="ch_550.xhtml" id="550" media-type="application/xhtml+xml"/>
-<item href="ch_551.xhtml" id="551" media-type="application/xhtml+xml"/>
 <item id="img_0" href="002%20-%20In%20short%2C%20my%20life%20was%20like%20this%20Kim%20Dokja%2C%2028%20years%20old%2C%20single.jpg" media-type="image/jpeg"/>
 <item id="img_1" href="002%20-%20Yoo%20Sangah%20smiled%20brightly.jpg" media-type="image/jpeg"/>
 <item id="img_2" href="006%20-%20I%20wiped%20at%20the%20blood%20on%20my%20cheeks.%20The%20bloodwasn%27t%20erased.%20It%20turned%20out%20to%20be%20blood%20on%20the%20window.jpg" media-type="image/jpeg"/>
@@ -613,162 +449,168 @@
 <item id="img_36" href="190%20-%20Are%20you%20the%20Demon%20King%20of%20Salvation.jpg" media-type="image/jpeg"/>
 <item id="img_37" href="196%20-%20Who%20would%20see%20this%20guy%27s%20information%20and%20think%20he%20was%20the%20second%20protagonist%20of%20Ways%20of%20Survival.jpg" media-type="image/jpeg"/>
 <item id="img_38" href="208%20-%20Even%20so%2C%20Dokja-ssi%20is%20still%20Dokja-ssi.jpg" media-type="image/jpeg"/>
-<item id="img_39" href="211%20-%20The%20Star%20Stream%20is%20watching%20the%20birth%20of%20a%20new%20streamer.jpg" media-type="image/jpeg"/>
-<item id="img_40" href="212%20-%20Yoo%20Joonghyuk%20frowned%20at%20the%20sight%20and%20asked.jpg" media-type="image/jpeg"/>
-<item id="img_41" href="223%20-%20Asmodeus%27s%20small%20fingers%20snapped.jpg" media-type="image/jpeg"/>
-<item id="img_42" href="226%20-%20As%20I%20listened%2C%20I%20felt%20somewhat%20sweet%2C%20sad%20and%20nostalgic.jpg" media-type="image/jpeg"/>
-<item id="img_43" href="229%20-%20I%20smiled%20and%20replied.jpg" media-type="image/jpeg"/>
-<item id="img_44" href="231%20-%20Yoo%20Joonghyuk%20ate%20the%20dumpling%20with%20an%20unapologetic%20face%20and%20continued%20talking.jpg" media-type="image/jpeg"/>
-<item id="img_45" href="231%20-%20Yoo%20Joonghyuk%27s%20complexion%20changed%20at%20my%20words.jpg" media-type="image/jpeg"/>
-<item id="img_46" href="232%20-%20Yoo%20Joonghyuk%27s%20feet%20only%20hit%20empty%20air.jpg" media-type="image/jpeg"/>
-<item id="img_47" href="235%20-%20You%20can%20never%20tell%20that%20guy%20out%20there.jpg" media-type="image/jpeg"/>
-<item id="img_48" href="239%20-%20Anna%20Croft%20came%20to%20this%20place%20knowing%20it.jpg" media-type="image/jpeg"/>
-<item id="img_49" href="245%20-%20The%20screen%20was%20completely%20obscured%20by%20the%20more%20than%20100%20constellations%20gathered%20in%20front%20of%20it.jpg" media-type="image/jpeg"/>
-<item id="img_50" href="247%20-%20It%20had%20been%20a%20week%20since%20I%20went%20to%20the%20Gourmet%20Association.jpg" media-type="image/jpeg"/>
-<item id="img_51" href="247%20-%20Thus%2C%20I%20was%20stressed%20because%20I%20was%20left%20alone%20with%20Yoo%20Joonghyuk%20in%20the%20training%20field.jpg" media-type="image/jpeg"/>
-<item id="img_52" href="248%20-%20The%20Breaking%20the%20Sky%20Sword%20Saint%20stared%20up%20at%20the%20raging%20sky%20that%20had%20become%20dark.jpg" media-type="image/jpeg"/>
-<item id="img_53" href="262%20-%20The%20Ruler%20of%20Amusement.%20It%20is%20that.jpg" media-type="image/jpeg"/>
-<item id="img_54" href="262%20-%20While%20this%20game%20was%20in%20progress%2C%20Yoo%20Joonghyuk%20wouldn%27t%20be%20penalized%20for%20using%20any%20types%20of%20weapons.jpg" media-type="image/jpeg"/>
-<item id="img_55" href="267%20-%20Yoo%20Joonghyuk%27s%20gaze%20stayed%20on%20Kim%20Dokja%27s%20face%20for%20a%20moment.jpg" media-type="image/jpeg"/>
-<item id="img_56" href="267%20-%20You%20will%20die%20forever.jpg" media-type="image/jpeg"/>
-<item id="img_57" href="270%20-%20Han%20Myungoh%20was%20running%20while%20carrying%20him.jpg" media-type="image/jpeg"/>
-<item id="img_58" href="271%20-%20The%20constellation%20%27Demon-like%20Judge%20of%20Fire%27%20has%20appeared%20in%20the%2073rd%20Demon%20Realm.jpg" media-type="image/jpeg"/>
-<item id="img_59" href="273%20-%20Cheok%20Jungyeong%20shot%20forward%20towards%20the%20sky.%20Yoo%20Joonghyuk%20and%20I%20chased%20after%20him.jpg" media-type="image/jpeg"/>
-<item id="img_60" href="275%20-%20The%20face%20of%20a%20little%20boy%20with%20red%20eyes%20underneath%20black%20hair%20flashed.jpg" media-type="image/jpeg"/>
-<item id="img_61" href="282%20-%20I%20waited%20for%20you%2C%20the%20one%20pursuing%20the%20%27final%20chapter%27.jpg" media-type="image/jpeg"/>
-<item id="img_62" href="284%20-%20I%20was%20suffocated%20as%20he%20gripped%20my%20neck.jpg" media-type="image/jpeg"/>
-<item id="img_63" href="287%20-%20I%20released%20Yoo%20Joonghyuk%27s%20hands%20and%20told%20him.jpg" media-type="image/jpeg"/>
-<item id="img_64" href="290%20-%20I%20looked%20at%20the%20woman%20with%20a%20bob%20cut%20and%20asked%2C%20Are%20you%20Han%20Sooyoung%27s%20avatar.jpg" media-type="image/jpeg"/>
-<item id="img_65" href="291%20-%20However%2C%20Yoo%20Joonghyuk%20didn%27t%20have%20a%20proper%20consciousness%20and%20didn%27t%20know%20what%20this%20feeling%20was.jpg" media-type="image/jpeg"/>
-<item id="img_66" href="293%20-%20Han%20Sooyoung%20looked%20at%20such%20a%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
-<item id="img_67" href="297%20-%20The%20white%20coat%20fitted%20to%20his%20body%20like%20it%20was%20made%20for%20him%20from%20the%20beginning.jpg" media-type="image/jpeg"/>
-<item id="img_68" href="301%20-%20Lee%20Jihye%20stared%20at%20me.%20Kid%2C%20I%20will%20kill%20that%20squid.jpg" media-type="image/jpeg"/>
-<item id="img_69" href="301%20-%20She%20is%20drinking%20coffee%20in%20the%20break%20room.jpg" media-type="image/jpeg"/>
-<item id="img_70" href="308%20-%20A%20girl%20sucking%20on%20candy%20suddenly%20pointed%20at%20me%20and%20declared%2C%20Squid.jpg" media-type="image/jpeg"/>
-<item id="img_71" href="312%20-%20Jung%20Heewon%20stepped%20through%20the%20dirt%20and%20pointed%20the%20Sword%20of%20Judgment%20at%20Han%20Sooyoung.jpg" media-type="image/jpeg"/>
-<item id="img_72" href="315%20-%20She%20was%20different%20from%20when%20I%20had%20seen%20her%20at%20the%20Constellation%20Banquet.jpg" media-type="image/jpeg"/>
-<item id="img_73" href="320%20-%20The%20night%20of%20the%20Underworld%20looked%20down%20at%20me.jpg" media-type="image/jpeg"/>
-<item id="img_74" href="326%20-%20Just%20a%20moment.%20Please%20lend%20me%20your%20strength.jpg" media-type="image/jpeg"/>
-<item id="img_75" href="330%20-%20Pluto%20appeared%20in%20the%20sky%20and%20blocked%20Heracles%27%20fist.jpg" media-type="image/jpeg"/>
-<item id="img_76" href="331%20-%20Thus%2C%20this%20one%20chance%20couldn%27t%20fail.%20We%20threw%20the%20spear%20at%20the%20same%20time.jpg" media-type="image/jpeg"/>
-<item id="img_77" href="337%20-%20It%20had%20a%20lemon%20flavour.%20I%20ate%20the%20candy%20and%20Han%20Sooyoung%20looked%20at%20me%20quietly.jpg" media-type="image/jpeg"/>
-<item id="img_78" href="338%20-%20%27Yoo%20Joonghyuk%27%20of%20this%20round%20is%20passed%20onto%20others.jpg" media-type="image/jpeg"/>
-<item id="img_79" href="342%20-%20There%20are%20some%20things%20in%20the%20world%20you%20don%27t%20know%20about%2C%20you%20idiot.jpg" media-type="image/jpeg"/>
-<item id="img_80" href="349%20-%20Once%20the%20preparations%20were%20over%2C%20I%20walked%20over%20the%20opening%20bridge%20with%20my%20companions.jpg" media-type="image/jpeg"/>
-<item id="img_81" href="355%20-%20In%20that%20story%2C%20I%20met%20them.jpg" media-type="image/jpeg"/>
-<item id="img_82" href="367%20-%20As%20the%20ginormous%20storm%20of%20magical%20energy%20raged%20around%20me.jpg" media-type="image/jpeg"/>
-<item id="img_83" href="367%20-%20Because%E2%80%A6%20Anna%20Croft%20had%20cut%20her%20palm%20open%20to%20feed%20me%20her%20own%20blood.jpg" media-type="image/jpeg"/>
-<item id="img_84" href="369%20-%20Looks%20like%20this%20regression%20will%20end%20up%20as%20a%20failure%20if%20this%20keeps%20up%2C%20huh.jpg" media-type="image/jpeg"/>
-<item id="img_85" href="371%20-%20Even%20still%2C%20wouldn%27t%20we%20have%20tried%20to%20call%20each%20other%20some%20times.jpg" media-type="image/jpeg"/>
-<item id="img_86" href="371%20-%20It%20was%20then%2C%20a%20bright%20light%20from%20a%20lantern%20lit%20up%20in%20front%20of%20my%20eyes.jpg" media-type="image/jpeg"/>
-<item id="img_87" href="372%20-%20Hey%2C%20why%20are%20you%20crying%20like%20that.jpg" media-type="image/jpeg"/>
-<item id="img_88" href="375%20-%20I%20stared%20at%20the%20face%20of%20this%20king.jpg" media-type="image/jpeg"/>
-<item id="img_89" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%282%29.jpg" media-type="image/jpeg"/>
-<item id="img_90" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%283%29.jpg" media-type="image/jpeg"/>
-<item id="img_91" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
-<item id="img_92" href="380%20-%20Han%20Sooyoung%20glanced%20at%20the%20corner%20of%20the%20room%20and%20spoke%20up.jpg" media-type="image/jpeg"/>
-<item id="img_93" href="389%20-%20He%20had%20always%20been%20looking%20at%20me.jpg" media-type="image/jpeg"/>
-<item id="img_94" href="390%20-%20He%20pointed%20his%20weapon%20at%20her%20as%20she%20remained%20composed%20in%20her%20spot.jpg" media-type="image/jpeg"/>
-<item id="img_95" href="391%20-%20Even%20as%20the%20arrows%20pierced%20his%20side%2C%20shoulders%2C%20and%20thighs.jpg" media-type="image/jpeg"/>
-<item id="img_96" href="396%20-%20And%20then%2C%20the%20Ring%20of%20Chaos%20materialised%20within%20Jung%20Heewon%27s%20eyes%20as%20she%20took%20in%20the%20sight%20of%20the%20Demon%20Kings.jpg" media-type="image/jpeg"/>
-<item id="img_97" href="397%20-%20She%20plopped%20down%20to%20the%20ground%20as%20the%20ripples%20from%20the%20explosion%20swallowed%20up%20the%20whole%20battlefield.jpg" media-type="image/jpeg"/>
-<item id="img_98" href="397%20-%20Sparks%20danced%20wildly%20around%20her%20figure%20as%20she%20gripped%20the%20%5BSword%20of%20Judgement%5D.jpg" media-type="image/jpeg"/>
-<item id="img_99" href="403%20-%20Han%20Sooyoung%20and%20Yoo%20Joonghyuk%2C%20two%20very%20different%20people.jpg" media-type="image/jpeg"/>
-<item id="img_100" href="405%20-%20It%20literally%20transformed%20into%20a%2015-year-old%20boy%20in%20an%20instant%20and%20through%20the%20Dragon%20Voice%20magic.jpg" media-type="image/jpeg"/>
-<item id="img_101" href="407%20-%20And%20the%20existence%20that%20appeared%20now%20was%20a%20grand%20being%20who%20could%20handle%20such%20Probability%20all%20by%20himself.jpg" media-type="image/jpeg"/>
-<item id="img_102" href="410%20-%20Jang%20Hayoung%20extended%20her%20hand%20out%20and%20the%20world%27s%20heaviest%20staff%20found%20itself%20in%20her%20grip%20in%20the%20next%20moment.jpg" media-type="image/jpeg"/>
-<item id="img_103" href="414%20-%20However%2C%20his%20sword%20came%20to%20a%20dead%20stop%20after%20a%20loud%2C%20sharp%20metallic%20clang%20resounded%20out.jpg" media-type="image/jpeg"/>
-<item id="img_104" href="414%20-%20You%20should%20know%20very%20well%20that%20I%20hate%20that%20question.jpg" media-type="image/jpeg"/>
-<item id="img_105" href="416%20-%20The%20being%20I%20thought%20I%27d%20not%20get%20to%20meet%20again%20was%20sitting%20right%20on%20that%20throne.jpg" media-type="image/jpeg"/>
-<item id="img_106" href="417%20-%20I%27m%20merely%20treating%20you%20the%20way%20that%20fits%20with%20your%20choice%20to%20appear%20as%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
-<item id="img_107" href="429%20-%20Han%20Sooyoung%20looked%20at%20the%20message%20floating%20up%20before%20her%20eyes%20and%20scrolled%20to%20the%20next%20page.jpg" media-type="image/jpeg"/>
-<item id="img_108" href="429%20-%20That%20I%20wouldn%27t%20have%20minded%20this%20story%20going%20on%20for%20a%20little%20while%20longer.jpg" media-type="image/jpeg"/>
-<item id="img_109" href="432%20-%20Lee%20Jihye%2C%20wearing%20a%20T-shirt%20with%20a%20large%20butterfly%20printed%20on%20it%20and%20chewing%20on%20bubblegum.jpg" media-type="image/jpeg"/>
-<item id="img_110" href="437%20-%20I%20placed%20my%20hand%20on%20top%20of%20his%20head%20first.jpg" media-type="image/jpeg"/>
-<item id="img_111" href="442%20-%20The%20spot%20where%20Kim%20Dokja%20had%20been%20standing%20only%20until%20a%20moment%20ago%20was%20now%20occupied%20by%20a%20tall%20man.jpg" media-type="image/jpeg"/>
-<item id="img_112" href="444%20-%20Confronted%20by%20the%20unfathomable%20life%20lived%20by%20one%20individual%2C%20the%20lives%20of%20his%20companions%20all%20crumbled%20away.jpg" media-type="image/jpeg"/>
-<item id="img_113" href="444%20-%20The%20loneliest%20king%20in%20this%20universe%2C%20the%20white%20coat-wearing%20Yoo%20Joonghyuk%20from%20the%201863rd%20turn%20now%20stood%20there.jpg" media-type="image/jpeg"/>
-<item id="img_114" href="455%20-%20Han%20Sooyoung%20then%20began%20muttering%20in%20a%20reverential%20voice.jpg" media-type="image/jpeg"/>
-<item id="img_115" href="458%20-%20These%20two%20palms%20may%20have%20overlapped%20after%20transcending%20time%20and%20space.jpg" media-type="image/jpeg"/>
-<item id="img_116" href="461%20-%20I%20looked%20back%20and%20sure%20enough%2C%20Yoo%20Joonghyuk%20and%20his%20fox%20ears%20were%20standing%20there.jpg" media-type="image/jpeg"/>
-<item id="img_117" href="462%20-%20Lee%20Hyunsung%21%20The%20order%20of%20your%20exercise%20is%20wrong%21.jpg" media-type="image/jpeg"/>
-<item id="img_118" href="463%20-%20Uriel%20dashed%20towards%20the%20figure%20of%20the%20Abyssal%20Black%20Flame%20Dragon%20and%20performed%20a%20head-lock.jpg" media-type="image/jpeg"/>
-<item id="img_119" href="466%20-%20Uriel%2C%20Black%20Flame%20Dragon%2C%20and%20the%20Great%20Sage%2C%20Heaven%27s%20Equal.jpg" media-type="image/jpeg"/>
-<item id="img_120" href="470%20-%20I%20wish%20to%20become%20someone%20like%20him.jpg" media-type="image/jpeg"/>
-<item id="img_121" href="470%20-%20It%20was%20the%20Outer%20God%2C%20the%20%27Master%20of%20the%20Sunken%20Island%27.jpg" media-type="image/jpeg"/>
-<item id="img_122" href="471%20-%20On%20top%20of%20this%20wall%2C%20the%20one-eyed%20Yoo%20Joonghyuk%20and%20his%20lone%20arm%20were%20staring%20at%20the%20battlefield.jpg" media-type="image/jpeg"/>
-<item id="img_123" href="477%20-%20The%20golden-hued%20Status%20settled%20on%20top%20of%20my%20coat.jpg" media-type="image/jpeg"/>
-<item id="img_124" href="479%20-%20Cheongil%20High%20School%2C%20was%20now%20leaking%20out%20from%20its%20hidden%20spot%20beneath%20his%20mask.jpg" media-type="image/jpeg"/>
-<item id="img_125" href="479%20-%20However%2C%20the%20999th%20turn%27s%20Kim%20Namwoon%20remained%20on%20his%20knees.jpg" media-type="image/jpeg"/>
-<item id="img_126" href="482%20-%20About%20Earth%27s%20saviour%2C%20the%20%27Demon%20King%20of%20Salvation%27.jpg" media-type="image/jpeg"/>
-<item id="img_127" href="482%20-%20I%20have%20no%20thoughts%20of%20saving%20you.jpg" media-type="image/jpeg"/>
-<item id="img_128" href="484%20-%20Jung%20Heewon%20watched%20that%20for%20a%20long%20time%20before%20placing%20her%20hand%20on%20the%20panel.jpg" media-type="image/jpeg"/>
-<item id="img_129" href="484%20-%20Supreme%20King%20Yoo%20Joonghyuk%2C%20declares%20his%20desperate%20resistance.jpg" media-type="image/jpeg"/>
-<item id="img_130" href="488%20-%20She%20didn%27t%20want%20to%20make%20that%20kind%20of%20a%20face.%20She%20didn%27t%20want%20to%20look%20at%20Kim%20Dokja%20with%20that%20sort%20of%20eyes.jpg" media-type="image/jpeg"/>
-<item id="img_131" href="492%20-%20And%20Kim%20Dokja%20was%20standing%20there.jpg" media-type="image/jpeg"/>
-<item id="img_132" href="500%20-%20He%20was%20massacring%20Constellations%20with%20a%20great%20bow.jpg" media-type="image/jpeg"/>
-<item id="img_133" href="501%20-%20Don%27t%20worry%2C%20Heewon-ah.%20I%27ll%20make%20it%20happen%2C%20no%20matter%20what.jpg" media-type="image/jpeg"/>
-<item id="img_134" href="503%20-%20Torn%20white%20feathers%20were%20cascading%20downwards%20one%20by%20one.jpg" media-type="image/jpeg"/>
-<item id="img_135" href="507%20-%20The%20broken%20chains%20clanged%20in%20the%20empty%20air.jpg" media-type="image/jpeg"/>
-<item id="img_136" href="511%20-%20Stories%20clung%20onto%20me%20and%20stabbed%20into%20my%20hand%20like%20sharp%20blades.jpg" media-type="image/jpeg"/>
-<item id="img_137" href="513%20-%20And%20the%20boy%20slowly%20raised%20his%20head%20to%20look%20back%20at%20me.jpg" media-type="image/jpeg"/>
-<item id="img_138" href="514%20-%20I%20stared%20helplessly%20at%20the%20flying%20blade%20piece.jpg" media-type="image/jpeg"/>
-<item id="img_139" href="515%20-%20My%20own%20tragedy%20couldn%27t%20even%20compare%20to%20their%20pain.jpg" media-type="image/jpeg"/>
-<item id="img_140" href="516%20-%20The%20only%20person%20who%20didn%27t%20was%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
-<item id="img_141" href="517%20-%20My%20vision%20darkened%2C%20then%20the%20sights%20of%20the%20world-line%20spread%20out%20like%20a%20kaleidoscope.jpg" media-type="image/jpeg"/>
-<item id="img_142" href="518%20-%20And%20%27hell%27%20began%20from%20then.jpg" media-type="image/jpeg"/>
-<item id="img_143" href="518%20-%20Incarnation%20%27Yoo%20Joonghyuk%27s%27%20attribute%2C%20%27Pro%20Gamer%27%20is%20awakening.jpg" media-type="image/jpeg"/>
-<item id="img_144" href="519%20-%20By%20the%20way%20ahjussi%2C%20you%20think%20Santa%20Claus%20is%20a%20Constellation.jpg" media-type="image/jpeg"/>
-<item id="img_145" href="519%20-%20Kim%20Dokja%20felt%20a%20certain%20corner%20of%20his%20heart%20ache%20for%20some%20reason.jpg" media-type="image/jpeg"/>
-<item id="img_146" href="519%20-%20You%2C%20just%20who%20the%20hell%20are%20you.jpg" media-type="image/jpeg"/>
-<item id="img_147" href="522%20-%20The%20running%20man%20soaked%20from%20head%20to%20toe%20in%20sweat%20glanced%20at%20her%20before%20returning%20his%20gaze%20back%20to%20the%20road.jpg" media-type="image/jpeg"/>
-<item id="img_148" href="525%20-%20Tell%20me%2C%20you%20fool.%20If%20I%20continue%20to%20regress.jpg" media-type="image/jpeg"/>
-<item id="img_149" href="529%20-%20The%20Great%20Sage%20smiled%2C%20his%20pearly-white%20teeth%20in%20full%20display.jpg" media-type="image/jpeg"/>
-<item id="img_150" href="530%20-%20The%20pitch-black%20particles%20stained%20her%20hand%20this%20time%20as%20well.jpg" media-type="image/jpeg"/>
-<item id="img_151" href="531%20-%20Would%20I%20eventually%20become%20the%20%27Oldest%20Dream%27%20I%20saw%20back%20then.jpg" media-type="image/jpeg"/>
-<item id="img_152" href="532%20-%20Han%20Sooyoung%20finally%20figured%20out%20the%20Dokkaebi%20King%27s%20true%20aim.jpg" media-type="image/jpeg"/>
-<item id="img_153" href="533%20-%20She%20figured%20it%20must%27ve%20been%20her%20parents%20again.jpg" media-type="image/jpeg"/>
-<item id="img_154" href="534%20-%20Now%2C%20behold.%20Isn%27t%20this%20a%20truly%20perfect%20story.jpg" media-type="image/jpeg"/>
-<item id="img_155" href="535%20-%20She%20spotted%20Kim%20Dokja%20standing%20on%20the%20platform.jpg" media-type="image/jpeg"/>
-<item id="img_156" href="537%20-%20Go%20on%20ahead%21%20I%20shall%20catch%20up%20to%20you%20soon%21.jpg" media-type="image/jpeg"/>
-<item id="img_157" href="539%20-%20The%20sentences%20protecting%20Kim%20Dokja%20fell%20away%20one%20by%20one.jpg" media-type="image/jpeg"/>
-<item id="img_158" href="543%20-%20A%20story%20of%20a%20person%20they%20all%20loved.jpg" media-type="image/jpeg"/>
-<item id="img_159" href="543%20-%20Great%20Sage%20wielding%20the%20mic%20delivered%20an%20impassioned%20vibrato-filled%20roar.jpg" media-type="image/jpeg"/>
-<item id="img_160" href="543%20-%20Two%20of%20them%20walked%20on%20the%20street%2C%20one%20sipping%20on%20the%20iced%20Americano.jpg" media-type="image/jpeg"/>
-<item id="img_161" href="545%20-%20Yoo%20Joonghyuk%20staring%20at%20that%20spectacle%20for%20a%20long%20while%20spoke%20in%20passing.jpg" media-type="image/jpeg"/>
-<item id="img_162" href="549%20-%20I%20pray%20that%20we%20don%27t%20have%20to%20run%20into%20each%20other%20again.jpg" media-type="image/jpeg"/>
-<item id="img_163" href="550%20-%20I%27ve%20completely%20forgotten%20about%20it.%20There%20was%20something%20like%20that%2C%20wasn%27t%20there.jpg" media-type="image/jpeg"/>
-<item id="img_164" href="551%20-%20While%20thinking%20about%20those%20sentences%2C%20Han%20Sooyoung%20grinned%20like%20an%20idiot.jpg" media-type="image/jpeg"/>
-<item id="img_165" href="551%20-%20Yoo%20Joonghyuk%20slowly%20closed%20his%20eyes%2C%20before%20opening%20them%20again.jpg" media-type="image/jpeg"/>
-<item id="img_166" href="Cover%20001%20-%20Episodes%2000-35.jpg" media-type="image/jpeg"/>
-<item id="img_167" href="Cover%20190%20-%20Episodes%2036-53.jpg" media-type="image/jpeg"/>
-<item id="img_168" href="Cover%20286%20-%20Episodes%2054-70.jpg" media-type="image/jpeg"/>
-<item id="img_169" href="Cover%20374%20-%20Episodes%2071-98.jpg" media-type="image/jpeg"/>
-<item id="img_170" href="Cover%20409.jpg" media-type="image/jpeg"/>
-<item id="img_171" href="Cover%20455.jpg" media-type="image/jpeg"/>
-<item id="img_172" href="Cover%20516%20-%20Episodes%2099-Epilogue%201.jpg" media-type="image/jpeg"/>
-<item id="img_173" href="Cover%20526.jpg" media-type="image/jpeg"/>
-<item id="img_174" href="Cover%20532.jpg" media-type="image/jpeg"/>
-<item id="img_175" href="Cover%20Part%201%20-%20002%20-%20Vol%201%20-%20Episodes%2001-06.jpg" media-type="image/jpeg"/>
-<item id="img_176" href="Cover%20Part%201%20-%20026%20-%20Vol%202%20-%20Episodes%2006-10.jpg" media-type="image/jpeg"/>
-<item id="img_177" href="Cover%20Part%201%20-%20048%20-%20Vol%203%20-%20Episodes%2011-15.jpg" media-type="image/jpeg"/>
-<item id="img_178" href="Cover%20Part%201%20-%20073%20-%20Vol%204%20-%20Episodes%2015-19.jpg" media-type="image/jpeg"/>
-<item id="img_179" href="Cover%20Part%201%20-%20097%20-%20Vol%205%20-%20Episodes%2019-23.jpg" media-type="image/jpeg"/>
-<item id="img_180" href="Cover%20Part%201%20-%20121%20-%20Vol%206%20-%20Episodes%2024-28.jpg" media-type="image/jpeg"/>
-<item id="img_181" href="Cover%20Part%201%20-%20143%20-%20Vol%207%20-%20Episodes%2028-32.jpg" media-type="image/jpeg"/>
-<item id="img_182" href="Cover%20Part%201%20-%20166%20-%20Vol%208%20-%20Episodes%2032-35.jpg" media-type="image/jpeg"/>
-<item id="img_183" href="Cover%20Part%202%20-%20189%20-%20Vol%201%20-%20Episodes%2036-41.jpg" media-type="image/jpeg"/>
-<item id="img_184" href="Cover%20Part%202%20-%20221%20-%20Vol%202%20-%20Episodes%2042-47.jpg" media-type="image/jpeg"/>
-<item id="img_185" href="Cover%20Part%202%20-%20255%20-%20Vol%203%20-%20Episodes%2048-53.jpg" media-type="image/jpeg"/>
-<item id="img_186" href="Cover%20Part%203%20-%20285%20-%20Vol%201%20-%20Episodes%2054-59.jpg" media-type="image/jpeg"/>
-<item id="img_187" href="Cover%20Part%203%20-%20316%20-%20Vol%202%20-%20Episodes%2060-64.jpg" media-type="image/jpeg"/>
-<item id="img_188" href="Cover%20Part%203%20-%20345%20-%20Vol%203%20-%20Episodes%2065-70.jpg" media-type="image/jpeg"/>
-<item id="img_189" href="Cover%20Part%204%20-%20373%20-%20Vol%201%20-%20Episodes%2071-75.jpg" media-type="image/jpeg"/>
-<item id="img_190" href="Cover%20Part%204%20-%20399%20-%20Vol%202%20-%20Episodes%2076-80.jpg" media-type="image/jpeg"/>
-<item id="img_191" href="Cover%20Part%204%20-%20428%20-%20Vol%203%20-%20Episodes%2081-86.jpg" media-type="image/jpeg"/>
-<item id="img_192" href="Cover%20Part%204%20-%20459%20-%20Vol%204%20-%20Episodes%2087-92.jpg" media-type="image/jpeg"/>
-<item id="img_193" href="Cover%20Part%205%20-%20487%20-%20Vol%201%20-%20Episodes%2093-99.jpg" media-type="image/jpeg"/>
-<item id="img_194" href="Cover%20Part%205%20-%20517%20-%20Vol%202%20-%20Epilogue%201-5.jpg" media-type="image/jpeg"/>
+<item id="img_39" href="209%20-%20jang%20hayoung%20was%20a%20good%20candidate%20to%20be%20a%20fighter%20even%20without%20the%20unidentified%20wall.jpg" media-type="image/jpeg"/>
+<item id="img_40" href="211%20-%20The%20Star%20Stream%20is%20watching%20the%20birth%20of%20a%20new%20streamer.jpg" media-type="image/jpeg"/>
+<item id="img_41" href="212%20-%20Yoo%20Joonghyuk%20frowned%20at%20the%20sight%20and%20asked.jpg" media-type="image/jpeg"/>
+<item id="img_42" href="223%20-%20Asmodeus%27s%20small%20fingers%20snapped.jpg" media-type="image/jpeg"/>
+<item id="img_43" href="226%20-%20As%20I%20listened%2C%20I%20felt%20somewhat%20sweet%2C%20sad%20and%20nostalgic.jpg" media-type="image/jpeg"/>
+<item id="img_44" href="229%20-%20I%20smiled%20and%20replied.jpg" media-type="image/jpeg"/>
+<item id="img_45" href="231%20-%20Yoo%20Joonghyuk%20ate%20the%20dumpling%20with%20an%20unapologetic%20face%20and%20continued%20talking.jpg" media-type="image/jpeg"/>
+<item id="img_46" href="231%20-%20Yoo%20Joonghyuk%27s%20complexion%20changed%20at%20my%20words.jpg" media-type="image/jpeg"/>
+<item id="img_47" href="232%20-%20Yoo%20Joonghyuk%27s%20feet%20only%20hit%20empty%20air.jpg" media-type="image/jpeg"/>
+<item id="img_48" href="235%20-%20You%20can%20never%20tell%20that%20guy%20out%20there.jpg" media-type="image/jpeg"/>
+<item id="img_49" href="239%20-%20Anna%20Croft%20came%20to%20this%20place%20knowing%20it.jpg" media-type="image/jpeg"/>
+<item id="img_50" href="245%20-%20The%20screen%20was%20completely%20obscured%20by%20the%20more%20than%20100%20constellations%20gathered%20in%20front%20of%20it.jpg" media-type="image/jpeg"/>
+<item id="img_51" href="247%20-%20It%20had%20been%20a%20week%20since%20I%20went%20to%20the%20Gourmet%20Association.jpg" media-type="image/jpeg"/>
+<item id="img_52" href="247%20-%20Thus%2C%20I%20was%20stressed%20because%20I%20was%20left%20alone%20with%20Yoo%20Joonghyuk%20in%20the%20training%20field.jpg" media-type="image/jpeg"/>
+<item id="img_53" href="248%20-%20The%20Breaking%20the%20Sky%20Sword%20Saint%20stared%20up%20at%20the%20raging%20sky%20that%20had%20become%20dark.jpg" media-type="image/jpeg"/>
+<item id="img_54" href="262%20-%20The%20Ruler%20of%20Amusement.%20It%20is%20that.jpg" media-type="image/jpeg"/>
+<item id="img_55" href="262%20-%20While%20this%20game%20was%20in%20progress%2C%20Yoo%20Joonghyuk%20wouldn%27t%20be%20penalized%20for%20using%20any%20types%20of%20weapons.jpg" media-type="image/jpeg"/>
+<item id="img_56" href="267%20-%20Yoo%20Joonghyuk%27s%20gaze%20stayed%20on%20Kim%20Dokja%27s%20face%20for%20a%20moment.jpg" media-type="image/jpeg"/>
+<item id="img_57" href="267%20-%20You%20will%20die%20forever.jpg" media-type="image/jpeg"/>
+<item id="img_58" href="270%20-%20Han%20Myungoh%20was%20running%20while%20carrying%20him.jpg" media-type="image/jpeg"/>
+<item id="img_59" href="271%20-%20The%20constellation%20%27Demon-like%20Judge%20of%20Fire%27%20has%20appeared%20in%20the%2073rd%20Demon%20Realm.jpg" media-type="image/jpeg"/>
+<item id="img_60" href="273%20-%20Cheok%20Jungyeong%20shot%20forward%20towards%20the%20sky.%20Yoo%20Joonghyuk%20and%20I%20chased%20after%20him.jpg" media-type="image/jpeg"/>
+<item id="img_61" href="275%20-%20The%20face%20of%20a%20little%20boy%20with%20red%20eyes%20underneath%20black%20hair%20flashed.jpg" media-type="image/jpeg"/>
+<item id="img_62" href="282%20-%20I%20waited%20for%20you%2C%20the%20one%20pursuing%20the%20%27final%20chapter%27.jpg" media-type="image/jpeg"/>
+<item id="img_63" href="284%20-%20I%20was%20suffocated%20as%20he%20gripped%20my%20neck.jpg" media-type="image/jpeg"/>
+<item id="img_64" href="287%20-%20I%20released%20Yoo%20Joonghyuk%27s%20hands%20and%20told%20him.jpg" media-type="image/jpeg"/>
+<item id="img_65" href="290%20-%20I%20looked%20at%20the%20woman%20with%20a%20bob%20cut%20and%20asked%2C%20Are%20you%20Han%20Sooyoung%27s%20avatar.jpg" media-type="image/jpeg"/>
+<item id="img_66" href="291%20-%20However%2C%20Yoo%20Joonghyuk%20didn%27t%20have%20a%20proper%20consciousness%20and%20didn%27t%20know%20what%20this%20feeling%20was.jpg" media-type="image/jpeg"/>
+<item id="img_67" href="293%20-%20Han%20Sooyoung%20looked%20at%20such%20a%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
+<item id="img_68" href="297%20-%20The%20white%20coat%20fitted%20to%20his%20body%20like%20it%20was%20made%20for%20him%20from%20the%20beginning.jpg" media-type="image/jpeg"/>
+<item id="img_69" href="301%20-%20Lee%20Jihye%20stared%20at%20me.%20Kid%2C%20I%20will%20kill%20that%20squid.jpg" media-type="image/jpeg"/>
+<item id="img_70" href="301%20-%20She%20is%20drinking%20coffee%20in%20the%20break%20room.jpg" media-type="image/jpeg"/>
+<item id="img_71" href="308%20-%20A%20girl%20sucking%20on%20candy%20suddenly%20pointed%20at%20me%20and%20declared%2C%20Squid.jpg" media-type="image/jpeg"/>
+<item id="img_72" href="312%20-%20Jung%20Heewon%20stepped%20through%20the%20dirt%20and%20pointed%20the%20Sword%20of%20Judgment%20at%20Han%20Sooyoung.jpg" media-type="image/jpeg"/>
+<item id="img_73" href="315%20-%20She%20was%20different%20from%20when%20I%20had%20seen%20her%20at%20the%20Constellation%20Banquet.jpg" media-type="image/jpeg"/>
+<item id="img_74" href="320%20-%20The%20night%20of%20the%20Underworld%20looked%20down%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_75" href="326%20-%20Just%20a%20moment.%20Please%20lend%20me%20your%20strength.jpg" media-type="image/jpeg"/>
+<item id="img_76" href="330%20-%20Pluto%20appeared%20in%20the%20sky%20and%20blocked%20Heracles%27%20fist.jpg" media-type="image/jpeg"/>
+<item id="img_77" href="331%20-%20Thus%2C%20this%20one%20chance%20couldn%27t%20fail.%20We%20threw%20the%20spear%20at%20the%20same%20time.jpg" media-type="image/jpeg"/>
+<item id="img_78" href="337%20-%20It%20had%20a%20lemon%20flavour.%20I%20ate%20the%20candy%20and%20Han%20Sooyoung%20looked%20at%20me%20quietly.jpg" media-type="image/jpeg"/>
+<item id="img_79" href="338%20-%20%27Yoo%20Joonghyuk%27%20of%20this%20round%20is%20passed%20onto%20others.jpg" media-type="image/jpeg"/>
+<item id="img_80" href="342%20-%20There%20are%20some%20things%20in%20the%20world%20you%20don%27t%20know%20about%2C%20you%20idiot.jpg" media-type="image/jpeg"/>
+<item id="img_81" href="349%20-%20Once%20the%20preparations%20were%20over%2C%20I%20walked%20over%20the%20opening%20bridge%20with%20my%20companions.jpg" media-type="image/jpeg"/>
+<item id="img_82" href="355%20-%20In%20that%20story%2C%20I%20met%20them.jpg" media-type="image/jpeg"/>
+<item id="img_83" href="367%20-%20As%20the%20ginormous%20storm%20of%20magical%20energy%20raged%20around%20me.jpg" media-type="image/jpeg"/>
+<item id="img_84" href="367%20-%20Because%E2%80%A6%20Anna%20Croft%20had%20cut%20her%20palm%20open%20to%20feed%20me%20her%20own%20blood.jpg" media-type="image/jpeg"/>
+<item id="img_85" href="369%20-%20Looks%20like%20this%20regression%20will%20end%20up%20as%20a%20failure%20if%20this%20keeps%20up%2C%20huh.jpg" media-type="image/jpeg"/>
+<item id="img_86" href="371%20-%20Even%20still%2C%20wouldn%27t%20we%20have%20tried%20to%20call%20each%20other%20some%20times.jpg" media-type="image/jpeg"/>
+<item id="img_87" href="371%20-%20It%20was%20then%2C%20a%20bright%20light%20from%20a%20lantern%20lit%20up%20in%20front%20of%20my%20eyes.jpg" media-type="image/jpeg"/>
+<item id="img_88" href="372%20-%20Hey%2C%20why%20are%20you%20crying%20like%20that.jpg" media-type="image/jpeg"/>
+<item id="img_89" href="375%20-%20I%20stared%20at%20the%20face%20of%20this%20king.jpg" media-type="image/jpeg"/>
+<item id="img_90" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%282%29.jpg" media-type="image/jpeg"/>
+<item id="img_91" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja%20%283%29.jpg" media-type="image/jpeg"/>
+<item id="img_92" href="375%20-%20You%20fool.%20You%20must%20be%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
+<item id="img_93" href="380%20-%20Han%20Sooyoung%20glanced%20at%20the%20corner%20of%20the%20room%20and%20spoke%20up.jpg" media-type="image/jpeg"/>
+<item id="img_94" href="389%20-%20He%20had%20always%20been%20looking%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_95" href="390%20-%20He%20pointed%20his%20weapon%20at%20her%20as%20she%20remained%20composed%20in%20her%20spot.jpg" media-type="image/jpeg"/>
+<item id="img_96" href="391%20-%20Even%20as%20the%20arrows%20pierced%20his%20side%2C%20shoulders%2C%20and%20thighs.jpg" media-type="image/jpeg"/>
+<item id="img_97" href="396%20-%20And%20then%2C%20the%20Ring%20of%20Chaos%20materialised%20within%20Jung%20Heewon%27s%20eyes%20as%20she%20took%20in%20the%20sight%20of%20the%20Demon%20Kings.jpg" media-type="image/jpeg"/>
+<item id="img_98" href="397%20-%20She%20plopped%20down%20to%20the%20ground%20as%20the%20ripples%20from%20the%20explosion%20swallowed%20up%20the%20whole%20battlefield.jpg" media-type="image/jpeg"/>
+<item id="img_99" href="397%20-%20Sparks%20danced%20wildly%20around%20her%20figure%20as%20she%20gripped%20the%20%5BSword%20of%20Judgement%5D.jpg" media-type="image/jpeg"/>
+<item id="img_100" href="397%20-%20Sparks%20danced%20wildly%20around%20her%20figure%20as%20she%20gripped%20the.jpg" media-type="image/jpeg"/>
+<item id="img_101" href="403%20-%20Han%20Sooyoung%20and%20Yoo%20Joonghyuk%2C%20two%20very%20different%20people.jpg" media-type="image/jpeg"/>
+<item id="img_102" href="405%20-%20It%20literally%20transformed%20into%20a%2015-year-old%20boy%20in%20an%20instant%20and%20through%20the%20Dragon%20Voice%20magic.jpg" media-type="image/jpeg"/>
+<item id="img_103" href="407%20-%20And%20the%20existence%20that%20appeared%20now%20was%20a%20grand%20being%20who%20could%20handle%20such%20Probability%20all%20by%20himself.jpg" media-type="image/jpeg"/>
+<item id="img_104" href="410%20-%20Jang%20Hayoung%20extended%20her%20hand%20out%20and%20the%20world%27s%20heaviest%20staff%20found%20itself%20in%20her%20grip%20in%20the%20next%20moment.jpg" media-type="image/jpeg"/>
+<item id="img_105" href="414%20-%20However%2C%20his%20sword%20came%20to%20a%20dead%20stop%20after%20a%20loud%2C%20sharp%20metallic%20clang%20resounded%20out.jpg" media-type="image/jpeg"/>
+<item id="img_106" href="414%20-%20You%20should%20know%20very%20well%20that%20I%20hate%20that%20question.jpg" media-type="image/jpeg"/>
+<item id="img_107" href="416%20-%20The%20being%20I%20thought%20I%27d%20not%20get%20to%20meet%20again%20was%20sitting%20right%20on%20that%20throne.jpg" media-type="image/jpeg"/>
+<item id="img_108" href="417%20-%20I%27m%20merely%20treating%20you%20the%20way%20that%20fits%20with%20your%20choice%20to%20appear%20as%20Yoo%20Joonghyuk.jpg" media-type="image/jpeg"/>
+<item id="img_109" href="429%20-%20Han%20Sooyoung%20looked%20at%20the%20message%20floating%20up%20before%20her%20eyes%20and%20scrolled%20to%20the%20next%20page.jpg" media-type="image/jpeg"/>
+<item id="img_110" href="429%20-%20That%20I%20wouldn%27t%20have%20minded%20this%20story%20going%20on%20for%20a%20little%20while%20longer.jpg" media-type="image/jpeg"/>
+<item id="img_111" href="432%20-%20Lee%20Jihye%2C%20wearing%20a%20T-shirt%20with%20a%20large%20butterfly%20printed%20on%20it%20and%20chewing%20on%20bubblegum.jpg" media-type="image/jpeg"/>
+<item id="img_112" href="437%20-%20I%20placed%20my%20hand%20on%20top%20of%20his%20head%20first.jpg" media-type="image/jpeg"/>
+<item id="img_113" href="438%20-%20Your%20existence%20is%20evolving%20into%20an%20Outer%20God.jpg" media-type="image/jpeg"/>
+<item id="img_114" href="442%20-%20The%20spot%20where%20Kim%20Dokja%20had%20been%20standing%20only%20until%20a%20moment%20ago%20was%20now%20occupied%20by%20a%20tall%20man.jpg" media-type="image/jpeg"/>
+<item id="img_115" href="444%20-%20Confronted%20by%20the%20unfathomable%20life%20lived%20by%20one%20individual%2C%20the%20lives%20of%20his%20companions%20all%20crumbled%20away.jpg" media-type="image/jpeg"/>
+<item id="img_116" href="444%20-%20The%20loneliest%20king%20in%20this%20universe%2C%20the%20white%20coat-wearing%20Yoo%20Joonghyuk%20from%20the%201863rd%20turn%20now%20stood%20there.jpg" media-type="image/jpeg"/>
+<item id="img_117" href="455%20-%20Han%20Sooyoung%20then%20began%20muttering%20in%20a%20reverential%20voice.jpg" media-type="image/jpeg"/>
+<item id="img_118" href="458%20-%20These%20two%20palms%20may%20have%20overlapped%20after%20transcending%20time%20and%20space.jpg" media-type="image/jpeg"/>
+<item id="img_119" href="461%20-%20I%20looked%20back%20and%20sure%20enough%2C%20Yoo%20Joonghyuk%20and%20his%20fox%20ears%20were%20standing%20there.jpg" media-type="image/jpeg"/>
+<item id="img_120" href="462%20-%20Lee%20Hyunsung%21%20The%20order%20of%20your%20exercise%20is%20wrong%21.jpg" media-type="image/jpeg"/>
+<item id="img_121" href="463%20-%20Uriel%20dashed%20towards%20the%20figure%20of%20the%20Abyssal%20Black%20Flame%20Dragon%20and%20performed%20a%20head-lock.jpg" media-type="image/jpeg"/>
+<item id="img_122" href="466%20-%20Uriel%2C%20Black%20Flame%20Dragon%2C%20and%20the%20Great%20Sage%2C%20Heaven%27s%20Equal.jpg" media-type="image/jpeg"/>
+<item id="img_123" href="470%20-%20I%20wish%20to%20become%20someone%20like%20him.jpg" media-type="image/jpeg"/>
+<item id="img_124" href="470%20-%20It%20was%20the%20Outer%20God%2C%20the%20%27Master%20of%20the%20Sunken%20Island%27.jpg" media-type="image/jpeg"/>
+<item id="img_125" href="471%20-%20On%20top%20of%20this%20wall%2C%20the%20one-eyed%20Yoo%20Joonghyuk%20and%20his%20lone%20arm%20were%20staring%20at%20the%20battlefield.jpg" media-type="image/jpeg"/>
+<item id="img_126" href="477%20-%20The%20golden-hued%20Status%20settled%20on%20top%20of%20my%20coat.jpg" media-type="image/jpeg"/>
+<item id="img_127" href="479%20-%20Cheongil%20High%20School%2C%20was%20now%20leaking%20out%20from%20its%20hidden%20spot%20beneath%20his%20mask.jpg" media-type="image/jpeg"/>
+<item id="img_128" href="479%20-%20However%2C%20the%20999th%20turn%27s%20Kim%20Namwoon%20remained%20on%20his%20knees.jpg" media-type="image/jpeg"/>
+<item id="img_129" href="482%20-%20About%20Earth%27s%20saviour%2C%20the%20%27Demon%20King%20of%20Salvation%27.jpg" media-type="image/jpeg"/>
+<item id="img_130" href="482%20-%20I%20have%20no%20thoughts%20of%20saving%20you.jpg" media-type="image/jpeg"/>
+<item id="img_131" href="484%20-%20Jung%20Heewon%20watched%20that%20for%20a%20long%20time%20before%20placing%20her%20hand%20on%20the%20panel.jpg" media-type="image/jpeg"/>
+<item id="img_132" href="484%20-%20Supreme%20King%20Yoo%20Joonghyuk%2C%20declares%20his%20desperate%20resistance.jpg" media-type="image/jpeg"/>
+<item id="img_133" href="488%20-%20She%20didn%27t%20want%20to%20make%20that%20kind%20of%20a%20face.%20She%20didn%27t%20want%20to%20look%20at%20Kim%20Dokja%20with%20that%20sort%20of%20eyes.jpg" media-type="image/jpeg"/>
+<item id="img_134" href="492%20-%20And%20Kim%20Dokja%20was%20standing%20there.jpg" media-type="image/jpeg"/>
+<item id="img_135" href="500%20-%20He%20was%20massacring%20Constellations%20with%20a%20great%20bow.jpg" media-type="image/jpeg"/>
+<item id="img_136" href="501%20-%20Don%27t%20worry%2C%20Heewon-ah.%20I%27ll%20make%20it%20happen%2C%20no%20matter%20what.jpg" media-type="image/jpeg"/>
+<item id="img_137" href="503%20-%20Torn%20white%20feathers%20were%20cascading%20downwards%20one%20by%20one.jpg" media-type="image/jpeg"/>
+<item id="img_138" href="507%20-%20The%20broken%20chains%20clanged%20in%20the%20empty%20air.jpg" media-type="image/jpeg"/>
+<item id="img_139" href="511%20-%20Stories%20clung%20onto%20me%20and%20stabbed%20into%20my%20hand%20like%20sharp%20blades.jpg" media-type="image/jpeg"/>
+<item id="img_140" href="513%20-%20And%20the%20boy%20slowly%20raised%20his%20head%20to%20look%20back%20at%20me.jpg" media-type="image/jpeg"/>
+<item id="img_141" href="514%20-%20I%20stared%20helplessly%20at%20the%20flying%20blade%20piece.jpg" media-type="image/jpeg"/>
+<item id="img_142" href="515%20-%20My%20own%20tragedy%20couldn%27t%20even%20compare%20to%20their%20pain.jpg" media-type="image/jpeg"/>
+<item id="img_143" href="516%20-%20The%20only%20person%20who%20didn%27t%20was%20Kim%20Dokja.jpg" media-type="image/jpeg"/>
+<item id="img_144" href="517%20-%20My%20vision%20darkened%2C%20then%20the%20sights%20of%20the%20world-line%20spread%20out%20like%20a%20kaleidoscope.jpg" media-type="image/jpeg"/>
+<item id="img_145" href="518%20-%20And%20%27hell%27%20began%20from%20then.jpg" media-type="image/jpeg"/>
+<item id="img_146" href="518%20-%20Incarnation%20%27Yoo%20Joonghyuk%27s%27%20attribute%2C%20%27Pro%20Gamer%27%20is%20awakening.jpg" media-type="image/jpeg"/>
+<item id="img_147" href="519%20-%20By%20the%20way%20ahjussi%2C%20you%20think%20Santa%20Claus%20is%20a%20Constellation.jpg" media-type="image/jpeg"/>
+<item id="img_148" href="519%20-%20Kim%20Dokja%20felt%20a%20certain%20corner%20of%20his%20heart%20ache%20for%20some%20reason.jpg" media-type="image/jpeg"/>
+<item id="img_149" href="519%20-%20You%2C%20just%20who%20the%20hell%20are%20you.jpg" media-type="image/jpeg"/>
+<item id="img_150" href="522%20-%20The%20running%20man%20soaked%20from%20head%20to%20toe%20in%20sweat%20glanced%20at%20her%20before%20returning%20his%20gaze%20back%20to%20the%20road.jpg" media-type="image/jpeg"/>
+<item id="img_151" href="525%20-%20Tell%20me%2C%20you%20fool.%20If%20I%20continue%20to%20regress.jpg" media-type="image/jpeg"/>
+<item id="img_152" href="529%20-%20The%20Great%20Sage%20smiled%2C%20his%20pearly-white%20teeth%20in%20full%20display.jpg" media-type="image/jpeg"/>
+<item id="img_153" href="530%20-%20The%20pitch-black%20particles%20stained%20her%20hand%20this%20time%20as%20well.jpg" media-type="image/jpeg"/>
+<item id="img_154" href="531%20-%20Would%20I%20eventually%20become%20the%20%27Oldest%20Dream%27%20I%20saw%20back%20then.jpg" media-type="image/jpeg"/>
+<item id="img_155" href="532%20-%20Han%20Sooyoung%20finally%20figured%20out%20the%20Dokkaebi%20King%27s%20true%20aim.jpg" media-type="image/jpeg"/>
+<item id="img_156" href="533%20-%20She%20figured%20it%20must%27ve%20been%20her%20parents%20again.jpg" media-type="image/jpeg"/>
+<item id="img_157" href="534%20-%20Now%2C%20behold.%20Isn%27t%20this%20a%20truly%20perfect%20story.jpg" media-type="image/jpeg"/>
+<item id="img_158" href="535%20-%20She%20spotted%20Kim%20Dokja%20standing%20on%20the%20platform.jpg" media-type="image/jpeg"/>
+<item id="img_159" href="537%20-%20Go%20on%20ahead%21%20I%20shall%20catch%20up%20to%20you%20soon%21.jpg" media-type="image/jpeg"/>
+<item id="img_160" href="539%20-%20The%20sentences%20protecting%20Kim%20Dokja%20fell%20away%20one%20by%20one.jpg" media-type="image/jpeg"/>
+<item id="img_161" href="543%20-%20A%20story%20of%20a%20person%20they%20all%20loved.jpg" media-type="image/jpeg"/>
+<item id="img_162" href="543%20-%20Great%20Sage%20wielding%20the%20mic%20delivered%20an%20impassioned%20vibrato-filled%20roar.jpg" media-type="image/jpeg"/>
+<item id="img_163" href="543%20-%20Two%20of%20them%20walked%20on%20the%20street%2C%20one%20sipping%20on%20the%20iced%20Americano.jpg" media-type="image/jpeg"/>
+<item id="img_164" href="545%20-%20Yoo%20Joonghyuk%20staring%20at%20that%20spectacle%20for%20a%20long%20while%20spoke%20in%20passing.jpg" media-type="image/jpeg"/>
+<item id="img_165" href="549%20-%20I%20pray%20that%20we%20don%27t%20have%20to%20run%20into%20each%20other%20again.jpg" media-type="image/jpeg"/>
+<item id="img_166" href="550%20-%20I%27ve%20completely%20forgotten%20about%20it.%20There%20was%20something%20like%20that%2C%20wasn%27t%20there.jpg" media-type="image/jpeg"/>
+<item id="img_167" href="551%20-%20While%20thinking%20about%20those%20sentences%2C%20Han%20Sooyoung%20grinned%20like%20an%20idiot.jpg" media-type="image/jpeg"/>
+<item id="img_168" href="551%20-%20Yoo%20Joonghyuk%20slowly%20closed%20his%20eyes%2C%20before%20opening%20them%20again.jpg" media-type="image/jpeg"/>
+<item id="img_169" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
+<item id="img_170" href="830%20-%20Karlton%20-%20Silver%20Binding%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
+<item id="img_171" href="844%20-%20Manri%20Shintong%20Heo%20Poong%20-%20Murim%20Dumpling%20Master%20Chief%20-%20The%20World%20After%20the%20Fall.jpg" media-type="image/jpeg"/>
+<item id="img_172" href="Cover%20001%20-%20Episodes%2000-35.jpg" media-type="image/jpeg"/>
+<item id="img_173" href="Cover%20190%20-%20Episodes%2036-53.jpg" media-type="image/jpeg"/>
+<item id="img_174" href="Cover%20286%20-%20Episodes%2054-70.jpg" media-type="image/jpeg"/>
+<item id="img_175" href="Cover%20374%20-%20Episodes%2071-98.jpg" media-type="image/jpeg"/>
+<item id="img_176" href="Cover%20409.jpg" media-type="image/jpeg"/>
+<item id="img_177" href="Cover%20455.jpg" media-type="image/jpeg"/>
+<item id="img_178" href="Cover%20516%20-%20Episodes%2099-Epilogue%201.jpg" media-type="image/jpeg"/>
+<item id="img_179" href="Cover%20526.jpg" media-type="image/jpeg"/>
+<item id="img_180" href="Cover%20532.jpg" media-type="image/jpeg"/>
+<item id="img_181" href="Cover%20Part%201%20-%20002%20-%20Vol%201%20-%20Episodes%2001-06.jpg" media-type="image/jpeg"/>
+<item id="img_182" href="Cover%20Part%201%20-%20026%20-%20Vol%202%20-%20Episodes%2006-10.jpg" media-type="image/jpeg"/>
+<item id="img_183" href="Cover%20Part%201%20-%20048%20-%20Vol%203%20-%20Episodes%2011-15.jpg" media-type="image/jpeg"/>
+<item id="img_184" href="Cover%20Part%201%20-%20073%20-%20Vol%204%20-%20Episodes%2015-19.jpg" media-type="image/jpeg"/>
+<item id="img_185" href="Cover%20Part%201%20-%20097%20-%20Vol%205%20-%20Episodes%2019-23.jpg" media-type="image/jpeg"/>
+<item id="img_186" href="Cover%20Part%201%20-%20121%20-%20Vol%206%20-%20Episodes%2024-28.jpg" media-type="image/jpeg"/>
+<item id="img_187" href="Cover%20Part%201%20-%20143%20-%20Vol%207%20-%20Episodes%2028-32.jpg" media-type="image/jpeg"/>
+<item id="img_188" href="Cover%20Part%201%20-%20166%20-%20Vol%208%20-%20Episodes%2032-35.jpg" media-type="image/jpeg"/>
+<item id="img_189" href="Cover%20Part%202%20-%20189%20-%20Vol%201%20-%20Episodes%2036-41.jpg" media-type="image/jpeg"/>
+<item id="img_190" href="Cover%20Part%202%20-%20221%20-%20Vol%202%20-%20Episodes%2042-47.jpg" media-type="image/jpeg"/>
+<item id="img_191" href="Cover%20Part%202%20-%20255%20-%20Vol%203%20-%20Episodes%2048-53.jpg" media-type="image/jpeg"/>
+<item id="img_192" href="Cover%20Part%203%20-%20285%20-%20Vol%201%20-%20Episodes%2054-59.jpg" media-type="image/jpeg"/>
+<item id="img_193" href="Cover%20Part%203%20-%20316%20-%20Vol%202%20-%20Episodes%2060-64.jpg" media-type="image/jpeg"/>
+<item id="img_194" href="Cover%20Part%203%20-%20345%20-%20Vol%203%20-%20Episodes%2065-70.jpg" media-type="image/jpeg"/>
+<item id="img_195" href="Cover%20Part%204%20-%20373%20-%20Vol%201%20-%20Episodes%2071-75.jpg" media-type="image/jpeg"/>
+<item id="img_196" href="Cover%20Part%204%20-%20399%20-%20Vol%202%20-%20Episodes%2076-80.jpg" media-type="image/jpeg"/>
+<item id="img_197" href="Cover%20Part%204%20-%20428%20-%20Vol%203%20-%20Episodes%2081-86.jpg" media-type="image/jpeg"/>
+<item id="img_198" href="Cover%20Part%204%20-%20459%20-%20Vol%204%20-%20Episodes%2087-92.jpg" media-type="image/jpeg"/>
+<item id="img_199" href="Cover%20Part%205%20-%20487%20-%20Vol%201%20-%20Episodes%2093-99.jpg" media-type="image/jpeg"/>
+<item id="img_200" href="Cover%20Part%205%20-%20517%20-%20Vol%202%20-%20Epilogue%201-5.jpg" media-type="image/jpeg"/>
 </manifest><spine toc="ncx">
 <itemref idref="intro"/><itemref idref="toc"/>
 <itemref idref="1"/>
@@ -1158,170 +1000,6 @@
 <itemref idref="385"/>
 <itemref idref="386"/>
 <itemref idref="387"/>
-<itemref idref="388"/>
-<itemref idref="389"/>
-<itemref idref="390"/>
-<itemref idref="391"/>
-<itemref idref="392"/>
-<itemref idref="393"/>
-<itemref idref="394"/>
-<itemref idref="395"/>
-<itemref idref="396"/>
-<itemref idref="397"/>
-<itemref idref="398"/>
-<itemref idref="399"/>
-<itemref idref="400"/>
-<itemref idref="401"/>
-<itemref idref="402"/>
-<itemref idref="403"/>
-<itemref idref="404"/>
-<itemref idref="405"/>
-<itemref idref="406"/>
-<itemref idref="407"/>
-<itemref idref="408"/>
-<itemref idref="409"/>
-<itemref idref="410"/>
-<itemref idref="411"/>
-<itemref idref="412"/>
-<itemref idref="413"/>
-<itemref idref="414"/>
-<itemref idref="415"/>
-<itemref idref="416"/>
-<itemref idref="417"/>
-<itemref idref="418"/>
-<itemref idref="419"/>
-<itemref idref="420"/>
-<itemref idref="421"/>
-<itemref idref="422"/>
-<itemref idref="423"/>
-<itemref idref="424"/>
-<itemref idref="425"/>
-<itemref idref="426"/>
-<itemref idref="427"/>
-<itemref idref="428"/>
-<itemref idref="429"/>
-<itemref idref="430"/>
-<itemref idref="431"/>
-<itemref idref="432"/>
-<itemref idref="433"/>
-<itemref idref="434"/>
-<itemref idref="435"/>
-<itemref idref="436"/>
-<itemref idref="437"/>
-<itemref idref="438"/>
-<itemref idref="439"/>
-<itemref idref="440"/>
-<itemref idref="441"/>
-<itemref idref="442"/>
-<itemref idref="443"/>
-<itemref idref="444"/>
-<itemref idref="445"/>
-<itemref idref="446"/>
-<itemref idref="447"/>
-<itemref idref="448"/>
-<itemref idref="449"/>
-<itemref idref="450"/>
-<itemref idref="451"/>
-<itemref idref="452"/>
-<itemref idref="453"/>
-<itemref idref="454"/>
-<itemref idref="455"/>
-<itemref idref="456"/>
-<itemref idref="457"/>
-<itemref idref="458"/>
-<itemref idref="459"/>
-<itemref idref="460"/>
-<itemref idref="461"/>
-<itemref idref="462"/>
-<itemref idref="463"/>
-<itemref idref="464"/>
-<itemref idref="465"/>
-<itemref idref="466"/>
-<itemref idref="467"/>
-<itemref idref="468"/>
-<itemref idref="469"/>
-<itemref idref="470"/>
-<itemref idref="471"/>
-<itemref idref="472"/>
-<itemref idref="473"/>
-<itemref idref="474"/>
-<itemref idref="475"/>
-<itemref idref="476"/>
-<itemref idref="477"/>
-<itemref idref="478"/>
-<itemref idref="479"/>
-<itemref idref="480"/>
-<itemref idref="481"/>
-<itemref idref="482"/>
-<itemref idref="483"/>
-<itemref idref="484"/>
-<itemref idref="485"/>
-<itemref idref="486"/>
-<itemref idref="487"/>
-<itemref idref="488"/>
-<itemref idref="489"/>
-<itemref idref="490"/>
-<itemref idref="491"/>
-<itemref idref="492"/>
-<itemref idref="493"/>
-<itemref idref="494"/>
-<itemref idref="495"/>
-<itemref idref="496"/>
-<itemref idref="497"/>
-<itemref idref="498"/>
-<itemref idref="499"/>
-<itemref idref="500"/>
-<itemref idref="501"/>
-<itemref idref="502"/>
-<itemref idref="503"/>
-<itemref idref="504"/>
-<itemref idref="505"/>
-<itemref idref="506"/>
-<itemref idref="507"/>
-<itemref idref="508"/>
-<itemref idref="509"/>
-<itemref idref="510"/>
-<itemref idref="511"/>
-<itemref idref="512"/>
-<itemref idref="513"/>
-<itemref idref="514"/>
-<itemref idref="515"/>
-<itemref idref="516"/>
-<itemref idref="517"/>
-<itemref idref="518"/>
-<itemref idref="519"/>
-<itemref idref="520"/>
-<itemref idref="521"/>
-<itemref idref="522"/>
-<itemref idref="523"/>
-<itemref idref="524"/>
-<itemref idref="525"/>
-<itemref idref="526"/>
-<itemref idref="527"/>
-<itemref idref="528"/>
-<itemref idref="529"/>
-<itemref idref="530"/>
-<itemref idref="531"/>
-<itemref idref="532"/>
-<itemref idref="533"/>
-<itemref idref="534"/>
-<itemref idref="535"/>
-<itemref idref="536"/>
-<itemref idref="537"/>
-<itemref idref="538"/>
-<itemref idref="539"/>
-<itemref idref="540"/>
-<itemref idref="541"/>
-<itemref idref="542"/>
-<itemref idref="543"/>
-<itemref idref="544"/>
-<itemref idref="545"/>
-<itemref idref="546"/>
-<itemref idref="547"/>
-<itemref idref="548"/>
-<itemref idref="549"/>
-<itemref idref="550"/>
-<itemref idref="551"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
