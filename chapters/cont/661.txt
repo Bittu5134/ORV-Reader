@@ -1,7 +1,7 @@
 <title>661 Episode 19 Reader (3)
 Fiction and reality are different.
 Immediately after possessing Kang Ilhun, the first thing Killer King did was to change 'image' into 'text'.
-<!>[Incarnate 'Kang Ilhun' activates Observation Lv.4!]
+<!>[Incarnation 'Kang Ilhun' activates Observation Lv.4!]
 Killer King was not conceited that he knew the future scenarios.
 He calmly stored the images he observed in his mind, and transformed the stored images into sentences and converted them into information.
 Read. Report. Compare.
@@ -49,17 +49,17 @@ A 'closed scenario' that controls a certain area.
 Killer King was convinced.
 "A hidden Scenario will activate."
 As if waiting, a dokkaebi appeared in the air with a small spark.
-<!>[This. That's really troubling. You're summoning a disaster from the stars!]
+<@>[This. That's really troubling. You're summoning a disaster from the stars!]
 Killer King recognized the dokkaebi right away.
 <&>「It was not a low-level dokkaebi like Bihyung. Wearing a neat suit, it had two small horns on his head.」
 Intermediate dokkaebi Paul.
 A dokkaebi who sabotaged Kim Dokja's script from the beginning, but was eventually taken to the executive branch by Kim Dokja's scheme.
-<!>[Recently, there have been a lot of incarnations that are overly aggressive, but I never thought they'd do something like this inside a dungeon... What are you going to do if you wake up 'Material Disaster' when you can't even finish the fourth scenario?]
+<@>[Recently, there have been a lot of incarnations that are overly aggressive, but I never thought they'd do something like this inside a dungeon... What are you going to do if you wake up 'Material Disaster' when you can't even finish the fourth scenario?]
 It was a line that was almost similar to the main story.
 This means that although the type of disaster has changed, the major trend has not changed.
 Paul looked around at the incarnations.
 Cheon Inho, Lee Dansu, Literature Girl 64, and Shin Yoosoung. Finally, Paul made eye contact with Killer King and smiled inexplicably.
-<!>[It's no fun if everyone dies, so I'll try to change the scenario at my discretion.]
+<@>[It's no fun if everyone dies, so I'll try to change the scenario at my discretion.]
 +
 <Hidden Scenario — United you die, scattered you die>
 Category: Hidden

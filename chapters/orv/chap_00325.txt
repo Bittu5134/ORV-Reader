@@ -19,7 +19,7 @@ Kyrgios spoke with a frown. They also knew about the Returnees Alliance. In part
 Not all returnees chose the virtuous path like Flying Fox. The Returnees Alliance was a representative group that chose the path of violence and domination. "It looks like you neglected training in that world, Breaking the Sky Sword Saint."
 "The opponents were the Heavenly Demon and Blood Demon. You can't look down on them."
 "Whoever comes, you won't die in this world. We will fight together."
-The Breaking the Sky Sword Saint laughed lightly at Kyrgios' assertion. "I don't think I'll die either. If I die here, I can't hit by cute student's butt."
+The Breaking the Sky Sword Saint laughed lightly at Kyrgios' assertion. "I don't think I'll die either. If I die here, I can't hit my cute student's butt."
 The Breaking the Sky Sword Saint clenched her fists as she spoke. She didn't know how strong she was in the other world. However, she was certain that now she had stepped into another realm.
 The Breaking the Sky Sword Saint was reminded of the battle with Indescribable Distance three years ago. She couldn't measure the end of that outer god. The Breaking the Sky Sword Saint never forgot the terror of that day when she faced a disaster beyond the constellations.
 She preserved the First Murim and gained a giant story, before visiting Tartarus to open the fate of a 'giant god'. The enemy she couldn't deal with. In the last three years, the Breaking the Sky Sword Saint had been training for a rematch with the outer god.
@@ -77,11 +77,11 @@ I frowned. There were earth-shattering roars from the giants. If I waited quietl
 ***
 
 "Hey, did we come here to play?" Lee Jihye spoke with a blank expression as she looked around.
-<@>[Welcome to the theme park, Gigantomachia!]
+<!>[Welcome to the theme park, Gigantomachia!]
 <!>[Olympus' 12 work experience is in progress!]
 The bustling group of incarnations and constellations were busily moving somewhere.
-<@>[Experience Capturing a Wild Boar.]
-<@>[Experience Hunting a Namea Lion.]
+<!>[Experience Capturing a Wild Boar.]
+<!>[Experience Hunting a Namea Lion.]
 …
 Shin Yoosung and Lee Gilyoung were running around while wearing rabbit ear headbands. "I've never seen a place like this!"
 "Is this really the outfit that Heracles wore?"
@@ -90,12 +90,12 @@ Lee Hyunsung was able to get a lot of apples by participating in the Golden Appl
 Lee Seolhwa spoke, "The 60th scenario can't be like this. Stay focused." She said this but a star-shaped headband that she bought as a souvenir was flashing.
 Lee Jihye looked at Han Sooyoung with a stricken expression. "Everybody isn't sane… Sooyoung unni, say something!"
 Han Sooyoung was sitting on a bench and eating candy. As the distracted group played in the amusement park, Han Sooyoung was looking at the progress of the scenario with sharp eyes.
-<!>[The next of the 12 tasks that incarnations and constellations will participate in…]
+<@>[The next of the 12 tasks that incarnations and constellations will participate in…]
 In particular, Han Sooyoung's eyes were focused on the most important place in the centre of the theme park. A man who seemed to be an event helper at first glance was wearing ancient Greek armour and trinkets.
 'There is a thick cover over his heel'.
 There was only one hero in Olympus who had to be careful of his heels. Troy's sorrow, Achilles.
 He was yawning because the progress of the event was tedious. How much time passed?
-<@>[Eh, they've seen enough so let's go to the point.]
+<@>[Eh, they've seen enough so let's get to the point.]
 The relaxed man's tone changed for the first time.
 <@>[Gigantomachia is an event that has been hosted by our Olympus for a long time. Experience the greatest myth in the Star Stream personally.]
 The gazes of the raucous incarnations focused in an instant.
@@ -103,9 +103,10 @@ The gazes of the raucous incarnations focused in an instant.
 Han Sooyoung watched the ancient hero speaking like a dokkaebi and smiled bitterly.
 'They won't use a dokkaebi for the reputation of the nebula'.
 Of course, they couldn't exercise the authority of a dokkaebi by doing this but the performance was enough to stimulate the participants.
-<@>[Is that all? You can also gain a stake in the giant story thought the 'giant hunting' event.]
-'Some incarnations and constellations cheered at the words 'stake in a giant story'.
-Achilles laughed and declared. [Then let's start the game.]
+<@>[Is that all? You can also gain a stake in the giant story through the 'giant hunting' event.]
+'Some incarnations and constellations cheered at the words stake in a giant story'.
+Achilles laughed and declared.
+<@>[Then let's start the game.]
 At the same time, the main hall of the theme park started to open. The sealed sphere opened and a pale light poured from the air.
 <@>[Introducing the first giant!]
 The light disappeared and the figure of a legend was revealed. However, the appearance of the giant was smaller than expected. The giant was only around three metres tall.
@@ -114,7 +115,7 @@ Han Sooyoung and the party members were watching the giant. Lee Jihye's mouth wa
 Lee Hyunsung, Lee Gilyoung, Shin Yoosung as well. Everyone knew the identity of the giant. It was because the giant was a colleague who had fought with them. The party members' eyes widened as they faced the giant.
 <!>[Main scenario #60 ― 'Gigantomachia' has begun!]
 <!>[The first game has been decided.]
-<@>[Hunt the giant 'Breaking the Sky Sword Saint, Namgung Minyoung']
+<!>[Hunt the giant 'Breaking the Sky Sword Saint, Namgung Minyoung']
 The first prey was Yoo Joonghyuk's teacher, the Breaking the Sky Sword Saint.
 <@>[Why are you all still? Are you scared?]
 No one moved despite the scenario starting. Thus, Achilles flew through the air.

@@ -26,13 +26,12 @@ A huge storm broke out and the sparks in the surroundings were instantly extingu
 Michael stared up at the sky for a while before grumbling, […Even you? Eden seems to be gone now.]
 Michael turned around and started to move away. The heads of demon kings were hanging from his waist like fruit.
 <!>[Head of Grand Duke Semida.]
-<@>[Head of Grand Duke Graphio.]
+<!>[Head of Grand Duke Graphio.]
 Goosebumps covered my body. Some of the grand dukes were equivalent to lower-grade demon kings. Yet he hung their heads like they were toys.
 Once Michael completely disappeared over the hill, Jung Heewon sighed and put away her sword.
 I turned my head and saw Uriel looking this way.
 Archangel Uriel. She was different from when I had seen her at the Constellation Banquet. She wore Eden's uniform with cross earrings and looked elegant. The usual mischievous feeling couldn't be found as nobility overflowed from her body.
 <img>[315 - She was different from when I had seen her at the Constellation Banquet.jpg][]
-*
 <?>* Unofficial illustration, not specifically of Omniscient Reader's Viewpoint, but fitting (non-canonical)
 <@>[Kim Dokja…]
 She stared at me with complicated eyes before suddenly making a startled expression. Then she turned towards Jung Heewon like she was avoiding my gaze.
@@ -60,8 +59,7 @@ I hurriedly changed my expression and smiled. Raphael guided me through the corr
 "There really are lambs in Eden."
 <@>[Yes, they're good when you can't sleep.]
 "…Are you saying you count them?
-<@>[You've probably seen it too. They are the one who appear when you close your eyes and think of]
-sheep before you sleep.]
+<@>[You've probably seen it too. They are the one who appear when you close your eyes and think of sheep before you sleep.]
 I was surprised because it was a story that didn't appear in Ways of Survival. Were they really the sheep that people counted before going to bed?
 <@>[I was lying.]
 "…"
@@ -78,10 +76,11 @@ Many scenarios in the Star Stream took the form of metaphors. In Eden, the metap
 "…Uriel brought real lambs?"
 <@>[Yes. It was 10 at first but they reproduced and grew too much.]
 It sounded like something Uriel would do.
-The angels who managed the sheep could also be seen. The angels feed or shaved the sheep's fur. Everything was beautiful as described in Ways of Survival. Some of them looked to this side and chatted with each other. One, two, three… the numbers went up more and more. Someone improvised a placard out of shaved fleece and started to wave it this way.
+The angels who managed the sheep could also be seen. The angels fed or shaved the sheep's fur. Everything was beautiful as described in Ways of Survival. Some of them looked to this side and chatted with each other. One, two, three… the numbers went up more and more. Someone improvised a placard out of shaved fleece and started to wave it this way.
 …What did it say?
 <!>[The constellation 'Demon-like Judge of Fire' is making a stern expression.]
-The angels hurriedly scattered. I could see Uriel and Jung Heewon waving in the distance. Raphael clicked his tongue. [An angel is fond of fallen humans.]
+The angels hurriedly scattered. I could see Uriel and Jung Heewon waving in the distance. Raphael clicked his tongue.
+<@>[An angel is fond of fallen humans.]
 "Can you speak while moving?"
 <@>[Go in. The scribe is waiting.]
 I was standing in front of the scribe's office. I took a deep breath before opening the door and entering.
@@ -127,7 +126,7 @@ I deliberately raised my voice. Considering future negotiations, I couldn't be p
 Metatron didn't answer and stared at my face for a moment. The next moment, I realized that something was wrong. Along with an intense pressure, a bright light emerged from behind Metatron. It was a light gaze that I had felt someone before. I felt a dangerous force penetrating my essence.
 <!>[The exclusive skill 'Fourth Wall' is strongly activated!]
 Sparks covered my eyes as I took a few steps back with a groan. The sparks gradually became smaller and Metatron expressed his admiration.
-<!>[…As expected, you are also a chosen being of the 'Fragment of the Last Wall'.]
+<@>[…As expected, you are also a chosen being of the 'Fragment of the Last Wall'.]
 "What…"
 <!>[The 'Wall Dividing Good and Evil' is looking at you with surprise.]
 I stared in front of me with surprise. Behind Metatron was a silver 'wall'. There was no doubt.

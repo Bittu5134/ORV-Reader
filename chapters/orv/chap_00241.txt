@@ -25,7 +25,8 @@ There were screams as incarnations were torn apart by evil spirits.
 
 <!>[Current number of expedition members remaining: 6 people]
 In the original novel, this game was called 'Hunting and Chasting'. This wasn't a Gourmet Association event, it was an event hosted by Anna Croft. In this round, Anna Croft decided to skip the process and start from the Gourmet Association.
-I continued to mutter towards the air and the Mass Production Maker asked me, [Hoh, you participated?]
+I continued to mutter towards the air and the Mass Production Maker asked me,
+<@>[Hoh, you participated?]
 "…Did you participate?"
 <@>[Huhu, I'm too old to run to scenarios like that. And… it doesn't suit my tastes.]
 In fact, not all members of the Gourmet Association were enthusiastic about this scenario. On one side, there were the constellations who disliked Anna Croft. On another side, there were the constellations who disliked the event itself.
@@ -53,12 +54,12 @@ Iris was surprised to see the gift that emerged in the air. It was an item I bou
 The constellations emerged from the grass as if they were waiting. The constellations that became evil spirits looked different. There were a giant horned demon and a spirit with a bull's head holding a small scythe. The only thing they had in common was that they had no feet and were shrouded in a black cloak.
 <@>[Hmm, strange. It was definitely around here.]
 <@>[Did you see it properly?]
-Iris disappeared and the constellations who were evil spirits couldn't discover her traces at all. The constellations who played the role of evil spirits were under strong restrictions. The constellations in the role of the evil spirit could only one-tenth of their current 'status'.
-For the constellations, a game wasn't fun if it was too easy. Just as there were no humans who would rejoice in stepping on 15 bugs. They didn't hesitate to impose constraints on themselves for entertainment. This was the constellations of the Gourmet Association.
+Iris disappeared and the constellations who were evil spirits couldn't discover her traces at all. The constellations who played the role of evil spirits were under strong restrictions. The constellations in the role of the evil spirit could only use one-tenth of their current 'status'.
+For the constellations, a game wasn't fun if it was too easy. Just as there were no humans who would rejoice in stepping on 15 bugs. They didn't hesitate to impose constraints on themselves for entertainment. These were the constellations of the Gourmet Association.
 <@>[It seems she must've done something. Let her run a bit more. The scenario should be stacked up to taste better.]
 <@>[…Huhu, I'm looking forward to it.]
 The constellations searching the grass soon gave up and Iris received a system message.
-<@>[The expedition member Iris Vladimirovna Rebezova has survived an evil spirit once.]
+<!>[The expedition member Iris Vladimirovna Rebezova has survived an evil spirit once.]
 <!>[The story 'Bracelet Expedition' has accumulated.]
 This scenario was made up of classic stories. The longer Iris stayed in the scenario, the more the energy of the classic story would permeate her.
 –I-I lived!

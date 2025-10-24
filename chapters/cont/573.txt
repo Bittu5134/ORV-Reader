@@ -3,15 +3,13 @@ Episode 4. An Unwalked Road
 <&>「So we are each other's past, each other's future.」
 —The Prophet Anna Croft.
 ***
-Just before I collided with the surface, I felt like I was going to lose my mind, even though I had
-increased my physique with coins.
+Just before I collided with the surface, I felt like I was going to lose my mind, even though I had increased my physique with coins.
 <!>[1,800 coins have been invested into 'Physique'.]
 <!>[Physique Lv.4 → Physique Lv.10]
 <!>[Your physique level has increased dramatically!]
 <!>[Your physical durability has increased dramatically!]
-<!>[Coin Possessed: 1,800 C]
-My body was numb from head to toe from the impact, and my ears were deafening. I could feel
-my body temperature dropping rapidly.
+<!>[Coins Possessed: 1,800 C]
+My body was numb from head to toe from the impact, and my ears were deafening. I could feel my body temperature dropping rapidly.
 It was a message from the constellations that held my fading consciousness together.
 <!>[The constellation 'Sneaking Schemer' appreciates your survivability.]
 <!>[500 coins have been sponsored.]
@@ -28,53 +26,41 @@ I also saw the returning animal constellations' modifiers.
 Plus the Black Flame Dragon and Jophiel.
 I gritted my teeth.
 I'll just have to survive here somehow.
-
-[Coins Possessed: 3,500 C]
-As I held my breath and calmly scanned my surroundings, I saw Jung Heewon's glimmering
-figure.
+<!>[Coins Possessed: 3,500 C]
+As I held my breath and calmly scanned my surroundings, I saw Jung Heewon's glimmering figure.
 Completely unconscious, her body was sinking deeper into the water.
-I paddled toward her with all my might, but I couldn't save her with my ligament-torn arm. There
-was only one option.
+I paddled toward her with all my might, but I couldn't save her with my ligament-torn arm. There was only one option.
 I bit her arm hard.
-I choked as the river rushed into my mouth. I thought my eyeballs were going to fall out. Still, I
-couldn't give up.
+I choked as the river rushed into my mouth. I thought my eyeballs were going to fall out. Still, I couldn't give up.
 If Jung Heewon died here, this round would be over.
-Slowly, the strength drained from my body. Even as my breathing faded, I didn't let go of her
-arm.
+Slowly, the strength drained from my body. Even as my breathing faded, I didn't let go of her arm.
 Wake up, please.
 It was then that a strong splash of water came from somewhere.
 As my breath caught in my throat, I saw a large monster coming toward us from the distance.
 An ichthyosaur (魚龍).
 7th grade monsters species, sea serpent.
 Sharp teeth flashed before my eyes. Then, a pitch-dark silence filled my senses.
-***
++
 rlaehrwk25: Missed it
-***
++
 "Inho-ssi. Inho-ssi!"
-I felt something slap my cheek, and slowly came back to consciousness. The first thing I saw
-when I opened my eyes was the blinding flash of a cell phone, and then Jung Heewon's face.
+I felt something slap my cheek, and slowly came back to consciousness. The first thing I saw when I opened my eyes was the blinding flash of a cell phone, and then Jung Heewon's face.
 "Heewon-ssi?"
 "Ha...... Really."
-Jung Heewon breathed a sigh of relief. As I staggered to my feet, the ground suddenly tilted and
-shook.
+Jung Heewon breathed a sigh of relief. As I staggered to my feet, the ground suddenly tilted and shook.
 Jung Heewon grabbed my shoulder.
 "Be careful, or we'll sink"
-
-The river raged in the darkness.
-Upon closer inspection, I realized we were sitting on the remains of a small plastic structure. I
-wondered if it was the remains of a sailboat used by the Han River rescue team.
-The air was strangely humid. I turned on my phone's flash and saw a wall of crimson above,
-below, and to the left.
+The river raged in the darkness.
+Upon closer inspection, I realized we were sitting on the remains of a small plastic structure. I wondered if it was the remains of a sailboat used by the Han River rescue team.
+The air was strangely humid. I turned on my phone's flash and saw a wall of crimson above, below, and to the left.
 In the back of my mind, I remembered what happened before I lost consciousness.
-We had been eaten by an ichthyousaur.
+We had been eaten by an ichthyosaur.
 "You seem happy to have survived. We're about to die."
 I threw up water and smiled bitterly.
-The light from my cell phone cast the shadows of the two of us against the crimson stomach of
-the ichthyosaur.
+The light from my cell phone cast the shadows of the two of us against the crimson stomach of the ichthyosaur.
 "Heewon-ssi."
 "Never mind."
-Jung Heewon spoke without looking in my direction, as if she already knew what I was going to
-say.
+Jung Heewon spoke without looking in my direction, as if she already knew what I was going to say.
 "Inho-ssi, you're a bit of a weirdo."
 "I'm kind of like that."
 "You always say weird things."
@@ -93,15 +79,13 @@ She was silent for a moment, as if she was thinking about something, and then sh
 "By the way, it hurts. How hard did you bite me?"
 A human tooth mark was clearly visible on her right forearm.
 Embarrassed, I replied.
-
-"I'm sorry."
+"I'm sorry."
 "I'm glad you did it, though. I woke up because it really hurt."
 "Are you hurt anywhere else? The wound from the fight earlier—"
 "It's fine, it's a really shallow cut."
 ......A shallow cut? From that 'Yoo Joonghyuk'?
 "Anyway, what should we do now? We're trapped."
-I measured the size of the stomach surrounding us. Fortunately, it didn't seem to be the sea
-commander that swallowed Kim Dokja.
+I measured the size of the stomach surrounding us. Fortunately, it didn't seem to be the sea commander that swallowed Kim Dokja.
 "It's for the best. We're safer here than in the Han River."
 "What if we melt with its digestive juices?"
 "We need to escape before that happens."
@@ -126,24 +110,24 @@ While Jung Heewon was seriously pondering, I closed my eyes and recalled the seq
 Kim Dokja escaped from here.
 But in order to use this method, I needed someone's help.
 'Bihyung.'
-
-Soon, I felt the 'dokkaebi communication' connect.
+Soon, I felt the 'dokkaebi communication' connect.
 —Hoo...... So this is how it turned out.
 Bihyung sounded dejected.
 —I don't know why so many strange things are happening this season.
 'Have you considered my offer?'
 —I sent you a message saying I'm signing the contract, didn't you get it?
 With those words, a window popped up in front of me.
++
 ----<Stream Contract Agreement>
 1. Incarnation Cheon Inho (hereinafter referred to as gap) will sign a exclusive contract with the
 dokkaebi Bihyung (hereinafter referred to as eul) untill all scenarios are completed or until his
 death.
 ......
++
 ----It felt strange to see this contract again.
 —This is really special, I wasn't going to do it originally.......
 It wasn't hard to figure out when Bihyung made up his mind.
-Probably, right after seeing the confrontation between Yoo Joonghyuk and me. Judging by the
-coins that came in earlier, I guess the constellations watched the confrontation with interest.
+Probably, right after seeing the confrontation between Yoo Joonghyuk and me. Judging by the coins that came in earlier, I guess the constellations watched the confrontation with interest.
 I quickly checked Bihyung's contract, checking off the oddities and crossing off the concessions.
 —You're pretty good at this, huh?
 'Because all contracts are similar.'
@@ -152,8 +136,7 @@ I always sign.
 Suddenly, I remembered my days as a rookie writer, when I was a victim of contract scams.
 —The ratio is 8:2. You'll have 8 and I'll have 2.
 'That's great by me, but isn't it supposed to be 7:3?'
-
-—I saw how you did back then, so I thought it was okay to give you more.
+—I saw how you did back then, so I thought it was okay to give you more.
 He was probably worried about losing me to another dokkaebi.
 A wise move, but it puts the hilt of the sword in my hands.
 'Well, while you're at it, I have one more favor to ask.'
@@ -164,8 +147,7 @@ A wise move, but it puts the hilt of the sword in my hands.
 Bihyung was speechless for a moment.
 —How do you even know that?
 'Does it matter?'
-Bihyung sighed again, and muttered something to himself about the Bureau, probability and
-sanctions.
+Bihyung sighed again, and muttered something to himself about the Bureau, probability and sanctions.
 —Well, yeah. There's a guy who already received this one.
 Someone already received this scenario?
 <!>[A new hidden scenario has arrived!]
@@ -180,8 +162,7 @@ Reward: 4,000 coins
 Failure: Death
 +
 The reward isn't as good as Kim Dokja's Hidden Scenario, but it's less challenging.
-
-This should be enough to get the injured me and Jung Heewon through.
+This should be enough to get the injured me and Jung Heewon through.
 —No more objections to the contract? Do you need anything else?
 'You'll have to give me the right to use the Dokkaebi Bag.'
 The 'Dokkaebi Bag'.
@@ -191,12 +172,10 @@ Bihyung immediately pulled up the 'Dokkaebi Bag's screen in front of me.
 —Advertisement?
 'Wouldn't you get in trouble if someone found out I was using the Dokkaebi Bag?'
 Bihyung spoke bitterly, as if he was worried about something like that.
-—It's not illegal, and you're not the only one who benefits from the Dokkaebi Bag, so it doesn't
-matter.
+—It's not illegal, and you're not the only one who benefits from the Dokkaebi Bag, so it doesn't matter.
 In fact, the constellations didn't seem to mind that I was using the Dokkaebi Bag.
 <!>[The constellation 'Pig Living in a Brick House' wonders what you'll buy.]
-Instead, they seemed to be watching with interest to see what I would buy. It was definitely a
-change of pace from the original novel.
+Instead, they seemed to be watching with interest to see what I would buy. It was definitely a change of pace from the original novel.
 Anyway, I've got everything I need.
 'Let's sign then.'
 <!>[The stream contract has concluded.]
@@ -209,14 +188,12 @@ It seemed that Bihyung had many other areas to pay attention to besides mine.
 I was rather relieved.
 It could mean that there were many surviving readers in this world.
 'Be careful.'
-
-After the 'dokkaebi communication' was cut off, I immediately opened the 'Dokkaebi Bag'.
+After the 'dokkaebi communication' was cut off, I immediately opened the 'Dokkaebi Bag'.
 <!>[The product search function is activated.]
-coins per search.]
+<!>[The product search function is limited to 5 times a day. Any additional searches will cost 100 coins per search.]
 The benefits of the bag are the same as in the original novel.
 I made a list in my head of items I wanted to get ahead of time.
-Ancient Dragon's Heart, Great Demon' Eyes. There were a few other items I'd created as settings,
-but the first thing to search for was this item.
+Ancient Dragon's Heart, Great Demon' Eyes. There were a few other items I'd created as settings, but the first thing to search for was this item.
 <!>[The related product search is completed.]
 The first item Kim Dokja gets in the main novel.
 +
@@ -227,8 +204,7 @@ Apparently, another reader could open the 'Dokkaebi Bag' first and bought it.
 "I think Pinocchio."
 Suddenly I heard a voice, so I reflexively turned around.
 Jung Heewon was muttering something to me with a serious face.
-"I wonder if he lied so hard that he grew a very long nose and escaped by blowing a hole in the
-whale's stomach?"
+"I wonder if he lied so hard that he grew a very long nose and escaped by blowing a hole in the whale's stomach?"
 I stared at her blankly.
 I couldn't believe she was still thinking about Pinocchio.
 "That's a good idea."
@@ -237,14 +213,12 @@ Jung Heewon narrowed her eyes at my praise.
 "No, it's a really good idea. It's kind of what I was going to do."
 I opened the 'Dokkaebi Bag' again and searched for the items.
 'Mucus of the Hammer Seahorse' and 'Stone Hog's Pointed Thorn'.
-
-Both were items that Kim Dokja purchased to escape from the ichthyosaur.
+Both were items that Kim Dokja purchased to escape from the ichthyosaur.
 In the main story, Kim Dokja buys four of each of these items.
 I bought eight of each.
 <!>[1,600 coins have been consumed.]
 I was tempted to look up the other items, but I didn't have the coins to do so right now anyway.
-I stuck one of the thorns into my waistband with my ungainly right hand, then handed the
-remaining seven thorns and eight mucus bags to Jung Heewon.
+I stuck one of the thorns into my waistband with my ungainly right hand, then handed the remaining seven thorns and eight mucus bags to Jung Heewon.
 "Take these."
 Jung Heewon asked in surprise.
 "Where did you get all of this from all of a sudden?"
@@ -260,12 +234,13 @@ Luckily, I could borrow Kim Dokja's wisdom this time.
 ***
 That night, I had a dream.
 I wasn't really trying to sleep, more like I passed out for a bit.
-Usually, when I have a dream, I say something along the lines of 'what did I dream'. If a pig
-appeared, it's a dream of a pig. If a dragon appeared, it's a dream of a dragon.
+Usually, when I have a dream, I say something along the lines of 'what did I dream'. If a pig appeared, it's a dream of a pig. If a dragon appeared, it's a dream of a dragon.
 Well, I suppose you could give this dream a name.
 This dream,
 <&>「Cheon Inho.」
 It was a dream of a Kim Dokja.
+
+***
+
 Author's Note
 The Oldest Dream?
-

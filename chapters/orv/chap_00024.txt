@@ -1,6 +1,8 @@
 <title>Ch 24: Ep. 6 – Judgment Time, I
 The limited random items box… According to the setting of Ways of Survival, this was a coin item which had been sold as a limited edition in a past 'scenario'.
-<@>[Ah, no, why is this thing here? The alarmed Biryu shouted belatedly. I-I-It was banned immediately after release!]
+<@>[Ah, no, why is this thing here?]
+The alarmed Biryu shouted belatedly.
+<@>[I-I-It was banned immediately after release!]
 According to the original Ways of Survival, the setting of this item was quite complicated. This coin item had been released long before the 8612 Planetary scenarios began. It was a product which had been forcefully banned by the Star Stream Administration Bureau.
 If sub-items were put in, it would 'unconditionally' spit out a top item. This would have a tremendous impact on the balance of the scenarios. Additionally, the price of one item box was a huge one million coins. The constellations had been angered by this ridiculous billing policy, so the stupid dokkaebi who invented this item got fired from the Administration Bureau.
 <@>[C-Constellations. It is like this… I don't know why it is here… H-Hihihit! Broadcast end!]
@@ -156,3 +158,5 @@ In this world, coins were power. A person with coins could obtain good items or 
 <!>[The constellation 'Prisoner of the Golden Headband' is watching your choice.]
 <!>[The constellation 'Demon-like Judge of Fire' is watching your choice.]
 …And I was currently the person with the highest number of coins in the station.
+
+***

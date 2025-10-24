@@ -85,7 +85,7 @@ setTimeout(() => {
     let type = scriptElement.dataset.type;
     localStorage.setItem("lastread", String(index))
     localStorage.setItem("lasttype", String(type))
-}, 60000);
+}, 10000);
 
 function classChangeTheme(elementClass, elemetTheme) {
     let element = document.getElementsByClassName(elementClass)
@@ -402,6 +402,63 @@ document.addEventListener('DOMContentLoaded', function () {
     settingsForm.addEventListener('reset', function (event) {
         setTimeout(applySettings, 0);
     });
+
+    const scriptElement = document.getElementById('main-script');
+    if (!scriptElement) {
+        console.error("Element #main-script not found.");
+        return;
+    }
+    const index = scriptElement.dataset.index;
+    const type = scriptElement.dataset.type;
+    const scrollKey = `scrollY_${type}_${index}`;
+
+    try {
+        const savedScroll = localStorage.getItem(scrollKey);
+        if (savedScroll !== null) {
+            window.scrollTo(0, parseInt(savedScroll, 10));
+        }
+    } catch (e) {
+        console.error('Error restoring scroll:', e);
+    }
+
+    function saveScrollPosition() {
+        try {
+            localStorage.setItem(scrollKey, window.scrollY);
+
+            const SCROLL_HISTORY_KEY = `scroll_history_${type}`;
+            const MAX_HISTORY_SIZE = 5;
+
+            let history = JSON.parse(localStorage.getItem(SCROLL_HISTORY_KEY)) || [];
+
+            history = history.filter(key => key !== scrollKey);
+
+            history.unshift(scrollKey);
+
+            while (history.length > MAX_HISTORY_SIZE) {
+                const oldestKey = history.pop();
+                localStorage.removeItem(oldestKey);
+            }
+
+            localStorage.setItem(SCROLL_HISTORY_KEY, JSON.stringify(history));
+        } catch (e) {
+            console.error('Error saving scroll:', e);
+        }
+    }
+
+    function debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    }
+
+    window.addEventListener('scroll', debounce(saveScrollPosition, 500));
+    window.addEventListener('beforeunload', saveScrollPosition);
 });
 
 
@@ -469,11 +526,12 @@ function findChapter() {
     let chSearchresult = []
 
     for (let i = 0; i < ChapterList.length; i++) {
-        let title = String(ChapterList[i].title).toLowerCase();
+        let displayTitle = String(ChapterList[i].title)
+        let title = displayTitle.toLowerCase();
         let chSearchindex = title.indexOf(chapter.toLowerCase());
         let index = ChapterList[i].index;
         if (chSearchindex !== -1) {
-            chSearchresult.push(`<div class="chapter_item"><a href="./ch_${index + 1}"><p>${title}</p></a></div>`);
+            chSearchresult.push(`<div class="chapter_item"><a href="./ch_${index + 1}"><p>${displayTitle}</p></a></div>`);
         }
 
     }
@@ -483,3 +541,45 @@ function findChapter() {
         chapterSearch.innerHTML = `<div class="chapter_item"><p>Chapter not found</p></div>`;
     }
 }
+
+
+
+let wakeLock = null;
+
+async function requestWakeLock() {
+  try {
+    wakeLock = await navigator.wakeLock.request('screen');
+    console.log('Wake Lock is active!');
+
+    wakeLock.addEventListener('release', () => {
+      console.log('Wake Lock was released.');
+      wakeLock = null;
+    });
+  } catch (err) {
+    console.error(`Failed to acquire wake lock: ${err}`);
+  }
+}
+
+async function releaseWakeLock() {
+  if (wakeLock) {
+    await wakeLock.release();
+    wakeLock = null;
+    console.log('Wake Lock released.');
+  }
+}
+
+// Request wake lock when the page loads
+window.addEventListener('load', requestWakeLock);
+
+// Request wake lock when the page is navigated back to
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') {
+    requestWakeLock()
+  }
+});
+
+// Release wake lock when the page is unloaded (navigated away from or closed)
+window.addEventListener('beforeunload', releaseWakeLock);
+
+// Optional: Release wake lock on history navigation
+window.addEventListener('popstate', releaseWakeLock);

@@ -16,8 +16,7 @@ I pulled out another Great Return Pill, turned it to powder and poured it into h
 Yoo Joonghyuk was betting everything into this round. He decided to forsake the premise that it was okay to fail a few times and to remain in this world. Perhaps he had lost consciousness but Yoo Joonghyuk didn't say anything else. Instead, the stories wrapped around Yoo Joonghyuk's body shone brightly.
 <!>[The story 'Life and Death Companions' wants to continue.]
 Life and Death Companions. It was a story that didn't exist for Yoo Joonghyuk in the original novel.
-<&>「 "What is your relationship with Yoo Joonghyuk?"」
-"We are life and death companions. 」
+<&>「 "What is your relationship with Yoo Joonghyuk?"<br>"We are life and death companions. 」
 It was at Chungmuro. It was clearly the conversation I had with Gong Pildu. I couldn't help laughing. Now we would really live together or die together.
 I ran while holding on tightly to Yoo Joonghyuk. My party members shouting in the distance could be seen.
 I felt a hot heat behind me. Together with a fierce wind, fireballs narrowly brushed over my head. The chasing constellations were already right behind me.
@@ -47,7 +46,8 @@ Demon King Asmodeus laughed cheerfully. Arrows of light struck all over his body
 <@>[I'm happy! This is fun!]
 Many constellations lost their incarnation bodies due to the Bloody Grip. However, there were still many constellations remaining.
 The demon kings were basically existences equal to narrative-grade constellations. Normal constellations were unknown but there was no chance for Asmodeus to win against one of the Lokapala, Surya.
-Surya opened his mouth like he couldn't understand. [I wonder why, Devil of Lust and Wrath.]
+Surya opened his mouth like he couldn't understand.
+<@>[I wonder why, Devil of Lust and Wrath.]
 There was the sound of a giant drum bursting in the distance. Perhaps the constellations chasing the Demon King of Salvation were having the final showdown.
 Surya couldn't understand it.
 Why were these humans still resisting? Why was a demon king taking sides with a human?
@@ -61,9 +61,10 @@ Asmodeus made a big fuss at the words.
 <@>[Hahahaha! Surya! You must've lost your eyes from all the light pouring out! I told you before. If you want to enjoy the stories for a long time, take good care of your eyesight.]
 <@>[…I admit that the child is a good one among the new stars. However, it is a normal level in the Star Stream. He doesn't yet have a myth-grade story.]
 Surya frowned as his status spread out.
-Asmodeus was still laughing. [A myth-grade story… you have lived for a long time but you are still judging the stories by that?]
-<!>[It is only human history. No evaluation is needed.]
-<!>[All stories eventually depart from history.]
+Asmodeus was still laughing.
+<@>[A myth-grade story… you have lived for a long time but you are still judging the stories by that?]
+<@>[It is only human history. No evaluation is needed.]
+<@>[All stories eventually depart from history.]
 <@>[…Asmodeus, you played around in the Gourmet Association and now you're saying this. Then do you want to keep going? You will eventually lose your incarnation body.]
 <@>[Well, I suppose. But before that… The constellation was narrowing the distance one step at a time and Asmodeus suddenly opened his mouth. By the way Surya, why are you obsessed with the Demon King of Salvation?]
 <@>[…Obsessed? What do you mean?]
@@ -73,7 +74,8 @@ Asmodeus was still laughing. [A myth-grade story… you have lived for a long ti
 <@>[…]
 <@>[At this point, I want to ask something. Why are you doing this?]
 Surya had no words for a moment. There was a subtle emotion on his face. Surya hurriedly raised his right hand as if to hide his feelings. It was a sign for the constellations to attack. At this moment,
-Asmodeus said, [Wait, ahaha… hahaha. I see. Surya…]
+Asmodeus said,
+<@>[Wait, ahaha… hahaha. I see. Surya…]
 <@>[…]
 <@>[You… I heard about what happened at the Gourmet Association.]
 Surya's raised hand stopped.
@@ -92,9 +94,9 @@ A cloud of dust obscured the view of the constellation. The astonished constella
 <@>[You…?]
 Han Myungoh was running while carrying him. One arm and a part of Han Myungoh's left arm had disappeared from the constellations' attacks.
 <img>[270 - Han Myungoh was running while carrying him.jpg][]
-*
 <?>* Official novel illustration (canonical)
-Asmodeus muttered with a bemused expression. [Why…]
+Asmodeus muttered with a bemused expression.
+<@>[Why…]
 He knew the identity of this person but Asmodeus couldn't understand why this person came here. Han Myungoh might be a member of his household but this loyalty…
 Han Myungoh strongly hugged Asmodeus without answering. A blind and big heart could be felt. The emotions weren't directed at Asmodeus.
 Asmodeus smiled as he was held in Han Myungoh's arms.
@@ -140,7 +142,7 @@ Goosebumps covered his entire body. It was the reason why a reply didn't come fr
 <!>[The Unidentified Wall says, "It is an existence higher than me."]
 He didn't know who it was. However, Jang Hayoung could see what he had to do now. "Send them. Right now! Send all of them!"
 The Unidentified Wall was silent for a moment.
-<@>[The Unidentified Wall is sighing. "Don't regret it."]
+<!>[The Unidentified Wall is sighing. "Don't regret it."]
 The next moment, his head was going to burst from the pain.
 <!>[124 messages have been sent.]
 Like water being discharged from a damn, numerous messages were released from Jang Hayoung and flew through the sky. Time passed. One minute, two minutes… Jang Hayoung stared up at the sky without releasing the string of hope.

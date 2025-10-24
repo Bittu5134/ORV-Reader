@@ -1,8 +1,6 @@
 <title>Ch 37: Ep. 9 – Omniscient Sunfish, I
 After a while, we moved towards the entrance of the 'hidden dungeon' on the first underground floor. I walked behind Lee Jihye, Lee Gilyoung and Jung Heewon while looking at my smartphone.
-<&>「…In the midst of the splitting headache, Yoo Joonghyuk came to his senses.」
-'Give up on this life'.
-This was the end of Yoo Joonghyuk's eighth life. 」
+<&>「…In the midst of the splitting headache, Yoo Joonghyuk came to his senses. <br>'Give up on this life'.<br>This was the end of Yoo Joonghyuk's eighth life. 」
 It couldn't be. This hadn't happened yet.
 …Shit, why was this guy doing this on only the third life? If he moved carefully like his second life, he would've passed through the mid-to-late scenarios.
 I raised my eyes to see Jung Heewon looking at me.
@@ -39,7 +37,7 @@ The problem was that this ability invoked complicated thoughts in the surroundin
 <&>「By the way, what happens to the world after you return? 」
 A supporting actor had asked this of Yoo Joonghyuk when Yoo Joonghyuk's number of lives had broken into the double digits. I forgot his name but Yoo Joonghyuk's answer from that time was clear.
 <&>「 …I also don't know. I always choose a world where more people can live. 」
-It was plausible but in fact, Yoo Joonghyuk didn't know about the world he abandoned. In face, there was no definite theory about what happened to the world in Ways of Survival.
+It was plausible but in fact, Yoo Joonghyuk didn't know about the world he abandoned. In fact, there was no definite theory about what happened to the world in Ways of Survival.
 Science, magic, whatever.
 This was why I was anxious. What happened to the world after the regressor disappeared?
 Would it reset with the regression? Or would a parallel universe branch off? The latter would be fortunate, but if it was the former…
@@ -158,3 +156,5 @@ A T-rex was approaching quickly. The island's central laboratory was seen behind
 This was a movie. A movie that the master of Theater Dungeon made into reality.
 Therefore, there was only one way to escape from here.
 "Let's make a great ending."
+
+***

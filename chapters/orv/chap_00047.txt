@@ -13,7 +13,7 @@ Lee Hyunsung asked, "Who are these people? What happened?"
 "Even Dokja-ssi doesn't know…"
 Lee Hyunsung gulped nervously. Fortunately, the flag holder of Myeongdong Station was empty.
 <!>[Currently there is no group occupying Myeongdong Station.]
-<@>[Are you sure you want to take over the station?]
+<!>[Are you sure you want to take over the station?]
 I plugged the flag into the flag holder and pulled it out again. Then a flag that was the same as mine appeared in the flag holder.
 <!>[You have occupied Myeongdong Station.]
 <!>[A station that has been occupied can't be taken from you unless the 'main base' or flag is taken away.]
@@ -98,7 +98,7 @@ I vaguely heard someone moaning.
 …Was this okay? Well, it should be fine.
 Jung Heewon looked at my face and said, "Good job. I felt that Yoo Sangah had been a bit depressed."
 "I didn't select Yoo Sangah-ssi because I was thinking of her emotions. I thought Yoo Sangah-ssi would do really well."
-"…Ah, is that so? Then please me something later. It should fit me."
+"…Ah, is that so? Then please make me something later. It should fit me."
 "How about an executioner?"
 "…Forget it."
 Jung Heewon grumbled and turned her head away. It was good after all the jokes she played.
@@ -178,3 +178,5 @@ The man stumbled like he had been shocked. He hesitated for a moment before turn
 "…I'm sorry, what is your name?"
 I glanced at Jung Heewon and Lee Hyunsung once. Then I smiled and said towards the man. I spoke in my coldest and heaviest voice.
 "I am Yoo Joonghyuk."
+
+***

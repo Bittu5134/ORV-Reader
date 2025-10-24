@@ -23,7 +23,7 @@ Reviving from death was completely different to recovering from a serious wound.
 <!>[Physique and magic power has increased by 1 each.]
 There was even a resurrection bonus. This was why 'King of No Killing' was a scam. In all of Ways of Survival, Selena Kim of the United States was the only one who obtained this attribute.
 <!>[Current karma points: 0/100]
-<@>[Fill up the points for your next resurrection.]
+<!>[Fill up the points for your next resurrection.]
 <!>[One karma point will be obtained every time you save someone's life.]
 The privilege of the King of No Killing was 'resurrection'. Of course, it wasn't unconditionally resurrection. Karma points were necessary. It was fortunate that the first resurrection started with 100 points.
 Kyaooooh!
@@ -125,7 +125,7 @@ Kuoooooh!
 The lesser dragon roared and breathed out fire. Once this action was over, the Flames of Destruction phase would being.
 Let me think. I was a 'reader'. There would be an answer in what I had read.
 <!>[Due to the effect of your exclusive attribute, memories from the books you have read will become stronger.]
-The pages flashed in my head. The lesser dragon's attacls. There was some information in the 12th, 14th and 17th regressions. Now these things were given to me.
+The pages flashed in my head. The lesser dragon's attacks. There was some information in the 12th, 14th and 17th regressions. Now these things were given to me.
 "Dokja-ssi, quickly…!"
 I slowly closed my eyes.
 Then.
@@ -209,3 +209,5 @@ It was a reckless challenge. This time I really almost died.
 <!>[Some low-grade dokkaebi have requested a 'probability' request from the Administration Bureau.]
 The intermediate dokkaebi was staring down at me quietly.
 Anyway, now was the time for sweet rewards.
+
+***

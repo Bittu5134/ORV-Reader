@@ -46,7 +46,8 @@ The time of transcendence was opening.
 <&>「 That's right. 」
 Yoo Joonghyuk kept wielding his sword. It was a swordsmanship that was more unrefined than earlier.
 The trajectory was immature and clumsy. The Breaking the Sky Swordsmanship that was on the verge of completion was falling apart again.
-Yoo Joonghyuk asked, 「 Can I become this powerful after going through 41 rounds? 」
+Yoo Joonghyuk asked,
+<&>「 Can I become this powerful after going through 41 rounds? 」
 <&>「 To be exact, it was only this much. 」
 In order to transcend transcendence, one must have the courage to abandon the framework.
 Like an architect breaking the castle because of a window frame, a persistent obsession and desire for perfection became the key to open a new transcendence.
@@ -59,7 +60,7 @@ Perhaps this was my role. Once he reached a certain phase of his life, Yoo Joong
 I couldn't be the protagonist. I couldn't save someone else. Still, at least I knew the story and could tell the story. All the strokes of the spear contained the sentences I read.
 From the terrible 3rd round through to the 41st round. In addition, the 1863rd round that was like hell. I read every sentence without fail.
 –Ahhhhhhh!
-Within the clash, Yoo Joonghyuk was living different threats. Just as I lived through Ways of Survival, Yoo Joonghyuk experience a life he hadn't lived. Yoo Joonghyuk of the 3rd round was growing thanks to the 41st round.
+Within the clash, Yoo Joonghyuk was living different threats. Just as I lived through Ways of Survival, Yoo Joonghyuk experienced a life he hadn't lived. Yoo Joonghyuk of the 3rd round was growing thanks to the 41st round.
 <!>[The character 'Yoo Joonghyuk' is staring at the story of Hell of Eternity.]
 Human beings couldn't be saved by others. They could only save themselves. The thing I could do for others was to play the role of a bridge at best.
 "All of you have failed." Yoo Joonghyuk said. "I won't listen to the advice of those who have failed."
@@ -69,7 +70,7 @@ Yoo Joonghyuk was frustrated but he didn't give up. Even if the despair didn't s
 "No." Finally, he surpassed himself. "I am Yoo Joonghyuk."
 The explosion scattered through every corner of the room.
 <!>[The story 'Hell of Eternity' has finished.]
-The burning hell disappeared and the bloody scent became dull. In the dirt and the dust, the blade of the Black Heavenly Demon Sword touched my throat. At almost the same time, the Unbroken Faith that I stretched out and reached his chest.
+The burning hell disappeared and the bloody scent became dull. In the dirt and the dust, the blade of the Black Heavenly Demon Sword touched my throat. At almost the same time, the Unbroken Faith that I stretched out reached his chest.
 <!>[The constellation 'Maritime War God' truly feels admiration.]
 <!>[The constellation 'One who Overcomes the Late Trials' is paying tribute to you.]
 <!>[The constellation 'Last Hero of Hwangsanbeol' admires the true confrontation.]
@@ -79,7 +80,7 @@ The star rolling on the ground shone brightly.
 <!>[The scenario's time limit has ended.]
 Like a blessing, the star burst apart in the air and scattered a silver light. We looked up blankly at the light.
 <!>[The room star has failed to be acquired.]
-<@>[Nobody hurt their companion.]
+<!>[Nobody hurt their companion.]
 The 46th main scenario, Proof of the Stars. The scenario could be cleared properly when all the participants didn't harm each other.
 <!>[You have proven your 'trust'.]
 However, those who had reached the 46th scenario didn't think it could be cleared this way.
@@ -128,6 +129,6 @@ They were all modifiers difficult to gather in one place. I fixed my gaze on one
 The two most terrible constellations I knew. The incarnations of these constellations were fighting.
 Abyssal Black Flame Dragon and Demon-like Judge of Fire.
 A dokkaebi's laugh was heard.
-<@>[The wrong that was wrongly assigned will probably end in a bland way.]
+<@>[The room that was wrongly assigned will probably end in a bland way.]
 There was an explosion of red magic power and everything in the room burned. Pale shadows shook in the hazy field of view.
 Flesh was sharply torn and blood flowed. Someone's body was slowly falling down in the smoke.

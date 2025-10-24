@@ -51,8 +51,7 @@ Exclusive Skills: Sage's Eye Lv. 1, Hand to Hand Combat Lv. 1, Weapons Training 
 Stigma: Regression Lv. 3
 Overall Stats: Physique Lv. 24, Strength Lv. 24, Agility Lv. 25, Magic Power Lv. 23.
 +
-Yoo Joonhyun laughed as he confirmed his status window.
-"Huhu, I finally got Sage's Eye. I am lucky this regression." 」
+<&>「Yoo Joonhyun laughed as he confirmed his status window.<br>"Huhu, I finally got Sage's Eye. I am lucky this regression." 」
 I read up to there and looked at the frozen Han Sooyoung.
 "Don't you have a conscience?"
 "…What?"
@@ -190,3 +189,5 @@ Han Sooyoung worried for a moment before saying,
 "In my eyes, he… 'partially got off at 173'."
 At this moment, Song Minwoo sniffed and he turned his head this way. His yellow eyes seemed to be saying, 'I found you'.
 He fell to the ground on all fours and started rushing to this side.
+
+***

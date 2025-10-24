@@ -58,14 +58,14 @@ My father was a bad person. I knew it, my mother knew it and South Korea's laws 
 At this point, it already wasn't a normal conversation between mother and son. This was why I didn't want to talk to her. I knew what would happen when we talked. We knew too much about how to hurt each other.
 I changed the topic. "Do you know why I was looking for you?"
 "Why don't you tell me?"
-"I can tell when you are lying, so stop beeing coy."
+"I can tell when you are lying, so stop being coy."
 My mother smiled lightly.
 "You have prisoner №406, right? Lend that old woman to me."
 "…Wouldn't it be better to take the incarnation with Jeon Woochi as a sponsor than this grandmother? I have many useful incarnations."
 "Jeon Woochi's incarnation is your companion. Besides, the grandmother will be of more help."
 My mother stared at me for a moment before nodding. "Certainly, she might be useful because of the opponents. By the way, how do you know the sponsor of №406?"
 "I can't say."
-"Do you have a skill that lets you sponsors?"
+"Do you have a skill that lets you see sponsors?"
 I couldn't say anything to my mother. "Are you going to lend her to me?"
 "I'll lend her. Instead…"
 I was a bit afraid of what she would say next. My mother would probably suggest a deal I couldn't imagine at all. She said with a faint smile, "Next time, introduce me to your friends."
@@ -133,7 +133,6 @@ The kind Yoo Sangah would grieve knowing that it was impossible for her to under
 Then something small and soft gripped my hand. The texture was so warm that I forgot what I was about to say. For a while… I stopped walking.
 Yoo Sangah wasn't looking at me. Thus, I wasn't looking at her either. We walked hand in hand without facing each other. It was as if this alone was sufficient. Strangely, my heart gradually calmed.
 <img>[119 - Yoo Sangah wasn't looking at me. Thus, I wasn't looking at her either.jpg][]
-*
 <?>* Official novel illustration (canonical)
 <!>[The exclusive skill, 'Fourth Wall' is shaking faintly.]
 Perhaps it was due to the realistic body temperature.
@@ -153,7 +152,7 @@ Like other prisoners, the grandmother was wearing a blue prison uniform. She was
 Sookyung was my mother's name. I looked around at the party members and said, "She is indeed the person I called for. Let's depart."
 We exited Yongsan Station and went to a place where people were gathered. Yoo Joonghyuk's party and the kings were already gathered there.
 A white crystal slowly fell from the Great Hole in the sky. It was a crystal that shone with light.
-<@>[Warp Crystal.]
+<!>[Warp Crystal.]
 This was the item we would use to go to the next scenario area.
 
 ***

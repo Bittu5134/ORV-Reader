@@ -22,7 +22,7 @@ The door of the elevator that resembled a huge crystal ball was opened and Perse
 Persephone laughed as if she understood my heart.
 <@>[I'm glad you are alive. Last time you were an incarnation and now you are a constellation.]
 "I'm still a newbie. I'm not sure it is okay for me to come here."
-I meant to be humble by Persephone's expression hardened at my words.
+I meant to be humble but Persephone's expression hardened at my words.
 <@>[What do you think my position is in the Gourmet Association? Is it hard to take in a new member?]
 "That's not what I meant…"
 <@>[I'm just joking.]
@@ -33,7 +33,7 @@ Maybe she knew. In fact, the condition of attending the Gourmet Association was 
 Persephone's obsidian eyes were sparkling.
 <@>[How much is your status now? It can't be narrative-grade.]
 Perhaps the other constellations didn't know that I was narrative-grade. I thought for a moment before replying, "I will be on the second floor at the next constellation banquet."
-Persephone's eyes widened at my eyes. She guessed I would be historical-grade at most. It was quite pleasurable to see the queen of the Underworld look so embarrassed. However, there was also deep concern mixed in her eyes.
+Persephone's eyes widened at my answer. She guessed I would be historical-grade at most. It was quite pleasurable to see the queen of the Underworld look so embarrassed. However, there was also deep concern mixed in her eyes.
 <!>[There will be constellations who feel jealous of you.]
 "…"
 <!>[Some constellations will try to draw you to their side.]
@@ -50,7 +50,7 @@ The door of the elevator opened with a ding and Persephone disappeared into the 
 Some constellation glanced at me when I got off but the interest soon disappeared. It was rather fortunate. It would be hard to move if excessive interest was poured towards me.
 Just as on the first floor lobby, there were no constellations who existed as symbolic bodies. Everyone was a humanoid or living being of this world. There wasn't a single constellation here conscious about using probability.
 Some of the constellations that occupied the banquet hall looked like those I read about in Ways of Survival. The first one to stand out was the man in a Viking outfit that occupied the centre of the banquet hall. It would be stranger if I didn't recognize him with the giant hammer on his back.
-<!>[The best of the first generation stories is naturally the 'Dragon Eating the Hammer'.]
+<@>[The best of the first generation stories is naturally the 'Dragon Eating the Hammer'.]
 The constellation of the nebula Asgard, Thursday's Thunder was speaking in an excited voice. Then a woman replied from the other side.
 <@>[What do you mean? The best is obviously the 'Children of Dawn'. The rating is also the highest.]
 She was a goddess wearing a white dress embroidered with stars. If I remembered correctly, she was a constellation of the Guardian Tree nebula, the 'Morning Star Goddess'.
@@ -87,7 +87,8 @@ In fact, it was a story that didn't fit the Gourmet Association that I knew. The
 <@>[That's right. Keke. I show it every year. I just wanted to know one more person to know the story. It is a really nice and fun story but I don't know how to say it.]
 "That feeling, I understand it."
 Somehow, I was glad. I also posted about Ways of Survival on every community site I went to while reading it. Most people just swore at me but… in any case, this old man was similar to me.
-The old man sighed and added, [These guys just scoff if I recommend it. The younger ones already have high eyes… they are busy with the first generation stories.]
+The old man sighed and added,
+<@>[These guys just scoff if I recommend it. The younger ones already have high eyes… they are busy with the first generation stories.]
 It was a really unexpected remark. Certainly, there was an uptight part to the Gourmet Association. The higher their position in the Star Stream, the stronger the tendency.
 At this time, the mutters of passing constellations were heard.
 <@>[The steady person is here again.]
@@ -95,7 +96,9 @@ At this time, the mutters of passing constellations were heard.
 …Steady person? It seemed to be a nickname for the old man by my side. I recalled that there was a constellation with a similar nickname in Ways of Survival…
 <@>[Get this thing off! It isn't a story and should fuck off!]
 At this moment, the star rating attached to the Legend of the Legendary Return from Another World changed.
++
 ★ 1.3/5 -> ★ 1.1/5
++
 The rating became lower. It was obvious who was doing it.
 <@>[T-These guys!]
 It was the so-called 'star point terror'. The old man screamed at the disappearing constellations. I thought I understood the old man's feelings and brought a hand to the star point section.
@@ -107,4 +110,5 @@ The old man was startled by my words. He licked his lips a few times before murm
 "It's nothing."
 Everyone would think like me if they endured a story like Ways of Survival. The old man's mood relaxed and he smiled at me.
 <@>[You seem to be good company. What's your modifier? I didn't have a chance to ask.]
-Was this going to be a good story? I smiled and declared, [I am the Demon King of Salvation.]
+Was this going to be a good story? I smiled and declared,
+<@>[I am the Demon King of Salvation.]

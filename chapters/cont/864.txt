@@ -3,10 +3,10 @@ The moment I activated the skill, my hand bounced off with a strong spark.
 <!>[Cannot tame the target!]
 <!>[Insufficient communication with the target!]
 <!>[Insufficient understanding of the target!]
-Even though I was Gilyeong who cleared the last scenario, the target I was trying to tame right now was none other than the 'King of Fear'. A transcendent being whose rank could not be measured at a glance.
+Even though I was Gilyeong who cleared the Last Scenario, the target I was trying to tame right now was none other than the 'King of Fear'. A Transcendent being whose rank could not be measured at a glance.
 However, there was a countermeasure.
 <!>[Exclusive skill, 'Incite Lv.???', is activated!]
-<!>[Incite, which had been trained to the limit through the 40th 'Time Fault'.]
+<&>「Incite, which had been trained to the limit through the 40th 'Time Fault'.」
 I added the power of [Strengthening Sentences] to it.
 <&>「I am Lee Gilyeong.」
 Then the voice that had been fluttering in my head like an insect's wings became clearer.
@@ -22,12 +22,12 @@ Lee Gilyeong had been enduring that kind of life to get back just one person.
 <!>[The effect of the exclusive skill, 'Incite', affects the exclusive skill, 'Bookmark'.]
 <!>[Additional skills are activated!]
 <!>[Exclusive skill, 'Advanced Multi-species Interaction Lv.???', is activated!]
-<!>[Advanced Multi-species Interaction. Taming Scalp that increases the probability of Taming by interacting with the target.]
-The moment the golden thread flowing from my fingertips touched the second Kim Dokja, the entire Fear Realm screamed loudly.
+<&>「Advanced Multi-species Interaction. Taming Scalp that increases the probability of Taming by interacting with the target.」
+The moment the golden thread flowing from my fingertips touched the Second Kim Dokja, the entire Fear Realm screamed loudly.
 The universe was connected.
 ***
 There was a boy. He was a boy who loved reading books.
-The boy especially liked novels, and among them, he cherished the story of a regressor.
+The boy especially liked novels, and among them, he cherished the story of a Regressor.
 <&>「"I am Yoo Joonghyuk."」
 The boy liked that line from the protagonist.
 A person who proudly says his name anytime, anywhere.
@@ -52,10 +52,10 @@ Instead, the boy said this.
 "Because I'm not the main character."
 As the boy read the book, he discovered characters like himself one by one.
 <&>「"Captain, I wanted to be like you too."」
-<&>「"But I couldn't. No matter how hard I tried, I couldn't be like the captain."」
-<&>「"But even in that kind of country, please come back again in the next round. If you keep trying, you might become one someday."」
+<&>「"But I couldn't. No matter how hard I tried, I couldn't be like the Captain."」
+<&>「"But even in that kind of country, please come back again in the next Round. If you keep trying, you might become one someday."」
 Although they couldn't become the main character, there were many characters who lived hard. From important supporting characters, to minor supporting characters, to extras who didn't even have names.
-<&>「"I definitely want to be of help to you in the next round."」
+<&>「"I definitely want to be of help to you in the next Round."」
 Countless characters who said similar lines and died.
 <&>「"I'll definitely kill you."」
 The boy liked their stories as much as the main character's. In that sense, it was fortunate for the boy that 'Ways of Survival' was a very long and rambling novel.
@@ -69,7 +69,7 @@ He knew it. Even so, it was not easy to accept that fact.
 Although it was not 'Ways of Survival', he felt that way even more after seeing the end of another novel. The boy trembled with fear as he imagined the characters in the novels he loved dying over time.
 <&>「What if 'Ways of Survival' ends like this?」
 The boy carefully imagined the ending of the story.
-Will the villain meet a villainous end? Will the supporting characters find their respective roles? Will Yoo Jung-hyuk finally figure out what his ■■ is?
+Will the villain meet a villainous end? Will the supporting characters find their respective roles? Will Yoo Joonghyuk finally figure out what his ■■ is?
 Will they eventually be happy?
 And will he, who watches them, be satisfied with that?
 Only after thinking that far did the boy realize.
@@ -79,22 +79,22 @@ Isn't a happy ending an illusion that doesn't exist? In the end, isn't the endin
 It's okay if today's chapter is sad. It's okay if tomorrow's chapter, and the chapter after that, are sad. If only that sadness can postpone the ending.
 And so, if only he can live forever dreaming of a 'happy ending'.
 <!>[The 'King of Fear' begins to dream.]
-The first 'time fault' was born at that very moment.
+The first 'Time Fault' was born at that very moment.
 The ability to fix the coordinates of a story and make it a kind of eternity.
 Stories that were not recorded or disappeared were piled up one by one in the fault.
 A warehouse that stores disappearing stories. Even if this story ends, it's a place where the story will never be forgotten.
 <&>「The 'Fear Realm' originated from such a dream of Kim Dokja.」
-There, the second Kim Dokja stockpiled and stockpiled stories. Ignoring even the fight between his brothers, perhaps to avoid participating in that fight, he hid himself even more in the time fault, absorbed in collecting the disappearing stories.
+There, the Second Kim Dokja stockpiled and stockpiled stories. Ignoring even the fight between his brothers, perhaps to avoid participating in that fight, he hid himself even more in the Time Fault, absorbed in collecting the disappearing stories.
 And there was a 'fighter' who protected him.
-<!>[You were here, Kim Dokja.]
-The fighter who came across the world line recognized the second Kim Dokja at a glance, and the second Kim Dokja also recognized who the fighter was.
-The second Kim Dokja asked.
+<@>[You were here, Kim Dokja.]
+The fighter who came across the world line recognized the Second Kim Dokja at a glance, and the Second Kim Dokja also recognized who the fighter was.
+The Second Kim Dokja asked.
 'Can you protect me?'
-<!>[For how long?]
+<@>[For how long?]
 'Until the day I can think of a happy ending.'
-<!>[Okay. If you think of it, tell me. I want to write it on the 'wall' too.]
-The second Kim Dokja dreamed of a happy ending while collecting the sadness scattered throughout the world.
-Looking at the disappearing stories, remembering the characters who died without being recorded as 'fears', the second Kim Dokja imagined a happy ending.
+<@>[Okay. If you think of it, tell me. I want to write it on the 'wall' too.]
+The Second Kim Dokja dreamed of a happy ending while collecting the sadness scattered throughout the world.
+Looking at the disappearing stories, remembering the characters who died without being recorded as 'Fears', the Second Kim Dokja imagined a happy ending.
 But no matter how many stories he collected and recorded, a 'happy ending' never came to mind. A 'happy ending' felt like a concept from another universe that he couldn't imagine.
 Then one day, he came to visit.
 <#>【Of course. There's no way for everyone to be happy.】
@@ -107,25 +107,25 @@ Why does a 'main character' exist in this world? Why should someone be the main 
 And yet, why does he like this story with a main character?
 <#>【There is a way not to be sad.】
 'What is it?'
-<!>[Closing the 'book' that this story is written in.]
+<#>【Closing the 'book' that this story is written in.】
 Closing the book.
-The second Kim Dokja tilted his head and asked.
+The Second Kim Dokja tilted his head and asked.
 'How?'
-<#>【Make the entire <Star Stream> a 'fear'. Incorporate the entire universe into your dream.】
+<#>【Make the entire <Star Stream> a 'Fear'. Incorporate the entire universe into your dream.】
 The man grinned, revealing his white teeth.
 <#>【Then this world will be 'fixed' forever without heading to the end.】
 An eternal postponement of the end.
-The second Kim Dokja thought for a moment and said.
+The Second Kim Dokja thought for a moment and said.
 'If the story stops, it will also lose its meaning as to who the main character is.'
 <#>【That's right.】
 'Then my brothers won't fight anymore.'
-<!>[That's right.]
-The second Kim Dokja smiled brightly.
+<#>【That's right.】
+The Second Kim Dokja smiled brightly.
 'I will do that.'
 Then the warrior asked.
-<!>[Kim Dokja. Is that really what you want?]
-When the second Kim Dokja nodded, the warrior smiled and answered.
-<!>[Yes, I understand.]
+<@>[Kim Dokja. Is that really what you want?]
+When the Second Kim Dokja nodded, the warrior smiled and answered.
+<@>[Yes, I understand.]
 Soon, the sound of a book closing was heard.
 ***
 I retched and was thrown out of the air. It was a very short moment, but it felt like I had vividly experienced a part of his history. Blood poured out of my mouth, and a message was heard.
@@ -137,16 +137,16 @@ It felt like someone was grabbing my brain with both hands and squeezing it.
 Just having my mind connected would make me go crazy. My consciousness kept getting more and more confused.
 <!>[Exclusive skill, 'Fourth Wall', is strongly activated!]
 <&>「(Come to your senses!)」
-First, it was the voice of Kim Dokja — 'Demon King of Salvation'.
-<&>「(If you get hit here, it's all over, youngest.)」
+It was the voice of First Kim Dokja — 'Demon King of Salvation'.
+<&>「(If you get hit here, it's all over, Youngest.)」
 I know. But there was nothing I could do. Even the trump card, 'Insect King Lee Gilyeong', was not working.
 If things continued like this, the entire world line would become a 'Fear'.
 I opened my mouth to somehow prevent that situation.
 "I understand how you feel."
-Now I understand why the second Kim Dokja created the 'Fear Realm'.
+Now I understand why the Second Kim Dokja created the 'Fear Realm'.
 "But this is not it."
 I also understand where his end came from.
-He will make the entire <Star Stream> into a 'Fear Realm'. If that happens, the main character will disappear from this world. Me, Yoo Joonghyuk, and the other characters will all become part of the 'Fear' and will be stuffed forever as a legend in the fault.
+He will make the entire <Star Stream> into a 'Fear Realm'. If that happens, the main character will disappear from this world. Me, Yoo Joonghyuk, and the other characters will all become part of the 'Fear' and will be stuffed forever as a legend in the Fault.
 Then the fighting will stop.
 But that will stop this story forever. No one will know the ending of the story covered in thick binding.
 "You liked this story, right?"
@@ -155,21 +155,21 @@ But that will stop this story forever. No one will know the ending of the story 
 This is a story for one reader.
 "We made it together."
 The protagonist is not the protagonist from the beginning. It is only when there is a 'reader' who reads the protagonist and wants to become the protagonist that he becomes the protagonist.
-Is it because [Advanced Multi-species Communication] worked? For the first time, I felt like the second Kim Dokja was looking back at me. Then a voice came into my head.
-<&>「If this story continues, one of us has to become the 'protagonist'.」
+Is it because [Advanced Multi-species Communication] worked? For the first time, I felt like the Second Kim Dokja was looking back at me. Then a voice came into my head.
+<&>「If this story continues, one of us has to become the 'Protagonist'.」
 "…"
-<&>「Because this world is now a story for 'one reader'.」
+<&>「Because this world is now a story for 'One Reader'.」
 I couldn't bring myself to refute that statement.
-The second’s words are what I thought. If this world continues, Kim Dokja will eventually have to kill Kim Dokja.
-The fact that, just like other Kim Dokja fragments, the stories that seek to hide the 'one and only Kim Dokja' will continue.
+The Second’s words are what I thought. If this world continues, Kim Dokja will eventually have to kill Kim Dokja.
+The fact that, just like other Kim Dokja fragments, the stories that seek to hide the 'One and Only Kim Dokja' will continue.
 <!>[The story, 'Heir of the Eternal Name', stirs.]
-The second Kim Dokja said.
+The Second Kim Dokja said.
 <&>「I'm trying to stop that story.」
 Is it because of [High-level Multi-species Communication] that I'm being persuaded by his story right now?
-For a moment, that thought crossed my mind. Wouldn't it be better if everything turned into 'fear' just like he thought? Is the 'ending' that we have to see while enduring all the tragedies that lie ahead really meaningful?
+For a moment, that thought crossed my mind. Wouldn't it be better if everything turned into 'Fear' just like he thought? Is the 'ending' that we have to see while enduring all the tragedies that lie ahead really meaningful?
 <&>「Do you really think the story will stop when you close the book?」
 That wasn't the voice of the 'King of Fear'.
-I felt goosebumps running down my spine. There was someone else in the snowfield.
+I felt goosebumps running down my spine. There was someone else in the Snowfield.
 I saw Baekcheong’s strong energy cutting through the air with a clear sword sound.
 <&>「Everything is already written, and it is being written at the same time.」
 A pure white coat fluttering. His sword traced a trajectory with a faint smile, just like the day we first met.

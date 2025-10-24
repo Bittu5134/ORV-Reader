@@ -157,3 +157,5 @@ I stepped on the back of the collapsed Gong Pildu and took the white flag.
 <!>[You have pulled the white flag from the flagpole.]
 <!>[You have become the 'representative' of Chungmuro.]
 <!>[You are qualified to walk the 'King's Road'.]
+
+***

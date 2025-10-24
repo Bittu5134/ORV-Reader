@@ -90,7 +90,8 @@ The dokkaebi showed up in the darkness. I didn't know his name but he seemed to 
 "Right now, you are taking Bihyung's place. Don't you see the constellations complaining?"
 <!>[The constellation 'Prisoner of the Golden Headband wants to scold the dokkaebi 'Biryu'.]
 <!>[The constellation 'Demon-like Judge of Fire' threatens the dokkaebi 'Biryu'.]
-The dokkaebi Biryu gulped. […O-Okay. Instead, it is just this once. I think it will be interesting!]
+The dokkaebi Biryu gulped.
+<@>[…O-Okay. Instead, it is just this once. I think it will be interesting!]
 The dokkaebi muttered something and the summoning began.
 <!>[The item has arrived from the exchange.]
 <!>[The item 'Broken Faith' has been acquired.]
@@ -99,7 +100,8 @@ Broken Faith. The item bartered for the 'ichthyosaur core', which was registered
 "Kik."
 The dark keeper saw the item coming out of thin air and laughed. No wonder it was laughing. All I received was a D-grade item. It was a knife broken in half.
 <!>[The item is too old to use. The durability will be poor and it will be difficult to achieve any performance.]
-Even the dokkaebi who gave him the item was giggling. [H-How can you fight with that old thing? And it can't be used if you don't have a special skill…]
+Even the dokkaebi who gave him the item was giggling.
+<@>[H-How can you fight with that old thing? And it can't be used if you don't have a special skill…]
 I knew that much. I wouldn't have bought it if I didn't know.
 "Sigh…" I sucked in a breath and concentrated my mind.
 Kiiing!
@@ -125,3 +127,5 @@ On the other side of my field of view was Lee Gilyoung. The young boy looked at 
 This was what it meant. I gave an answer in a light manner.
 "I usually read a lot of books."
 I knew more about this world than anyone else.
+
+***

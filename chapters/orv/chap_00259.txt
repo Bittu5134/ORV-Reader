@@ -8,7 +8,7 @@ The constellations chasing after us stopped one by one in distant places and all
 <!>[Some constellations who failed to chase you are disappointed.]
 <!>[The constellation 'Prisoner of the Golden Headband' is yawning and asking if it is all over.]
 <!>[The constellation 'Demon-like Judge of Fire' is rejoicing with sleepy eyes!]
-<!>[The constellation 'Dragon Lying Down' is nodding at you ploy.]
+<!>[The constellation 'Dragon Lying Down' is nodding at your ploy.]
 <!>[Some constellations are pointing fingers at your cowardice.]
 It didn't matter if they pointed fingers or not. The most important thing was to survive. Dokgak stared down at me with disapproving eyes and sent me compensation.
 <!>[You have obtained 200,000 coins as compensation.]
@@ -27,6 +27,7 @@ Yip…
 Moisture filled the big dog's eyes.
 <!>[The constellation 'Demon-like Judge of Fire' is looking pitifully at the 'Dog Who Threw Himself into the Flames'.]
 The real name of the Dog Who Threw Himself into the Flames was the Dog of Osu¹. In order to save his master from dying of fire, the dog wet his body and used it to extinguish the fire. Unfortunately, even this name wasn't his actual name.
+<?>[1] The Dog of Osu is an old Korean folktale about a loyal dog that sacrificed himself to save his owner's life.
 "…Are you going to follow me?"
 Yiiip!
 I hesitated for a moment. Come to think of it, things would be hard for this dog even if he split from me.
@@ -44,7 +45,7 @@ The Dog Who Threw Himself into the Flames licked Jang Hayoung's hand. Jang Hayou
 I wanted to tell the truth but decided to say it roughly. "Osu."
 <!>[You have given a name to the Dog Who Threw Himself into the Flames.]
 <!>[The Dog Who Threw Himself into the Flames is greatly impressed.]
-<@>[The loyalty of the Dog Who Threw Himself into the Flames has greatly increased!]
+<!>[The loyalty of the Dog Who Threw Himself into the Flames has greatly increased!]
 …If I had known, I would've given him a better name. Jang Hayoung carefully examined Osu's body and was delighted.
 "This is great. Sajeo will like you."
 I was about to ask who 'Sajeo' was when I realized.
@@ -66,8 +67,8 @@ I could feel the mood just be looking at the beings entering the channel.
 The constellations I had met also appeared in the high skies.
 I tried to relax as I looked up at them in the sky. I had finally come to this place. There were still many scenarios remaining and they were far away. Nevertheless, it wasn't a long way off now. At the very least, I came to a place where these lofty constellations were located in this mountain range.
 <!>[The 25th main scenario has arrived!]
-<!>[Excessive skipping of the main scenario has damaged party of your status.]
-I didn't carry out the scenarios in the 20s. I started to 25th scenario straight away so it was unavoidable that there would be a loss in probability.
+<!>[Excessive skipping of the main scenario has damaged part of your status.]
+I didn't carry out the scenarios in the 20s. I started the 25th scenario straight away so it was unavoidable that there would be a loss in probability.
 <!>[The Main Scenario ― 'Demon King Selection' has started!]
 +
 [Main Scenario #25 - Demon King Selection]
@@ -97,19 +98,20 @@ Along with Bihyung's words, a large hologram of a 'stage' appeared on the screen
 There was exaggerated applause as the map created by the Mass Production Maker appeared on the hologram.
 <!>[The game 'Mythical Battlefield' is loaded!]
 The map was a vast forest area with huge cliffs at the edges. The forest zone contained patterns of the 'industrial complex' in the east, west, north and south, which probably signified the starting points of each industrial complex.
-<!>[As you might have expected, this 'selection' isn't simply a hit and run fight. It will be held in the form of a 'team competition', with each team being an industrial complex.]
+<@>[As you might have expected, this 'selection' isn't simply a hit and run fight. It will be held in the form of a 'team competition', with each team being an industrial complex.]
 Some of the constellations were surprised by the dokkaebis' words and sent indirect messages. Of course, I wasn't surprised. I knew it well through the original novel.
 <@>[The rules of the game are simple. All participants can make a team of seven people, including themselves.]
-<!>[Every team member is given a different position and will play a role in the scenario through that position.]
+<@>[Every team member is given a different position and will play a role in the scenario through that position.]
 It was similar to the so-called AOS games that were once popular on Earth. One tanker, two close range damage dealers, two long range damage dealers and one supporter. Finally, one all-rounder.
-T
-his was the game― the Mythical Battlefield where seven people teamed up to fight.
+This was the game― the Mythical Battlefield where seven people teamed up to fight.
 <!>[The constellation 'Mass Production Maker' is smiling.]
 As a matter of fact, this game was made of elements that had been stolen from somewhere…
-The dokkaebi's words continued. [There are two ways to win the game. One is to annihilate the participants of other teams apart from your own. The second way is to take away the 'sentence' of the other team. Well, there will be more details once you join the game… rather, there is one more important announcement.]
+The dokkaebi's words continued.
+<@>[There are two ways to win the game. One is to annihilate the participants of other teams apart from your own. The second way is to take away the 'sentence' of the other team. Well, there will be more details once you join the game… rather, there is one more important announcement.]
 Bihyung glanced at me after long words.
 <@>[A total of four teams were originally scheduled to participate in this selection competition but one of the industrial complexes almost collapsed before the game started.]
-I felt uneasy for a moment. Bihyung continued. [To consider the fairness of the game, we have decided to tie two comparatively unfavourable industrial complexes together into one team.]
+I felt uneasy for a moment. Bihyung continued.
+<@>[To consider the fairness of the game, we have decided to tie two comparatively unfavourable industrial complexes together into one team.]
 Then I heard a message in the air.
 <!>[You are currently a participant of the Yoo Joonghyuk - Kim Dokja Industrial Complex.]
 It was an unexpected situation. I had been worried about Yoo Joonghyuk's team so now I was able to reduce my troubles. Perhaps it was Bihyung's doing.

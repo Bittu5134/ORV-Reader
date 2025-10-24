@@ -1,7 +1,7 @@
 <title>Ch 109: Ep. 22 – Three Promises, I
 The Executive Branch's emergency arrest.
 According to Ways of Survival, an emergency arrest was only possible when a dokkaebi acted in a manner that severely violated the probability of a scenario.
-<!>[Intermediate dokkaebi 'Paul'. From now on, you will be led to the Executive Branch. You will remain silent about all scenarios and be deprived of all progress in the main scenarios.]
+<@>[Intermediate dokkaebi 'Paul'. From now on, you will be led to the Executive Branch. You will remain silent about all scenarios and be deprived of all progress in the main scenarios.]
 The expression of the intermediate dokkaebi Paul kept changing.
 <!>[You will lose the achievement points of all the scenarios you have built up and will be demoted to a low-grade dokkaebi after your punishment…]
 <@>[D-Demoted? Wait! Wait a minute!]
@@ -41,7 +41,8 @@ However, no constellations answered.
 The numerous indirect messages from the constellations died out.
 <@>[Unbelievable… Why?]
 All the constellations who supported his development had left the Korean channels.
-The executive frowned. [You stupid fool. Can't you see that the constellations are gone?]
+The executive frowned.
+<@>[You stupid fool. Can't you see that the constellations are gone?]
 Many of the constellations who wanted to kill me and who instigated him had left the Korean peninsula in large numbers once it turned into a 'drama'.
 It was natural. It was strange to keep watching when an unwanted development occurred. In fact, Bihyung's channel lost close to a third of its subscribers.
 The remaining ones were:

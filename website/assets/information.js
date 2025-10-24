@@ -1,4 +1,5 @@
 let ChapterList = [];
+let ongoing = false;
 const script = document.getElementById('main-script');
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -28,7 +29,9 @@ function addAllChapters() {
             ChapterList.push(...data);
             ChapterList = ChapterList.slice().sort((a, b) => b.index - a.index)
             console.log("Chapters loaded:", ChapterList);
-            displayChapters();
+            if (ongoing){
+                // ChapterList.reverse();
+                displayChapters();}else{filter()}
         })
         .catch(error => {
             console.error('There was a problem with the fetch operation:', error);
@@ -46,7 +49,7 @@ function addMeta() {
         .then(data => {
             const info = document.getElementsByClassName("status")[0];
             console.log(data);
-            
+            if (data.status === "Ongoing"){ongoing=true}
             info.innerHTML = `
             <p>${data.title}</p>
             <p>Author: ${data.author}<br>
@@ -57,8 +60,6 @@ function addMeta() {
             console.error('There was a problem with the fetch operation:', error);
         });
 }
-
-addMeta();
 
 function displayChapters() {
     let chapterSearch = document.getElementById("chapter-result");
@@ -94,11 +95,12 @@ function findChapter(value) {
 
     for (let i = 0; i < ChapterList.length; i++) {
 
-        let title = String(ChapterList[i].title).toLowerCase();
+        const displayTitle = String(ChapterList[i].title);
+        let title = displayTitle.toLowerCase();
         let chSearchindex = title.indexOf(value.toLowerCase());
         let index = ChapterList[i].index;
         if (chSearchindex !== -1) {
-            chSearchresult.push(`<div class="chapter_item"><a href="./read/ch_${index + 1}"><p>${title}</p></a></div>`);
+            chSearchresult.push(`<div class="chapter_item"><a href="./read/ch_${index + 1}"><p>${displayTitle}</p></a></div>`);
         }
     }
     chapterSearch.innerHTML = chSearchresult.join("");
@@ -109,5 +111,6 @@ function findChapter(value) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
+    addMeta();
     addAllChapters();
 });

@@ -1,67 +1,52 @@
 <title>601 Episode 10. Writer (2)
-
 I looked around the theater.
 There were seventeen people waiting on the first floor of the basement.
 At first glance, they were not ordinary people.
 <!>[Someone has used 'Sneak Peek' on you!]
 <!>[Someone has used 'Attribute Detection' on you!]
 Detection skill messages flew in as if they'd been waiting for me.
-They weren't as high-level detection skills as Yoo Joonghyuk's [Sage's Eye], but they weren't
-easy to get at this early stage. Readers, too, are out of the ordinary.
+They weren't as high-level detection skills as Yoo Joonghyuk's [Sage's Eye], but they weren't easy to get at this early stage. Readers, too, are out of the ordinary.
 <!>['Sneak Peek' failed for an unknown reason!]
 <!>['Attribute Detection' failed for an unknown reason!]
 Of course, they didn't work on me.
-I don't know why it didn't work on me. Come to think of it, I can't even see my own 'Attribute
-Window', so it would be odd if they can see it.
+I don't know why it didn't work on me. Come to think of it, I can't even see my own 'Attribute Window', so it would be odd if they can see it.
 Maybe I do have a [Fourth Wall] after all.
 'Fourth Wall.'
 I called out inside, but there was no response.
 I'm strong-minded, so maybe I just blocked them with my mind?
 "Ugh."
-Anyway, I noticed those who were affected by the rebound of the skill. There were two people
-who had a strange reaction.
-
-One was an old man leaning against a stall with a pipe in his mouth, and the other was a woman
-with a long cheolgon[3] on her back.
+Anyway, I noticed those who were affected by the rebound of the skill. There were two people who had a strange reaction.
+One was an old man leaning against a stall with a pipe in his mouth, and the other was a woman with a long cheolgon¹ on her back.
+<?>[1] 철곤: I think it's something like an iron rod.
 Perhaps they were the ones who had just used the detection skills.
 I quickly checked their information using the [Readers' Comments List].
 <!>[Checking the reader's profile information.]
-
 +
-
 ID: barampoong
 Platform: Textia
 Total Comments: 31
 Reader Level: 35
-Number of Reads: 6 times
-
+Number of Reads: 6
 +
-
++
 ID: strawberry1137
 Platform: Series
 Total Comments: 112
 Reader Level: 46
 Number of Reads: 8
-
 +
-
 The old man is 0.06 of Killer King.
 The woman is 0.08 of Killer King.
-
-Somehow, I ended up evaluating all readers based on Killer King.
+Somehow, I ended up evaluating all readers based on Killer King.
 I looked at the other readers one by one.
-The man standing over there is 0.005 of Killer King, the one next to him is 0.001 of Killer King,
-the other next to them is 0.0006 of Killer King...... There were quite a few people who didn't
-finish the novel.
+The man standing over there is 0.005 of Killer King, the one next to him is 0.001 of Killer King, the other next to them is 0.0006 of Killer King...... There were quite a few people who didn't finish the novel.
 Other than that, I didn't see anyone with a particularly impressive number of reads.
 Everyone's working hard.
 "Isn't that Lee Jihye?"
 Someone muttered in a low voice.
 I looked back at Lee Jihye with a sense of regret.
-Lee Jihye couldn't help but stand out, even if they didn't know anyone else. She was described in
-a novel.
-A hood zipped-up and a ponytail. She carried a long sword. Plus, she has a cute face, so they
-couldn't help but notice.
+Lee Jihye couldn't help but stand out, even if they didn't know anyone else. She was described in a novel.
+A hood zipped-up and a ponytail. She carried a long sword. Plus, she has a cute face, so they couldn't help but notice.
 "Hmm?"
 Lee Jihye glared in the direction of the sound, and people quickly averted their eyes.
 Kyung Sein whispered to me.
@@ -69,48 +54,39 @@ Kyung Sein whispered to me.
 I shook my head.
 Kyung Sein is a friendly person, so he wouldn't have a problem getting to know them, but.......
 "We'd better be a little cautious here."
-So far, I've been lucky. Kyung Sein, Dansoo ahjussi and Ye Hyunwoo. They've all been good
-people.
-But Killer King's advice is right. As he said, there was no guarantee that every reader would be a
-good person.
+So far, I've been lucky. Kyung Sein, Dansoo ahjussi and Ye Hyunwoo. They've all been good people.
+But Killer King's advice is right. As he said, there was no guarantee that every reader would be a good person.
 <!>[Oh, that's a lot of people now.]
 The theater doors at the back slammed shut, and the voice of a dokkaebi called out from the air.
-
-the first floor.]
+<!>[Now that the last of you have entered...... Those of you still in the basement, please come up to the first floor.]
 'Theater Dungeon' is a hidden scenario.
 Originally, the dokkaebi wouldn't intervene.
 "There are more people upstairs. We should be careful."
 At Dansoo ahjussi's words, we exchanged a quick glance and went up to the first floor.
 As we entered the lobby, the first thing we saw was a dokkaebi in a suit.
-<!>[Welcome. My name is Paul, I'm an intermediate goblin.]
+<!>[Welcome. My name is Paul, I'm an intermediate dokkaebi.]
 The intermediate dokkaebi Paul.
-He appeared in the Omniscient Reader. Messing up the 'Disaster of the Floods' scenario, getting
-beaten up by Kim Dokja, and being exiled.
+He appeared in Omniscient Reader. Messing up the 'Disaster of the Floods' scenario, getting beaten up by Kim Dokja, and being exiled.
 It felt strange to run into him in the 41st turn.
-anymore.]
+<!>[Hmph...... So many people came here this time. We can't even call it a 'hidden scenario' anymore.]
 By now, there were at least 40 people in the lobby on the first floor.
-already pretty far upstairs.]
+<!>[And you guys are a little late. A few hours ago, the people who discovered this theater went already pretty far upstairs.]
 A screen floated up on the lobby ceiling.
 The screen showed the other incarnations attacking the upper levels of the theater dungeon.
 —What the hell, it's no big deal, right?
-A young man chuckling and slashing at zombies in the movie, his hair dyed white and a tattered
-school uniform. A dark aura wrapped around a sharp knife.
+A young man chuckling and slashing at zombies in the movie, his hair dyed white and a tattered school uniform. A dark aura wrapped around a sharp knife.
 I realized who he was.
 <&>「Kim Namwoon.」
-I wasn't the only one who recognized him. Some people covered their mouths to hide their
-surprise, others widened their eyes.
+I wasn't the only one who recognized him. Some people covered their mouths to hide their surprise, others widened their eyes.
 —Hey, soldier, hurry up and follow me. I'll go up before the captain. If you delay me.......
 The 41st turn Kim Namwoon was still Kim Namwoon.
-
-I could see some readers smiling faintly. Others stiffened their expressions.
+I could see some readers smiling faintly. Others stiffened their expressions.
 Both reactions were understandable.
-That 'Kim Namwoon' was definitely the Kim Namwoon we know, and therefore a Kim
-Namwoon that was extremely dangerous.
+That 'Kim Namwoon' was definitely the Kim Namwoon we know, and therefore a Kim Namwoon that was extremely dangerous.
 —Namwoon-ssi. This stage is not just about killing zombies.......
 I could tell even though it was just a voice.
 It was the unmistakable Lee Hyunsung.
-The readers' expressions changed one by one. They could finally meet another member of the
-Kim Dokja's Company.
+The readers' expressions changed one by one. They could finally meet another member of the Kim Dokja's Company.
 It was then that Kim Namwoon's scream rang out.
 —Uaaaak! What!
 The screen shook ominously.
@@ -125,11 +101,11 @@ Paul laughed in amusement. There was a mild commotion in the lobby.
 I could see where they were coming from.
 The 'white coat' is too symbolic an item in Omniscient Reader.
 "Inho-ssi. That's Kim Dokja, right?"
-Kyung Sein whispered. Her[1] eyes shook with anticipation.
+Kyung Sein whispered. Her² eyes shook with anticipation.
+<?>[2] They used "her" now so I'll go back to she/her unless stated otherwise.
 <&>「There might be a Kim Dokja somewhere in this world.」
 I can understand that. I don't think there's a reader here who doesn't expect that.
-
-I steeled myself and said.
+I steeled myself and said.
 "This is the 41st turn."
 "Well, but what if something happens that we don't know about, and there's a Kim Dokja here—"
 "Maybe."
@@ -148,59 +124,45 @@ I wondered who 'that guy' was and asked.
 "No, what—"
 I looked at Paul, the intermediate dokkaebi.
 He had to show the video of the upper floors at this time.
-And he's adding psychological pressure by emphasizing that we're 'late'. Normally, this would
-have been an unnecessary performance.
+And he's adding psychological pressure by emphasizing that we're 'late'. Normally, this would have been an unnecessary performance.
 That said.
-upper floors.]
+<!>[As you can see, no matter what you do now, you can't keep up with the incarnations of the upper floors.]
 Maybe there's a new scenario I'm not aware of.
 <!>[That's why I've organized an event specifically for the latecomers.]
-
-[The constellation 'Prisoner of the Golden Headband' wonders what that is.]
+<!>[The constellation 'Prisoner of the Golden Headband' wonders what that is.]
 <!>[A constellation who hasn't revealed their modifier is curious.]
 <!>[The constellation 'Rice Cake-Eating Tiger' worries about the incarnations.]
 From the looks of it, I can guess what he's trying to do.
-That damned intermediate-grade dokkaebi had started playing games with the owner of this
-'Theater Dungeon'.
+That damned intermediate-grade dokkaebi had started playing games with the owner of this 'Theater Dungeon'.
 <!>[Read the scenario description for yourself for more details.]
 <!>[A new sub scenario has arrived!]
-
 +
-
-<Sub Scenario — Departure of the Cinema Trip>
+[Sub Scenario — Departure of the Cinema Trip]
 Category : Sub
 Difficulty: B
-Clear Conditions: The staircase of the 'Cinema Trip' will open in the Theater Dungeon.
-You can use the 'Cinema Trip' to quickly catch up to the starters.
-Roll the dice, clear the stages, and complete the 'Theater Dungeon' faster than the starters.
+Clear Conditions: The staircase of the 'Cinema Trip' will open in the Theater Dungeon. You can use the 'Cinema Trip' to quickly catch up to the starters. Roll the dice, clear the stages, and complete the 'Theater Dungeon' faster than the starters.
 Time Limit: —
 Reward: ???
 Failure: —
-
 +
-
++
 * You can team up with up to 3 players to start your 'Cinema Trip'.
-*From the 1st floor to the 8th floor, every 'staircase' you can step on hides a [Normal Stage],
-
-* Each stage has a certain probability of a mission associated with a specific 'movie', and
-completing that mission awards a 'dice'.
+*From the 1st floor to the 8th floor, every 'staircase' you can step on hides a [Normal Stage], [Bonus Stage], and [Trap Stage] respectively.
+* Each stage has a certain probability of a mission associated with a specific 'movie', and completing that mission awards a 'dice'.
 * You can climb stairs equal to the number of eyes rolled on the 'dice'.
-
 +
-
 I roughly understood the scenario.
 So, it's a kind of movie version of a 'board game'.
-We're the pieces of the board game in groups of three, and we roll the dice, and if we get a high
-number, we go up the stairs. If you get stuck on a stage, you have to complete a mission.
-If this is a scenario where you're trying to catch up to the upper incarnations, the stages will be
-much shorter than the movie.
-"It's like Bl⬛Mar[2], right? Ugh, the filtering."
+We're the pieces of the board game in groups of three, and we roll the dice, and if we get a high number, we go up the stairs. If you get stuck on a stage, you have to complete a mission.
+If this is a scenario where you're trying to catch up to the upper incarnations, the stages will be much shorter than the movie.
+"It's like Bl■Mar³, right? Ugh, the filtering."
+<?>[3] Blue Marble Game is a Korean board game similar to Monopoly (Wikipedia).
 Both Kyung Sein and Dansoo ahjussi seemed to have figured out what the game was about.
 So did other readers.
 After all, there's no one in Korea who doesn't know this game.
 <!>[I'll give you 10 minutes to form teams.]
 The incarnations looked at each other in unison.
-Those who already had teams seemed intent on participating as they were, while others looked
-around frantically.
+Those who already had teams seemed intent on participating as they were, while others looked around frantically.
 —The two next to you. They're Jung Heewon and Lee Jihye, right?
 A voice in my ear made me look around.
 <!>[Full Voice.]
@@ -208,42 +170,32 @@ I didn't realize that someone had already bought the skill.
 —Don't look around.
 A high-pressure tone.
 I scanned the area out of the corner of my eye.
-
-[Full Voice] is a skill that seals sound with magic and transmits it.
+[Full Voice] is a skill that seals sound with magic and transmits it.
 The user of this skill couldn't help but move their lips.
-—I don't know how you got the S-grade characters already, but come join our group. There are
-three of us. Some of us have contracts with narrative-grade constellations, and some of us have
-S-grade items.
+—I don't know how you got the S-grade characters already, but come join our group. There are three of us. Some of us have contracts with narrative-grade constellations, and some of us have S-grade items.
 S-grade items and narrative-grades constellations.
 Not a bad offer.
 If only it hadn't been for the words that followed.
-—You, Lee Jihye and Jung Heewon. I'll take up to three. We can split into two teams and go up
-together.
-It didn't take me long to find the user of [Full Voice], the woman with the cheolgon on her back
-who had used [Attribute Detection] on me.
+—You, Lee Jihye and Jung Heewon. I'll take up to three. We can split into two teams and go up together.
+It didn't take me long to find the user of [Full Voice], the woman with the cheolgon on her back who had used [Attribute Detection] on me.
 —Please think about it and answer quickly. Remember, this is real life, not fiction.
 Nickname strawberry1137.
 8 reads.
 I don't know how she could be so confident after reading Omniscient Reader 8 times.
 But then I heard another [Full Voice].
 —Do you want to team up?
-This time, it was the old man. I could tell just by looking at him. He was the only one mumbling
-as if he were ventriloquizing.
+This time, it was the old man. I could tell just by looking at him. He was the only one mumbling as if he were ventriloquizing.
 Nickname barampoong.
 6 reads.
-—There are two of us. We're fewer in number, but as you can see, I have [Full Voice] and one Sgrade skill. I think you're five...... Why don't you join forces with us?
+—There are two of us. We're fewer in number, but as you can see, I have [Full Voice] and one S-grade skill. I think you're five...... Why don't you join forces with us?
 Again, not a bad offer.
 By the way, there was already a behind-the-scenes war of nerves, they were meticulous people.
 However, they weren't the only readers.
 "Excuse me......."
-
-He raised his hand cautiously, he wore a faded sweatshirt and clutched a toothless sword. He
-looked around, wondering how he'd gotten here.
+He raised his hand cautiously, he wore a faded sweatshirt and clutched a toothless sword. He looked around, wondering how he'd gotten here.
 He glanced around and asked the innocent question I wished he hadn't.
 "H-has anyone read Omniscient Reader?"
-There was a collective sigh of despondency. Judging by the looks on people's faces, he was
-going to have a hard time finding teammates. It was then that a group of people walked out from
-the stalls in the back of the lobby.
+There was a collective sigh of despondency. Judging by the looks on people's faces, he was going to have a hard time finding teammates. It was then that a group of people walked out from the stalls in the back of the lobby.
 "What are you all shaking about? I don't think there's anyone here who hasn't read the novel."
 A group of five men and women.
 They were the ones I hadn't yet used [Readers' Comments List] on.
@@ -252,11 +204,9 @@ The man who seemed to be the leader of the group spoke up.
 Several of us gasped at the man's attire.
 A white coat and long sword.
 Obviously, he wasn't Kim Dokja.
-"We're not here to fight amongst ourselves, are we? Isn't the purpose to work together to clear
-the dungeon? I'm sure you all received the scenario at the Banquet."
+"We're not here to fight amongst ourselves, are we? Isn't the purpose to work together to clear the dungeon? I'm sure you all received the scenario at the Banquet."
 He used his deep voice to dominate the room. He was a good talker.
-"I don't think you're all planning on getting blown to bits. Have you forgotten what kind of world
-this is?"
+"I don't think you're all planning on getting blown to bits. Have you forgotten what kind of world this is?"
 The mood turned sour, and the cheolgon woman, who had been listening silently, asked.
 "What are you up to?"
 "You mean me?"
@@ -264,11 +214,9 @@ The man smirked, as if he were Kim Dokja.
 "I'm closer to being a 'Kim Dokja' than anyone else in the world right now."
 The cheolgon woman smirked.
 "You?"
-
-"Yes."
+"Yes."
 "Are you that confident?"
-Indeed, the cheolgon woman, who had read Omniscient Reader 8 times, arrogantly drew out her
-cheolgon.
+Indeed, the cheolgon woman, who had read Omniscient Reader 8 times, arrogantly drew out her cheolgon.
 Then the man laughed.
 "I'm not just talking about skill."
 He drew the sword at his waist.
@@ -291,14 +239,12 @@ The man smiled faintly at her, then slowly turned around.
 "W-who are you. You're not even the real Kim Dokja."
 "Of course I'm not Kim Dokja."
 The man laughed, looking a little sad.
-
-"Probably even 'Kim Dokja' wouldn't know more about this world than I do?"
-The man, who had overwhelmed everyone in the room with his performance, casually revealed
-his identity.
+"Probably even 'Kim Dokja' wouldn't know more about this world than I do?"
+The man, who had overwhelmed everyone in the room with his performance, casually revealed his identity.
 "I'm the one who wrote 『Omniscient Reader's Viewpoint』."
+
+***
 
 Author's Note
 It's not us.
-+) Readers, we're really sorry. Due to our scheduling mistake, the upload of the series on Munpia
-was late. ᅮᅮ We will be careful not to do this next time.
-
+Readers, we're really sorry. Due to our scheduling mistake, the upload of the series on Munpia was late. ᅮᅮ We will be careful not to do this next time.

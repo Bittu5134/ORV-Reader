@@ -10,11 +10,17 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     file_index = int(file.replace(".txt",""))-1
     with open(f"./chapters/side/{file}", "r", encoding="utf-8") as f:
         textStr = f.read()
+        def replace_match(match):
+            original_tag = match.group(0)
+            return f"&lt;{original_tag[1:-1]}&gt;"
+
+        pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^>]{1,})(?=[^>]*\w)[^>]*?>'
+        textStr = re.sub(pattern, replace_match, textStr)
         text = textStr.split("\n")
 
     with open("website/stories/side/read/template.html","r",encoding="utf-8") as f:
         template = f.read()
-    
+
     html = []
 
     skip_line = 0
@@ -70,6 +76,8 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
             line = re.sub(r"<#>", '<div class="orv_outergod"><p>', line)
             html.append(f"{line}</p></div>")
         elif line.startswith("<&>"):
+            line = re.sub(r"\s*「\s*", "「 ", line)
+            line = re.sub(r"\s*」\s*", " 」", line)
             line = re.sub(r"<&>", '<div class="orv_quote"><p>', line)
             html.append(f"{line}</p></div>")
         elif line.startswith("<?>"):
@@ -91,32 +99,49 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
         else:
             html.append(f'<p class="orv_line">{line}</p>')
 
+    # Get all chapter files to determine first and last
+    chapter_files = sorted([f for f in os.listdir("chapters/side") if f.endswith(".txt")])
+    chapter_numbers = [int(f.replace(".txt", "")) for f in chapter_files]
+    first_chapter_index = min(chapter_numbers) - 1
+    last_chapter_index = max(chapter_numbers) - 1
+    
+    # Handle Previous button
+    if file_index == first_chapter_index:
+        template = template.replace(r"{{PREV}}", "../")
+        template = template.replace(r"{{PREV-TEXT}}", "Home")
+        template = template.replace(
+            r"{{PREV-SVG}}",
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
+        )
+    else:
+        template = template.replace(r"{{PREV}}", f"ch_{file_index}")
+        template = template.replace(r"{{PREV-TEXT}}", "Previous")
+        template = template.replace(
+            r"{{PREV-SVG}}",
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>',
+        )
 
-        if file_index == 0:
-            template = template.replace(r"{{PREV}}", "..\\")
-            template = template.replace(
-                r"{{PREV-SVG}}",
-                '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z"/></svg>',
-            )
-        else:
-            template = template.replace(r"{{PREV}}", f"ch_{file_index}")
-            template = template.replace(
-                r"{{PREV-SVG}}",
-                '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>',
-            )
+    # Handle Next button
+    if file_index == last_chapter_index:
+        template = template.replace(r"{{NEXT}}", "../")
+        template = template.replace(r"{{NEXT-TEXT}}", "Home")
+        template = template.replace(
+            r"{{NEXT-SVG}}",
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg>',
+        )
+    else:
+        template = template.replace(r"{{NEXT}}", f"ch_{file_index+2}")
+        template = template.replace(r"{{NEXT-TEXT}}", "Next")
+        template = template.replace(
+            r"{{NEXT-SVG}}",
+            '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg>',
+        )
 
-        if file_index == len(os.listdir("chapters/orv")) - 1:
-            template = template.replace(r"{{NEXT}}", "../")
-            template = template.replace(
-                r"{{NEXT-SVG}}",
-                '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z"/></svg>',
-            )
-        else:
-            template = template.replace(r"{{NEXT}}", f"ch_{file_index+2}")
-            template = template.replace(
-                r"{{NEXT-SVG}}",
-                '<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg>',
-            )
+    while html and (html[-1] == "<br>" or html[-1] == "<hr>"):
+        html.pop()
+
+    html.append("<br>")
+    html.append("<hr>")
 
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"side/{file}")
@@ -129,6 +154,8 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
     template = template.replace(r"{{NEXT}}","")
     template = template.replace(r"{{PREV-SVG}}","")
     template = template.replace(r"{{NEXT-SVG}}","")
+    template = template.replace(r"{{PREV-TEXT}}", "")
+    template = template.replace(r"{{NEXT-TEXT}}", "")
     template = template.replace(r"{{INDEX}}", "")
 
 

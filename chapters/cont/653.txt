@@ -123,7 +123,7 @@ I advised, rubbing my temples lightly.
 It hurts my heart, but it was also true that Shin Yoosoung's help was essential to clear the final chapter of the scenario.
 Was Kim Dokja always with Shin Yoosoung in this mood?
 "Please be careful, brother!"
-Leaving behind the group of Geumho Station, who bowed their heads in unison, I entered the labyrinth with Shin Yooyoung.
+Leaving behind the group of Geumho Station, who bowed their heads in unison, I entered the labyrinth with Shin Yoosoung.
 <!>[You have entered the 'Star Labyrinth'.]
 As soon as I opened the door and entered, what I saw was a dark hallway reminiscent of a dungeon.
 Fortunately, there seemed to be no 'new hunter' like before.
@@ -148,7 +148,8 @@ Keeper?
 Are there even minotaurs?
 +
 2. The labyrinth is relocated every 3 hours, and when relocated, the entire labyrinth is engulfed in flames and the internal structure is changed.
-3. You can avoid the flames by entering the nearby 'Safe Area' when 'relocating'. You can choose to escape the labyrinth when entering the 'Safe Area'.
+3. You can avoid the flames by entering the nearby 'Safe Area' when 'relocating'. You can choose to escape the labyrinth when entering the 'Safe Area'
++
 Then, a timer appeared in front of my eyes.
 <!>[1 hour and 54 minutes left until relocation.]
 <!>[Look for a 'Safe Area'.]

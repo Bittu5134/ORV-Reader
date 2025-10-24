@@ -4,7 +4,7 @@ The Mythical Battlefield. The feature of this Mythical Battlefield was to virtua
 <!>[You have entered the Armageddon battlefield. The game will start after three minutes.]
 On one side of the sky, a stairway of heaven opened while the other side was a door of hell. If this was real, the archangels of Eden would've flocked to the staircase while the demon kings of the Demon Realm would've come out of the gate of hell.
 Fortunately, there was no such thing. This was a 'hypothetical stage'.
-The constellation 'Guardian of Youths and Travel' is frowning at the familiar stage.]
+<@>[The constellation 'Guardian of Youths and Travel' is frowning at the familiar stage.]
 <!>[The demon king 'Devil of Lust and Wrath' is showing hostility to 'Guardian of Youths and Travel'.]
 <!>[Many constellations and demon kings are confronting each other.]
 …I really hoped it wouldn't be a big deal.
@@ -23,13 +23,16 @@ This message appeared so Yoo Joonghyuk should be somewhere on the battlefield.
 Jang Hayoung asked, "Is this game on a battlefield of time and space? I've seen it. If the enemy's stronghold is destroyed…"
 "That's right. Still, it is a bit different."
 Usually, an AOS game ended when you captured the enemy's main base. This game was different.
+<?>[1] AOS-type games feature two teams controlling unique heroes who battle alongside waves of computer-controlled units to destroy the enemy’s main base across multiple lanes
 "We have to capture the 'sentence', not the base."
 "Sentence?"
 I pointed to the object that was in Han Myungoh's hand. It was a small monument shining with brilliant colours.
 "W-What is this?"
 "We have to protect that."
 The monument literally contained a small sentence.
++
 『 Messengers of Heaven, Gatekeeper of Hell. 』
++
 Han Myungoh was terrified and tried to hand over the monument to me. I pushed it with the palm of my hand and stated, "Department Head-nim should hold it. It is important to guard it well."
 "I-It is because it is important that Dokja-ssi should…!"
 "Department Head-nim should hold it because it is important. The sentence is usually held by the main participant. The enemies are expecting that."
@@ -81,9 +84,9 @@ Who would give strength to Samyeongdang? Surprisingly, messages were heard.
 It was literally a simple cheer.
 <@>[Ohhhhhh!]
 Soon after, the enemy appeared in front of him. Every constellation in an incarnation body was holding a weapon.
-<@>[General of Vanara.]
-<@>[Poked Out His Eyes.]
-<@>[Thunder Eating Bird.]
+<!>[General of Vanara.]
+<!>[Poked Out His Eyes.]
+<!>[Thunder Eating Bird.]
 There was a monstrous monkey dressed in armour with golden feathers. In addition, King Oedipus whom I once met… the constellations were encountered seemed to be from the Melledon Industrial Complex.
 It was a party where narrative-grade constellations were mixed. However, there was still a chance of winning because they had less insight into the game.
 <@>[Come on, you barbarians!]
@@ -115,7 +118,7 @@ It was a situation where Osu was clinging to a constellation. It was too late to
 "I-I'm sorry!"
 Then Han Myungoh suddenly committed an abrupt act. Han Myungoh cut off one of his legs.
 <!>[The character 'Han Myungoh' has activated 'One-Legged Swift Runner Lv. 10'.]
-…Oh, Han Myungoh had that damn stigma. Han Myungoh started running like an ostrich. Yes, it was all over if Han Myungoh so it was better for him to run away. By the way, that skill had already reached level 10.
+…Oh, Han Myungoh had that damn stigma. Han Myungoh started running like an ostrich. Yes, it was all over if Han Myungoh got caught so it was better for him to run away. By the way, that skill had already reached level 10.
 "Kim Dokja. Now what…?"
 I blocked Jang Hayoung and immediately jumped into the surrounding grass.
 <!>[You have concealed yourself in the nearby terrain.]

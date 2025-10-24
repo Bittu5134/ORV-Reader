@@ -151,3 +151,5 @@ For the next three hours, I sweated hard to learn the skill.
 It would be nice if the system had a message like 'Would you like to learn the skill?' but this wasn't possible. It was only possible to gain the skill by learning it directly.
 I had read the novel so I was able to follow Lycaon's movements a little bit. To be exact, I thought I was following it.
 Approximately one more hour passed. Lycaon hesitated before opening his mouth. "Protector. I'm sorry to say this but…"
+
+***

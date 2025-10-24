@@ -10,9 +10,16 @@ random.shuffle(api_keys)
 
 current_api_key_index = 0
 
+# with open("scripts/side/lines.txt", "r", encoding="utf-8") as f:
+#    lines = f.read().split("\n")
+#    if len(lines)== 0:
+#        exit(code=0)
+
 with open("scripts/side/lines.txt", "r", encoding="utf-8") as f:
     lines = f.read().split("\n")
-    if len(lines)== 0:
+    if lines[0] == "":
+        with open("scripts/side/lines.txt", "w", encoding="utf-8") as f:
+            f.write("\n")
         exit(code=0)
 
 def get_new_client():

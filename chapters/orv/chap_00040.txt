@@ -27,6 +27,7 @@ However, unlike what I hoped, the last poster was still intact.
 <!>[The screening will begin.]
 The blue spotlight covered the party and the scene changed. My head spun and a salty smell entered my nose.
 The stage was the sea. But… this time it wasn't a cruise ship. There was the smell of artillery. I could feel rough wood of the panokseon¹ deck.
+<?>[1]Panokseon (Korean: 판옥선) was a class of Korean oar- and sail-propelled ship that was the main class of warship used by Joseon during the late 16th century.
 The moment I turned my head on the shaky boat, I heard someone's voice.
 "Everybody, down—!"
 I reflexively fell down and there was a bombardment of gunfire around me. Tang tang tang tang― A few soldiers collapsed while bleeding.
@@ -51,7 +52,7 @@ I looked around and hurriedly exclaimed.
 
 ***
 
-I thought that this might happen. If fact, I brought Lee Jihye not just for her power but to consider the 'what if's'.
+I thought that this might happen. In fact, I brought Lee Jihye not just for her power but to consider the 'what if's'.
 <!>[The constellation 'Maritime War God' is sorry for Lee Jihye.]
 It wasn't difficult to find Lee Jihye. There was only one boat and the place where Duke of Loyalty and Warfare's messages could be heard was limited.
 "U-Uhhhh…"
@@ -66,15 +67,12 @@ She vomited once again.
 I knew. The reason why this person was chosen by Duke of Loyalty and Warfare, despite hating the sea.
 <!>[Due to the effect of your exclusive attribute, memories from the books you have read will become stronger.]
 In my head, a scene from the 40th chapter of Ways of Survival passed.
-<&>「 "Hey, how did she get chosen by the Duke of Loyalty and Warfare when she is afraid of the sea?"」
-"I don't know. Um… maybe because she has the admiral in her ancestry?"
-"…She is the descendent of the Duke of Loyalty and Warfare? 」
+<&>「 "Hey, how did she get chosen by the Duke of Loyalty and Warfare when she is afraid of the sea?"<br>"I don't know. Um… maybe because she has the admiral in her ancestry?"<br>"…She is the descendent of the Duke of Loyalty and Warfare? 」
 There was considerable criticism from a few readers apart from me who made it to the 40th chapter of Ways of Survival.
 No, did it make sense for her to have the blood of the great Duke of Loyalty and Warfare?
 But I had read all the chapters except for the epilogue of Ways of Survival so I knew. Lee Jihye wasn't of the bloodline of the Duke of Loyalty and Warfare.
 <!>[The constellation 'Maritime War God' misses his old friend when he sees 'Lee Jihye'.]
-<&>「 "Then are you a Lee from the Deoksu clan?"」
-"No, I am a Jeonju Lee." 」
+<&>「 "Then are you a Lee from the Deoksu clan?"」<br>"No, I am a Jeonju Lee." 」
 <!>[The constellation 'Maritime War God' looks at the descendant of an old friend.]
 Lee Jihye was the descendant of Lee Eokgi, the companion of the Duke of Loyalty and Warfare.
 Duke of Firmness and Compassion, Lee Eokgi.
@@ -151,7 +149,6 @@ Lee Jihye held the hilt of her sword and looked at the sea. There were many enem
 A radiant beam emerged from the end of her sword.
 <!>[The character 'Lee Jihye' has activated the stigma 'Ghost Fleet Lv. 1!]
 <img>[040 - The character 'Lee Jihye' has activated the stigma 'Ghost Fleet Lv. 1!.jpg][]
-*
 <?>* Official novel illustration (canonical)
 Water vapor rose in the area. Water sprayed all over the place and 12 ghost ships appeared in the sea.
 "Get revenge on the enemies."
@@ -200,6 +197,3 @@ When I thought about all those who would suffer if he died, my anger soared. For
 I ran towards Yoo Joonghyuk and hit him in the back of the head.
 
 ***
-
-
-

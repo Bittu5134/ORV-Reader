@@ -5,38 +5,46 @@ It seemed Fourth Wall blocked not just the skills of an incarnation but the dokk
 "Forget about it."
 <@>[P-Please wait! I can do it. U-Uh. What if I do this?]
 "You can't do it."
-<@>[Kuaaack! Bihyung screamed like he had received an electric shock. The white fluffy hair on his skin was burned black. T-This! This!]
+<@>[Kuaaack!]
+Bihyung screamed like he had received an electric shock. The white fluffy hair on his skin was burned black.
+<@>[T-This! This!]
 "It's okay. If you can't do it then stop. I will ask for another favour."
 <@>[This can't be! I am Dokkaebi Bihyung. If I can't solve this situation, the honor of the dokkaebi―]
 I looked at the clock. It had been an hour since the ichthyosaur ate. There was no time to waste time like this.
 "The Dokkaebi Bag."
-Bihyung stopped his useless action of digging at the air. [What?]
+Bihyung stopped his useless action of digging at the air.
+<@>[What?]
 "Open the Dokkaebi Bag."
 <@>[…How do you know about that?]
 "Are you going to open it?"
 <@>[Only an incarnation with a sponsor can use the Dokkaebi Bag…]
 "It is true that all incarnations that use the Dokkaebi Bag have a sponsor, but there is no rule that an incarnation without a sponsor can't use the Dokkaebi Bag."
-<@>[…Wait a minute. Bihyung pulled out a manual and confirmed it. At this point, I don't know if I am a dokkaebi or you are. Are you actually a dokkaebi?]
-The smiling Bihyung raised both hands. […Okay, there is no problem if you use it. However, the Dokkaebi Bag can only be used when the channel is open for streaming purposes. Is that okay?]
+<@>[…Wait a minute.]
+Bihyung pulled out a manual and confirmed it.
+"At this point, I don't know if I am a dokkaebi or you are. Are you actually a dokkaebi?"
+The smiling Bihyung raised both hands.
+<@>[…Okay, there is no problem if you use it. However, the Dokkaebi Bag can only be used when the channel is open for streaming purposes. Is that okay?]
 "It's fine."
 <!>[#BI-7623 channel is open.]
 <!>[Constellations have entered.]
 Then an electric current appeared in the air, and a transparent screen emerged in front of me.
-<@>[Welcome to the coin shop, the 'Dokkaebi Bag'.]
+<!>[Welcome to the coin shop, the 'Dokkaebi Bag'.]
 The Dokkaebi Bag…
 It was the moment when this damn world's 'cash store' was opened.
 
 ***
 
-There were two ways to use coins in Ways of Survival. One of them was to raise the level of the stats such as physique and strength. The other was to use it as a common form of currency that could be used in various stores, including the Dokkaebi Bag.
-<@>[Buy it now! A starter pack for your incarnation for 2,500 coins!]
-<@>[A today only special! A 300% growth package, grow faster than others!]
-<@>[Did you accidentally pick an incarnation with a bad attribute? Don't worry! The 'Random Attribute Box' that can randomly change the attribute has been released!]
+There were two ways to use coins in Ways of Survival. One of them was to raise the level of the stats such as 'Physique' and 'Strength'. The other was to use it as a common form of currency that could be used in various stores, including the Dokkaebi Bag.
+<!>[Buy it now! A starter pack for your incarnation for 2,500 coins!]
+<!>[A today only special! A 300% growth package, grow faster than others!]
+<!>[Did you accidentally pick an incarnation with a bad attribute? Don't worry! The 'Random Attribute Box' that can randomly change the attribute has been released!]
 There were numerous coin items, including various packages. All of the advertisements in the Dokkaebi Bag were aimed at the constellations raising incarnations. This was natural since the original customers of the Dokkaebi Bag were constellations. I got rid of the pop-up advertising windows one by one.
 Although it was nothing compared to the 'disasters' that emerged in the fifth main scenario, a sea commander ichthyosaur was no different from a disaster for the early stage incarnations. To defeat the ichthyosaur, I needed some items sold in the Dokkaebi Bag.
 'Let's see…'
 I looked at the catalog before glancing over at Bihyung. "Hey, are these the only items I can buy right now? Is there a search function?"
-<@>[At that… Shit. Wait. Constellations. Please. Please calm down. From the moment the channel opened, Bihyung had been repeating explanations with comic-like sweat drops on his face. It was just a server error that shut the broadcast off for a while! I didn't turn it off on purpose.]
+<@>[At that… Shit. Wait. Constellations. Please. Please calm down.]
+From the moment the channel opened, Bihyung had been repeating explanations with comic-like sweat drops on his face.
+<@>[It was just a server error that shut the broadcast off for a while! I didn't turn it off on purpose.]
 There were a total of 20 stars above Bihyung's head. Since not too many of them had left the channel, it seemed that quite a few constellations still wanted to see what had happened to me. Of course, not all of the constellations were friendly.
 <!>[A few constellations are questioning the fairness of the broadcast!]
 <!>[A few constellations are suspicious of the privileges you have received!]
@@ -56,24 +64,31 @@ In any case, it was the same for humans and dokkaebi. The total number of free s
 I opened my mouth to use the search function, "Search for the 'Ancient Dragon' item."
 <!>[There are three search results.]
 A small pop-up window soon emerged.
-<@>[* Ancient Dragon's Heart – Stock: ?]
-* Ancient Dragon's Bone – Stock: 1
-* Ancient Dragon's Horn – Stock: 1]
++
+[Search Results]
+Ancient Dragon's Heart – Stock: ?
+Ancient Dragon's Bone – Stock: 1
+Ancient Dragon's Horn – Stock: 1
++
 I chose the Ancient Dragon's Heart.
-<!>[Item Information]
-<!>[Name: Ancient Dragon's Heart]
++
+[Item Information]
+[Name: Ancient Dragon's Heart]
 Rating: SS
 Description: A heart containing the magic power of the ancient dragon 'Ignitus'. It possesses near-infinite magic power, and the attribute 'Hellfire' will be acquired if a heart transplant is successful.
 Price: 1,500,000 C
-Stock: Just sold out.]
+Stock: Just sold out.
++
 As expected, it was out of stock. From beyond the catalog, Bihyung, who was dealing with the constellations, looked at me with his jaw dropped open.
 <@>[Crazy. How do you know the information about the ancient dragon?]
 "I just called out a nice name."
 <@>[…It seems like a lie.]
 I shrugged. In the original Ways of Survival, the owner of the Ancient Dragon's Heart was already determined. If I remembered correctly, the owner of the heart was currently in Italy. They were a person with good luck, getting such a diamond of a sponsor. I called out several more product names.
-<!>[The related product search is completed.]
-<@>[* Great Demon's Eyes – Stock: 0]
-* Purest Sword Force – Stock: 1]
++
+[Search Results]
+Great Demon's Eyes – Stock: 0
+Purest Sword Force – Stock: 1
++
 The Great Demon's Eyes were sold out… It seemed the hands of the constellations were really quick. Well, I couldn't buy the item anyway since the selling price was 1 million coins. At any rate, it was good to have a sponsor. Now the incarnation with the Great Demon's Eyes would grow and destroy the beginner scenarios.
 <@>[What are you really? What type of cheat are you using? How do you know about items that can only be found in the search?]
 "I just said plausible names."
@@ -83,8 +98,11 @@ Among the three items that I searched for, only the Purest Sword Force was in st
 <@>[Sheesh, what a waste of time.]
 "I am going to buy something else, so bring up the items I call out from now on."
 I called out several item names. After a moment, a list of items emerged in front of me.
-<@>[* Mucus of the Hammer Seahorse – Stock: 124]
-* Stone Hog's Pointed Thorn – Stock: 17]
++
+[Search Results]
+Mucus of the Hammer Seahorse – Stock: 124
+Stone Hog's Pointed Thorn – Stock: 17
++
 I compared it to the list in my memories. The hammer seahorse, which was the food of the ichthyosaur, and the stone hog, which was the nemesis of sea species… There was no doubt. This combination was the best when it came to attacking an ichthyosaur.
 "Four mucus, four thorns. It is 800 coins?"
 <@>[Yes, but… where are you going to use these miscellaneous items?]
@@ -95,7 +113,7 @@ Bihyung wasn't satisfied but received the payment anyway.
 <!>[800 coins have been consumed.]
 In the darkness, a sparkling powder gathered, and the four elongated thorns and four pockets of black mucus appeared.
 <@>[I can't give a refund if you regret it now. Do you understand?]
-"I know." I nodded briefly and started working. I took off my top, tied it around my waist, and stuck the thorns in the gap between my top and my waist, while the pockets were hung from my waist. The stone hog's thorn was stumpy but became sharp at the end. It was approximately one meter in length. It was a reasonable size to pierce something.
+"I know." I nodded briefly and started working. I took off my shirt, tied it around my waist, and stuck the thorns in the gap between my shirt and my waist, while the pockets were hung from my waist. The stone hog's thorn was stumpy but became sharp at the end. It was approximately one meter in length. It was a reasonable size to pierce something.
 <@>[Hrmm… Then I'll be going. I can't stay with you. There is something fun going on in another place.]
 "Do it."
 <@>[Huhu, then hang in there. I hope the story will bless you.]
@@ -128,3 +146,5 @@ Kieeeeeeek-!
 The ichthyosaur let out a painful scream. The blood vessels on the wall of the stomach were squirming, and the thorns were visibly expanding into the blood vessels. The thorns in the openings had started their aggressive growth activity. This was because the stone hog's thorns grew in response to the body fluids of seawater species.
 The thorns, which had become immune to the digestive juices due to the applied mucus, absorbed the surrounding fluids and started to take root in the body of the ichthyosaur. The stone hog's thorns wouldn't stop expanding until the ichthyosaur was completely dead.
 As I watched the liquid swirl under my feet, I grabbed a thorn tightly. I had done everything I could. From now on, it was a mental fight. Either I would die or this guy would die. Only one of us would survive.
+
+***

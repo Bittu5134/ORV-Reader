@@ -56,16 +56,23 @@ body {
 
 /* This is for the images */
 .orv_image {
+    margin-top: var(--paragraph-space);
     display: flex;
     justify-content: center;
     align-content: center;
+    align-items: center;
     width: 100%;
     height: auto;
+    padding-left: 0.25em;
+    padding-right: 0.25em;
 }
 
 .orv_image img {
+    display: block;
+    max-height: 90vh; 
     width: auto;
-    height: min(90vh, 130vw);
+    height: auto;
+    max-width: 100%;
 }
 
 .orv_cover {
@@ -265,6 +272,10 @@ select {
     backdrop-filter: brightness(0) invert(100%);
 }
 
+.setting_item input[type="text"] {
+    backdrop-filter: brightness(0) invert(100%);
+}
+
 /* for download tab */
 
 .download {
@@ -367,6 +378,18 @@ button {
     /* Optional: Underline on hover */
 }
 
+/* ads */
+
+.evadav {
+    width: min(100%, 800px);
+    height: auto;
+    height: auto;
+    max-height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 /* for print */
 
@@ -379,6 +402,7 @@ button {
     .settings,
     .download,
     .edit,
+    .evadav,
     .change-ch {
         display: none !important;
     }

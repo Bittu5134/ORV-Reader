@@ -1,35 +1,45 @@
-<title>813 Episode 40 Terror order (5)
+<title>813 Episode 40 Fear Realm (5)
 Even the content of the scenario is an unreliable 'scenario'.
-That's why everyone says entering the terror order is suicide.
-If I didn't know the initial strategy, I would have ended up like the first terror order expedition team.
+That's why everyone says entering the Fear Realm is suicide.
+If I didn't know the initial strategy, I would have ended up like the first Fear Realm expedition team.
 By the way, which of these instructions is false?
 I looked through the instructions from the beginning and checked if each instruction was 'false'.
 First, the first instruction.
-—To complete the main scenario, you must successfully complete 'Terror Order'.
++
+—To complete the main scenario, you must successfully complete 'Fear Realm'.
++
 If this instruction is false, I can think of one possibility.
-That is, to complete the main scenario, I don't need to successfully complete 'Terror Order Exploration'.
+That is, to complete the main scenario, I don't need to successfully complete 'Fear Realm Exploration'.
 A guideline being 'false' does not necessarily mean a bad outcome.
 If this interpretation is possible, it is actually beneficial to me if this instruction is false. Because it means 'There is a way to complete the main scenario without filling up all the exploration maps'.
 And then the second.
-—The Terror Zone is divided into 'Entry Zone', 'Middle Zone', and 'End Zone'.
-If this guideline is false, it means that the Terror Zone has additional zones other than the 'three zones'.
-According to the records of the previous Terror Zone expedition, the Terror Zone has only three zones, so the possibility of this guideline being false is not high.
++
+—The Fear Realm is divided into 'Entry Zone', 'Middle Zone', and 'End Zone'.
++
+If this guideline is false, it means that the Fear Realm has additional zones other than the 'three zones'.
+According to the records of the previous Fear Realm expedition, the Fear Realm has only three zones, so the possibility of this guideline being false is not high.
 The problem is the next guideline.
-— You are currently located in the 'Entry Zone' of the Terror Zone.
++
+— You are currently located in the 'Entry Zone' of the Fear Realm.
++
 If this guideline is false, the problem becomes a little more serious.
 If the place I am now is not the 'Entry Zone'...
 I looked around because the back of my neck felt cold. There was nothing in particular, but not seeing anything made me even more scared.
 I looked at the fourth guideline.
++
 —Your current exploration level: 10%
++
 If this guideline is false, there is a problem that you cannot know the exact exploration level, but the exploration level itself does not disappear, so it is not a big problem.
-The last fifth.
-—All 'fear' has an interpretation. Find a probable interpretation and increase the fear exploration level.
-If this guideline is false, it means that 'uninterpretable fear' exists.
+The last, fifth.
++
+—All 'Fear' has an interpretation. Find a probable interpretation and increase the Fear exploration level.
++
+If this guideline is false, it means that 'Uninterpretable Fear' exists.
 After reading it carefully, I thought that this could be false.
-The world of the <Star Stream> is vast, and the fear spirit has not been interpreted yet.
-There are many fears that neither 'Ways of Survival' nor the 'Fear Spirit Expedition' have recorded, so it would not be strange if 'uninterpretable fear' exists.
+The world of the <Star Stream> is vast, and the Fear Realm has not been interpreted yet.
+There are many Fears that neither 'Ways of Survival' nor the 'Fear Realm Expedition' have recorded, so it would not be strange if 'Uninterpretable Fear' exists.
 After finishing my thoughts, I slowly raised my head and saw a side road that spread out into the hazy darkness.
-I wondered if it was because I thought that a threatening fear could appear at any time or place. I unknowingly tensed my throat.
+I wondered if it was because I thought that a threatening Fear could appear at any time or place. I unknowingly tensed my throat.
 <&>「Let's calm down.」
 I thought with a single-pointed star for the first time in a while. Now, I felt like I had to think in a special way.
 <&>「Don't be scared because you've entered an unfamiliar place.」
@@ -40,15 +50,16 @@ No one else but Kim Dokja and my own history proved that fact.
 I slowly took my first step toward the side road.
 ***
 <#>【I'm here.】
+# is this an outer god speaking? I wonder who....
 ***
 A lot of time had passed since I confidently took my first step. I couldn't tell exactly how much time had passed.
 What was certain was that I had walked quite a bit.
 Another fork in the road?
 I paused for a moment, looking at the fork in the road before my eyes. There were countless footprints on the fork in the road.
-The reason these footprints didn't disappear even after quite a long time had passed was because this road itself was a 'horror'. Disaster-level fear, 「One Eternal Step」.
-The 'footprints' left on this fear will never disappear. Thanks to the existence of this fear, the expedition team members who jumped into the exploration were able to easily figure out the direction the previous expedition team was headed.
+The reason these footprints didn't disappear even after quite a long time had passed was because this road itself was a 'Fear'. Disaster-level Fear, 「One Eternal Step」.
+The 'footprints' left on this Fear will never disappear. Thanks to the existence of this Fear, the expedition team members who jumped into the exploration were able to easily figure out the direction the previous expedition team was headed.
 I calmly started counting the number of footprints.
-<&>「The survival rate of the Terror Expedition Team increased with each round.」
+<&>「The survival rate of the Fear Expedition Team increased with each round.」
 The martial artists found a 'route with a higher survival rate' over time. In other words, for a while, just counting this 'number of footprints' could help them estimate a safe route.
 <&>「Focus on the direction with more remaining footprints.」
 A simple but sure method.
@@ -64,13 +75,13 @@ After much thought, I took a step.
 But at that very moment. In the very distant darkness, I saw something long and swaying.
 I literally saw it briefly. But just that 'short glimpse' sent an alarm bell ringing in my head.
 <&>「Something with a long neck is looking at me.」
-There was no separate message, but I could tell that it was some kind of 'fear'.
+There was no separate message, but I could tell that it was some kind of 'Fear'.
 Damn, did I make the wrong choice.
 The moment I turned my back to turn back belatedly.
-<!>['An unknown fear' is looking at you.]
+<!>[An 'Unknown Fear' is looking at you.]
 I barely managed to take a step.
-<!>['An unknown fear' is looking at you!]
-<!>['An unknown fear' is warning you!]
+<!>[An 'Unknown Fear' is looking at you!]
+<!>[An 'Unknown Fear' is warning you!]
 My instincts were warning me.
 It was already wrong to turn back.
 If I turned back now, there was a high chance that I would die.
@@ -78,29 +89,30 @@ I turned my back again and looked forward. The long-necked thing was still stand
 The guy didn't react. It seemed like this was the right thing to do.
 Upon closer inspection, I saw a white ladder-like thing drawn on the side road leading to the guy. I started walking along the ladder drawing.
 How long did I walk?
-xThe eyes of the long-necked guy blinked.
-<!>['Nameless Fear' is looking at you.]
-<!>['Nameless Fear' warns you.]
+The eyes of the long-necked guy blinked.
+<!>[An 'Unknown Fear' is looking at you.]
+<!>[An 'Unknown Fear' warns you.]
+# I think it is same for An Unknown Fear
 I stopped walking reflexively. The place I stopped was a land without a ladder drawing.
 The long-necked guy's eyes blinked abnormally fast and then changed to a different color.
 Ah.
-Only then did I realize what this 'fear' was.
+Only then did I realize what this 'Fear' was.
 The 'long-necked guy' shining through the dim darkness.
 That guy's identity was.
 <&>「Traffic light.」
-I was right. It was a 'traffic light'. A traffic light with red and green  lights.
+I was right. It was a 'traffic light'. A traffic light with red and green lights.
 I belatedly understood the ladder drawing I had been walking along.
 <&>「Crosswalk.」
-I don't know why a traffic system exists here, but one thing is certain: this is also a 'fear'.
-<!>['An unknown fear' is looking at you.]
+I don't know why a traffic system exists here, but one thing is certain: this is also a 'Fear'.
+<!>[An 'Unknown Fear' is looking at you.]
 I turned the page of 'Ways of Survival' that I had been reading so far in my head.
-Was there a fear related to 'traffic lights' in the terror order?
-<&>「There are a total of 14 'fears' in the 'entrance area' introduced in 'Ways of Survival'.」
-Out of the 14 fears that I know of, there is no fear related to 'traffic lights'.
-That meant that 'fear' was a relatively recent fear.
+Was there a Fear related to 'traffic lights' in the Fear Realm?
+<&>「There are a total of 14 'Fears' in the 'Entrance Area' introduced in 'Ways of Survival'.」
+Out of the 14 Fears that I know of, there is no Fear related to 'traffic lights'.
+That meant that 'Fear' was a relatively recent Fear.
 I took a deep breath and thought.
-Whatever that fear is, it is a 'traffic light'. There is also a symbol for a 'crosswalk'.
-So this 'fear' is likely to follow the rules that I know.
+Whatever that Fear is, it is a 'traffic light'. There is also a symbol for a 'crosswalk'.
+So this 'Fear' is likely to follow the rules that I know.
 <&>「Stop at red lights and cross at green lights.」
 The traffic light that I could see in the distance was 'red'. Then, the light that blinked earlier was most likely a green light.
 <&>「Follow the signal.」
@@ -115,7 +127,7 @@ A shattered scream. The sound of urgent footsteps.
 I instinctively placed my hand on the handle of my sword.
 A group of incarnations were running toward me.
 "S-save me! Save me!"
-They were martial artists. It seems that there were those who, like me, chose to run away in the face of the crisis of the martial arts world with the 'spirit of fear'.
+They were martial artists. It seems that there were those who, like me, chose to run away in the face of the crisis of the martial arts world with the 'Fear Realm'.
 "Eww!"
 They looked desperate, as if they were being chased by something.
 "Get out of the way! Right now!"
@@ -133,17 +145,17 @@ Was it actually okay to cross?
 I didn't really understand. No, if that was possible, why were there 'traffic lights' and 'crosswalks'? In a place like this where no cars are running—
 <&>「There are no cars.」
 A small realization flashed through my head.
-If there were no 'cars', wouldn’t it be safe to cross the crosswalk at a red light? If this 'traffic light' was a fear created by exploiting such a situation—
+If there were no 'cars', wouldn’t it be safe to cross the crosswalk at a red light? If this 'traffic light' was a Fear created by exploiting such a situation—
 The moment I thought about it, my ankles began to tingle.
 <&>「Then you should not cross the 'crosswalk' even more.」
 Crack.
 The sound of flesh being crushed and bones breaking. The sound of organs bursting. The sound of blood vessels being torn. Almost all the sounds that could crush and destroy a human body were heard right in front of my face.
-Even I, who could compete with the great-grade constellations, could not observe the moment of the impact.
+Even I, who could compete with the Historical-grade Constellations, could not observe the moment of the impact.
 <!>['Unknown Fear' is looking at you.]
 The sound disappeared and I came back, leaving only the traffic light.
 The red light of the traffic light illuminated the quiet crosswalk. On the crosswalk that had been crowded with people until then, only footprints and dark red skid marks remained.
 <!>[The exclusive skill 'Fourth Wall' is activated.]
-The rule of keeping the signal is not wrong. If so, the problem is when will 'the signal change?
+The rule of keeping the signal is not wrong. If so, the problem is when will 'the signal' change?
 No matter how much I thought about it, there was no way to figure out the rule. I guess I just have to wait for the signal to change.
 <!>[The exclusive skill 'Fourth Wall' is strongly activated!]
 At that moment, I heard the sound of teeth chattering from somewhere.
@@ -152,15 +164,15 @@ A moment later, I remembered that people were being chased by something.
 <#>【Teeth Teeth Teeth Teeth Teeth Teeth】
 This damn thing.
 <#>【Mirror Mirror Mirror Mirror Mirror Mirror Mirror Mirror】
-When I looked back, I saw a shark head running recklessly from the distant darkness. As expected, the guy had chased me from the martial arts world.
-The size of the guy who revealed his complete appearance from inside the fear world was truly enormous.
+When I looked back, I saw a shark-head running recklessly from the distant darkness. As expected, the guy had chased me from the martial arts world.
+The size of the guy who revealed his complete appearance from inside the Fear world was truly enormous.
 The moment I saw the heads of the martial arts people caught in the guy's teeth, I made a judgment.
 I must run away no matter what.
-The situation was different from the martial arts world. This is 'the terror zone'. It was a place where that Outer God could run wild, ignoring the plausibility of the scenario.
+The situation was different from the martial arts world. This is 'the Fear Realm'. It was a place where that Outer God could run wild, ignoring the plausibility of the scenario.
 <#>【Teeth and teeth】
-A shark's head behind, a traffic light in front.
+A shark-head behind, a traffic light in front.
 There is only one way to survive.
-<&>「I must interpret the terror.」
+<&>「I must interpret the Fear.」
 I thought about the logic of the traffic light in my head.
 Traffic light.
 A traffic system where the signal changes after a certain amount of time. A certain amount of time. A certain amount of time—

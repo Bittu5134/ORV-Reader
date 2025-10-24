@@ -27,7 +27,7 @@ He also hummed a song that his friend Jiyoon liked. As he hummed the song, memor
 <!>[The story 'Panda and Friends' begins its storytelling.]
 The story of persuading Gong Pildu to survive in Chungmuro.
 The story of developing the 'Invincible Castle Tech Tree'.
-The story of almost fighting Yoo Jonghyuk.
+The story of almost fighting Yoo Joonghyuk.
 The story of 'capturing the flag' with the readers.
 The story of meeting Cheon Inho and his group.
 "But Jiyoon. You liked being safe, too."
@@ -57,22 +57,22 @@ Ye Hyunwoo shook his head several times and took a deep breath.
 Since he was marked as the boss of this stage, the 'Demon King of Salvation' must have powers of a different dimension.
 He must not let his party face the 'Demon King of Salvation'. If he did, there would definitely be casualties. In order to prevent that, he came here before anyone else.
 The moment he took a deep breath and stepped into the empty space, shouts were heard from all directions. The forest in the area shook and a group of incarnations appeared.
-<!>[Hit him!]
+<@>[Hit him!]
 The incarnations who had drawn their weapons were running towards the Demon King of Salvation.
-Ye Hyunwoo immediately recognized who they were. The constellations of the <Twelve Zodiac Signs>. They were the ones who had participated in the scenario with them until recently.
-<!>[The constellation 'Monkey that fell from a tree' roars!]
-<!>[The constellation 'Ox of the Beginning' bares its teeth!]
-<!>[The constellation 'Red Divine Army' roars!]
+Ye Hyunwoo immediately recognized who they were. The Constellations of the <Twelve Zodiac Signs>. They were the ones who had participated in the scenario with them until recently.
+<!>[The Constellation 'Monkey That Fell From A Tree' roars!]
+<!>[The Constellation 'Ox of the Beginning' bares its teeth!]
+<!>[The Constellation 'Red Divine Army' roars!]
 At first, it seemed like the <Twelve Zodiac Signs> were joining hands to hunt the demon.
 But the wave pattern felt strange. The <Twelve Zodiac Signs> he knew did not have that level of power.
 'It's not the Twelve Zodiac Signs'.
 A cold sensation passed through his heart belatedly.
 'Someone is using the modifiers of the <Twelve Zodiac Signs'.
-As if they knew the demon's weakness, the constellations equipped with divine attribute weapons swung their weapons in precise trajectories. Push shot!
-The demon tribe was mercilessly slaughtered by an attack that had the rank of a constellation.
+As if they knew the demon's weakness, the Constellations equipped with divine attribute weapons swung their weapons in precise trajectories. Push shot!
+The demon tribe was mercilessly slaughtered by an attack that had the rank of a Constellation.
 Looking at the staggering demon, Ye Hyunwoo's head went through complicated calculations.
 It might have been a good thing.
-The 'Demon King of Salvation' is a difficult opponent to face alone. If they wait for an opportunity here and join forces with the constellations, the scenario will be much easier.
+The 'Demon King of Salvation' is a difficult opponent to face alone. If they wait for an opportunity here and join forces with the Constellations, the scenario will be much easier.
 'Let's get started.'
 From the start of the scenarios until now, Ye Hyunwoo has steadily progressed through the 'Invincible Castle Tech Tree'.
 The 'Invincible Castle Tech Tree' he designed has a total of 10 stages.
@@ -80,10 +80,10 @@ And Ye Hyunwoo has just reached the activation condition for stage 8 of the tech
 <!>[Activate exclusive skill 'Magic Charge Lv. 10'.]
 The key to this build-up is to apply his exclusive skill, [Magic Charge] — to supply unlimited magical power to Gong Pildu, who has the strongest defense.
 <&>「But there is no Gong Pildu here now.」
-Several constellations that felt the magical wave turned to Ye Hyunwoo.
-<!>[That guy—]
-<!>[Don’t worry. He is an incarnation that can’t do anything alone.]
-Is his weakness already known to the constellations?
+Several Constellations that felt the magical wave turned to Ye Hyunwoo.
+<@>[That guy—]
+<@>[Don’t worry. He is an incarnation that can’t do anything alone.]
+Is his weakness already known to the Constellations?
 Ye Hyunwoo smiled bitterly.
 They were certainly right. He is an incarnation that can’t do anything alone.
 'But isn’t that the same for everyone?'
@@ -95,7 +95,7 @@ However, it was different from stage 8.
 <!>[Activate exclusive skill 'Bookmark Lv.5'!]
 <!>[The composition of this skill is incomplete.]
 <!>[The characters that can be listed in the bookmark list are limited.]
-<!>[Bookmark.]
+<&>「Bookmark」
 A skill that is exclusive to Kim Dokja and can borrow the power of a 'character'.
 It is currently extremely incomplete, so only one 'character' can be registered, but that was enough.
 In the first place, he only needed one character.
@@ -112,7 +112,7 @@ However, this alone was not enough to activate the 'Armed Fortress'. This was be
 <!>[Bookmark cannot borrow the 'stigma' of the person in question.]
 Of course, Ye Hyunwoo had a countermeasure for that.
 "I will fulfill the contract with the Defense Master."
-<!>[The constellation 'Defense Master' activates the contract.]
+<!>[The Constellation 'Defense Master' activates the contract.]
 A contract made with the 'Defense Master' in preparation for an emergency.
 The contract was simple.
 In exchange for granting the Defense Master's request, he would receive one of Gong Pildu's 'Stigmata' at a 'desired moment'.
@@ -121,37 +121,37 @@ In exchange for granting the Defense Master's request, he would receive one of G
 <!>[Exclusive Skill 'Armed Fortress Lv. 8' has been activated!]
 The ground beneath his feet rose and Ye Hyunwoo's body rose into the air.
 The outer wall of the 'Armed Fortress' that would protect him from any attack was growing.
-<!>[What, what is this—]
+<@>[What, what is this—]
 A small castle that grew more than twenty meters in an instant.
 It looked rather crude compared to the 'Armed Fortress' of Tech Tree Stage 10 that he was aiming for, but this was enough for now.
 <!>[The 'Moving Fortress' is activated.]
 The fortress began to move along with the wheels that grew under the fortress.
 <!>[The 'Turret' of the Armed Fortress is activated.]
-As the magnificent magic turrets aimed forward at once, the constellations that felt a sense of crisis shouted.
-<!>[Didn't you say that guy can't do anything alone?]
-<!>[Damn it, finish him off quickly! If that guy steals the effective hit—]
-Ye Hyunwoo sat on the castle's control tower while listening to the constellations' screams.
+As the magnificent magic turrets aimed forward at once, the Constellations that felt a sense of crisis shouted.
+<@>[Didn't you say that guy can't do anything alone?]
+<@>[Damn it, finish him off quickly! If that guy steals the effective hit—]
+Ye Hyunwoo sat on the castle's control tower while listening to the Constellations' screams.
 <!>[Activate the power of the item 'Shin Gijeon'.]
-<!>[The 'turret's' arc destructive power increases!]
-<!>[The 'turret's' shells have a tracking function added.]
+<!>[The 'Turret's' arc destructive power increases!]
+<!>[The 'Turret's' shells have a tracking function added.]
 The castle's radar activated and the dusty 'Demon King of Salvation' appeared in the field of view.
 <!>[Set the target of the strike.]
 The 'Demon King of Salvation' had already suffered massive damage to its incarnation body.
 Ye Hyunwoo, who had finally made up his mind, pressed the fire button.
 The 64 turrets opened fire, and a loud noise rang out as if they were sweeping away the forest. The dust rose pitch black.
 However, the scream heard within was not that of the 'Demon King of Salvation'.
-<!>[Kuaaaaaaaah!]
-The incarnations of the constellations burst into pieces in the dust.
-<!>[The constellation 'monkey that fell from the tree' takes a huge blow and exits the scenario.]
-<!>[The constellation 'rabbit without a liver' takes a huge blow and exits the scenario.]
+<@>[Kuaaaaaaaah!]
+The incarnations of the Constellations burst into pieces in the dust.
+<!>[The Constellation 'Monkey That Fell From The Tree' takes a huge blow and exits the scenario.]
+<!>[The Constellation 'Rabbit Without A Liver' takes a huge blow and exits the scenario.]
 …
-Even some of the constellations could not withstand the blow and exited the scenario.
+Even some of the Constellations could not withstand the blow and exited the scenario.
 Even so, Ye Hyunwoo did not stop.
-<!>[You, why—]
-The indignant constellations aimed their weapons at him.
-Looking at the constellations running towards him, Ye Hyunwoo thought.
+<@>[You, why—]
+The indignant Constellations aimed their weapons at him.
+Looking at the Constellations running towards him, Ye Hyunwoo thought.
 <&>「Why did I do that?」
-It was an unwise choice. Naturally, joining forces with those constellations to end the demon and share the story would have been the safe choice.
+It was an unwise choice. Naturally, joining forces with those Constellations to end the demon and share the story would have been the safe choice.
 However, the moment he saw the 'Demon King of Salvation' caught on the radar, Ye Hyunwoo could not make a safe choice.
 <&>「It definitely wasn't the Demon King of Salvation that he imagined.」
 The face of the 'Demon King of Salvation' who had become a demon was as pale as a corpse.
@@ -161,20 +161,20 @@ That's the only way to save the party.
 He came here before anyone else for that goal.
 Even so, the moment he saw Kim Dokja's face, Ye Hyunwoo felt faintly dizzy.
 <&>「I don't know if the author will see it. But I'll try it anyway. There's a spell I sometimes recite when I'm having a hard time.」
-The enraged constellations abandoned the demon and began to run toward the castle.
+The enraged Constellations abandoned the demon and began to run toward the castle.
 <&>「I am Kim Dokja.」
 Ye Hyunwoo knew it too. He is not Kim Dokja. He knew better than anyone that he was not Kim Dokja, so he recited that spell.
 <&>「But according to my friend, I resemble an octopus more than a squid.」
 Ye Hyunwoo pressed the fire button again and again.
-Piles of dirt scattered everywhere. The constellations screamed in frustration amidst the broken pieces of wood.
-<!>[Kwaaaaah! Damn it!]
-<!>[Hold on! Wait until the bastard’s magic runs out! How long can he keep up this barrage—]
+Piles of dirt scattered everywhere. The Constellations screamed in frustration amidst the broken pieces of wood.
+<@>[Kwaaaaah! Damn it!]
+<@>[Hold on! Wait until the bastard’s magic runs out! How long can he keep up this barrage—]
 With the effect of [Magic Charge], magic power filled Ye Hyunwoo’s entire body once again.
-The core of the Invincible Castle’s tech tree—the 「Infinite Uroboros」system—was manifested.
-<!>[Eww!]
-The constellations that had been holding on firmly began to fall one by one.
+The core of the Invincible Castle’s tech tree—the「Infinite Uroboros」system—was manifested.
+<@>[Eww!]
+The Constellations that had been holding on firmly began to fall one by one.
 Ye Hyunwoo’s inner self also gradually grew more certain.
-They were at most the incarnation bodies of 'great-grade constellations'. Even if the synchronization rate was increased in this 'Recycling Center' with limited rank, they would not be able to withstand the fortress' concentrated bombardment.
+They were at most the incarnation bodies of 'Historical-grade Constellations'. Even if the synchronization rate was increased in this 'Recycling Center' with limited rank, they would not be able to withstand the fortress' concentrated bombardment.
 <!>[Warning! The durability of the 'Armed Fortress' is decreasing!]
 A thud was heard, along with the sound of something collapsing.
 Startled, Ye Hyunwoo checked the radar. However, nothing was detected. Someone was attacking the fortress at a speed that could not be detected by the detection system.
@@ -182,35 +182,35 @@ Kugugugu.
 The current 'Armed Fortress' was now only a level 5 fortress.
 As powerful strikes continued, the outer wall of the fortress collapsed and cracks began to form on the inner wall.
 The moment Ye Hyunwoo, who had lost some energy, recharged his magic power once again and activated the turret, something appeared, breaking through the control tower's defense wall.
-<!>[I didn't know that 'Armed Fortress' would be used like this. It's quite something.]
+<@>[I didn't know that 'Armed Fortress' would be used like this. It's quite something.]
 Three incarnations appeared. They were all guys he had never seen before.
-The incarnation body of the constellation at the forefront approached Ye Hyunwoo like a ghost and grabbed him by the neck.
-<!>[Why did you interfere with us?]
+The incarnation body of the Constellation at the forefront approached Ye Hyunwoo like a ghost and grabbed him by the neck.
+<@>[Why did you interfere with us?]
 Ye Hyunwoo laughed, hanging in the air.
 Even now, Ye Hyunwoo does not understand Kim Dokja, who sacrificed himself for the group.
 However, even though he did not understand him, Ye Hyunwoo liked him.
-The constellation, who was quietly looking at Ye Hyunwoo hanging in the air, spoke.
-<!>[What you did just now wasn't courage, it was just foolishness.]
+The Constellation, who was quietly looking at Ye Hyunwoo hanging in the air, spoke.
+<@>[What you did just now wasn't courage, it was just foolishness.]
 The moment he heard that voice, Ye Hyunwoo felt goosebumps running down his spine.
 He realized something new.
-The 'Invincible Castle Tech Tree Stage 8' was designed to withstand attacks from 'great-grade constellations' inside the 'Recycling Center'.
+The 'Invincible Castle Tech Tree Stage 8' was designed to withstand attacks from 'Historical-grade Constellations' inside the 'Recycling Center'.
 But if they had broken through this wall and entered, it was clear what kind of enemy they were.
-'Narrative-grade constellation'.
+'Narrative-grade Constellation'.
 The ominous sparks that surged through the air proved it.
-He couldn't understand it. How did a narrative-grade constellation intervene in the scenario of this 'Recycling Center'?
+He couldn't understand it. How did a narrative-grade Constellation intervene in the scenario of this 'Recycling Center'?
 <!>[The worldview is unstable due to the aftermath of excessive probability.]
-<!>[Many constellations are watching the 'Recycling Center'.]
+<!>[Many Constellations are watching the 'Recycling Center'.]
 He could feel the gaze of the stars watching this place from the vast distance of space.
-How many constellations are watching this place?
+How many Constellations are watching this place?
 <!>[The worldview rules of the 'Recycling Center' are weakened.]
 <!>[The probability of the <Star Stream> starts to move!]
 <!>[An unidentified nebula interferes with the probability of the 'Recycling Center'.]
 Olympus? Asgard? Vedas?
 Or a small nebula that was hidden?
 The moment he saw the aftershock of probability that brightly colored the empty space, Ye Hyunwoo intuitively felt that this scenario had completely left his hands.
-<!>[You also have a fragment of the oldest dream.]
+<@>[You also have a fragment of the oldest dream.]
 "Bam-"
-<!>[This is really strange. Why do all the incarnations with this fragment invite death…]
+<@>[This is really strange. Why do all the incarnations with this fragment invite death…]
 Feeling a hand tightly squeezing his neck, Ye Hyunwoo intuitively sensed his end.
 <&>「"Kim Dokja, I will become him."」
 Considering his boastful words, he felt that it was a vain end. At the same time, he also thought that this was a very fitting end for him. Perhaps, ever since he first saw Cheon Inho in Chungmuro, he had a feeling this day would come.
@@ -220,7 +220,7 @@ His role was to play the role of an extra in the lines that no one would remembe
 However, if there was one last regret, it was this.
 <&>「I really wanted to say thank you. I’ll come back to see you again in a few days.」
 That he couldn’t keep the promise he left in that comment.
-As the powerful magic flowed through the constellation’s hand, his consciousness began to fade.
+As the powerful magic flowed through the Constellation’s hand, his consciousness began to fade.
 If he died like this and became a fragment of Kim Dokja, would he be able to meet Jiyoon again? Would he be able to laugh and talk about this story when they met again?
 Look, if you really possess someone in 'Omniscient Reader’s Viewpoint', you'll die right away. Saying that—
 Would he be able to not regret reading this story?
@@ -231,14 +231,14 @@ He slowly opened his eyes and raised his head, and saw someone's back.
 <!>[The probability scale moves.]
 Is it Kim Dokja?
 But when he looked again, he was wearing a black cloak.
-So is it Yoo Jonghyuk?
-No. He was smaller than Yoo Jonghyuk.
+So is it Yoo Joonghyuk?
+No. He was smaller than Yoo Joonghyuk.
 Ye Hyunwoo noticed the words written on his back.
 『OLD SCHOOL』.
 Old School.
 The boy wearing the cloak looked back at him. The moment he met those eyes that felt strangely stubborn, Ye Hyunwoo thought he knew who he was.
 That's because he had read this story fifty times.
 "You... look like my Dokja-hyung."
-A being who could move the 'probability scale' against those scary constellations.
+A being who could move the 'probability scale' against those scary Constellations.
 "Thank you for saving my hyung."
 <Kim Dokja Company> came to the 'Recycling Center'.

@@ -10,7 +10,8 @@ I gulped as Asmodeus stepped into puddles of blood and slowly approached.
 <!>[The special effect of Eoren's Sword will end.]
 I might've used the Breaking the Sky Sword Saint's techniques but it worked properly thanks to Eoren's Sword. Without the sword, there would be no way to deal with the evil spirits.
 After half a dozen steps, Asmodeus licked his lips as he stared at me.
-I stated, […You didn't come here to eat me.]
+I stated,
+<@>[…You didn't come here to eat me.]
 <@>[Hmm, how can you be sure?]
 <@>[You can't get the giant story if you kill me.]
 Asmodeus made a promise to me regarding the Demon King Advancement. Thus, he couldn't kill me here.
@@ -21,9 +22,9 @@ Asmodeus' expression hardened at my provocative words.
 <@>[Now you are provoking me?]
 Asmodeus had a threatening air but I didn't feel nervous.
 <@>[If you are really a demon king, don't be a pushover. Compete properly to obtain your share.]
-In the first place, it was apparent that Asmodeus had appeared here to 'help me'. He might be
-Asmodeus but the act of attacking fellow members of the Gourmet Association couldn't help being burdensome. Even so, he acted in such a manner while pretending to be a 'maniac'.
-Asmodeus' complexion paled as he shouted, [Demon King of Salvation… You seem to be mistaken about something. I can eat you right now—]
+In the first place, it was apparent that Asmodeus had appeared here to 'help me'. He might be Asmodeus but the act of attacking fellow members of the Gourmet Association couldn't help being burdensome. Even so, he acted in such a manner while pretending to be a 'maniac'.
+Asmodeus' complexion paled as he shouted,
+<@>[Demon King of Salvation… You seem to be mistaken about something. I can eat you right now—]
 <@>[Don't repeat the same words and get the fuck out.]
 Asmodeus' eyes widened. I continued without stopping.
 <@>[If you really want to eat me, kill me right now.]
@@ -66,14 +67,15 @@ I realized I had returned when I saw the Mass Production Maker laughing heartily
 "It is this."
 My hand was holding the 200,000 coins of garbage that Iris used just now, Eoren's Sword. For reference, the grip of the sword had the following message engraved:
 ―made by Mass Production Maker.
-The Mass Production Maker laughed. [It was just business. Who knew that sword would be sold today?]
+The Mass Production Maker laughed.
+<@>[It was just business. Who knew that sword would be sold today?]
 "It was a recommended product in the Dokkaebi Bag."
 <@>[Huhu, how can a constellation know about the work of dokkaebis?"]
 I didn't know if this was the consideration of the Mass Production Maker or not. One thing was for certain. This sword had saved the lives of Iris and I.
 <@>[By the way, things have become a bit difficult.]
 I looked around. The atmosphere around me was tense.
 <@>[Who is the Demon King of Salvation?]
-The constellations were running wild as they looked for me with fiery anger. Among them was the constellations who had lost their bodies and returned from the scenario.
+The constellations were running wild as they looked for me with fiery anger. Among them were the constellations who had lost their bodies and returned from the scenario.
 <!>[The constellation 'Brash Swamp Predator' reveals hostility towards you.]
 <!>[The constellation 'Tranquil Island Gourmet' is glaring at you.]
 Euphrosyne was standing dumbfounded on the stage while Anna Croft was pale. Now some of the constellations were watching me while wondering what I was going to do. The sub scenario was over but for them, this situation was an extension of the game. Of course, I wouldn't betray their expectations.
@@ -101,7 +103,7 @@ For a moment, a tremendous silence filled the hall. I didn't panic and looked ar
 Sparks filled the hall of the Gourmet Association. No, looking closer, they were thunderbolts, not sparks. Then a loud voice was heard.
 <@>[Ahahaha! A really fun guy!]
 Thursday's Thunder was holding a glass of beer while laughing.
-<@>[A story that was boring became worthwhile to see a bit. Why are you complaining about and persecuting this small constellation?]
+<@>[A story that was boring became worthwhile to see a bit. What are you complaining about and persecuting this small constellation?]
 Some of the constellations rebelled strongly against his words.
 <@>[But the rules…!]
 <@>[The scenario is just a scenario. In addition, that scenario has ended. That's all that my hammer and I know.]
@@ -109,8 +111,7 @@ Thor's hammer made a deafening sound like it wouldn't accept any arguments. Thor
 <@>[It is unpleasant to agree with this rough thunder's words but this time, I feel the same.]
 The person who spoke was the Morning Star Goddess. Star powder fell from her finely twisted hair as she moved.
 <@>[The scenario should end in the scenario. If you want to fight, fight in the scenario. I don't want to see the Gourmet Association becoming uglier.]
-The two top-ranking constellations present stood up so the other constellations couldn't help
-wavering. Moreover, the 'wish ticket' had already been activated.
+The two top-ranking constellations present stood up so the other constellations couldn't help wavering. Moreover, the 'wish ticket' had already been activated.
 Some of the constellations were still glaring at me but they showed no signs of hurting me. The atmosphere calmed down and the eyes of the Morning Star Goddess turned to me.
 <@>[Still, I would like to ask one thing.]
 It was an unexpected question and I reflexively looked at her.

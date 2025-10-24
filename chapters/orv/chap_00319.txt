@@ -10,10 +10,9 @@ Messages came from the Midday Tryst at the same time. There was temporary confus
 I couldn't help smiling at the two snarling people. I looked ahead and saw Anna Croft's completely lose expression. I formed a fist and provoked her. "What are you doing? 3 million coins please."
 It was our first meeting after the Gourmet Association. Selena Kim stood next to Anna Croft and nodded lightly to me. Anna Croft furrowed her brow and asked, "Demon King of Salvation, you are the contributor of this product?"
 "That's right."
-"No… you shouldn't be able to acquire this level of item. It is an item that can only be obtained in the
-late scenarios."
+"No… you shouldn't be able to acquire this level of item. It is an item that can only be obtained in the late scenarios."
 She was still denying reality. I glanced at the dokkaebi instead of answering. The dokkaebi spoke,
-<!>[The contributor is Constellation Demon King of Salvation, who belongs to Kim Dokja's Company. The confirmation result is correct.]
+<@>[The contributor is Constellation Demon King of Salvation, who belongs to Kim Dokja's Company. The confirmation result is correct.]
 Anna Croft became paler once the dokkaebi testified to the fact. 3 million coins. At the present time, there wasn't a single incarnation with such a large number of coins in the Star Stream. It was a lot of money and was also a burden for some narrative-grade constellations.
 In the distance, Han Sooyoung twitched.
 –Hey, you will give me a share of the 3 million coins, right? You wouldn't have received this money if it wasn't for me.
@@ -26,7 +25,8 @@ Han Sooyoung glared at me.
 –Hey, are you crazy? It is 3 million coins!
 –This is good for us.
 As Anna Croft mentioned, the Old to New Toad was a very useful item, especially when I thought about the upcoming Gigantomachia. It was better to have an item than three million coins.
-The senior dokkaebi spoke, [The penalty is 500,000 coins, which is the initial bid.]
+The senior dokkaebi spoke,
+<@>[The penalty is 500,000 coins, which is the initial bid.]
 Besides, I received 500,000 coins without giving anything. I was grateful. Anna Croft thought of something for a moment before slowly pulling out the coins. However, she took out one million coins, not 500,000 coins. "Demon King of Salvation, do you want to make a bet with me?"
 "A bet? I don't want to."
 "…I heard that you like to bet. It is disappointing to hear you refuse so easily."
@@ -43,14 +43,14 @@ I opened my mouth. "Why should I if I don't lose anything? I will get 500,000 co
 Anna Croft's smile widened like she heard the indirect messages in the channel. "Demon King of Salvation. Your constellations are watching."
 <!>[Many constellations are curious about your choice.]
 <!>[Some constellations are condemning your cowardice.]
-She was a clever woman. In the period before Gigantomachia, the opinion of the constellations was important. I could make allies, reinforcements or enemies depending on my actions. By the way, this provocation…
+She was a clever woman. In the period before Gigantomachia, the opinion of the constellations was important. I could make allies, reinforcements or enemies depending on my actions. However, this provocation…
 I grinned and opened my mouth. "I'm not afraid. I just don't like the betting conditions."
 Anna Croft's eyes widened.
 <!>[The constellation 'Dragon Lying Down' is interested in your words.]
 "Conditions. Do you want to add more to the bet?"
 "The coins are only that much. I would like to add one more condition."
 "One more condition…?"
-"If I win, release the Lord and Vassal Pledge hanging on Selena King."
+"If I win, release the Lord and Vassal Pledge hanging on Selena Kim."
 <!>[The constellation 'Friend of Justice and Harmony' is shocked by your words.]
 <!>[The constellation 'Demon-like Judge of Fire' is nodding at your words.]
 Selena Kim's eyes shook. Perhaps Selena Kim had been bound during the Proof of the Stars before coming to the Context of the Constellations. There was no way Anna Croft would have someone beside her that she couldn't control.
@@ -107,6 +107,7 @@ I spoke in a cold voice, "What are you doing?"
 <@>[It is forbidden to use combat skills here. Don't you know?]
 A familiar doll popped out from among the constellations. It was a constellation with meteorites swirling overhead. I knew this person's modifier. It was because this boy was obviously a constellation of Olympus.
 'Wandering Terror'.
-Someone in the audience shouted, [Wandering Terror, Phobos! It is Ares' son!]
+Someone in the audience shouted,
+<@>[Wandering Terror, Phobos! It is Ares' son!]
 The son of one of the 12 main gods of Olympus, Atrocious War God. The god of terror created by war. This was Phobos who was called Wandering Terror.
 I looked down at Anna Croft. It seemed this guy was the backer that Anna Croft believed in.

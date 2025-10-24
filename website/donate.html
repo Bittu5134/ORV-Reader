@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support ORV-Reader</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d0d1a;
+            color: #ffffff;
+            line-height: 1.6;
+            margin: 0;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            font-size: 1em;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 800px;
+            width: 100%;
+            padding: 30px;
+            border: 1px solid #333;
+            background-color: #1a1a2e;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            color: #e0e0e0;
+            font-size: 2em;
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-size: 0.95em;
+            margin-bottom: 15px;
+        }
+
+        .donation-section {
+            margin-top: 15px;
+            padding: 15px;
+            background-color: #21213a;
+            border-radius: 8px;
+            border: 1px solid #444;
+        }
+
+        h2 {
+            font-size: 1.4em;
+            color: #c0c0c0;
+            margin-bottom: 10px;
+        }
+
+        .crypto-addresses, .giftcards-section {
+            margin-bottom: 20px;
+        }
+
+        .crypto-addresses p, .giftcards-section p {
+            font-size: 0.9em;
+            margin-top: 10px;
+            margin-bottom: 10px;
+        }
+
+        .crypto-addresses span {
+            display: block;
+            background-color: #2a2a47;
+            padding: 10px;
+            border-radius: 5px;
+            font-family: 'Courier New', Courier, monospace;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            font-size: 0.8em;
+            cursor: pointer;
+            position: relative;
+        }
+
+        .crypto-addresses span::after {
+            content: "Click to copy";
+            font-size: 0.7em;
+            color: #aaa;
+            display: block;
+            margin-top: 3px;
+        }
+
+        .highlight-note {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+            color: #bbb;
+        }
+
+        .giftcards-list {
+            margin-top: 5px;
+            text-align: left;
+        }
+
+        .giftcards-list li {
+            margin-bottom: 5px;
+        }
+
+        .giftcards-list a {
+            color: #ffb74d;
+            text-decoration: none;
+        }
+
+        .giftcards-list a:hover {
+            text-decoration: underline;
+        }
+
+        .additional-note {
+            font-size: 0.85em;
+            color: #aaa;
+            margin-top: 10px;
+            text-align: center;
+        }
+
+        .contact-link {
+            color: #ffb74d;
+            text-decoration: none;
+        }
+
+        .contact-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Support <a href="/" style="color: #e0e0e0; text-decoration: none;">ORV-Reader</a></h1>
+        <p class="highlight-note">Every small contribution, no matter how insignificant it may seem, helps us keep the lights on and the story alive for everyone.</p>
+
+        <!-- Gift Cards Section -->
+        <div class="donation-section giftcards-section">
+            <h2>Donate Using Gift Cards</h2>
+            <p>You can directly send gift cards to me via Discord <a href="#" target="_blank" class="contact-link">@bittu5134</a> or email <a href="mailto:ssr7a5134@gmail.com" class="contact-link">ssr7a5134@gmail.com</a>.</p>
+            <p>Accepted gift cards:</p>
+            <ul class="giftcards-list">
+                <li><a href="https://www.eneba.com/store/eneba-gift-cards" target="_blank">Eneba Wallet (preferred)</a></li>
+                <li><a href="https://store.steampowered.com/wishlist/id/BittuX?sort=topsellers" target="_blank">Gift a wishlisted game</a></li>
+                <li><a href="https://store.steampowered.com/digitalgiftcards/selectgiftcard" target="_blank">Gift Digital Steam card</a> (Add me on steam, <a href="https://steamcommunity.com/id/BittuX" target="_blank" class="contact-link">BittuX</a>)</li>
+            </ul>
+            <p class="additional-note">You can also send other things besides gift cards — feel free to discuss it with me on Discord or email.</p>
+        </div>
+
+        <!-- Crypto Section -->
+        <div class="donation-section">
+            <h2>Donate Using Crypto</h2>
+            <div class="crypto-addresses">
+                <p>Your donations go directly into keeping this site alive and ad-free.</p>
+                <p>Bitcoin (BTC):</p>
+                <span onclick="copyToClipboard(this)">bc1qu3vqcvfgzhwagpsyqcgcqs94vtymm6eagm2sw3</span>
+                <p>Ethereum (ETH):</p>
+                <span onclick="copyToClipboard(this)">0x9Ed0416c9083E836aB3C855e08b54BE77eff6c7B</span>
+                <p>Solana (SOL):</p>
+                <span onclick="copyToClipboard(this)">BEXMTBvrN9zC52LqR8rLxnMSWRhL52kSUiWx7ePnCDQE</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function copyToClipboard(element) {
+            const text = element.textContent;
+            navigator.clipboard.writeText(text).then(() => {
+                const original = element.textContent;
+                element.textContent = "Copied!";
+                setTimeout(() => {
+                    element.textContent = original;
+                }, 1000);
+            });
+        }
+    </script>
+</body>
+</html>

@@ -2,7 +2,7 @@
 …Father? If I wasn't mistaken, the giant shadow's word was definitely directed this way. The party members were staring at me with eyes full of disbelief. I looked back at the shadow with bewilderment.
 <@>[Baat?]
 The faint light coming from the entrance of the interstellar city revealed the shadow.
-<!>[No, not that! Try again. 'Father'.]
+<@>[No, not that! Try again. 'Father'.]
 <@>[Baaaat?]
 <@>[No, it is Father. You really…]
 The giant shadow wasn't a single creature. To be precise, there was a creature the size of a soccer ball on the huge shadow.
@@ -21,22 +21,23 @@ I turned my head to see Bihyung waiting for me. I opened the dokkaebi communicat
 –I have been waiting. A dokkaebi to take you to the 47th scenario zone was needed.
 –What is with your body size?
 Bihyung ignored me and spoke to the party members.
-<@>[Everyone of Kim Dokja's Company. Do you know who I am? I am Bihyung, branch manager of the]
-Korean Peninsula branch.]
+<@>[Everyone of Kim Dokja's Company. Do you know who I am? I am Bihyung, branch manager of the Korean Peninsula branch.]
 Bihyung banged on his chest like he was showing off his thick muscles. He made a production out of this.
 <@>[It seems like yesterday when the Korean Peninsula scenario first began… now you've already come to the 47th scenario area.]
 Bihyung's face was full of emotions.
 <@>[As you might know, the scenarios after the 47th scenario don't have to be carried out in order. After entering the interstellar city, you can selectively perform scenarios 48 to 65.]
 Shin Yoosung raised her hand. "We can choose the scenario?"
 <@>[It is the so-called autonomous selection system. Hahaha!]
-Nobody laughed. Bihyung shrugged. [Hum hum, anyway. It is up to you which of the scenarios up to number 65 will be done first. You can do the 65th scenario at once or go through the scenarios to build up your 'status'. In any case, you need a certain level of status to enter the scenario area after number 65.]
+Nobody laughed. Bihyung shrugged.
+<@>[Hum hum, anyway. It is up to you which of the scenarios up to number 65 will be done first. You can do the 65th scenario at once or go through the scenarios to build up your 'status'. In any case, you need a certain level of status to enter the scenario area after number 65.]
 Lee Hyunsung asked, "Then what will happen after the 66th scenario?"
 <@>[There will be a new explanation at that time. You can't go there now so don't worry.]
 It was a cold tone but Bihyung's expression to the party members wasn't cold.
 <@>[Well, it took four years to get here… I don't know how much time it will take in the future. Ah, not all of you went through the same four years.]
 Bihyung grinned at me as he spoke.
 <@>[Let's go to the interstellar city. It will take around 10 minutes to complete the transmission. Please prepare yourself. An amazing world is waiting for you.]
-The moment Bihyung;s words were over, Biyoo shouted. [Baaat!]
+The moment Bihyung's words were over, Biyoo shouted.
+<@>[Baaat!]
 A gorgeous beam of light wrapped around our party members. We started to fly towards the interstellar city. For safety reasons, the movement speed was slower than expected. I didn't know when Biyoo would emerge from my arms. Jung Heewon watched this scene and opened her mouth.
 "Dokja-ssi. I have something to ask."
 Jung Heewon's expression towards me was strange. The other party members glanced at me like they knew what she was going to say.
@@ -89,7 +90,7 @@ The punishment seemed to finally be released and Uriel also sent an indirect mes
 <!>[A new main scenario is waiting.]
 The place we landed was a huge city square. Some incarnations glanced this way but none of them paid attention to us. This city's scale was different from where we had stayed so far. It was natural.
 I spoke to the people, "Everyone knows why we came here?"
-From now on, the enemies we were dealing with were thousands of years old. Jung Heewon nodded and wondered, "We came to play with Olympus right?"
+From now on, the enemies we were dealing with were thousands of years old. Jung Heewon nodded and wondered, "We came to fight with Olympus right?"
 "Do you have a separate plan? Perhaps a full-scale war…"
 I answered Lee Hyunsung's question. "I'm not thinking of a full-scale war. Olympus is one of the biggest nebulas in the entire Star Stream.
 The odds of Kim Dokja's Company winning in a head-on confrontation against Olympus was almost zero.

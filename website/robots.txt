@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://orv.pages.dev/sitemap.xml

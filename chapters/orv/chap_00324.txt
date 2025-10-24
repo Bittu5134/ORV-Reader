@@ -1,7 +1,6 @@
 <title>Ch 324: Ep. 61 - Gigantomachia, IV
 Over the years, the giants had forgotten the anger from the first Gigantomachia. The repeated scenarios took away their will and tarnished the glorious days.
-Now the 60th scenario, Gigantomachia was merely a festival of constellations where several giants
-were conscripted.
+Now the 60th scenario, Gigantomachia was merely a festival of constellations where several giants were conscripted.
 <@>[Please go back.]
 Rather than resisting the world, the giants chose to be forgotten from the world. Their despair was so huge that I was speechless for a moment. It would've been nice if Yoo Sangah was here right now. She was better at convincing people than me.
 "The commanders of a mythical era… they aren't a big deal."
@@ -17,8 +16,9 @@ Yoo Sangah wasn't around but I remembered what she told me. Yoo Sangah was excel
 It was a lie. It was because I didn't know about them. However, it also wasn't a lie.
 "I know someone who was in the same position as you but he didn't give up to the end, unlike you."
 We could only understand the other person through our stories.
-"I knew a man who was desperate thoughts of times in front of a world greater than him, yet never gave up."
-Yoo Joonghyuk and Kim Namwoon looked at me. Briareus asked, [Whose story are you talking about?]
+"I knew a man who had desperate thoughts of times in front of a world greater than him, yet never gave up."
+Yoo Joonghyuk and Kim Namwoon looked at me. Briareus asked,
+<@>[Whose story are you talking about?]
 "The story of a hero I know. I can tell you if you like."
 Briareus laughed at my words. The deep distrust was filled with ridicule.
 <@>[Hidden behind the wall.]
@@ -28,7 +28,7 @@ It was true.
 <@>[Do you think there is any authenticity in the words from such a coward? You can't persuade us.]
 Funnily enough, I couldn't refute the words. It felt like he pointed out something that I had ignored for a long time.
 <!>[The Fourth Wall is indignant!]
-<@>[The Fourth Wall is saying not to listen.]
+<!>[The Fourth Wall is saying not to listen.]
 Unexpectedly, it was the constellations who helped me.
 <!>[The constellation 'Prisoner of the Golden Headband' condemns the weakness of the giants!]
 <!>[The constellation 'Abyssal Black Flame Dragon' thinks the 'Strongest Storm' is pathetic.]
@@ -79,7 +79,9 @@ The lost sensibility was woken up. Their old willpower was being rekindled. They
 <!>[The exclusive skill 'Fourth Wall' is activated!]
 The story was soon cut off. I lost strength and collapsed, only for somebody to help me. They were Yoo Joonghyuk and Kim Namwoon.
 The giants were looking at me.
-<@>[So… The giants asked me. What happened next in the story?]
+<@>[So…]
+The giants asked me.
+<@>[What happened next in the story?]
 <@>[What happened next?]
 I was well aware of the desire seen in these eyes. "Do you want to know?"
 While hating the scenario, they were curious about the next scenario.
@@ -108,7 +110,8 @@ I made a mistake. The moment I was about to ask for the time outside, I heard th
 <@>[This year, there are four.]
 …Four?
 "There is no way. There should be five giants in this scenario."
-The giants gazed at me and answered, [Four.]
+The giants gazed at me and answered,
+<@>[Four.]
 I quickly opened the smartphone and checked Ways of Survival.
 <&>「 There are five giants in this year's Gigantomachia. 」
 There was no doubt. According to Ways of Survival, there should be five giants in this year's war.

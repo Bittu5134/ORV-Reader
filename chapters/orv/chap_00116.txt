@@ -2,18 +2,26 @@
 I was guided by the judge towards the exit of the Underworld. The exact location wasn't known because my eyes were covered with a blindfold. We seemed to go up and then down. After a long walk, the judge took off the blindfold.
 <@>[Follow along this path.]
 I opened my eyes and saw a dark and narrow road. Perhaps this was the exit that didn't require going through Charon, the ferryman.
-<!>[You should look in 'front'.]
+<@>[You should look in 'front'.]
 "What does that mean?"
 I looked around but the judge had already disappeared.
 I had no choice but to start walking along this path. The light faded and darkness settled around me. I was using the walls to orienting myself initially, but the walls soon disappeared. My only frame of reference was gone and I felt like a ship floating on the ocean without any buoys.
 The myth of Orpheus suddenly popped into my head. What would happen if I looked back? Then a faint light appeared in the darkness.
-<@>[You are afraid of what is behind you. That's why you are a pitiful child.]
++
+[You are afraid of what is behind you. That's why you are a pitiful child.]
++
 It was a message from Persephone.
-<@>[Keep this in mind. In order to find the 'front', you must know where the 'back' is. It is because the front can only exist when there is a rear.]
++
+[Keep this in mind. In order to find the 'front', you must know where the 'back' is. It is because the front can only exist when there is a rear.]
++
 Speaking of which, the judge had said something similar. However, just because the words made sense didn't mean I suddenly gained enlightenment and could make enormous changes.
-<@>[It looks like you need some motivation…]
++
+[It looks like you need some motivation…]
++
 The stream of light in the air stretched out like it was hesitating.
-<@>[Okay. I can't bring you to the beginning of the world labyrinth but this much should be possible.]
++
+[Okay. I can't bring you to the beginning of the world labyrinth but this much should be possible.]
++
 I suddenly felt something. The string of light disappeared and a small firefly appeared in front of me. It was a distant light. It was a very fragile and shimmering light. Nobody told me anything but I knew what this light was.
 –You…
 It was Shin Yoosung of the 41st regression.
@@ -45,9 +53,13 @@ The tail of the light shaking in the air became smaller and I reached out toward
 My heart ached with an indescribable grief. Little by little, Persephone's words made sense. There must be something behind in order to go ahead. This was my 'back' and at the same time, the 'front' that I had to face.
 Maybe this was how Yoo Joonghyuk felt. He constantly returned to the past but was only able to move forward.
 The moment I was certain of my direction, the environment stabilized. A string of light appeared in the scattered darkness.
-<@>[I held her for a while with my power but you don't have much time left if you want to save her.]
++
+[I held her for a while with my power but you don't have much time left if you want to save her.]
++
 I remembered the faint warmth of Shin Yoosung. Persephone continued speaking.
-<@>[Please keep this in mind. Humans are 'stories'. By the time you get her back, no one knows how much of her story will remain.]
++
+[Please keep this in mind. Humans are 'stories'. By the time you get her back, no one knows how much of her story will remain.]
++
 After that, I was pulled towards somewhere. The cries of ghosts receded and the sensations of my body returned one by one. I could feel the warm sunlight on my eyelids. I felt a dampness and opened my eyes to see a familiar face.
 "…Ahjussi?" The young Shin Yoosung was watching me. The child's clear eyes reassured me. Her wild heartbeat gradually slowed down.
 I had returned. I breathed slowly and the muscles of my body regained their function.
@@ -95,7 +107,9 @@ Jung Heewon told me. "Dokja-ssi is awake so we are ready to go."
 Come to think of it, there weren't as many people around as there were yesterday. I asked, "What happened overnight?"
 "The sixth scenario has been announced."
 …Already? I didn't have a chance to ask when a huge string of words appeared in the sky.
-<@>[Survivors are advised to gather in Yongsan Station.]
++
+[Survivors are advised to gather in Yongsan Station.]
++
 We packed up and left.
 We were already in Yongsan so it wasn't hard to go to the station. I carried Yoo Sangah while Jung Heewon and Lee Hyunsung were responsible for the remaining luggage.
 Lee Gilyoung and Shin Yoosung followed us while staying far apart from each other. I didn't know where Yoo Joonghyuk's party had gone.

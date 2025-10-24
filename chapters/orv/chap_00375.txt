@@ -62,8 +62,8 @@ Indeed, the weapon held in the captain's hands was something that I was intimate
 <@>[Sword of Judgement]
 "Bilston-nim, do you wish to become another dewdrop of the execution ground alongside your prince?"
 The captain's red eyes wavered threateningly from beyond 'his' helm.
-⸢"Oh, my king… If you will it, then so be it…"⸥
-⸢"Dokja-ssi, you're trying to do it by yourself again… I told you not to do that, didn't I?"⸥
+<&>「 "Oh, my king… If you will it, then so be it…"」
+<&>「 "Dokja-ssi, you're trying to do it by yourself again… I told you not to do that, didn't I?"」
 I knew who this person was.
 "Stop, both of you!!"
 Bilston heard my urgent cry and stopped gathering momentum, and stepped back. Meanwhile, the captain of the guard, glaring at me with hostile eyes, removed 'his' helm.
@@ -92,11 +92,11 @@ It was quite likely that this scenario would begin with my execution.
 Among all the novels I read in the past, there was this genre referred to as the so-called 'hooligan tales'.
 The story usually went along the lines of the hooligan protagonist being born as the last-born child of a royal family or nobility, and he'd become a better person by going through all sorts of trials and tribulations.
 Now normally, most of those stories began in a similar way.
-⸢The Kaizenix Royal Family was ruined.⸥
+<&>「The Kaizenix Royal Family was ruined.」
 Such as, the family being ruined even before the start, and…
-⸢The ruler of the Archipelago died after being stabbed by the dagger of his most trusted adviser.⸥
+<&>「The ruler of the Archipelago died after being stabbed by the dagger of his most trusted adviser.」
 …And, he'd fall into moments of mortal danger after his parents and best friends were killed off.
-⸢The Second Prince, renowned for his mastery of the sword, and the Third Prince, renowned for his magical prowess, lost their lives at the hands of the usurpers.⸥
+<&>「The Second Prince, renowned for his mastery of the sword, and the Third Prince, renowned for his magical prowess, lost their lives at the hands of the usurpers.」
 …What the hell. What was I supposed to do when such important memories came back to me only just now?
 "I shall guide the criminal personally."
 All thanks to that, I ended up delivering myself to my own execution ground like an idiot. Many different thoughts floated up in my head; I was wondering why this wastrel killed himself, but huh, maybe he didn't want to be executed?
@@ -118,12 +118,12 @@ Just like it was with Lee Hyunsung, Jung Heewon's ego didn't want to return that
 The coldness of the wooden lunette surrounded my neck. It was at this point in time that someone loudly shouted out.
 "Her majesty is making her entrance!"
 I heard the sounds of curtains being pulled back. Someone was walking towards the audience chamber enveloped in still silence. The footsteps sounded dignified, light, but at the same time, weighty. Accompanying those footsteps, Ricardo's memories flowed into my head like a song.
-⸢The enemy of my father and my brothers.⸥
-⸢The Dark Magician of the Kaizenix Archipelago.⸥
-⸢The regicide.⸥
-⸢And…⸥
+<&>「The enemy of my father and my brothers.」
+<&>「The Dark Magician of the Kaizenix Archipelago.」
+<&>「The regicide.」
+<&>「And…」
 My heart began powerfully pounding away.
-⸢The woman that I used to love.⸥
+<&>「The woman that I used to love.」
 "Convict, raise your head."
 I slowly raised my head and saw a short-statured 'king', decked out in a black medieval-style cloak embroidered in silver, with neat and tidy tights underneath.
 "Do you have any final words?"
@@ -139,17 +139,16 @@ Overall Evaluation: The applicable individual's? overall? rating? is still being
 The info on the 'King' didn't show up properly. However, her face looked to be in her early 20s no matter how hard I looked.
 I stared at the face of this king, the one that couldn't be the age as declared by the Character Summary, for a long time.
 <img>[375 - I stared at the face of this king.jpg][]
-*
 <?>* Official novel illustration (canonical)
 Both Lee Hyunsung and Jung Heewon were characters from the pages of the 'Ways of Survival'. However, what would it be like for someone who wasn't a character, to begin with?
 Just like me, who wasn't the character of the novel?
 I was holding onto a certain expectation, a hope.
 "I asked you if you have any last words."
 If it was her, wouldn't she be able to remember me?
-⸢He didn't know that, by the time Kim Dokja got to meet her again, 50 years would have passed by already.⸥
+<&>「He didn't know that, by the time Kim Dokja got to meet her again, 50 years would have passed by already.」
 Those were the words from the final revision of the novel that I saw just before I was thrust into the scenario.
 So, this was what they meant, huh.
-"I have."
+"I do."
 "Then, I permit the convict to speak."
 "I…" I forced a smile and spoke up. "…I'm sorry that I came so late, Sooyoung-ah."
 Tsu-chuchuchuchut!
@@ -159,7 +158,7 @@ Her emotionless eyes; the beauty spot just below one of them; and her lips that 
 "Proceed with the execution."
 The guillotine's blade chopped down. But, I didn't try to dodge it.
 I had my reasons, of course.
-⸢Scenarios of the Main Island are all based off on the '3rd generation of Stories'.⸥
+<&>「Scenarios of the Main Island are all based off of the '3rd generation of Stories'.」
 If my thoughts were correct, then 'Ricardo Kaizenix' would not be killed off in this manner.
 Ka-booooom!!
 One of the castle's walls exploded, and at the same time, the guillotine falling down was destroyed. I could see the broken blade of the guillotine through the grey dust cloud rising up.
@@ -171,7 +170,7 @@ Amidst the chaos, I could hear the loud shouts of the royal guards. Soon, the au
 It was the First Prince of the Kaizenix Archipelago – Ricardo's blood brother, as well as a genius in swordsmanship and magic as well as academia.
 "I've come to save my dongsaeng."
 I was greeted by this overflowing sense of happiness. When the arrestingly-beautiful sword light danced and sparkled within the audience chamber, the royal guards rushing in all collapsed one after another like puppets with strings cut.
-There was someone who'd never change even if the worldview or scenarios around him did. Indeed, there would ever be only one such person even if you searched through this entire world-line.
+There was someone who'd never change even if the worldview or scenarios around him did. Indeed, there would only ever be one such person even if you searched through this entire world-line.
 But, I closed my lips just as they opened up half-way. I wasn't sure why, though.
 <!>[Giant Story, 'Kaizenix Archipelago', is enjoying the bloody, gory battle.]
 My companions so far had forgotten about me. I was sure it'd be the same story for that dude, too. In a way, it might be the best thing for him, I thought.
@@ -182,9 +181,6 @@ And then, a message popped up in my head.
 <img>[375 - You fool. You must be Kim Dokja.jpg][]
 
 
-
-
 ***
-
 
 

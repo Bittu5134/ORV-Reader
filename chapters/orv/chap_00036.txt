@@ -75,7 +75,7 @@ Indeed. He wasn't yet ready to be an 'eul'. Don't worry. He would be in a hurry 
 Bihyung was watching me.
 <@>[You… are you crazy?]
 'This one as well'.
-<!>[You are the first to try and support a constellation.]
+<@>[You are the first to try and support a constellation.]
 'I can't do it?'
 <@>[This is a constellation! Will it sign with an insignificant human?]
 'That is just your thoughts'.
@@ -105,7 +105,7 @@ What? He was being sold.
 "W-What is going on Pildu-ssi?"
 <!>[The constellation 'Defense Master' is asking for some time to think.]
 After a while, I heard some good news.
-<!>[The constellation 'Defense Master' as added a condition to the contract.]
+<!>[The constellation 'Defense Master' has added a condition to the contract.]
 <!>[If you agree with this condition, the constellation 'Defense Master' will agree to contract with you.]
 I immediately read the contract.
 …
@@ -204,5 +204,5 @@ During the 8th regression, Yoo Joonghyuk died in Chungmuro's hidden dungeon.
 But the current Yoo Joonghyuk was… the third turn.
 "At this rate, Yoo Joonghyuk will die today."
 If my guess was right, our damn regressor would be on the 'sunfish route¹'.
-
+<?>[1] Seems to be based on the game 'Survive! Mola Mola!' where you have to make a sunfish survive troubles in the sea. But the sunfish gets startled and dies because of almost anything.
 ***

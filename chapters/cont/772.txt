@@ -27,10 +27,10 @@ I took a quick breath and applied it to the situation. There is no way it can be
 I quickly purchased items that I could use right now from the 'Dokkaebi’s Bag'.
 <!>[You have completed purchasing the item.]
 At that moment, a change occurred in the battlefield.
-<!>[Kahahahaha! This is fun!]
+<@>[Kahahahaha! This is fun!]
 Meanwhile, the number of high-level demons jumping into the battlefield increased.
 There were two people I cherished, but now there are four, five, no... six?
-<!>[Hey, let’s eat delicious food together.]
+<@>[Hey, let’s eat delicious food together.]
 Currently, the core weapons of Goo Seonah's team are the 'Holy Lion Set' and the holy sword worn by Goo Seonah herself, 'Light Wish'.
 The 'Holy Messenger Set' was a supply specialized for defense, and the 'Light Wish' was a kind of buff item.
 In other words, there was no item that could cause damage to high-level demons.
@@ -86,23 +86,23 @@ Tsutsutsu.
 With a light spark, the light in Shin Yoosoung's eyes went out. Afterwards, the child started following Goo Seonah like a mechanical doll.
 This made it clear.
 Goo Seonah has the skill to control 'characters'.
-<!>[Chase them.]
+<@>[Chase them.]
 Three high-ranking demons chased after Goo Seonah's team, which was quickly moving away.
 However, the remaining three were stranded by Jung Heewon.
 There were two guys that didn't follow because they were too lazy. The other one seemed to be interested in Jung Heewon.
-<!>[It's not a fragment, but it's still quite interesting.]
-He was the one holding Yoo Jonghyuk’s spear, 'Wolgeuk'.
-<!>[It would be okay for a little entertainment.]
+<@>[It's not a fragment, but it's still quite interesting.]
+He was the one holding Yoo Joonghyuk’s spear, 'Wolgeuk'.
+<@>[It would be okay for a little entertainment.]
 Jung Heewon created magic without saying a word.
 Confrontation with high-level demons.
 If it was an ordinary incarnation, it wouldn't have been surprising if her mind collapsed the moment she met them, but Jung Heewon was different.
 Jung Heewon, who activated [Kendo] in [Demon Slayer], let out a roar and swung her sword towards the upper-class demon.
 She lightly swung her weapon and the demon who was struck by the sword laughed.
-<!>[The constellation 'Spear Master' bursts into flames.]
+<!>[The Constellation 'Spear Master' bursts into flames.]
 Damn it.
 After all, the opponent is that guy.
-The 'Spear Master' was a constellation from the <First Murim> who built his reputation by repeatedly stabbing for hundreds of years.
-In other rounds, it was a great-grade constellation, but here he seemed to have been raised to narrative(?)-grade.
+The 'Spear Master' was a Constellation from the <First Murim> who built his reputation by repeatedly stabbing for hundreds of years.
+In other rounds, it was a Historical-grade Constellation, but here he seemed to have been raised to Narrative(?)-grade.
 It looks like his status has been boosted by absorbing 'Kim Dokja Fragments'.
 Coo coo coo coo coo.
 However, since the opponent was wearing the mask of a high-class demon, Jung Heewon had a chance of winning.
@@ -111,14 +111,14 @@ She is the 'Judge of Destruction'.
 As long as [Time of Judgment] is activated, there is a chance of victory no matter who the opponent is.
 <!>[Skill activation has been forcibly canceled!]
 Jung Heewon, startled, looked up into space.
-<!>[Judge of Destruction is a skill that can be activated only when a certain number of constellations in the channel provide probability.]
-However, the constellations that currently occupy the channel are the <Zodiac> and the Gourmet Association. There was no constellation that would take her side.
-<!>[Where can I get it?]
+<&>「Judge of Destruction is a skill that can be activated only when a certain number of Constellations in the channel provide probability.」
+However, the Constellations that currently occupy the channel are the <Zodiac> and the Gourmet Association. There was no Constellation that would take her side.
+<@>[Where can I get it?]
 The storm of magical power that rose from Wolgeuk poured down on Jung Heewon. The 'Holy Lion Armor' worn by Jung Heewon shattered, and sharp magical blades cut through her entire body.
 If things continue that way, Jung Heewon will die. There was no time to hesitate.
 I activated [Ways of the Wind] with all my might and launched myself at Jung Heewon.
 At the same time, explosive spider webs poured out from my entire body.
-<!>[What—]
+<@>[What—]
 The feet of three demons, including the 'Spear Master', were tied up in [Arachne's Web]. I quickly picked up Jung Heewon, who had fallen through the bushes.
 Surprised, Jung Heewon widened her eyes. Soon, venom filled her eyes.
 "Let go."
@@ -168,9 +168,9 @@ Her face was distorted with anger, but Jung Heewon's hypnosis was not broken.
 No, this doesn't work?
 In the meantime, a high-ranking demon, swinging the moon like a windmill, rushed in.
 As I put Jung Heewon down on the floor, I took out 'Unbreakable Faith' and swung it around. There was a heavy sibilant sound and the pain of my wrist being bent.
-<!>[You—]
+<@>[You—]
 The spear master's eyes widened as he recognized me.
-<!>[You are a very large fragment.]
+<@>[You are a very large fragment.]
 Changgeuk was moving to a state that was difficult to follow with my eyes.
 Damn, was I wrong?
 I took out one of the items I had purchased earlier from my pocket.
@@ -181,7 +181,7 @@ I shouted with all my might towards Jung Heewon.
 "I will stop this place somehow—"
 I desperately activated [Way of the Wind], but it was an unavoidable blow. I felt a sharp spear tearing through the skin of my stomach.
 I guess so. Because this is not an enemy I can defeat in my current state.
-<!>[Smile?]
+<@>[Smile?]
 Nevertheless, I was smiling while holding on to the pole of his spear.
 I thought it was a good thing.
 "Jung Heewon-ssi! Quick—"
@@ -200,7 +200,7 @@ Anyone who is saved by the Demon King will inevitably suffer irreversible damage
 Jung Heewon, muttering like crazy, staggered closer.
 Blood poured out from the skin of my stomach that was stabbed  by Changgeuk, and my consciousness gradually faded.
 And as my consciousness faded, a strong confidence filled me.
-<!>[A constellation that has not yet revealed its modifier is watching you.]
+<!>[A Constellation that has not yet revealed its modifier is watching you.]
 Jung Heewon will not die.
 <!>[The clouded consciousness is partially liberated from the restraints of the body.]
 She will suffer injuries so terrible that she will want to die, but she will not die.
@@ -216,4 +216,4 @@ When I opened my eyes, I saw my incarnation body falling.
 A high-level demon was holding its hand toward my head with greedy eyes.
 I moved Jung Heewon’s hand and grabbed 'Mikazuki Munechika'.
 <!>['Time of Judgment' is activated!]
-<!>[The constellation 'Demon King of Salvation (acting agent)' has agreed to the activation of 'Time of Judgment'.]
+<!>[The Constellation 'Demon King of Salvation (acting agent)' has agreed to the activation of 'Time of Judgment'.]

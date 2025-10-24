@@ -1,113 +1,102 @@
-# Contribution Guide
+# How to Contribute
 
-This guide provides detailed instructions on how to contribute to the ORV-Reader project. Whether you're fixing typos, adding images, or improving the front end, your contributions are welcome!
+Welcome to the ORV-Reader project! This guide will help you make your first contribution. Don't worry if you've never used GitHub before—we'll walk you through everything step by step!
 
 ---
 
-## Index
-1. [How to Contribute](#how-to-contribute)
-   - [Forking the Repository](#forking-the-repository)
-   - [Cloning the Repository](#cloning-the-repository)
-   - [Making Changes](#making-changes)
-   - [Submitting a Pull Request](#submitting-a-pull-request)
-2. [Editing Text Files](#editing-text-files)
+## What's Inside This Guide
+
+1. [How to Edit Files](#how-to-edit-files)
+2. [What You Can Edit](#what-you-can-edit)
 3. [Adding Images](#adding-images)
-4. [Improving the Front End](#improving-the-front-end)
-5. [Important Notes](#important-notes)
+4. [Important Notes](#important-notes)
 
 ---
 
-## How to Contribute
+## How to Edit Files
 
-### Forking the Repository
-1. Go to the [GitHub repository](https://github.com/Bittu5134/ORV-Reader).
-2. Click the "Fork" button in the top-right corner to create a copy of the repository in your GitHub account.
+Don't worry if this is your first time using GitHub! Just follow these simple steps:
 
-### Cloning the Repository
-1. Clone your forked repository to your local machine:
-   ```
-   git clone https://github.com/<your-username>/ORV-Reader.git
-   ```
-   Replace `<your-username>` with your GitHub username.
+### Easy Step-by-Step Guide
 
-2. Navigate to the project directory:
-   ```
-   cd ORV-Reader
-   ```
+1. **Find the Edit Button:** On the chapter page you want to edit, look for the pencil icon (✏️) at the top and click it.
 
-### Making Changes
-1. Identify the files you want to edit. Refer to the sections below for specific instructions on editing text files, adding images, or improving the front end.
-2. Make your changes following the guidelines provided in this document and the [Formatting Guide](./formatting.md).
+2. **You'll Go to GitHub:** The website will take you to a page showing the chapter text file.
 
-### Submitting a Pull Request
-1. Commit your changes with a meaningful message:
-   ```
-   git add .
-   git commit -m "Describe your changes"
-   ```
-2. Push your changes to your forked repository:
-   ```
-   git push origin main
-   ```
-3. Go to your forked repository on GitHub and click the "Pull Request" button.
-4. Provide a clear description of the changes you made and submit the PR.
-5. Wait for the maintainers to review your PR. If changes are requested, update your branch and push the changes.
+3. **Sign In (or Create an Account):** 
+   - If you already have a GitHub account, sign in
+   - If not, you can create a free account—it only takes a minute!
+
+4. **Click Edit:** Look for another pencil icon or a button that says "Edit this file" and click it.
+
+5. **GitHub Will Make a Copy:** GitHub will automatically create your own copy of the project (this is called a "fork"). Don't worry—this is normal and safe!
+
+6. **Make Your Changes:** Now you can edit the text! Use the online editor to fix typos, add tags, or make other improvements.
+
+7. **Describe Your Changes:** Scroll down to the bottom. You'll see boxes where you can:
+   - Write a short title describing what you changed (e.g., "Fixed typo in Chapter 5")
+   - Add more details if needed (optional)
+
+8. **Click "Propose changes":** This green button saves your edits.
+
+9. **Create a Pull Request:** 
+   - A new page will open with another green button that says **"Create pull request"**
+   - Click it once
+   - Another page appears—click **"Create pull request"** one more time
+   - That's it! You've just contributed! 🎉
+
+> [!TIP]
+> **Quick Tip:** When you make more edits in the future, GitHub might ask if you want to create a new branch. Choose the option to **"commit to main branch"** to keep things simple. Also, remember to sync your copy of the project regularly to get the latest updates!
 
 ---
 
-## Editing Text Files
+## What You Can Edit
 
-The following directories contain the text files for different parts of the ORV-Reader project:
-- `chapters/orv`: Contains the main story of ORV.
-- `chapters/cont`: Contains the sequel (Chapters 553+).
-- `chapters/side`: Contains side stories.
+All chapter files are stored in text files that you can edit. Here are the most helpful ways you can contribute:
 
-### What You Can Edit
-- Fix typos or grammatical errors.
-- Correct system message types, constellation speech, or outer god dialogues.
-- Add missing tags or improve formatting.
+- **Fix Spelling and Grammar:** Spot a typo? Fix it! Every correction helps.
+- **Fix Formatting:** Make sure system messages, constellation speech, and outer god dialogues use the right tags.
+- **Improve the Story Text:** Add missing tags or improve how the text is formatted.
 
-Refer to the [Formatting Guide](./formatting.md) for detailed instructions on using tags and formatting styles.
+> [!IMPORTANT]
+> **Need help with tags?** Check out the [Formatting Guide](./formatting.md) to learn how to use special tags like `<!>` for system messages, `<@>` for constellation speech, and more!
 
 ---
 
 ## Adding Images
 
-You can contribute by adding illustrations and cover images to the chapters.
+Want to add artwork or cover images to chapters? That's awesome! Here's how:
 
-### Steps to Add Images
-1. Upload the image to the `website/assets/images` folder with a unique name (e.g., `CH512-01.jpg`).
-2. Edit the corresponding chapter file to include the image using the `<img>` tag. Refer to the [Formatting Guide](./formatting.md) for the correct syntax.
+### How to Add an Image
 
-Example:
+1. **Upload the Image:** 
+   - Go to the `website/assets/images` folder
+   - Upload your image with a clear name (example: `CH512-01.jpg`)
+
+2. **Add the Image Tag:** 
+   - Open the chapter text file you want to add the image to
+   - Use the special `<img>` tag to insert it
+
+3. **Check the Format:** 
+   - Look at the [Formatting Guide](./formatting.md) to make sure you're using the right format
+
+### Example
+
 ```
 <img>[CH512-01.jpg][Illustration for Chapter 512]
 ```
 
----
-
-## Improving the Front End
-
-If you're up for a challenge, you can contribute to improving the front end of the website.
-
-### Front-End Files
-- All front-end files are located in the `/website` directory.
-- The files for individual chapters are dynamically generated using GitHub Actions. To edit these, modify the corresponding `template.html` files:
-  - `website/stories/orv/read/template.html`
-  - `website/stories/cont/read/template.html`
-  - `website/stories/side/read/template.html`
-
-### Important Notes
-- Do not copy-paste content between template files. Each template contains unique data tags that must remain intact.
-- Test your changes locally before submitting a pull request.
+This tells the website: "Show the image `CH512-01.jpg` with the description 'Illustration for Chapter 512'"
 
 ---
 
 ## Important Notes
 
-- Always follow the [Formatting Guide](./formatting.md) to ensure consistency.
-- Avoid making unnecessary changes to dynamically generated files.
-- If you're unsure about anything, feel free to open an issue on GitHub for clarification.
-- Be respectful and patient during the review process.
+- **Use the Formatting Guide:** Always check the [Formatting Guide](./formatting.md) to make sure you're using tags correctly.
+- **Don't Edit HTML Files:** The website automatically creates HTML files from the text files. Only edit the `.txt` chapter files, not the `.html` files.
+- **Need Help?** If you're confused about something, just ask! Open an issue on GitHub and we'll help you out.
+- **Be Patient:** After you submit your changes, someone will review them. This might take a little time, so please be patient!
 
-Thank you for contributing to the ORV-Reader project!
+---
+
+Thank you for helping make ORV-Reader better for everyone! Every contribution, no matter how small, makes a difference. 💜

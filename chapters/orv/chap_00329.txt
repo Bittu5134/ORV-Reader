@@ -7,9 +7,11 @@ I turned after hearing someone's voice and saw a familiar big man. He had a bush
 "I am the Demon King of Salvation."
 Demon King of Salvation. Some of the incarnations and constellations who heard my modifier immediately responded. "Is it the Demon King's Selection…?"
 "T-The demon king who knocked down Surya!"
-The man with the big spear came forward and said. [I am called 'Protector of Changban.]
+The man with the big spear came forward and said.
+<@>[I am called 'Protector of Changban'.]
 "Protector of Changban! It is Zhang Fei!"
-Zhang Fei struck his massive chest. [I want to help you. I didn't want to play this childish game but now I'm getting heated up!]
+Zhang Fei struck his massive chest.
+<@>[I want to help you. I didn't want to play this childish game but now I'm getting heated up!]
 He threw away the items harvested from Olympus' theme park. It was the head of a young hydra, a golden apple and fake golden fleece.
 I nodded and said, "Good."
 If Zhang Fei had this equipment, he would definitely be a big power. However, it wasn't enough.
@@ -30,7 +32,7 @@ Failure: Partial disappearance of the 'giant story'.
 * Each faction has two leaders.
 +
 The moment the scenario updated, a green arrow flashed over my head.
-<@>[You already belong to a force.]
+<!>[You already belong to a force.]
 <!>[You are one of the two leaders in charge of the 'giant' forces.]
 The incarnations around me were silent. They had probably received the updated scenario.
 <!>[The constellation 'Prisoner of the Golden Headband' is delighting in this spectacle.]
@@ -63,7 +65,7 @@ Then why did Yi Sunsin remain at the historical-grade despite Goryeo's First Swo
 <!>[The constellation 'Maritime War God' is looking at his fellow people.]
 It was because he refused to be narrative-grade.
 <!>[The constellation 'Seo Ae Il Pil' wants 'Maritime War God' to fight for himself.]
-it was the moment when a historical-grade constellation became narrative-grade. The moment when a single constellation left his nation and moved towards his own path. A dazzling radiance emerged from Lee Jihye's body.
+It was the moment when a historical-grade constellation became narrative-grade. The moment when a single constellation left his nation and moved towards his own path. A dazzling radiance emerged from Lee Jihye's body.
 <!>[The constellation 'Maritime War God' is opening his status.]
 The Duke of Loyalty and Warfare released himself, as if revealing everything about him.
 <!>[The Star Stream is staring at the constellation 'Maritime War God'.]
@@ -92,7 +94,7 @@ It was Lee Hyunsung. Lee Hyunsung collided with Jason with a tremendous amount o
 "Haaaaaap!"
 Jason was surprised by the tremendous strength that forced him to be pushed back. In the latter half of Ways of Survival, Lee Hyunsung wasn't pushed by an incarnation or constellation in strength.
 <!>[Synchronization with the constellation 'Master of Steel' has increased!]
-Lee Hyunsung's upper body was covered by a shell of steel. The level of Lee Hyunsung's Steel Transformation was extremely high. His body wasn't touched at all despite being punched by a hero.
+Lee Hyunsung's upper body was covered by a shell of steel. The level of Lee Hyunsung's Steel Transformation was extremely high. His body wasn't hurt at all despite being punched by a hero.
 In the sky, Shin Yoosung and Lee Gilyoung were flying on the dragon. Shin Yoosung avoided the heroes with dragon slaying stories and fired a breath. The sea was instantly poisoned and the enemies were cut by Lee Gilyoung's insect kings. Lee Seolhwa used poison against the heroes while Han Sooyoung used the black flames and blocked the constellations of Olympus.
 Now they all had the ability to deal with historical-grade constellations. The 10 or so nebula members were fighting against the constellations of a mighty nebula.
 The incarnations observing the situation in the back were shocked.
@@ -101,7 +103,8 @@ The incarnations observing the situation in the back were shocked.
 This was the effect I had intended. The battle was still in its infancy. I had to appeal with strength to bring in reinforcements. However, the god of victory still wasn't on our side.
 …It finally appeared. I looked at the 20 metres high monster filling my field of view. It wasn't a human, no matter how I looked.
 Gleaming golden armour. A cloak made of lion leather wrapped around it. Those who knew Greek mythology couldn't not know his name.
-Some of the giants shrieked at the majestic appearance. [Heracles…!]
+Some of the giants shrieked at the majestic appearance.
+<@>[Heracles…!]
 The hero's 'status', that even the 12 Gods were reluctant to go against, dominated the entire battlefield.
 I looked up as a dark shadow covered the surrounding area and smiled bitterly. If I wanted to deal with this monster then I had to call a monster as well.
 It took me so long to get here. Naturally, I wouldn't withdraw from here.

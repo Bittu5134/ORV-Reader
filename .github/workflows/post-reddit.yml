@@ -1,0 +1,28 @@
+name: Manual Reddit Post
+
+on:
+  workflow_dispatch:
+
+jobs:
+  post_to_reddit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install praw
+
+      - name: Run Reddit posting script
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          SUBREDDIT: OmniscientReader
+        run: python scripts/others/reddit.py

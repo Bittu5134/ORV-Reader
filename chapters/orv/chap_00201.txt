@@ -43,14 +43,14 @@ I could use this hand if necessary. There were also a few story fragments that I
 Mark stared at me like I was a fool. "…I don't know what happened but I guess I passed the test?"
 "That's right. Congratulations on entering the Revolutionary Army."
 The aghast Aileen shouted at the sudden conclusion. "No, wait a minute!"
-"This person came right after I made the revolutionary declaration. The duke's snitch wouldn't have responded this quickly. The least Revolutionary Scenario was 30 years ago."
+"This person came right after I made the revolutionary declaration. The duke's snitch wouldn't have responded this quickly. The last Revolutionary Scenario was 30 years ago."
 Aileen paused at my quick clarification before she continued, "It isn't wrong but I don't think this is enough evidence.
 "I do. I am sure that this person is the guardian."
 "How?"
 "Just as I am sure that you are an engineer of Lindberg."
 "How could you…"
 "I also know that Aslan over there is really Jang Hayoung and that he is from Earth."
-"Hey! M privacy…!"
+"Hey! My privacy…!"
 Aileen's expression changed once she saw Jang Hayoung's reaction. "You… can you see the attribute information?"
 "As much as necessary."
 In fact, I had already checked Mark's attribute information. Aileen didn't understand but she was finally convinced. "You have an unusual skill. Until now, there wasn't a skill that could give a glimpse of the position information."
@@ -153,7 +153,8 @@ The creepy flute sounds were heard and the executioners appeared one by one. The
 "It is me. You can't kill me yet you gathered here anyway."
 The executioners looked at each other.
 <@>[You are the re vo lu tion ary.]
-Then they said, [B u t.]
+Then they said,
+<@>[B u t.]
 At this moment, I felt suspicious. Wait, this…
 It wasn't possible. They already thought of this strategy?
 <@>[The one who wi ll di e.]

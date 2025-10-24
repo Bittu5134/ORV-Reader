@@ -70,10 +70,10 @@ In conclusion, we did get something out from the visit to the Emerald Castle. Th
 We asked how we could do that, and he replied like this.
 – You'll find out when you get to where Lee Hyunsung currently is.
 And that was the reason why us, this trio, were standing in this particular place. At some distance away, we could see a Ferris wheel that no longer functioned as well as an ancient, decrepit carousel. It was the stereotypical sight of a run-down, bankrupt theme park.
-<<There is no Wizard in Oz>>
+&lt;&lt;There is no Wizard in Oz&gt;&gt;
 It seemed that was the name of this theme park. In a way, it sounded rather cool.
 My problem was with what was written below it.
-<<However, we have Lee Hyunsung>>
+&lt;&lt;However, we have Lee Hyunsung&gt;&gt;
 – Lee Hyunsung 'Memory Experience Centre' now open!
 – Find Lee Hyunsung's soul hidden somewhere in the Experience Centre to win a cool, pre-selected prize.
 …What the hell was the meaning of this?
@@ -141,7 +141,6 @@ The second part was about how they walked around disappointed only to coincident
 And finally, the last part regarding how they just couldn't win against the kids pestering them so they bought a family discount to enter… Eh? Family discount?
 "What are you fools doing here?"
 <img>[461 - I looked back and sure enough, Yoo Joonghyuk and his fox ears were standing there.jpg][]
-*
 <?>* Unofficial fan illustration (non-canonical)
 I looked back and sure enough, Yoo Joonghyuk and his fox ears were standing there. He alternated his gaze between me and Han Sooyoung before throwing out a question. "Have you regained Lee Hyunsung's soul yet?"
 "We came here to find it. Besides, what are you doing here instead of searching for the Story metal?"

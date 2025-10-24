@@ -16,8 +16,8 @@ Tsu-chut, chuchuchut!!
 I could guess who Yuri di Aristel was talking to, and what the topic of their conversation right now was.
 <!>[Exclusive skill, 'Omniscient Reader's Viewpoint', has activated.]
 The time Yuri di Aristel and Han Sooyoung had spent together was flowing by like a river of fragments.
-⸢"You said that you'll stay with me! You said that you'll become my guardian, didn't you?! I really loved the scenario you've shown me. I can't let you go like this! I…!!"⸥
-⸢"My bad, Yuri."⸥
+<&>「 "You said that you'll stay with me! You said that you'll become my guardian, didn't you?! I really loved the scenario you've shown me. I can't let you go like this! I…!!"」
+<&>「 "My bad, Yuri."」
 Blood bubbled out of her mouth and she staggered unsteadily before collapsing on the ground. I hurriedly held her in an embrace. Most likely, there was a war being fought between Han Sooyoung and Yuri di Aristel inside this body right about now.
 <!>[Giant Story, 'Kaizenix Archipelago', is…]
 <!>[Giant Story, 'Torch That Swallowed the Myth', is…]
@@ -59,7 +59,7 @@ Someone was sacrificed again because of me.
 Han Sooyoung who had to endure the time frame of 50 years – could she still maintain a normal, functioning mind?
 Was she able to maintain the ego of the Han Sooyoung that I know of?
 "This is all because I made a deal with the 'King of Reincarnators'."
-⸢It 'd b een be tter if I sac rificed myself ins tead.⸥
+<&>「It 'd b een be tter if I sac rificed myself ins tead.」
 I turned my head to discover Yoo Joonghyuk glaring at me as if I was a pathetic fool. His lips bobbed up and down several times, but then, squeezed his eyes shut as if to suppress his anger and leaned his back against the couch's cushions.
 "I'd like to say something, but it seems that someone else will do that for me, instead."
 "What?"
@@ -123,7 +123,6 @@ Only then did I finally realize what her situation was. She possessed the skill 
 "It was a cowardly method, you know. Not something to be praised, anyhow."
 Han Sooyoung glanced at the corner of the room and spoke up. "Well, there is a monster in the world who had lived far longer than I have and chose not to forget a single thing, after all."
 <img>[380 - Han Sooyoung glanced at the corner of the room and spoke up.jpg][]
-*
 <?>* Unofficial fan illustration (non-canonical)
 She didn't have to say who it was for me to know who she was referring to here.
 In order to lighten the awkward atmosphere, I resorted to making exaggerated gestures while raising my voice. "Okay, let's not worry about that and think up of a solution from now on. Speaking from the perspective of a reader, the next portion of the story should be…"
@@ -152,8 +151,9 @@ True, if the kids possessing taming skills were here, or even Lee Jihye with the
 "Technically speaking, Hayoung isn't a member of <Kim Dokja's Company>, so she should've been summoned to a different scenario from ours."
 If things were going according to the original storyline, then Jang Hayoung should be performing her own role somewhere else. And that was something I couldn't help her with.
 I walked faster through the hallways under the protection of Jung Heewon and Lee Hyunsung.
-In front of us, Han Sooyoung and Yoo Joonghyuk were competing in a mini foot race to see who could stay ahead. It felt like I was watching a stork and a crow-tit¹ compete against each other.
-Jung Heewon watching the same spectacle as me sneaked closer to whisper something in my ear. "Dokja-ssi?"
+ In front of us, Han Sooyoung and Yoo Joonghyuk were competing in a mini foot race to see who could stay ahead. It felt like I was watching a stork and a crow-tit¹ compete against each other.
+<?>[1] A saying in Korea meaning one should not act out of their hierarchy (determined by age, title, gender etc.)
+ Jung Heewon watching the same spectacle as me sneaked closer to whisper something in my ear. "Dokja-ssi?"
 "Yes?"
 "I might be overstepping my boundary here a bit, but I think you should know about this."
 "Regarding?"

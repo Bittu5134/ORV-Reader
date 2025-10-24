@@ -26,7 +26,7 @@ The walls of the stomach growled, and small waves rose inside. The sea commander
 "I knew you would come."
 <@>[Hrmm. It sounds like you were waiting for me?]
 "Of course, I have been waiting."
-A light turned on, and the dokkaebi appeared. I couldn't tell for sure from his expression alone, but this guy was clearly interested. If I was pushed here, I wouldn't be able to eat my meal. So, I deliberately spoke calmly, "Are you doing to take coins from me?"
+A light turned on, and the dokkaebi appeared. I couldn't tell for sure from his expression alone, but this guy was clearly interested. If I was pushed here, I wouldn't be able to eat my meal. So, I deliberately spoke calmly, "Are you going to take coins from me?"
 <!>[…Coins?]
 "You have to take coins in exchange for me failing the scenario."
 <@>[Hmm, not your life?]
@@ -35,7 +35,10 @@ A light turned on, and the dokkaebi appeared. I couldn't tell for sure from his 
 In fact, there was a loophole in my words. The scenario message was 'Failure: ???'. This literally meant that the penalty of failure was unknown. It was just my assumption that it was in exchange for coins. Nevertheless, there was a reason why I was so certain.
 "Am I wrong?"
 It was because I already knew about this scenario.
-The dokkaebi hesitated for a moment before nodding. [You are right. It's amazing that you could determine this point with such a clue… As expected from someone who is attraction the constellations' attention.] The dokkaebi's tone was filled with sincere admiration. [As you said, you can survive this sub-scenario if you pay coins, even if you fail.]
+The dokkaebi hesitated for a moment before nodding.
+<@>[You are right. It's amazing that you could determine this point with such a clue… As expected from someone who is attracting the constellations' attention.]
+The dokkaebi's tone was filled with sincere admiration.
+<@>[As you said, you can survive this sub-scenario if you pay coins, even if you fail.]
 "How much?"
 <@>[Pay 5,100 coins. Then I will let you live.]
 I looked at how many coins I currently possessed.
@@ -49,12 +52,14 @@ I couldn't help smiling. This brat was messing around right now.
 <@>[······.]
 "You can't kill me?"
 The dokkaebi didn't move. This was a natural reaction. After all, he was having a lot of fun with me right now. Furthermore, he wouldn't have come down here to see me if he had been planning to kill me. For this guy, I had to survive here or at least to die miserably.
-<@>[Haha. You are really making me angry. Look, now… The dokkaebi's flat-shaped eyebrows wriggled furiously. It was time to stop the taunts and get to the main point.]
+<@>[Haha. You are really making me angry. Look, now…]
+The dokkaebi's flat-shaped eyebrows wriggled furiously. It was time to stop the taunts and get to the main point.
 "Low-grade dokkaebi, Bihyung. How are the activities of a streamer?"
 If there was a crack in the face, it would look exactly like this. Dokkaebi Bihyung showed confusion for the first time.
 <@>[H-How do you know my name?]
 "You haven't been enjoying broadcasting lately, right? The constellations are too stingy."
-<@>[W-Who the hell are you? How does a human… Bihyung's horns shook. It was a natural reaction. After all, an ordinary human couldn't know about the Star Stream system. However, I wasn't an ordinary human.]
+<@>[W-Who the hell are you? How does a human…]
+Bihyung's horns shook. It was a natural reaction. After all, an ordinary human couldn't know about the Star Stream system. However, I wasn't an ordinary human.
 <!>[A few constellations have doubts about your existence.]
 <!>[The constellation 'Secretive Plotter''s eyes are shining at your plan.]
 From now on, it wasn't a story for the constellations. I mouthed to Bihyung, "How about we talk after you close the channel?"
@@ -67,3 +72,5 @@ Once the constellations left the channel, Bihyung showed his true colors.
 "Bihyung, do you want to be 'king of the dokkaebis'?"
 <@>[What now―]
 "Don't you wish to be the best streamer in the network, surpassing Dokgak and Gildal?" Bihyung's complexion was changing. "Dokkaebi Bihyung, sign a contract with me. Then I will make you the king of the dokkaebis."
+
+***

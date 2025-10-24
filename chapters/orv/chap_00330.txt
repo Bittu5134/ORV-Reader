@@ -2,7 +2,7 @@
 A swirling portal appeared in the sky.
 <!>[The constellation 'Queen of the Darkest Spring' is looking at you.]
 Pluto's license was obtained from Hades. I could use Pluto freely in the limited time Gigantomachia was held.
-<@>[Hahaha, grasshopper man! You memorized the starting change despite not liking it?]
+<@>[Hahaha, grasshopper man! You memorized the starting chant despite not liking it?]
 It was Kim Namwoon's mischievous voice. However, the giant soldier didn't appear immediately. There was only the darkness of the abyss visible beyond the swirling portal.
 <@>[By the way, can you wait 10 minutes? The summoning circle is damaged and I can't go straight away. The giants stomped their feet too many times…]
 …Dammit. Heracles was emitting a white light and looking my way with blank eyes.
@@ -20,13 +20,14 @@ He was a demigod, a mix between a god and human. He had a body of steel. The sto
 <!>[The story 'Man Who Beat up the Giant Boar' has begun.]
 <!>[The story 'Man Who Overpowered a Cerberus with Bare Hands' has begun.]
 …
-A tremendous amount of stories were shining in Heracles' body. At first glance, they seemed like crazy stories. Every one of them was at the very least, legendary grade stories. The scale of his 'giant stories' was incomparable but I didn't start the game without knowing this.
+A tremendous amount of stories were shining in Heracles' body. At first glance, they seemed like crazy stories. Every one of them was at the very least a legendary grade story. The scale of his 'giant stories' was incomparable but I didn't start the game without knowing this.
 "Once again, rumours in the Star Stream can't be believed." I spoke in a provocative voice and Heracles' fist flew towards me.
 <!>[The exclusive skill 'Bookmark' is activated!]
 Miniaturization and Electrification were activated. Heracles' fist passed over the top of my head and made a crater in the ground where I had been standing. I was swept back by the ignorant power but I didn't stop the provocation. "Your punch is only this much. I don't know if this was enough to overpower the giants.
 An angry cry seemed to burst from Heracles' body.
 "I know many stories about you. You caught the lion of Nemea, killed a hydra, hunted a Stymphalian bird… they are incredible stories for 'one person' to accomplish in a short period of time."
-Finally, a true voice burst out from Heracles' body. [That's right. That is me, Heracles!]
+Finally, a true voice burst out from Heracles' body.
+<@>[That's right. That is me, Heracles!]
 It was creepy hearing the voice. It might be equivalent to the 12 Gods but as a result, I was even more convinced.
 "I heard a rumour that you were born for Gigantomachia. Your 12 tasks were trials for the victory of Gigantomachia."
 <!>[Some constellations are interested in your words!]
@@ -77,14 +78,14 @@ I stared at Heracles.
 <&>「 He left discord every time he walked through a 'fight' in front of him. 」
 The stories of a constellation flowed through Heracles' giant soldier. They weren't Heracles' stories.
 Heracles was a giant soldier. If so, there was someone riding him and I knew who that person was.
-I cried out in my true voice. [Atrocious War God! Are you a coward who fights behind a giant soldier?]
+I cried out in my true voice.
+<@>[Atrocious War God! Are you a coward who fights behind a giant soldier?]
 A huge storm of wind blew around Heracles' body. The heroes and constellations fighting in a bloody manner around him were pushed back dozens of metres. I would've flown to the horizon if I hadn't used Way of the Wind through Bookmark. Ares opened his mouth.
 <@>[In the past, many people who spoke bad words to Olympus didn't have a good fate. Oedipus and Prometheus as well. No one was an exception.]
 Unlike the fierce outburst, Ares' true voice was unexpectedly calm.
 <@>[You have spoken more words than anyone I've seen.]
 It happened the moment Heracles aimed a fist at me. 10 minutes had passed. Pluto appeared in the sky and blocked Heracles' fist. I literally flew through the air and entered Pluto's cockpit.
 <img>[330 - Pluto appeared in the sky and blocked Heracles' fist.jpg][]
-*
 <?>* Official novel illustration (canonical)
 <!>[The Giant Soldier Pluto has confirmed your boarding.]
 <!>[The Giant Soldier Pluto has confirmed the master's constellation.]
@@ -100,13 +101,12 @@ The rating of the giant soldier was determined by the quality of the 'soul' used
 –You're serious?
 –Perhaps it would be impossible originally but… I learnt something from you.
 –…From me?
-I rushed towards Heracles. Heracles amplified his body volume to match Pluto and also headed
-towards me. Four hands collided and the fierce wind pressure created a whirlpool in the sea. Ares was surprised when Pluto showed a strength comparable to Heracles.
+I rushed towards Heracles. Heracles amplified his body volume to match Pluto and also headed towards me. Four hands collided and the fierce wind pressure created a whirlpool in the sea. Ares was surprised when Pluto showed a strength comparable to Heracles.
 <@>[A giant soldier? Where did you get it?]
 "I scammed it from someone, just like you."
 From the start of the Demon King Selection to the 1863rd round. I had been preparing for Gigantomachia. It was a chance for a new nebula to establish a solid position and an opportunity to properly warn the big nebulae.
 <&>「 Kim Dokja read and read Ways of Survival. 」
-I changed the original novel and the future became uncertain. However, it was impossible for me to use Anticipation Plagiarism like Han Sooyoung of the 1863rd round. It was possible for writers like Han Sooyoung to 'create' possible developments of the future.
+I changed the original novel and the future became uncertain. However, it was impossible for me to use Predictive Plagiarism like Han Sooyoung of the 1863rd round. It was possible for writers like Han Sooyoung to 'create' possible developments of the future.
 To such a me, the 1863rd round Han Sooyoung stated:
 –What are you talking about? You're a reader.
 Reader. A person who read and appreciated the writer's words.
@@ -128,7 +128,9 @@ Since the 60th scenario, the probability storm that occurred couldn't be compare
 I endured the sparks with gritted teeth.
 The nebula Olympus has used too much extra probability on me. Therefore, the probability allowed for large-scale scenarios such as this Gigantomachia was almost gone. Indeed, Ares' status didn't rise above a certain level.
 <@>[Stupid fool! If you do that, you will die!]
-<@>[I might die. I looked over at Ares and declared, But you will die first.]
+<@>[I might die.]
+I looked over at Ares and declared
+<@>[But you will die first.]
 I looked down at Pluto's empty right hand. The power of the giant soldier was so high that an ordinary weapon couldn't withstand the shock. At the very least, I needed a weapon comparable to Heracles' Bat.
 In fact, I had such a weapon. It was a weapon I have been saving for a long time, just for this moment.
 <@>[Come, Steel Sword.]

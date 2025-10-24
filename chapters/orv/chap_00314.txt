@@ -10,7 +10,7 @@ The true voice came from a constellation sitting at the fountain next to the por
 I replied on behalf of the party members. "Earth."
 <@>[Hoh, I'm from there. It's a pleasure. Where on Earth? It it on the continent side?]
 "The Korean Peninsula."
-"Neighbourhood friends! There seem to be some decent ones there.]
+<@>["Neighbourhood friends! There seem to be some decent ones there.]
 I became more convinced after hearing the constellation's easy laugh. A large one-handed spear resembling the head of a snake…
 The man rose from the fountain with a grunt and walked away. Han Sooyoung came to be side and said, "Hey, that constellation? The battle of Changban?"
 "That's right."
@@ -20,8 +20,8 @@ I nodded. The expressions of the party members were spectacular. They didn't sho
 I could see the status of the Three Kingdoms in South Korea. Even Lee Hyunsung was flustered as he hurriedly took out a soldier's handbook. "Excuse me Dokja-ssi. I'm a big fan of the Three Kingdoms. Can I get his autograph…"
 "You will often experience this in the future. Many of the historical figures we know have become constellations."
 I looked around the square with the party members. The previously quiet square was already crowded with constellations and incarnations.
-<!>[Recruiting participants for the 53rd scenario!]
-<!>[Looking for an incarnation to be a tanker to obtain the story.]
+<@>[Recruiting participants for the 53rd scenario!]
+<@>[Looking for an incarnation to be a tanker to obtain the story.]
 Crude true voices were heard from all over the place. It was possible to build up full-fledged stories after the 47th scenario. Therefore, historical-grade constellations would often organize small parties to target the scenario. Jung Heewon spoke like she couldn't believe these beings had sponsored us so far.
 "All of a sudden, the dignity of the constellations has fallen off."
 "In fact, most of them are low-grade. They haven't fallen. It is just that our status has risen."
@@ -65,13 +65,15 @@ Lee Jihye and Lee Hyunsung ran like the wind and chased after Han Sooyoung. I gr
 ***
 
 After a while, I took Jung Heewon to a department store. It was one of the branches of the Dokkaebi Mart in the Context of the Constellations city.
-The moment we entered, a large dokkaebi blocked our way. [I'm sorry but only platinum members can enter.]
+The moment we entered, a large dokkaebi blocked our way.
+<@>[I'm sorry but only platinum members can enter.]
 Perhaps it was due to our shabby appearance but there was slight contempt in the dokkaebi's eyes. Rather than arguing, I opened the Dokkaebi Bag to confirm my rating.
 <@>[A diamond member?]
 The flustered dokkaebi compared my modifier to the list of customers and his eyes widened.
 <@>[I-I'm really sorry! Is this your first visit to the store? Hey, call the manager and staff members! If there is any inconvenience in your shopping―]
 "There is no need. Don't call them because it is a hassle."
 I refused and passed the dokkaebi. Jung Heewon spoke in a thrilled manner. "Dokja-ssi is like a third-generation chaebol¹."
+<?>[1] A Chaebol is a large industrial South Korean conglomerate run and controlled by an individual or family.
 "I am the company's boss."
 "By the way, what is this department store?"
 I quickly scanned Jung Heewon. She wore an old uniform and had the Sword of Judgment hanging from her waist. The clothes had been stained with blood thanks to countless battles over the past three years and the sword was much sharper and redder than before.
@@ -81,7 +83,7 @@ We stood in front of a display stand in a corner of the store. They were masterp
 I observed the products with cautious eyes and took out two neat suits. It was an SSS-grade armour with a practicality that wasn't bad for the 47th scenario. However, Jung Heewon was confused. "Why do you want to dress up all of a sudden?"
 "We have to go somewhere pretty formal."
 We each changed into the suit. The suit became the right size the moment we wore it.
-Jung Heewon wore the suit and looked like a presidential bodyguard. By the way, I didn't know what type of person Jung Heewon was before the destruction.Character List didn't give such information and she was barely in the original Ways of Survival.
+Jung Heewon wore the suit and looked like a presidential bodyguard. By the way, I didn't know what type of person Jung Heewon was before the destruction. Character List didn't give such information and she was barely in the original Ways of Survival.
 "What was Heewon-ssi's previous job? Can I ask?"
 "Well, the last thing I did was a bartender. It was just a part-time job. If it is a job… then a regular person who switches between part-time jobs?" Jung Heewon shrugged while scratching her head. "I used to exercise."
 "Exercise?"
@@ -110,7 +112,7 @@ It was an incredibly cruel voice for an archangel. It wasn't the voice I had bee
 <@>[Your boldness has grown. How did a demon king come here?]
 The power of the narrative-grade constellation caused the body to shrink back. Even the brave Jung Heewon had a pale complexion.
 <!>[The constellation 'Demon King of Salvation' is opening his 'status'.]
-This allowed Jung Heewon to take a breath. I was about to look for the owner of the voice but a hand seemed appeared in front of me and grabbed my chin.
+This allowed Jung Heewon to take a breath. I was about to look for the owner of the voice but a hand appeared in front of me and grabbed my chin.
 <!>[Demon King of Salvation?]
 Only my chin was grabbed but it felt like power was slipping away from my body. The status was too enormous for me to withstand.
 <@>[How does a demon king have the modifier of salvation? There has only been one owner of that modifier in the past 1,500 years.]

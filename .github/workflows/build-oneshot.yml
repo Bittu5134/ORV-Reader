@@ -2,6 +2,8 @@ name: Build One Shot Chapters
 
 on:
   push:
+    branches:
+      - main
     paths:
       - chapters/side/**
   workflow_dispatch: 

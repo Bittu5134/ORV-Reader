@@ -4,7 +4,7 @@ I was in a deep sleep. It was a long-awaited good night's sleep.
 <!>[Some of your exclusive skills have been updated.]
 I checked my clock and saw that it was already 4 p.m.
 Once Dongmyo Station and the surroundings areas were occupied last night, the accumulated fatigue settled firmly on me.
-<@>[Currently Occupied: Chungmuro (Main Base), Myeongdong, Dongdaemun History and Culture Park, Dongdaemun, Dongmyo, Sindang Station, Cheonggu Station, Yaksu Station, Sinseol-dong Station ]
+<!>[Currently Occupied: Chungmuro (Main Base), Myeongdong, Dongdaemun History and Culture Park, Dongdaemun, Dongmyo, Sindang Station, Cheonggu Station, Yaksu Station, Sinseol-dong Station ]
 Thanks to eating the Dongmyo Group, I now had nine stations. Now I just needed one more and the King's Road scenario would be over.
 Just a bit more and I could achieve one of the key goals of the beginning scenarios, King of No Killing.
 Once I came out, Jung Heewon and Lee Hyunsung were waiting for me.
@@ -114,7 +114,7 @@ No. 124: A few days ago, I searched the Internet and there was really nothing le
 No. 763: Even if you had a copy, you wouldn't share such a fraudulent thing. If I could really sell my soul, I would buy it.
 —–
 The idea of trying to read Ways of Survival popped up. These guys, they should've read it with me at that time.Now they didn't know the days ahead.
-We've arrived."
+"We've arrived."
 I was about to say, "What, already?" when I saw the platform of Anguk Station in front of me. The prophets who arrived in advance could also be seen.
 But something was strange.
 "Nobody has occupied this place?"
@@ -123,8 +123,8 @@ Then a prophet approached and waved.
 "Hey, No. 1089!"
 "Oh, it is No. 763 hyung."
 Jung Minseob waved and welcomed the person.
-"How have you been? You face doesn't look good?"
-"Well spotted. The Tyrant Kill is giving me hell."
+"How have you been? Your face doesn't look good?"
+"Well spotted. The Tyrant King is giving me hell."
 "I told you not to advance towards the Dobong side. Why didn't you listen…"
 No. 763 glanced towards me and his face suddenly stiffened.
 "P-Perhaps… he is…?"
@@ -211,3 +211,5 @@ Dammit. The fourth scenario hadn't even ended and the 'disaster' of the fifth sc
 I shouted toward Jung Heewon and Lee Hyunsung.
 "Run away!"
 This was why I couldn't trust those who didn't read to the end. Due to these damn people who got off early, today became all wrong.
+
+***

@@ -1,5 +1,5 @@
 <title>Ch 2: Ep. 1 – Starting the Paid Service, I
-<cover>[Cover Part 1 - 002 - Vol 1 - Episodes 01-06.jpg][]
+<cover>[Cover 001 - Episodes 00-35.jpg][01 Episodes 01-05 - 19]
 "I'm Dokja¹."
 <?>[1] Dokja can mean 'only child', 'reader' or 'individualist' in Korean.
 I usually introduced myself to people like this, then the following misunderstanding would occur.
@@ -10,7 +10,6 @@ I usually introduced myself to people like this, then the following misunderstan
 My father gave me that name so that I'd become a strong man even if I was on my own. However, thanks to this name that my father gave me, I was simply living as a single man, unremarkable in my loneliness.
 In short, my life was like this: Kim Dokja, 28 years old, single.
 <img>[002 - In short, my life was like this Kim Dokja, 28 years old, single.jpg][ ]
-*
 <?>* Official novel illustration (canonical)
 My hobby was reading web novels on the subway while going to and from work.
 "At this rate, you'll get sucked into your smartphone."
@@ -19,7 +18,7 @@ In a noisy subway, I raised my head reflexively. A pair of curious eyes were sta
 "Are you going home from work?"
 "Yes. What about Yoo Sangah-ssi²?"
 <?>[2] ssi is a Korean honorific. It is the formal way of addressing someone when you are talking to or about them.
-"I was lucky. The manager went on a business trip today." Yoo Sangah sat down soon as the seat next to me became vacant. A subtle scent came from her shoulders, making me nervous.
+"I was lucky. The manager went on a business trip today." Yoo Sangah sat down as soon as the seat next to me became vacant. A subtle scent came from her shoulders, making me nervous.
 "Do you normally take the subway?"
 "That…" Yoo Sangah made a dark expression. Come to think of it, this was the first time I'd met Yoo Sangah on a subway train. Starting with Personnel Manager Kang to Finance Manager Han… There were rumors that Yoo Sangah had men from the company driving her home every workday. Yet unexpected words came from Yoo Sangah's mouth, "Someone stole my bicycle."
 Bicycle.
@@ -27,7 +26,6 @@ Bicycle.
 "Yes! It's because I felt like I've been getting less and less exercise since I've been working overtime a lot lately. And because there was also a bit of an annoying matter… Things like that were why."
 Aha, so that's how it was.
 <img>[002 - Yoo Sangah smiled brightly.jpg][ ]
-*
 <?>* Unofficial fan illustration (non-canonical)
 Yoo Sangah smiled brightly. Seeing her this close, I could kind of understand why men found her attractive, but, ultimately, it didn't matter to me. The genre of every person's life was already determined, and Yoo Sangah was someone who lived in a genre different from mine. After the awkward conversation, we looked at our phones. I opened up the novel app I was reading on before while Yoo Sangah… What was this?
 "Puede prestarme dinero."
@@ -46,9 +44,9 @@ Yoo Sangah asked, "Dokja-ssi, what writers do you like?"
 "You won't know even if I say their names."
 "I've read a lot of novels. Who are the authors?"
 At this time, it was really hard to say that I read web novels as a hobby. I glanced at the title of the novel in the app.
-<@>[The World after the Fall]
-Author: Sing Shangshong.
-I couldn't say that I was reading 'The World after the Fall by Sing Shangshong'.
+<!>[The World after the Fall]
+Author: Sing Shong.
+I couldn't say that I was reading 'The World after the Fall by Sing Shong'.
 "It's just a fantasy novel. It's… What was it again? Right, Lord of the Rings, it's kind of like that…"
 Yoo Sangah's eyes widened. "Aha. The Lord of the Rings. I've also seen the movies."
 "Yes, the movies are good."
@@ -59,25 +57,25 @@ Silence followed. Yoo Sangah was still looking in my direction and seemed to be 
 I had forgotten. Yoo Sangah received credit for a foreign buyer last month and was already promoted to a full-time employee.
 "Ah, that's right, that happened. My congratulations are late. Sorry about that. Haha, maybe I should've worked hard to study a foreign language too."
 "N-no, not at all, Dokja-ssi! There's still the performance review, and…"
-I didn't want to admit it, but the sight of Yoo Sangah speaking—it was pretty cool. Her face seemed to glow with a brilliant light, as though the world's spotlight was shining down on only one person. 
-If this world were a novel, the protagonist would likely be someone like her. In fact, it was an inevitable outcome. 
+I didn't want to admit it, but the sight of Yoo Sangah speaking—it was pretty cool. Her face seemed to glow with a brilliant light, as though the world's spotlight was shining down on only one person.
+If this world were a novel, the protagonist would likely be someone like her. In fact, it was an inevitable outcome.
 While I hadn't worked hard…
-Yoo Sangah had. 
+Yoo Sangah had.
 While I read webnovels on the Internet…
-Yoo Sangah studied diligently. 
+Yoo Sangah studied diligently.
 So, it was inevitable that Yoo Sangah would become a full-time employee and that my contract would be terminated.
 "Um… Dokja-ssi."
 "Yes?"
-"If you don't mind… Should I let you know the app I'm using?" All of the sudden, Yoo Sangah's voice sounded distant.
+"If you don't mind… Should I let you know the app I'm using?" All of a sudden, Yoo Sangah's voice sounded distant.
 It felt as though I was getting infinitely farther away from the world. To rein in my mind which felt as though it would drift away, I forced my eyes open and focused my gaze straight ahead.
-A boy was sitting in the seat opposite mine on the train. 
-He looked a little over 10 years old. 
+A boy was sitting in the seat opposite mine on the train.
+He looked a little over 10 years old.
 The boy who held an insect collecting net in one hand was smiling brightly as he sat next to his mother.
 "…Dokja-ssi?"
 What would it be like, if I had a life different from the one I had now? In other words, what if the genre of my life had been different?
 "Kim Dok…"
 If the genre of my life weren't 'realism' but 'fantasy'…
-Would I have been able to become the protagonist? 
+Would I have been able to become the protagonist?
 Who knows.
 That was probably something I would never find out. However, if there was one I did know, it was this:
 "It's fine, Yoo Sangah-ssi."
@@ -93,12 +91,13 @@ Yoo Sangah was wearing a grave expression, so I waved my hand a bit to show that
 "Dokja-ssi says truly great things."
 "What?"
 "Then, I suppose I have my own life as well—a Sangah's life."
+<?>This line could also be interpreted/translated as "a life of ivory." Sangah (상아) means Ivory in Korean.
 Yoo Sangah seemed to have decided something as she turned back to studying Spanish. I gazed at her for a while before returning to the novel. Everything had returned to normal, but strangely, my scrolling of the novel didn't go well. Maybe it was because I realized the weight of reality that I couldn't scroll down.
 At that time, a notification appeared at the top of my smartphone. [You have one new mail.]
 It was from the author of 'Ways of Survival'. I opened the mail.
 –Reader-nim³, my novel will become paid from 7 p.m. This will be helpful. Good luck.
 <?>[3] nim is a high-level honorific used to show respect.
-<@>[1 attachment.]
+<!>[1 attachment.]
 The author said he would give me a gift. What was the gift?
 …Like my name, I was also a reader by nature. So, I was excited to receive the mail. Yes, it wasn't bad living as a reader. I checked the time. It was 6:55 p.m. I had exactly five minutes before the novel became monetized at 7 p.m. Then I opened up my list of preferred novels in the app. Since I was the only reader, I should leave a congratulatory comment and give strength to the author. However…
 –The work doesn't exist.

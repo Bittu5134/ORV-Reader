@@ -5,7 +5,7 @@ Wasn't he already strong?
 <!>[If the white flag doesn't change owners in the next five minutes, Chungmuro will be under his control.]
 <!>[If the flag is snatched in the next five minutes, the timer will reset.]
 A timer appeared in the air.
-<@>[5:00]
+<!>[5:00]
 Gong Pildu pointed at me with a pale face.
 "Take away the flag! You only have to snatch it in five minutes!"
 The alliance member belatedly regained their minds and started rushing towards me. Oho, it was like this?
@@ -124,7 +124,7 @@ Lee Hyunsung thought for a moment before replying.
 "Yes, it is possible to clear it without anyone dying."
 Lee Hyunsung replied with a smile. However, my heart wasn't comfortable.
 It seemed like Yoo Sangah and Lee Hyunsung were trying to understand the world with some saintly logic.
-There was no such thing as a scenario where no one died. The fourth scenario would have more casualties than any precious scenario.
+There was no such thing as a scenario where no one died. The fourth scenario would have more casualties than any previous scenario.
 As if she knew my heart, Jung Heewon changed the topic.
 "What line is Changsin Station? I think we should know that first."
 Lee Hyunsung confirmed it on the route map.
@@ -141,7 +141,7 @@ The command was turned off but Gong Pildu couldn't easily open his mouth.
 "I know why you have been so obsessed with 'land'. But do it moderately. If you want to survive in the future. Don't you have something to do?"
 Gong Pildu's eyes were shaky. I continued speaking.
 "You will be in charge of protecting this place."
-Just like the third scenario, Gong Pildu was very useful for the fourth scenario. As longa s Gong Pildu protected this place, Chungmuro would be safe unless someone on Yoo Joonghyuk's level came.
+Just like the third scenario, Gong Pildu was very useful for the fourth scenario. As long as Gong Pildu protected this place, Chungmuro would be safe unless someone on Yoo Joonghyuk's level came.
 "Why should I speak to you…?"
 "This time I won't enforce it with a command. If you follow my request, there will be a reward."
 "…"
@@ -151,3 +151,5 @@ Gong Pildu's eyes became bigger at my words.
 At this moment, noise was heard from the tunnel.
 Baang~!
 There was a loud horn sound and headlights shone on the railway of line 4. There was a bike engine sound and an exhaust sound. Something was coming towards Chungmuro.
+
+***

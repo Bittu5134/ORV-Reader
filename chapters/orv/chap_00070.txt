@@ -67,7 +67,7 @@ Yoo Joonghyuk reached out for me but it was too late.
 I finally reached the last phase of this scenario.
 <!>[The qualified kings will move to the final testing place.]
 The landscape started changing. It felt like my body was being sucked somewhere else. The next moment, tung! There was the sound of me bumping my head against something. A moment later, I became conscious again.
-<!>[You aren't qualified to take past in the 'Last King's Qualifications.]
+<!>[You aren't qualified to take part in the 'Last King's Qualifications.]
 …What?
 I looked around and saw that I was standing in the centre of Gwanghwamun. I had bumped into a barrier the size of a schoolyard. The centre contained the Absolute Throne, the last reward of this scenario.
 Why couldn't I enter?
@@ -83,7 +83,7 @@ By the way… damn. Wouldn't all the scenarios end if I ran there?
 "Dokja-ssi!"
 Yoo Sangah was rushing over here while carrying the collapsed Lee Gilyoung. But there were more people with them. Huh?
 "Heewon-ssi?"
-Jung Heewon ran to this side while holding the hands of a unknown girl.
+Jung Heewon ran to this side while holding the hands of an unknown girl.
 "Is my brother really here?" The girl asked.
 "Yes. How many times do I have to say it?"
 "But I'm hungry."
@@ -132,7 +132,7 @@ My consciousness flickered again. A message popped up as a king's qualification 
 2. 「 He who dreams of the throne must desire it. 」
 –The number of 'kings' that can challenge the throne is decided. In order to gain the right to challenge it, you must remove the other kings around you.
 3. 「 A single king stands alone without any help. 」
-–The king who can challenge the throne must be able to prove his strength was just his body.
+–The king who can challenge the throne must be able to prove his strength with just his body.
 +
 <!>[The constellation 'Maritime War God' is calmly watching the situation.]
 <!>[The constellation 'Bald General of Justice' is cheering for the historical-grade constellations.]
@@ -149,3 +149,5 @@ I opened my eyes and the King's Battlefield began.
 <!>[From now on, all skills, stigmas and special item options will be sealed.]
 <!>[From now on, the total stats of all kings will change to 10/10/10/10/10.]
 <!>[The Last King's Qualification will continue until one person is left.]
+
+***

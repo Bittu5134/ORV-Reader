@@ -1,15 +1,44 @@
 html {
-    background-image: url("./background-stars.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: rgb(24, 24, 24);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
-@media screen and (max-width: 800px) {
-    html {
-        background-image: url("./background-stars-mobile.jpg");
-    }
-    
+body {
+    margin: 0;
+    padding: 0;
+    height: 100dvh;
+    width: 100dvw;
+    overflow: hidden;
+    position: relative;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("./background-stars.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(24, 24, 24);
+    z-index: 0;
+}
+
+.content-wrapper {
+    position: relative;
+    color: white;
+    backdrop-filter: blur(0.3px);
+    background-color: rgba(0, 0, 0, 0.551);
+    height: 100dvh;
+    width: 100dvw;   
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    z-index: 1;
 }
 
 .back {
@@ -23,26 +52,13 @@ html {
 .back svg {
     scale: 1.5;
 }
-body {
-    color: white;
-    backdrop-filter: blur(0.3px);
-    margin: 0;
-    padding: 0;
-    background-color: rgba(0, 0, 0, 0.551);
-    height: fit-content;
-    width: 100dvw;   
-    min-height: 100dvh;
-    height: max-content;
-    display: flex;
-    flex-direction: column;
-}
 
 .back {
     position: fixed;
     top: 20px;
     left: 20px;
     text-decoration: none;
-    z-index: 10;
+    z-index: 100;
 }
 
 .cards {
@@ -52,21 +68,42 @@ body {
     align-items: center;
     flex-grow: 1;
     padding: 20px;
+    gap: 2em;
+    overflow-y: auto;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        overflow: hidden;
+    }
+    
+    .cards {
+        overflow: hidden;
+    }
 }
 
 .card {
-    width: min(300px,60vw);
+    width: min(300px, 90vw);
     height: fit-content;
-    background-color: #00000026;
-    border: 0.1em solid #000000;
-    margin: 1em;
+    background-color: rgba(0, 0, 0, 0.3);
+    border: 0.15em solid rgba(255, 255, 255, 0.3);
+    margin: 0;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
     box-sizing: border-box;
     overflow: hidden;
     position: relative;
+    text-decoration: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+}
+
+.card:hover {
+    border-color: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
 }
 
 .card img{
@@ -74,25 +111,28 @@ body {
     height: 100%;
     max-width: fit-content;
     max-height: fit-content;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 }
-.card img:hover{
-    scale: 1.2;
+
+.card:hover img{
+    scale: 1.05;
 }
 
 .card p {
     color: white;
-    padding: 3% 0px;
+    padding: 1em 0.5em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
     width: 100%;
-    backdrop-filter: blur(0.5px) brightness(10%);
+    backdrop-filter: blur(5px) brightness(40%);
     margin: 0;
     position: absolute;
-    bottom: -1px;
+    bottom: 0;
+    font-weight: 500;
+    letter-spacing: 0.5px;
 }
 
 a {

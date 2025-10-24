@@ -20,7 +20,7 @@ I paid attention the meteorite while protecting them.
 –We can't go. If you look behind, you can see a ward.
 –Huh? What ward?
 I didn't answer as I stared at the meteorite in the centre of the platform.
-<@>[Meteorite was the main event in the fifth scenario. The danger sleeping inside the meteorite would differ depending on the colour, brightness, size and type. However, the meteorite I was looking at now was one that should never hatch.]
+[Meteorite] was the main event in the fifth scenario. The danger sleeping inside the meteorite would differ depending on the colour, brightness, size and type. However, the meteorite I was looking at now was one that should never hatch.
 They seemed confused because the meteorite that gave the star relic in the third regression was 'bright red'…
 "I wonder what star relic will appear?"
 "That…"
@@ -72,7 +72,7 @@ It wasn't a low grade dokkaebi like Bihyung. He wore a tidy suit with two little
 I didn't know his name but I knew what he was. He was an intermediate dokkaebi.
 <@>[Hrmm. This is difficult. How did you guys get this 'root'? It was only installed recently…]
 Once his voice rang out, the movements of the lesser dragon stopped. Indeed, it was possible for an intermediate dokkaebi to intervene in the scenario to this level.
-<!>[A disaster woke up in the fourth scenario?]
+<@>[A disaster woke up in the fourth scenario?]
 The emergence of an intermediate dokkaebi meant that the 'early scenarios' had almost come to an end.
 As long as he took notice of this place, I would barely be able to see the contract benefits with Bihyung.
 <@>[Some constellations are poisonous so I can't spare you… it is also hard to downgrade the difficulty…]
@@ -94,7 +94,7 @@ Clear Conditions: Within the time limit, hunt down the 'lesser dragon Igneel' or
 Time Limit: 20 minutes.
 Compensation: 3,000 coins
 Failure: Death
-Hidden pieces are hidden in this mission.
+*Hidden pieces are hidden in this mission.
 +
 A 20 minute survival mission. From the title to the contents, it was ridiculous.
 Lee Hyunsung asked.
@@ -121,7 +121,7 @@ The prophets all heard this system message. At the same time, footholds the size
 "Footholds? Ah, right!"
 "There is a hidden piece!"
 I looked at the moving prophets and bit my lips. The giggling constellations reflected in my eyes. Why did many constellations protest against the difficulty of the scenario?
-It was simple. There was no fun in a story with 'only death'. They didn't want ants being trampled by a giant. These guys wanted the ants to fight back to survive. In order to live, the ants would even bit at their kin.
+It was simple. There was no fun in a story with 'only death'. They didn't want ants being trampled by a giant. These guys wanted the ants to fight back to survive. In order to live, the ants would even bite at their kin.
 <!>[Many constellations are watching the situation with excited eyes.]
 Damn constellation scum.
 "Shit, go!"
@@ -129,7 +129,7 @@ Damn constellation scum.
 The prophets, who had called each other's numbers in a friendly manner, now wielded their weapons against each other to fight over the footholds with the number '1'. Some prophets collapsed bleeding as they approached a foothold.
 The swift prophets were already stepping on the footholds, strengthening their alertness.
 I kept an eye on them. Someone had clearly planned this trap. Maybe they were the apostles.
-They knew the prophets would gather her and decided to use this opportunity to wipe out those who stopped reading early.
+They knew the prophets would gather here and decided to use this opportunity to wipe out those who stopped reading early.
 It was a good idea. No matter how trivial the information, the fewer who knew the future, the better.
 Usually, the apostles would be laughing at the prophets from far away. If they were 'ordinary' people.
 Those who read more than 50 chapters of a boring novel weren't normal. They called themselves apostles and were greedy enough to control information.
@@ -168,3 +168,5 @@ I pulled out my blade and opened my mouth.
 <!>[Due to the effect of your exclusive attribute, your memories of some scenes became stronger.]
 The story of Demon King Asmodeus appeared exactly in chapter 57 of Ways of Survival.
 A crack started to spread in this man's relaxed expression.
+
+***

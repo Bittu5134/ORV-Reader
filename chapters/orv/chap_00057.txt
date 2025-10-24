@@ -70,7 +70,7 @@ They were difficult words. Several memories crossed my mind. This brat, was he t
 "I don't know if it can be called a soul but…"
 I felt a bit of unease as I talked. Ways of Survival was a world created by the author.
 This world became a reality. A world in which the soul wasn't proven now became a world in which the soul was taken for granted.
-In such a world, what was 'my' existence? Me, my soul. Did it exist from the beginning? Or was I party of the story that the author made?
+In such a world, what was 'my' existence? Me, my soul. Did it exist from the beginning? Or was I part of the story that the author made?
 I shook my head. Now wasn't the time to be thinking about this.
 "In any case, are the useless questions over?"
 "Ah, can I ask one more question?"
@@ -99,7 +99,7 @@ I wanted to check the relevant parts in Ways of Survival but my smartphone was b
 It was a mistake that wasn't like me. This was ominous. What if the mail sent by the author was erased…?
 At this moment, a message appeared on the screen of my smartphone.
 <!>[Synching to a new device is available.]
-<@>[Do you still want to proceed with the sync?]
+<!>[Do you still want to proceed with the sync?]
 …What is this?
 I pressed OK, the download of the file proceeded and a new file was created on the background screen.
 <!>[Three Ways to Survive in a Ruined World.TXT]
@@ -108,7 +108,8 @@ I looked at Lee Sungkook and Jung Minseob collecting the items. I suddenly wonde
 I opened up Ways of Survival and started to read.
 <!>[Your reading speed has increased due to the effect of the exclusive attribute.]
 I found the 'probability' request that took place during Yoo Joonghyuk's 6th regression.
-<&>「 The intermediate dokkaebi of the Seoul Bureau 'Baram' frowned upon reading the scenario in front of him. 」
+***
+「 The intermediate dokkaebi of the Seoul Bureau 'Baram' frowned upon reading the scenario in front of him.
 The top of the document had the name 'Regressor Yoo Joonghyuk'.
 'A regressor… damn. The dokkaebis and constellations noticed quickly…'
 Baram looked over at the dokkaebis. No senior dokkaebis or great dokkaebis could be seen.
@@ -136,6 +137,7 @@ The atmosphere suddenly became cold and he said to the intermediate dokkaebi.
 "Why do sales in the United States and India look like this? Isn't there the prophet in the US and the constellation alliance in India? Why are the sales like this when they are so many rich targets? Are you not making the products well?"
 "T-That…"
 "Shit, don't give excuses! Quickly sell the coin goods!" 」
+***
 A laugh emerged. I was reminded of Mino Soft when looking at the dokkaebis working. The planning division wasn't a joke.
 In any case, I was now in a situation similar to Yoo Joonghyuk in Ways of Survival. I thought that this would happen someday but… this was why it wasn't good to be noticed.
 This… what if the judgment caused me damages?
@@ -143,3 +145,5 @@ At that moment, a trembling voice was heard in the air.
 <@>[How many times do I have to be called to the Bureau because of you…]
 Bihyung. I opened the dokkaebi communication.
 "How did it go?"
+
+***

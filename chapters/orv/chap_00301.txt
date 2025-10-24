@@ -7,7 +7,7 @@ What was this situation? What the hell was this sight? In a place not far away, 
 –We won't get any further.
 She looked over and there was a 'Han Sooyoung' with the same face as herself. A chill went down her spine. The cold feeling caused Han Sooyoung to wake up from her dream.
 "…!"
-Han Sooyoung woke up with a light man and realized she was lying on the couch.
+Han Sooyoung woke up with a light groan and realized she was lying on the couch.
 "Another dream, dammit."
 It was a dream that had been repeating since a few days ago. Yoo Joonghyuk and Yoo Joonghyuk fought each other while another one of her and Kim Dokja watched. At first, she thought it was a visionary dream. However, no matter how much she tried to interpret it, she couldn't get a sense of the dream.
 News was coming from the distant television.
@@ -21,13 +21,12 @@ Lee Sookyung received the water without even looking back. Han Sooyoung frowned 
 "Yoo Sangah?"
 "She is drinking coffee in the break room."
 <img>[301 - She is drinking coffee in the break room.jpg][]
-*
 <?>* Unofficial fan illustration (non-canonical)
 "What break room? Is this place a company?"
 She said this but in fact, the building they were residing in was an abandoned company building. Han Sooyoung grumbled and headed to the break room. "Hey, what are you doing?"
 There was a small paper cup on the table in the break room. Yoo Sangah was moving her white fingers through the air. The information that emerged from the hologram was leaking into Yoo Sangah's retinas. The startled Han Sooyoung shouted, "…Are you crazy? Are you using that stigma again?"
 "…"
-"You can score goals at a really young age. I don't know what will happen if you spam such a powerful stigma…"
+"You're seriously gonna kick the bucket young if you keep this up. You think you don't know what happens when you just throw around those powerful Stigmata…?"
 The stigma used by Yoo Sangah was the Hermes System of Olympus. It was Olympus's big data network that gained information from all over the Star Stream to measure the future.
 "It can't be helped. The worst situation has to be avoided."
 "Don't I know information about the future?"
@@ -51,10 +50,10 @@ There were loud notifications and Han Sooyoung rushed to the office. Lee Sookyun
 Lee Sookyung sighed and asked, "Sooyoung, are you keeping in touch with the other kids?"
 "Why keep in contact with the kids who don't like me? Rather, what is emerging on the bowl ahjumma?"
 Lee Sookyung looked down at her star relic. Han Sooyoung asked, "What have you seen this time?"
-Lee Sookyung didn't answer. Han Sooyoung raised her head as she smelt something strange and Lee Sookyung stood like a stiff statue.
+Lee Sookyung didn't answer. Han Sooyoung raised her head as she felt something strange and Lee Sookyung stood like a stiff statue.
 Thus, Han Sooyoung realized something.
 Kim Dokja had disappeared for three years. In the first place, there was only one thing that Lee Sookyung had been checking.
-Han Sooyoung stared at the bowl for a long time before declaring, "I'm going to take a quick trip to Busan. By the way, there is Yoo Joonghyuk now?"
+Han Sooyoung stared at the bowl for a long time before declaring, "I'm going to take a quick trip to Busan. By the way, where is Yoo Joonghyuk now?"
 
 ***
 
@@ -63,8 +62,7 @@ I looked at the scenario window that popped up in the air.
 [Main Scenario #45 ― 'Glorious Return']
 Category: Main
 Difficulty: ???
-Clear Conditions: After a long journey, you have finally returned home. Let people in your hometown
-know about your presence and leave a mark that you are back in one of the main base areas. The people of your hometown will welcome you.
+Clear Conditions: After a long journey, you have finally returned home. Let people in your hometown know about your presence and leave a mark that you are back in one of the main base areas. The people of your hometown will welcome you.
 Time Limit: None
 Compensation: 200,000 coins, the removal of the disaster transformation.
 Failure: Death
@@ -72,7 +70,7 @@ Failure: Death
 * While the scenario is in progress, the incarnations can't understand the language of the returnees.
 +
 The clear conditions were screwed up but cursing didn't make people feel better.
-<!>[Your goal is 'Yeouido, Seoul.]
+<!>[Your goal is Yeouido, Seoul.]
 <!>[There is currently no markable base area nearby.]
 I took a deep breath. Yes, maybe this was better. If I had to carry out the 45th scenario anyway, it might be a good thing that I was a returnee. This scenario was practice for some places that would be opened in the future.
 "Shit! Why are they attacking?"
@@ -101,7 +99,8 @@ The frightened returnee's legs weakened.
 <!>[Constellations of the Korean Peninsula are paying attention to you!]
 <!>[The constellation 'Bald General of Justice' has entered the channel.]
 <!>[The constellation 'Maritime War God' feels a sense of deja vu from you.]
-They were welcome modifiers but now wasn't the time for greetings. I told the returnees, [Shut up and put away all weapons. Then gather by my side. I will blow away your brains if you are late, so move quickly.]
+They were welcome modifiers but now wasn't the time for greetings. I told the returnees,
+<@>[Shut up and put away all weapons. Then gather by my side. I will blow away your brains if you are late, so move quickly.]
 I deliberately spoke in a radical manner. Those who realized the difference in my true voice gathered around me. By the way, it wasn't only the returnees who were confused.
 "Crazy! What is that monster?"
 "Report it quickly! Report to the alliance!"
@@ -138,7 +137,6 @@ The next moment, an indirect message emerged in the air.
 <!>[The 'Ugly Squid' is provoking the incarnation 'Lee Jihye'.]
 Lee Jihye stared at me. "Kid, I will kill that squid."
 <img>[301 - Lee Jihye stared at me. Kid, I will kill that squid.jpg][]
-*
 <?>* Official novel illustration (canonical)
 
 ***

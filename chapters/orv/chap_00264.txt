@@ -2,7 +2,7 @@
 "The fourth bookmark."
 <!>[The exclusive skill 'Way of the Wind Lv. 11 (+1) is activated!]
 I avoided the flying sting of the Scorpion Goddess. If the strength of her body hadn't been suppressed, the poison would've vaporized the whole area. However, it was fine since I had Way of the Wind.
-I stepped on the melted gorge and release the Purest Sword Force. My sword cut the bandages of the Last Pharaoh. The moment my sword hit the bandages, there was the sound of a drum beat. King Oedipus didn't miss this gap and flew forward.
+I stepped on the melted gorge and released the Purest Sword Force. My sword cut the bandages of the Last Pharaoh. The moment my sword hit the bandages, there was the sound of a drum beat. King Oedipus didn't miss this gap and flew forward.
 <!>[The exclusive skill 'Beast King's Sensitivity Lv. 10 (+1)' has been activated.]
 Normally, this was an impossible fight. Originally, only one bookmark could be used at a time.
 <!>[The effect of 'Looked into the Abyss' has improved all your skills!]
@@ -13,7 +13,8 @@ All my skills had improved since the last time I checked my Attributes Window.
 <!>[The exclusive skill 'Electrification' Lv. 12 (+2) has been activated.]
 I became smaller through Miniaturization. Then I turned into a point of light and penetrated the torso of the Last Pharaoh. The Last Pharaoh suffered a fatal wound and collapsed to the ground with a scream.
 I was fighting with the history I had built up. The things I read. The times I had lived. Everything that I had. How many more flashes of light were seen and how much blood was spilled?
-King Oedipus opened his mouth and spoke in a slightly weary tone. [Great, Demon King of Salvation.]
+King Oedipus opened his mouth and spoke in a slightly weary tone.
+<@>[Great, Demon King of Salvation.]
 "…"
 <@>[Honestly, I didn't think you would be this strong.]
 Nevertheless, there wasn't a look of defeat on his face. Shadows flocked to the top of the gorge. They were the other constellations belonging to Melledon and Bercan.
@@ -36,7 +37,8 @@ Dazzling sparks appeared when I mentioned his real name. It was a sight that att
 "I know."
 The nebula Vedas had eight great Lokapala. They were the guardians of the eight cardinal directions, including north, south, east and west.
 "Surya of the southwest."
-Surya was one of the eight Lokapala.
+Surya was one of the eight Lokapala¹.
+<?>[1] There is a plot error: In Hindu mythology, Surya is not a Lokapala. The Lokapala of the southwest is Nirriti, the god of death and sorrow.
 <!>[The constellation 'Mass Production Maker' is frowning.]
 <!>[The constellation 'Goddess of Love and Beauty' is accusing the 'Supreme God of Light'!]
 <!>[The constellation 'Queen of the Darkest Spring' is pointing out that this behaviour doesn't fit the status of the Supreme God of Light!]
@@ -49,7 +51,8 @@ The status of over 1,000 years emerged from his body and I suppressed the desire
 I knew what he was saying. Perhaps the world that Surya saw was different from the world that I saw. Just by obtaining a single 'giant story', the level of the world that the constellation could perceive was entirely different.
 "Nope, I can afford it. I'm not alone."
 <!>[The possibility of a new story is germinated!]
-The 73rd Demon Realm wriggled as if in response to my words. Surya felt the vibrations and said, [You aren't alone… how funny. Who is with you now?]
+The 73rd Demon Realm wriggled as if in response to my words. Surya felt the vibrations and said,
+<@>[You aren't alone… how funny. Who is with you now?]
 "A person who is more familiar with the cause and effect law than anyone else is saying this… it is truly ridiculous."
 A powerful storm started to flow from Surya's incarnation body. The constellations around him turned pale. Still, he couldn't exercise all his power in this game, no matter his status. Sparks burst out in a dazzling manner.
 In this game, Melledon had won two points. These two points might be able to free one of Surya's stigmas. I couldn't let that happen. As I moved, the constellations blocked my way.
@@ -64,15 +67,14 @@ The broken heart of the gold dragon couldn't afford the magic power and the ener
 Meanwhile, the Supreme God of Light wasn't perplexed at all as he saw me moving closer.
 <@>[I have watched you for a long time. You always borrow the power of other beings.]
 The Beast King's Sensitivity wrapped around my body while I prepared to deal a blow with Electrification.
-<@>[From the first scenario to the present, you have never fought with your own power. Do you really]
-think you can build up your own story?]
+<@>[From the first scenario to the present, you have never fought with your own power. Do you really think you can build up your own story?]
 <@>[The history that you've learnt is just history that came from stealing.]
 It felt like I was facing hard steel. The Supreme God of Light used only one of his four arms to block the blow from Electrification.
 <@>[It isn't yours.]
 The third eye of the god shone as brightly as the sun. At that moment, I realized what stigma Surya had released.
 <!>[The constellation 'Supreme God of Light' is invoking the 'Third Eye'.]
 My vision distorted and all the light around me disappeared. In the darkness, I felt the edge of this space gradually crumbling.
-<!>[There is no 'you' in your story.]
+<@>[There is no 'you' in your story.]
 Everything around me was already Surya's space.
 <@>[You will die alone.]
 The Third Eye had the power to control time and space. It was the power of Surya's Third Eye. I was confused because I didn't think Surya would use this power so quickly.
@@ -86,7 +88,7 @@ My back was tingling when I heard a sound. It sounded familiar, as if someone wa
 I looked back and a small mouth was stuck to my back, eating my story.
 <&>「 Kim Dok ja is a fo ol. 」
 It was the Fourth Wall. This bastard wasn't going to help me? The torn apart 'Distorting Things as One Pleases' was now nearly useless and was entering its stomach.
-I forgot the urgency and shouted at the absurd situation. By the way, the thing that came out of my mouth wasn't a yell.
+I forgot the urgency and shouted at the absurd situation. but what came out of my mouth wasn't a yell.
 <&>「 The Fourth Wall said, "Ku waa aaah!" 」
 An explosive burst of sound poured into the surrounding space. The space trembled like it was a living creature and a gigantic crack formed.
 <!>[The stigma 'The Third Eye' is shuddering.]
@@ -104,13 +106,14 @@ I nervously slid down a rocky wall. It had been a long time since I saw somethin
 The monster burst like a bug and coiled up in the gorge, crying towards the air. The Apocalypse Imoogi. It was the name of the monster I had been waiting for.
 <@>[Damn! Don't back down!]
 The constellations were overwhelmed by the sudden disaster and started attacking with their stigmas. The one who killed the monster could get a powerful team buff.
-However, there was no way I could knock it down. According to Ways of Survival, the Red Dragon of the Apocalypse who appeared in Armageddon had the fearsome power to blow up a third of the stars in the sky with a single tail.
+However, there was no way I could knock it down. According to Ways of Survival, the Red Dragon of the Apocalypse who appeared in Armageddon had the fearsome power to blow up a third of the stars in the sky with a single flick of his tail.
 <@>[Kuaaack!]
 Of course, this imoogi wasn't at the level of the Red Dragon of the Apocalypse but there were no constellations who could deal with this monster at the beginning of the game.
 <@>[Kueeeeok!]
 The constellations screamed as they were torn apart by the teeth of the imoogi while those struck by the tail were blown away. The unstoppable system messages were signalling the devastation of the gorge.
 In a moment, seven participants and helpers died in the gorge. The surviving constellations escaped from the gorge using the sacrifice of other constellations.
-Surya's cold voice echoed through the gorge. [You have a wicked trick up your sleeve. However, you won't be able to make it.]
+Surya's cold voice echoed through the gorge.
+<@>[You have a wicked trick up your sleeve. However, you won't be able to make it.]
 The Apocalypse Imoogi struck the constellations and was now looking at me. A red sphere gathered at its mouth in order to dissolve the last insect. The red flames of the apocalypse. It was the fire of judgment that could melt everything on the ground.
 The plan was okay. Melledon and Bercan suffered deadly damage and the disadvantage of the game was now balanced to an almost equal level.
 …I would've liked to have a bit more strength left. My death here meant we would be deprived of our sentences. I felt regret and emptiness. If we went to the third game… was there a chance for us to win?
