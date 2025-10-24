@@ -71,7 +71,7 @@ jobs:
         if: success() # Only create the release if all previous steps succeeded
         with:
           # Use the date and run number for a unique tag
-          tag_name: orv-build-${{ steps.set_date.outputs.build_date }}-${{ github.run_number }}
+          tag_name: EPUB-BUILD-${{ steps.set_date.outputs.build_date }}-${{ github.run_number }}
           name: Daily EPUB Release ${{ steps.set_date.outputs.build_date }}
           body: |
             Automated EPUB build of Omniscient Reader's Viewpoint, generated on ${{ steps.set_date.outputs.build_date }}.
