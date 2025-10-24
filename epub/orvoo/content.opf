@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="id" prefix="calibre: https://calibre-ebook.com" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="id-1">Omniscient Reader's Viewpoint</dc:title>
+    <meta refines="#id-1" property="file-as">Omniscient Reader's Viewpoint</meta>
+    <meta refines="#id-1" property="title-type">main</meta>
+    <dc:creator id="id-2">Sing Shong (싱숑)</dc:creator>
+    <meta refines="#id-2" property="file-as">Sing-shong (싱숑)</meta>
+    <meta refines="#id-2" property="role" scheme="marc:relators">aut</meta>
+    <dc:subject>Game Elements</dc:subject>
+    <dc:subject>Apocalypse</dc:subject>
+    <dc:subject>Adventure</dc:subject>
+    <dc:subject>Action</dc:subject>
+    <dc:subject>Korean</dc:subject>
+    <dc:description>Only I know the end of this world. One day our MC finds himself stuck in the world of his favorite webnovel. What does he do to survive? It is a world struck by catastrophe and danger all around. His edge? He knows the plot of the story to end. Because he was the sole reader that stuck with it. Read his story to see how he survives!</dc:description>
+    <dc:language>en</dc:language>
+    <dc:identifier id="id">https://www.webnovel.com/book/omniscient-reader_12524375106746605</dc:identifier>
+    <meta content="Ebook-lib 0.17.1" name="generator"/>
+    <meta content="2.0.2" name="Sigil version"/>
+    <meta name="cover" content="x000.jpg"/>
+    <meta property="dcterms:modified">2024-10-28T16:26:17Z</meta>
+  </metadata>
+  <manifest>
+    <item id="intro" href="OEBPS/intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav" href="OEBPS/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="OEBPS/toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="idTP" href="OEBPS/images/titlepage800.png" media-type="image/png"/>
+    
+  </manifest>
+  <spine page-progression-direction="default" toc="ncx">
+    <itemref idref="intro"/>
+    <itemref idref="nav"/>
+    
+  </spine>
+</package>
