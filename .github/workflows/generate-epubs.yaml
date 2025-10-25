@@ -28,73 +28,68 @@ jobs:
           $date = Get-Date -Format "yyyy-MM-dd"
           Write-Output "build_date=$date" | Out-File -FilePath $env:GITHUB_OUTPUT -Append
 
-      # 3. Run EPUB Builders on Windows with UTF-8 encoding
+      # 3. Run EPUB Builders
       - name: Run EPUB Builders
         env:
           # This ensures Python uses UTF-8 for I/O operations across all files
           PYTHONIOENCODING: utf-8
         shell: pwsh
         run: |
-          # The shell is set to PowerShell (pwsh) for consistent environment
           python .\scripts\epub_builders\orv.py
           python .\scripts\epub_builders\cont.py
           python .\scripts\epub_builders\side.py
 
-      # 4. Create EPUB Archives from the output folders
+      # 4. Create EPUB Archives (Zipping) - UPDATED FILENAMES
       - name: Create EPUB Archives (Zipping)
         shell: pwsh
         run: |
           # Ensure the output directory for final artifacts exists
           mkdir -Force .\artifacts
           
-          # EPUB files are just zipped folders with the .epub extension
-          # 1. Main Story
-          Compress-Archive -Path .\epub\orv\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Main Story].epub" -Force
-          
-          # 2. Sequel
-          Compress-Archive -Path .\epub\cont\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Sequel].epub" -Force
-          
-          # 3. Side Stories
-          Compress-Archive -Path .\epub\side\* -DestinationPath .\artifacts\"Omniscient Reader's Viewpoint [Side Stories].epub" -Force
+          # Use simple, alphanumeric filenames to avoid path issues
+          Compress-Archive -Path .\epub\orv\* -DestinationPath .\artifacts\orv_main.epub -Force
+          Compress-Archive -Path .\epub\cont\* -DestinationPath .\artifacts\orv_sequel.epub -Force
+          Compress-Archive -Path .\epub\side\* -DestinationPath .\artifacts\orv_side.epub -Force
 
-      # 5. MODIFIED: Upload each generated EPUB as a separate workflow artifact
+      # 5. Upload Main Story EPUB as a separate artifact - UPDATED PATH
       - name: Upload Main Story EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-main-story-build-${{ steps.set_date.outputs.build_date }}
-          path: .\artifacts\Omniscient Reader's Viewpoint [Main Story].epub
-          retention-days: 2 # Keep artifacts for 2 days
+          path: .\artifacts\orv_main.epub
+          retention-days: 2
 
+      # 5. Upload Sequel EPUB as a separate artifact - UPDATED PATH
       - name: Upload Sequel EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-sequel-build-${{ steps.set_date.outputs.build_date }}
-          path: .\artifacts\Omniscient Reader's Viewpoint [Sequel].epub
-          retention-days: 2 # Keep artifacts for 2 days
+          path: .\artifacts\orv_sequel.epub
+          retention-days: 2
 
+      # 5. Upload Side Stories EPUB as a separate artifact - UPDATED PATH
       - name: Upload Side Stories EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-side-stories-build-${{ steps.set_date.outputs.build_date }}
-          path: .\artifacts\Omniscient Reader's Viewpoint [Side Stories].epub
-          retention-days: 2 # Keep artifacts for 2 days
+          path: .\artifacts\orv_side.epub
+          retention-days: 2
 
-      # 6. Create a GitHub Release and attach the EPUB files as binaries
+      # 6. Create a GitHub Release and attach all three EPUB files
       - name: Create Release
         uses: softprops/action-gh-release@v2
-        if: success() # Only create the release if all previous steps succeeded
+        if: success()
         with:
-          # Use the date and run number for a unique tag
           tag_name: EPUB-BUILD-${{ steps.set_date.outputs.build_date }}-${{ github.run_number }}
           name: EPUB Release ${{ steps.set_date.outputs.build_date }}
           body: |
             Automated EPUB build of Omniscient Reader's Viewpoint, generated on ${{ steps.set_date.outputs.build_date }}.
             
             **Included Files:**
-            - Main Story
-            - Sequel
-            - Side Stories
-          # The 'files' line correctly uses a wildcard to attach all 3 files from the folder
-          files: .\artifacts\*.epub 
+            - orv_main.epub (Main Story)
+            - orv_sequel.epub (Sequel)
+            - orv_side.epub (Side Stories)
+          # This wildcard correctly attaches the three new files (orv_main.epub, etc.)
+          files: ./artifacts/*.epub 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
