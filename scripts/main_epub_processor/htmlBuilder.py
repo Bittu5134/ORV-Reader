@@ -25,8 +25,9 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
             for marker, placeholder in markers.items():
                 textStr = textStr.replace(marker, placeholder)
             
-            # Escape ampersand characters
-            textStr = textStr.replace("&", "&amp;")
+            # Escape ampersand characters that are not part of HTML entities
+            # This regex matches & that are NOT followed by common HTML entity patterns
+            textStr = re.sub(r'&(?!(?:lt|gt|amp|quot|apos|#\d+|#x[\da-fA-F]+);)', '&amp;', textStr)
             
             def replace_match(match):
                 original_tag = match.group(0)
