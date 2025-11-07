@@ -36,9 +36,6 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
             pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^\n>]{1,})(?=[^\n>]*\w)[^\n>]*?>'
             textStr = re.sub(pattern, replace_match, textStr)
             
-            # Escape any remaining < and > characters (malformed tags or stray brackets)
-            textStr = textStr.replace('<', '&lt;').replace('>', '&gt;')
-            
             # Restore the special markers
             for marker, placeholder in markers.items():
                 textStr = textStr.replace(placeholder, marker)
