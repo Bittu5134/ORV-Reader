@@ -29,7 +29,7 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
             original_tag = match.group(0)
             return f"&lt;{original_tag[1:-1]}&gt;"
 
-        pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^>]{1,})(?=[^>]*\w)[^>]*?>'
+        pattern = r'<(?!img\b|title\b|cover\b|br\b)(?=[^\n>]{1,})(?=[^\n>]*\w)[^\n>]*?>'
         textStr = re.sub(pattern, replace_match, textStr)
         
         # Restore the special markers
