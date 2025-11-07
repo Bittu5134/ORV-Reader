@@ -11,10 +11,14 @@ jobs:
   build_and_release:
     # 2. Run on a Windows runner
     runs-on: windows-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
