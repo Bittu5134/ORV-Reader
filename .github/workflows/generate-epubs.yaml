@@ -44,47 +44,50 @@ jobs:
           python .\scripts\epub_builders\cont.py
           python .\scripts\epub_builders\side.py
 
-      # 4. Create EPUB Archives (Zipping) - Save to epub folder
-      - name: Create EPUB Archives (Zipping)
-        shell: pwsh
-        run: |
-          # Create EPUB files directly in the epub folder
-          Compress-Archive -Path .\epub\orv\* -DestinationPath .\epub\orv_main.epub -Force
-          Compress-Archive -Path .\epub\cont\* -DestinationPath .\epub\orv_sequel.epub -Force
-          Compress-Archive -Path .\epub\side\* -DestinationPath .\epub\orv_side.epub -Force
-
-      # Commit and push EPUB files to repository
-      - name: Commit EPUB files to repository
+      # Commit and push generated EPUB content files to repository
+      - name: Commit EPUB content files to repository
         shell: pwsh
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add epub/*.epub
-          git diff --staged --quiet || git commit -m "Update EPUB files - ${{ steps.set_date.outputs.build_date }}"
+          git add epub/
+          git diff --staged --quiet || git commit -m "Update EPUB content files - ${{ steps.set_date.outputs.build_date }}"
           git push
 
-      # 5. Upload Main Story EPUB as a separate artifact
+      # 4. Create EPUB Archives (Zipping) - UPDATED FILENAMES
+      - name: Create EPUB Archives (Zipping)
+        shell: pwsh
+        run: |
+          # Ensure the output directory for final artifacts exists
+          mkdir -Force .\artifacts
+          
+          # Use simple, alphanumeric filenames to avoid path issues
+          Compress-Archive -Path .\epub\orv\* -DestinationPath .\artifacts\orv_main.epub -Force
+          Compress-Archive -Path .\epub\cont\* -DestinationPath .\artifacts\orv_sequel.epub -Force
+          Compress-Archive -Path .\epub\side\* -DestinationPath .\artifacts\orv_side.epub -Force
+
+      # 5. Upload Main Story EPUB as a separate artifact - UPDATED PATH
       - name: Upload Main Story EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-main-story-build-${{ steps.set_date.outputs.build_date }}
-          path: .\epub\orv_main.epub
+          path: .\artifacts\orv_main.epub
           retention-days: 2
 
-      # 5. Upload Sequel EPUB as a separate artifact
+      # 5. Upload Sequel EPUB as a separate artifact - UPDATED PATH
       - name: Upload Sequel EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-sequel-build-${{ steps.set_date.outputs.build_date }}
-          path: .\epub\orv_sequel.epub
+          path: .\artifacts\orv_sequel.epub
           retention-days: 2
 
-      # 5. Upload Side Stories EPUB as a separate artifact
+      # 5. Upload Side Stories EPUB as a separate artifact - UPDATED PATH
       - name: Upload Side Stories EPUB Artifact
         uses: actions/upload-artifact@v4
         with:
           name: orv-side-stories-build-${{ steps.set_date.outputs.build_date }}
-          path: .\epub\orv_side.epub
+          path: .\artifacts\orv_side.epub
           retention-days: 2
 
       # 6. Create a GitHub Release and attach all three EPUB files
@@ -101,7 +104,7 @@ jobs:
             - orv_main.epub (Main Story)
             - orv_sequel.epub (Sequel)
             - orv_side.epub (Side Stories)
-          # This wildcard correctly attaches the three EPUB files from the epub folder
-          files: ./epub/*.epub 
+          # This wildcard correctly attaches the three new files (orv_main.epub, etc.)
+          files: ./artifacts/*.epub 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
