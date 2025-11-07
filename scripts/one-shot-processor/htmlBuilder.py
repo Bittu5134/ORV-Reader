@@ -92,8 +92,8 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
         elif line == "***":
             html.append(f"<hr>")
         elif line.startswith("<list>"):
-            line = html.escape(re.sub(r"<list>", "", line))
-            html.append(f"<ul>{line}")
+            line = re.sub(r"<list>", "", line)
+            html.append(f"<ul>{html.escape(line)}")
         elif line.startswith("<cover>"):
             line = re.findall(r"\[(.*?)\]", line)
             template = template.replace(r"{{COVER}}",f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{html.escape(line[1])}"></div>')

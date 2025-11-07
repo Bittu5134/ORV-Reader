@@ -98,8 +98,8 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
             elif line == "***":
                 html.append(f"<hr>")
             elif line.startswith("<list>"):
-                line = html.escape(re.sub(r"<list>", "", line))
-                html.append(f"<ul>{line}")
+                line = re.sub(r"<list>", "", line)
+                html.append(f"<ul>{html.escape(line)}")
             elif line.startswith("<cover>"):
                 line = re.findall(r"\[(.*?)\]", line)
                 template = template.replace(
