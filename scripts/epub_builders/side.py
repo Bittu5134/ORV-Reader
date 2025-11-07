@@ -166,13 +166,13 @@ for file_index, file in enumerate(os.listdir("chapters/side")):
             
             elif isWindow == True and isWindowTitle == True:
                 if line.startswith("[") or line.startswith("<"):
-                    xhtml += f'<h3 style="text-align:center;">{line.replace("<","&lt;").replace(">","&gt;")}</h3>\n'
+                    xhtml += f'<h3 style="text-align:center;">{line.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</h3>\n'
                 else:
-                    xhtml += f"<p>{line.strip().replace("<","&lt;").replace(">","&gt;")}</p>\n"
+                    xhtml += f"<p>{line.strip().replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</p>\n"
                 isWindowTitle = False
 
             else:
-                xhtml += f"<p>{line.strip().replace("<","&lt;").replace(">","&gt;")}</p>\n"
+                xhtml += f"<p>{line.strip().replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</p>\n"
         xhtml += f"""<hr/><p style="text-align: center;"><a href="https://orv.pages.dev/stories/side/read/ch_{file_index+1}#comments" target="_blank" style="font-weight: bold; text-decoration: none;">[CLICK TO READ CHAPTER COMMENTS]</a></p>\n"""
         xhtml += (
             "<hr/><section epub:type='endnotes' role='doc-endnotes'>\n"

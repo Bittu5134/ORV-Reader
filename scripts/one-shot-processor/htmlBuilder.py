@@ -1,6 +1,7 @@
 import re
 import os
 import urllib.parse as urlparse
+import html
 
 
 for file_index,file in enumerate(os.listdir("chapters/side")):
@@ -39,9 +40,9 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
                 if window_line == "+":
                     break
                 if window_line.startswith("["):
-                    window_line = f'<h3 class="orv_window_title">{window_line}</h3>'
+                    window_line = f'<h3 class="orv_window_title">{html.escape(window_line)}</h3>'
                 else:
-                    window_line = f"<p>{window_line}</p>"
+                    window_line = f"<p>{html.escape(window_line)}</p>"
                 window_text.append(window_line)
             window_text.append("</div>")
             html.extend(window_text)
@@ -55,49 +56,49 @@ for file_index,file in enumerate(os.listdir("chapters/side")):
                 skip_line += 1
                 if window_line == "++":
                     break
-                window_line = f'<p>{window_line}</p>'
+                window_line = f'<p>{html.escape(window_line)}</p>'
                 window_text.append(window_line)
             window_text.append("</div>")
             html.extend(window_text)
             continue
 
         if line.startswith("<title>"):
-            template = template.replace(r"{{TITLE}}",line.replace("<title>",""))
+            template = template.replace(r"{{TITLE}}",html.escape(line.replace("<title>","")))
             print(file_index+1,line.replace("<title>",""))
-            line = re.sub(r"<title>", '<div class="orv_title"><h1>', line)
-            html.insert(0,f"{line}</h1></div>")
+            line = html.escape(re.sub(r"<title>", '', line))
+            html.insert(0,f'<div class="orv_title"><h1>{line}</h1></div>')
         elif line.startswith("<!>"):
-            line = re.sub(r"<!>", '<div class="orv_system"><p>', line)
-            html.append(f"{line}</p></div>")
+            line = html.escape(re.sub(r"<!>", '', line))
+            html.append(f'<div class="orv_system"><p>{line}</p></div>')
         elif line.startswith("<@>"):
-            line = re.sub(r"<@>", '<div class="orv_constellation"><p>', line)
-            html.append(f"{line}</p></div>")
+            line = html.escape(re.sub(r"<@>", '', line))
+            html.append(f'<div class="orv_constellation"><p>{line}</p></div>')
         elif line.startswith("<#>"):
-            line = re.sub(r"<#>", '<div class="orv_outergod"><p>', line)
-            html.append(f"{line}</p></div>")
+            line = html.escape(re.sub(r"<#>", '', line))
+            html.append(f'<div class="orv_outergod"><p>{line}</p></div>')
         elif line.startswith("<&>"):
             line = re.sub(r"\s*「\s*", "「 ", line)
             line = re.sub(r"\s*」\s*", " 」", line)
-            line = re.sub(r"<&>", '<div class="orv_quote"><p>', line)
-            html.append(f"{line}</p></div>")
+            line = html.escape(re.sub(r"<&>", '', line))
+            html.append(f'<div class="orv_quote"><p>{line}</p></div>')
         elif line.startswith("<?>"):
-            line = re.sub(r"<\?>", '<div class="orv_notice"><p>', line)
-            html.append(f"{line}</p></div>")
+            line = html.escape(re.sub(r"<\?>", '', line))
+            html.append(f'<div class="orv_notice"><p>{line}</p></div>')
         elif line.startswith("<img>"):
             line = re.findall(r"\[(.*?)\]", line)
-            html.append(f'<div class="orv_image"><img src="../../../assets/images/{line[0]}" alt="{line[1]}" loading="lazy"></div>')
+            html.append(f'<div class="orv_image"><img src="../../../assets/images/{line[0]}" alt="{html.escape(line[1])}" loading="lazy"></div>')
         elif line == "":
             html.append(f"<br>")
         elif line == "***":
             html.append(f"<hr>")
         elif line.startswith("<list>"):
-            line = re.sub(r"<list>", "<ul>", line)
-            html.append(f"{line}")
+            line = html.escape(re.sub(r"<list>", "", line))
+            html.append(f"<ul>{line}")
         elif line.startswith("<cover>"):
             line = re.findall(r"\[(.*?)\]", line)
-            template = template.replace(r"{{COVER}}",f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{line[1]}"></div>')
+            template = template.replace(r"{{COVER}}",f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{html.escape(line[1])}"></div>')
         else:
-            html.append(f'<p class="orv_line">{line}</p>')
+            html.append(f'<p class="orv_line">{html.escape(line)}</p>')
 
     # Get all chapter files to determine first and last
     chapter_files = sorted([f for f in os.listdir("chapters/side") if f.endswith(".txt")])
