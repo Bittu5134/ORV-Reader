@@ -1,1 +1,19 @@
+# Mark generated HTML and EPUB content as vendored (not source code)
 *.html linguist-vendored
+*.xhtml linguist-vendored
+*.opf linguist-vendored
+*.ncx linguist-vendored
+
+# Mark chapter content as documentation (not code)
+chapters/** linguist-documentation
+*.txt linguist-documentation
+
+# Mark generated website and EPUB output as vendored
+website/** linguist-generated
+epub/** linguist-generated
+
+# Mark images as vendored (binary assets)
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.png linguist-vendored
+*.webp linguist-vendored
