@@ -8,9 +8,10 @@ When reviewing pull requests that modify `.txt` files in the `chapters/` folder 
 
 1. **Check formatting consistency** with the formatting guide
 2. **Verify proper use of special tags**
-3. **Review narrative quality and readability**
-4. **Ensure adherence to contribution guidelines**
-5. **Maintain the story's tone and style**
+3. **Actively suggest fixes** for incorrect tag usage and bracket formatting
+4. **Review narrative quality and readability**
+5. **Ensure adherence to contribution guidelines**
+6. **Maintain the story's tone and style**
 
 ---
 
@@ -100,6 +101,154 @@ Think of yourself as a **copy editor** for a published novel series. Focus on:
 
 ---
 
+## Actively Fixing Tag and Bracket Issues
+
+**IMPORTANT**: When you identify incorrect tag usage or bracket formatting, **always suggest the specific fix** in your review comments.
+
+### How to Identify and Fix Wrong Tag Assignments
+
+Different types of dialogue and content require specific tags. Here's how to identify and correct misuse:
+
+#### 1. System Messages (`<!>`)
+**Use for**: Game system notifications, skill activations, status windows, scenario announcements
+
+**Common mistakes**:
+- Using plain text for system messages
+- Using `<@>` for system notifications
+- Missing square brackets `[]`
+
+**Fix examples**:
+```diff
+Wrong:
+- [The Fourth Wall skill has been activated]
+- <@>[You have completed the scenario]
+
+Correct:
++ <!>[The Fourth Wall skill has been activated]
++ <!>[You have completed the scenario]
+```
+
+#### 2. Constellation Speech (`<@>`)
+**Use for**: Direct speech from constellations, dokkaibe, transcendents
+
+**Common mistakes**:
+- Using `<!>` for constellation dialogue
+- Using plain text or quotes for constellation speech
+- Confusing with outer god speech
+
+**Fix examples**:
+```diff
+Wrong:
+- <!>[The Demon King of Salvation is watching you]
+- The constellation said "I'm impressed by your choice"
+- <#>[A certain constellation is amused]
+
+Correct:
++ <@>[The Demon King of Salvation is watching you]
++ <@>[I'm impressed by your choice]
++ <@>[A certain constellation is amused]
+```
+
+#### 3. Outer God Speech (`<#>`)
+**Use for**: Speech from outer gods (Secretive Plotter, etc.)
+
+**Common mistakes**:
+- Using `<@>` for outer god dialogue
+- Not using the proper brackets 【】
+
+**Fix examples**:
+```diff
+Wrong:
+- <@>[The Secretive Plotter is watching]
+- <#>[The void speaks]
+
+Correct:
++ <#>【The Secretive Plotter is watching】
++ <#>【The void speaks】
+```
+
+#### 4. Quotes and Special Text (`<&>`)
+**Use for**: Quoted text from books, special narration, epigraphs
+
+**Common mistakes**:
+- Using for regular dialogue
+- Using for constellation or outer god speech
+
+**Fix examples**:
+```diff
+Wrong:
+- <&>[The constellation speaks]
+- Regular narration text formatted as quote
+
+Correct:
++ <&>「Three Ways to Survive in a Ruined World」
++ <&>「To the Breaking the Sky Sword, the First Murim was home.」
+```
+
+### Bracket Formatting Rules
+
+Each tag type has specific bracket requirements:
+
+| Tag | Required Brackets | Example |
+|-----|-------------------|---------|
+| `<!>` | Square `[]` | `<!>[Skill activated!]` |
+| `<@>` | Square `[]` | `<@>[Constellation message]` |
+| `<#>` | Corner 【】 | `<#>【Outer god message】` |
+| `<&>` | Corner 「」 | `<&>「Quote text」` |
+| `<?>` | None (text follows directly) | `<?>Translation note` |
+| `<img>` | Square `[][]` (two sets) | `<img>[file.jpg][Alt text]` |
+| `<cover>` | Square `[][]` (two sets) | `<cover>[file.jpg][Description]` |
+
+**Common bracket mistakes and fixes**:
+
+```diff
+Wrong - Missing brackets:
+- <!>Skill activated
+
+Correct:
++ <!>[Skill activated]
+
+Wrong - Wrong bracket type:
+- <#>[Outer god speaks]
+- <&>[Quote text]
+
+Correct:
++ <#>【Outer god speaks】
++ <&>「Quote text」
+
+Wrong - Extra spaces:
+- <!> [Message]
+- <@>[ Message ]
+
+Correct:
++ <!>[Message]
++ <@>[Message]
+
+Wrong - Missing second bracket set for images:
+- <img>[filename.jpg]
+
+Correct:
++ <img>[filename.jpg][Description]
+```
+
+### When Suggesting Fixes
+
+Always provide:
+1. **Specific line reference** where the issue occurs
+2. **What's wrong** with the current tag usage
+3. **The exact corrected text** to use
+4. **Brief explanation** of why this tag is correct
+
+**Example review comment**:
+> Line 45: This system notification should use the `<!>` tag instead of `<@>` because it's a game system message, not constellation speech.
+> 
+> Suggested fix:
+> ```
+> <!>[Exclusive skill 'Fourth Wall' has been activated!]
+> ```
+
+---
+
 ## Content Quality Guidelines
 
 ### What to Review
@@ -139,15 +288,17 @@ When providing feedback, use a **supportive editorial tone**:
 
 ### Good Comment Examples
 
-✅ "Consider using the `<!>` tag for this system message to make it visually distinct."
+✅ **With specific fix**: "Line 23: This system notification should use the `<!>` tag. Suggested fix: `<!>[Exclusive skill 'Fourth Wall' has been activated!]`"
 
-✅ "This chapter is missing the required `<title>` tag at the beginning. Please add it following the format: `<title>Chapter X: Title`"
+✅ **Identifying tag confusion**: "Line 67: This is constellation speech, not a system message. Change `<!>[The Demon King watches]` to `<@>[The Demon King watches]`"
 
-✅ "Great work! The formatting is consistent with other chapters. Just one small typo on line 45: 'recieve' should be 'receive'."
+✅ **Bracket correction**: "Line 89: Outer god speech requires corner brackets 【】. Change `<#>[Message]` to `<#>【Message】`"
 
-✅ "The constellation dialogue here should use the `<@>` tag instead of regular text to match the formatting style used in other chapters."
+✅ **Complete fix suggestion**: "Line 15: Missing `<title>` tag at the beginning. Add: `<title>Ch 45: The Final Choice`"
 
-✅ "This section break should have blank lines before and after the `***` separator for proper formatting."
+✅ **Multiple issues**: "Line 102: Two issues - should use `<@>` for constellation speech and needs square brackets. Change `The constellation said "I'm watching"` to `<@>[I'm watching]`"
+
+✅ **Bracket spacing**: "Line 34: Extra space in tag. Change `<!> [Message]` to `<!>[Message]`"
 
 ### Avoid These Comment Styles
 
@@ -167,17 +318,22 @@ When reviewing a PR that modifies chapter `.txt` files, verify:
 
 - [ ] Chapter starts with `<title>` tag
 - [ ] All special tags are properly formatted and closed
-- [ ] System messages use `<!>` tag
-- [ ] Constellation speech uses `<@>` tag
-- [ ] Outer god speech uses `<#>` tag
+- [ ] System messages use `<!>` tag with square brackets `[]`
+- [ ] Constellation speech uses `<@>` tag with square brackets `[]`
+- [ ] Outer god speech uses `<#>` tag with corner brackets 【】
+- [ ] Quotes use `<&>` tag with corner brackets 「」
 - [ ] System windows use proper `+` format
-- [ ] Images use correct `<img>[filename][description]` format
+- [ ] Images use correct `<img>[filename][description]` format (two bracket sets)
+- [ ] Cover images use correct `<cover>[filename][description]` format (two bracket sets)
+- [ ] No extra spaces inside or around tags
+- [ ] Correct bracket type for each tag (square vs corner brackets)
 - [ ] Section breaks have proper spacing around `***`
 - [ ] No HTML code in `.txt` files
 - [ ] Blank lines separate paragraphs appropriately
 - [ ] No spelling or obvious grammatical errors
 - [ ] Character names are consistent
 - [ ] Text flows naturally and reads well
+- [ ] **IMPORTANT**: When issues found, provide specific corrected text in review comments
 
 ---
 
