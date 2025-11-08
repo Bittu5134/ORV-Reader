@@ -9,8 +9,8 @@ chapters/** linguist-documentation
 *.txt linguist-documentation
 
 # Mark generated website and EPUB output as vendored
-website/** linguist-generated
-epub/** linguist-generated
+# website/** linguist-generated
+# epub/** linguist-generated
 
 # Mark images as vendored (binary assets)
 *.jpg linguist-vendored
