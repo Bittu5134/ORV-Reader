@@ -46,7 +46,7 @@ Think of yourself as a **copy editor** for a published novel series. Focus on:
 
 4. **System Windows** - `+`
    - Use `+` on lines before and after content
-   - Add `[Title]` on first line inside for window titles
+   - Add `[Title]` on first line inside for window titles (optional)
    - Example:
      ```
      +
@@ -145,6 +145,7 @@ Wrong:
 
 Correct:
 + <@>[The Demon King of Salvation is watching you]
++ The constellation said,
 + <@>[I'm impressed by your choice]
 + <@>[A certain constellation is amused]
 ```
