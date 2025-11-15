@@ -52,11 +52,6 @@ You can download the complete stories as EPUB files for offline reading:
 
 📚 **[Download Page](https://orv.pages.dev/download.html)** - Get all EPUBs in one place
 
-Or download directly:
-- [Main Story EPUB](https://github.com/Bittu5134/ORV-Reader/releases/latest/download/orv_main.epub) - Complete main story with illustrations
-- [Sequel EPUB](https://github.com/Bittu5134/ORV-Reader/releases/latest/download/orv_sequel.epub) - Continuation of the story
-- [One Shots EPUB](https://github.com/Bittu5134/ORV-Reader/releases/latest/download/orv_side.epub) - Side stories and extras
-
 All EPUBs include high-quality illustrations and are compatible with most e-readers and reading apps.
 
 ---
