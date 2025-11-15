@@ -175,6 +175,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     current_chapter = file_index + 1
     first_chapter = min(chapter_numbers)
     last_chapter = max(chapter_numbers)
+    first_chapter = min(chapter_numbers)
+    last_chapter = max(chapter_numbers)
     
     donation_banner = '''<div class="donation-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
             <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">ORV-Reader will always be <strong>AD-Free</strong> for the community. If you're enjoying the story, please consider donating!</p>
