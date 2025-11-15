@@ -200,7 +200,7 @@
         <div class="evadav">
   
         </div>
-        <div id="random-banner-container"></div>
+        {{BANNER}}
         <div class="giscus" id="comments" style="margin-top: -8px;">
         </div>
     </div>
@@ -211,56 +211,6 @@
         data-mapping="og:title" data-strict="1" data-reactions-enabled="1" data-emit-metadata="0"
         data-input-position="top" data-theme="dark" data-lang="en" crossorigin="anonymous" async>
         </script>
-
-    <script>
-        // Configuration for random banner display
-        // Adjust these probabilities as needed (should sum to 100)
-        const BANNER_CONFIG = {
-            donationChance: 40,  // 40% chance to show donation banner
-            discordChance: 40,   // 40% chance to show discord banner
-            nothingChance: 20    // 20% chance to show nothing
-        };
-
-        // Banner templates
-        const banners = {
-            donation: `
-                <div class="donation-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
-                    <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">ORV-Reader will always be <strong>AD-Free</strong> for the community. If you're enjoying the story, please consider donating!</p>
-                    <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Just 0.1% of readers contributing would be enough to help us reach our goal.</p>
-                    <a href="../../../donate.html" style="display: inline-block; padding: 7px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Support ORV-Reader</a>
-                </div>
-            `,
-            discord: `
-                <div class="discord-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
-                    <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">Join our <strong>Discord Server</strong> to discuss ORV with other readers!</p>
-                    <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Connect with the community, share theories, and stay updated!</p>
-                    <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 7px 18px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Join Discord</a>
-                </div>
-            `,
-            nothing: ''
-        };
-
-        // Function to select banner based on configured probabilities
-        function selectRandomBanner() {
-            const random = Math.random() * 100;
-            let cumulative = 0;
-
-            if (random < (cumulative += BANNER_CONFIG.donationChance)) {
-                return 'donation';
-            } else if (random < (cumulative += BANNER_CONFIG.discordChance)) {
-                return 'discord';
-            } else {
-                return 'nothing';
-            }
-        }
-
-        // Display the selected banner
-        const selectedBanner = selectRandomBanner();
-        const container = document.getElementById('random-banner-container');
-        if (container) {
-            container.innerHTML = banners[selectedBanner];
-        }
-    </script>
 
 </body>
 
