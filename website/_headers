@@ -7,15 +7,6 @@
 /assets/background-stars.avif
   Cache-Control: public, max-age=864000, immutable
 
-/assets/background-stars.jpg
-  Cache-Control: public, max-age=864000, immutable
-
-/assets/background-stars-mobile.jpg
-  Cache-Control: public, max-age=864000, immutable
-
-/assets/od-stigma.webp
-  Cache-Control: public, max-age=864000, immutable
-
 /meta/*
   Cache-Control: public, max-age=3600
 
