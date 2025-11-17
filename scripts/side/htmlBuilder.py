@@ -4,6 +4,9 @@ import urllib.parse as urlparse
 import random
 
 
+# Track latest cover image per chapter for og:image
+latest_cover_image = {}
+
 for file_index,file in enumerate(os.listdir("chapters/cont")):
 
     # if not file_index == 1:
@@ -12,6 +15,10 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     if not file.endswith(".txt"):
         continue
     file_index = int(file.replace(".txt",""))-1
+    
+    # Initialize variables for this chapter
+    current_cover_image = None
+    
     with open(f"./chapters/cont/{file}", "r", encoding="utf-8") as f:
         textStr = f.read()
         # Temporarily replace special markers to preserve them during & escaping
@@ -119,6 +126,9 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             html.append(f"{line}")
         elif line.startswith("<cover>"):
             line = re.findall(r"\[(.*?)\]", line)
+            current_cover_image = line[0]
+            # Store this as the latest cover for this chapter
+            latest_cover_image[file_index] = current_cover_image
             template = template.replace(r"{{COVER}}",f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{line[1]}"></div>')
         else:
             html.append(f'<p class="orv_line">{line}</p>')
@@ -199,6 +209,20 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     
     template = template.replace(r"{{BANNER}}", banner_html)
 
+    # Set OG_IMAGE - use current chapter's cover, or look for latest cover from previous chapters, or use default
+    og_image_url = "https://orv-reader.pages.dev/assets/covers/cont.webp"  # Default
+    if current_cover_image:
+        # Use current chapter's cover
+        og_image_url = f"https://orv-reader.pages.dev/assets/images/{urlparse.quote(current_cover_image)}"
+    else:
+        # Look for the latest cover from previous chapters
+        for i in range(file_index, -1, -1):
+            if i in latest_cover_image:
+                og_image_url = f"https://orv-reader.pages.dev/assets/images/{urlparse.quote(latest_cover_image[i])}"
+                break
+    
+    template = template.replace(r"{{OG_IMAGE}}", og_image_url)
+    template = template.replace(r"{{CHAPTER_FILE}}", f"ch_{file_index+1}")
 
     template = template.replace(r"{{TITLE}}","")
     template = template.replace(r"{{COVER}}","")
