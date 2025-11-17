@@ -1,3 +1,6 @@
+/assets/background-stars.avif
+  Cache-Control: public, max-age=864000, immutable
+
 /assets/images/*
   Cache-Control: public, max-age=864000
 

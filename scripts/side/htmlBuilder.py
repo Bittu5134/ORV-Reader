@@ -4,6 +4,9 @@ import urllib.parse as urlparse
 import random
 
 
+# Track the latest cover image for each chapter
+latest_cover_image = None
+
 for file_index,file in enumerate(os.listdir("chapters/cont")):
 
     # if not file_index == 1:
@@ -12,6 +15,10 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     if not file.endswith(".txt"):
         continue
     file_index = int(file.replace(".txt",""))-1
+    
+    # Reset cover for this chapter
+    chapter_cover_image = None
+    
     with open(f"./chapters/cont/{file}", "r", encoding="utf-8") as f:
         textStr = f.read()
         # Temporarily replace special markers to preserve them during & escaping
@@ -119,6 +126,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             html.append(f"{line}")
         elif line.startswith("<cover>"):
             line = re.findall(r"\[(.*?)\]", line)
+            chapter_cover_image = line[0]  # Track the cover image
+            latest_cover_image = chapter_cover_image  # Update latest
             template = template.replace(r"{{COVER}}",f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{line[1]}"></div>')
         else:
             html.append(f'<p class="orv_line">{line}</p>')
@@ -170,6 +179,16 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
     template = template.replace(r"{{PATH}}",f"cont/{file}")
     template = template.replace(r"{{INDEX}}", str(file_index))
+    
+    # Set OG image - use chapter cover if available, otherwise use default story cover
+    if chapter_cover_image:
+        og_image_url = f"https://orv-reader.com/assets/images/{urlparse.quote(chapter_cover_image)}"
+    else:
+        og_image_url = "https://orv-reader.com/assets/covers/cont.webp"
+    template = template.replace(r"{{OG_IMAGE}}", og_image_url)
+    
+    # Set chapter file for URL
+    template = template.replace(r"{{CHAPTER_FILE}}", f"ch_{file_index+1}")
 
     # Banner logic: First 5 chapters = Discord, Last 5 chapters = Donation, Others = Random
     current_chapter = file_index + 1
@@ -209,6 +228,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     template = template.replace(r"{{PREV-TEXT}}","")
     template = template.replace(r"{{NEXT-TEXT}}","")
     template = template.replace(r"{{INDEX}}", "")
+    template = template.replace(r"{{OG_IMAGE}}", "")
+    template = template.replace(r"{{CHAPTER_FILE}}", "")
 
 
 
