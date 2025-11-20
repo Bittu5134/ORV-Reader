@@ -43,8 +43,8 @@ This person lost all senses and wasn't hurt at all. I stepped back, hitting a br
 <!>[A few constellations are rejoicing in your adversity.]
 <!>[Constellations have sponsored you 200 coins.]
 It was a steady accumulation of coins. Now I held 5,000 coins. It was a significant number of coins for the beginning.
-<@>[Wow, you are quite good at surviving. Now now! Will any constellations help this poor friend? It was the dokkaebi's merchant-like voice.]
-I wanted to tear it apart.
+<@>[Wow, you are quite good at surviving. Now now! Will any constellations help this poor friend?]
+ It was the dokkaebi's merchant-like voice. I wanted to tear it apart.
 <@>[Geez, there is really nobody?]
 Of course. It would be strange for a constellation to support me after what happened during the Sponsor Selection.
 <@>[What did I say? You should've chosen well when you had the chance. How pitiful.]
