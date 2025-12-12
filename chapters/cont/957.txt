@@ -12,7 +12,7 @@ He went through the giant story of <Olympus> and liberated the giants of Tartaru
 <&>「"It is a precursor to the Holy War of Good and Evil."」
 <&>「"If this continues, the apocalypse dragon will wake up."」
 <&>「"The battle between the demon world and Eden will soon begin. If you don't prepare for everything—"」
-It wasn't just that. He killed the 'Endbringer' group and prevented the outbreak of the Great War of Good and Evil during the Demon World event— 'Blue Witch's Night', which is one of the precursors to the Great War of Good and Evil.
+It wasn't just that. He killed the 'Seeker of End' group and prevented the outbreak of the Great War of Good and Evil during the Demon World event— 'Blue Witch's Night', which is one of the precursors to the Great War of Good and Evil.
 <&>「"Just like you and me, good and evil are just part of a grand story."」
 He also personally led the Outer Gods who invaded the Constellations of the nebula  and sent them back to the 'Island of the Reincarnation'.
 <&>「"Is this really what only one incarnation has accomplished..."」
@@ -108,8 +108,7 @@ Looking back, Jung Heewon was also watching the story drifting outside the windo
 <&>「"If it's alright, may I ask you a favor?"」
 Among them were stories of our shared journeys, where we had overcome life-threatening hardships together.
 <&>「He wasn't Jung Heewon's father.」
-He simply read this story, and was the spectator brought here.
-And yet, on this tragic stage, he spoke the single line he had rehearsed all along.」
+<&>「He simply read this story, and was the spectator brought here. And yet, on this tragic stage, he spoke the single line he had rehearsed all along.」
 There were also scenarios where, despite my best efforts, I couldn't protect anyone.
 <&>「"Well done. Heewon-ah."」
 Jung Heewon's father. Hearing the final words of Sergeant Jung Moonho, possessed by a reader, I called out Jung Heewon's name once more.
