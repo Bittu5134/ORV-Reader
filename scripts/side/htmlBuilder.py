@@ -177,17 +177,24 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     last_chapter = max(chapter_numbers)
 
     
-    donation_banner = '''<div class="donation-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
-            <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">ORV-Reader will always be <strong>AD-Free</strong> for the community. If you're enjoying the story, please consider donating!</p>
-            <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Just 0.1% of readers contributing would be enough to help us reach our goal.</p>
-            <a href="../../../donate.html" style="display: inline-block; padding: 7px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Support ORV-Reader</a>
-        </div>'''
-    
-    discord_banner = '''<div class="discord-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
-            <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">Report issues on our <strong>Discord Server</strong> or join for discussion and new chapters!</p>
-            <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Connect with the community, share theories, and stay updated!</p>
-            <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 7px 18px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Join Discord</a>
-        </div>'''
+    """donation_banner = '''<div class="donation-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
+        <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">ORV-Reader will always be <strong>AD-Free</strong> for the community. If you're enjoying the story, please consider donating!</p>
+        <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Just 0.1% of readers contributing would be enough to help us reach our goal.</p>
+        <a href="../../../donate.html" style="display: inline-block; padding: 7px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Support ORV-Reader</a>
+    </div>'''"""
+    donation_banner = '''
+    <div class="donation-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
+        <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 1.5;"> 🎄 <strong>Merry Christmas!</strong> Wishing you warmth, joy, and great stories this holiday season. </p>
+        <a href="../../../donate.html" style="display: inline-block; padding: 7px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s; margin-right: 8px;"> Donate </a>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener" style="display: inline-block; padding: 7px 18px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;"> Discord </a>
+    </div>'''
+    discord_banner = '''
+    <div class="discord-banner" style="margin: 15px auto 0; padding: 12px 15px; background-color: var(--primary); border: 1px solid var(--text-secondary); border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary);">
+        <p style="margin: 0 0 6px 0; font-size: 0.95em; line-height: 1.5;">Report issues on our <strong>Discord Server</strong> or join for discussion and new chapters!</p>
+        <p style="margin: 0 0 10px 0; font-size: 0.85em; opacity: 0.75;">Connect with the community, share theories, and stay updated!</p>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 7px 18px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 0.9em; transition: background-color 0.3s;">Join Discord</a>
+    </div>'''
+    discord_banner = donation_banner
     
     # Determine which banner to show
     if current_chapter <= first_chapter + 4:  # First 5 chapters
