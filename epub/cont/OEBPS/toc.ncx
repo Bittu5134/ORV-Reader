@@ -418,4 +418,6 @@
 <navPoint id="408" playOrder="409"><navLabel><text>961 Episode 57 Twilight of the Gods (4)</text></navLabel><content src="ch_409.xhtml"/></navPoint>
 <navPoint id="409" playOrder="410"><navLabel><text>962 Episode 57 Twilight of the Gods (5)</text></navLabel><content src="ch_410.xhtml"/></navPoint>
 <navPoint id="410" playOrder="411"><navLabel><text>963 Episode 57 Twilight of the Gods (6)</text></navLabel><content src="ch_411.xhtml"/></navPoint>
+<navPoint id="411" playOrder="412"><navLabel><text>964 Episode 57 Twilight of the Gods (7)</text></navLabel><content src="ch_412.xhtml"/></navPoint>
+<navPoint id="412" playOrder="413"><navLabel><text>965 Episode 57 Twilight of the Gods (8)</text></navLabel><content src="ch_413.xhtml"/></navPoint>
 </navMap></ncx>
