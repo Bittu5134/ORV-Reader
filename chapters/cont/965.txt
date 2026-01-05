@@ -95,7 +95,7 @@ I briefly held back the dark clouds created by the Thunderbird. I looked at him 
 "Newbies need to be treated warmly. Do you think your game will work properly if all the newbies quit? Oh, you didn't read that far?"
 <@>[Huh?]
 "『Even a novice can master the game in a week』."
-<!>[How did you get that item...?]
+<@>[How did you get that item...?]
 I took a quick breath, then circulated the story in my heart strongly.
 <&>「'Demon King of Salvation' mode is activated.」
 <!>[The story, 'Demon King of Salvation', begins its storytelling!]
@@ -103,14 +103,14 @@ Along with the dazzling story that enveloped my entire body, [Way of the Wind] t
 <@>[Go.]
 The incarnations, hastily regaining their senses at my mantra, began to run again. Perhaps because they were concerned about me. The constellations didn't rush to chase the incarnations.
 Instead, on the battlefield. They were curious about my display of aura.
-<!>[As expected, he's got a hidden plan.]
+<@>[As expected, he's got a hidden plan.]
 Unlike in 'New Murim District', the constellations didn't seem overly flustered despite my aura.
-<!>[Didn't I say so?]
-<!>[It seems he's sponsored by some small or medium-sized constellation.]
+<@>[Didn't I say so?]
+<@>[It seems he's sponsored by some small or medium-sized constellation.]
 The 'Demon King of Salvation' mode radiates aura comparable to that of a late-stage narrative-grade.
 But over there, there were three constellations that reached the late-stage narrative-grade.
 Even the rest of the team were at least mid-stage narrative-grade, so it seemed they wouldn't lose their composure.
-<!>[I don't know which one, but it wouldn't be bad for entertainment.]
+<@>[I don't know which one, but it wouldn't be bad for entertainment.]
 The constellations each began to radiate aura, as if ready to easily trample on me.
 <!>[The constellation, 'Thunderbird', releases its aura!]
 <!>[The constellation, 'General of Banara', releases its aura!]
@@ -118,7 +118,7 @@ The constellations each began to radiate aura, as if ready to easily trample on 
 Anna Croft hurriedly intervened in the heated atmosphere of the battlefield.
 "Constellations! Everyone, please stop! Have you forgotten that there's a wager at stake?"
 The 'General of Banaras' responded with a sarcastic remark.
-<!>[The wager was 'that the match wouldn't end until the first prophecy was fulfilled'. The match wouldn't end just because one of them was killed.]
+<@>[The wager was 'that the match wouldn't end until the first prophecy was fulfilled'. The match wouldn't end just because one of them was killed.]
 Watching the approaching constellations, I pulled Anna Croft back.
 Anna Croft spoke, seemingly frustrated with the situation.
 —Why on earth is this happening?
@@ -150,17 +150,17 @@ Hearing her footsteps retreat, I let out a light sigh.
 —The person I know, the one who puts their life on the line, would have no reason to make such a risky bet.
 It seems I couldn't fool her, even if I didn't know about others.
 I looked up at the small golden dice that had been floating above my head for a while. This small dice was a symbol that only appeared to those who participated in the bets of the 'Hall of Golden Dice'.
-<!>[Could it be, that guy... made a bet?]
+<@>[Could it be, that guy... made a bet?]
 Several of the constellations frowned, as if they had belatedly noticed the symbol.
 A small golden dice was also floating above their heads.
-<!>[Hahahahaha! Could it be that someone had placed a coin on the Prophet's team? Is that right?]
+<@>[Hahahahaha! Could it be that someone had placed a coin on the Prophet's team? Is that right?]
 "But."
-<!>[You're crazy. You don't really think they'll win, do you?]
+<@>[You're crazy. You don't really think they'll win, do you?]
 "Are there people who bet money thinking they'll lose?"
-<!>[What nonsense are you talking about? Do you really believe you can collect all the prophecies?]
+<@>[What nonsense are you talking about? Do you really believe you can collect all the prophecies?]
 "Oh, actually, that's a lie."
 <!>[You're currently participating in a bet at the 'Hall of Golden Dice'.]
-<@>[You bet on Team 'Zarathustra'.]
+<!>[You bet on Team 'Zarathustra'.]
 "Actually, I can win even without collecting prophecies."
 <!>[You placed an additional bet on 'End of match before the first prophecy appears!']
 The constellations, with bitter smiles on their faces, turned to each other and said.
@@ -168,21 +168,21 @@ The constellations, with bitter smiles on their faces, turned to each other and 
 <!>[Still, you seem like a good player. You must have bet around 10,000 D-coins.]
 Listening to their advice, I recalled the words of the 'Mass Production Manufacturer'.
 <&>「"Coins are truly fascinating, aren't they? They're just numbers, but depending on the number of coins, the constellations can mock someone, be jealous of someone, or even show their greed."」
-<!>[No, he might have bet as much as 100,000 D-Coins.]
+<@>[No, he might have bet as much as 100,000 D-Coins.]
 The 'General of Banara' bared his teeth and thrust his club at me.
-<!>[No matter how much you bet, the outcome of this bet won't change.]
+<@>[No matter how much you bet, the outcome of this bet won't change.]
 "You think so?"
 That was when the constellations' expressions changed.
-<!>[Wait! Wait. Just now…]
+<@>[Wait! Wait. Just now…]
 I could tell even without activating [Omniscient Reader's Viewpoint]. They were probably hearing something unusual right now.
-<!>[Someone bet on that team.]
-<!>[What? Some crazy guy—]
-<!>[How much did he bet?]
+<@>[Someone bet on that team.]
+<@>[What? Some crazy guy—]
+<@>[How much did he bet?]
 The voice of the Mass-Production Manufacturer overlapped their expressions, which were changing in real time.
 <&>「"The real fun comes when the amount of those coins gets really large."」
 Some amounts elicit ridicule, some envy, and some greed.
 And some—
-<!>[That's, like, impossible! No matter how crazy—]
+<@>[That's, like, impossible! No matter how crazy—]
 "Why are you all doing that?"
 The mere existence of it inspires a kind of awe.
 The constellations began to back away, as if they could see the numbers floating above my head.
