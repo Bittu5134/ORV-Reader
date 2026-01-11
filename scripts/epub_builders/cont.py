@@ -4,6 +4,19 @@ import os
 import urllib.parse as urlparse
 
 
+def sanitize_text(text):
+    """Sanitize text except whitelisted HTML tags"""
+    text = text.replace("&", "&amp;")
+    allowed = r'<(/?(?:br|em|strong|b|i|u|span|a|img|hr|p|div)(?:\s+[^>]*)?)>'
+    tags = [(m.group(0), f'___T{i}___') for i, m in enumerate(re.finditer(allowed, text, re.I))]
+    for tag, placeholder in tags:
+        text = text.replace(tag, placeholder)
+    text = text.replace("<", "&lt;").replace(">", "&gt;")
+    for tag, placeholder in tags:
+        text = text.replace(placeholder, tag)
+    return text
+
+
 titles = []
 for file_index, file in enumerate(os.listdir("chapters/cont")):
     with open(f"./chapters/cont/{file}", "r", encoding="utf-8") as f:
@@ -166,13 +179,13 @@ for file_index, file in enumerate(os.listdir("chapters/cont")):
             
             elif isWindow == True and isWindowTitle == True:
                 if line.startswith("[") or line.startswith("<"):
-                    xhtml += f'<h3 style="text-align:center;">{line.replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</h3>\n'
+                    xhtml += f'<h3 style="text-align:center;">{sanitize_text(line)}</h3>\n'
                 else:
-                    xhtml += f"<p>{line.strip().replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</p>\n"
+                    xhtml += f"<p>{sanitize_text(line.strip())}</p>\n"
                 isWindowTitle = False
 
             else:
-                xhtml += f"<p>{line.strip().replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")}</p>\n"
+                xhtml += f"<p>{sanitize_text(line.strip())}</p>\n"
         xhtml += f"""<hr/><p style="text-align: center;"><a href="https://orv.pages.dev/stories/cont/read/ch_{file_index+553}#comments" target="_blank" style="font-weight: bold; text-decoration: none;">[CLICK TO READ CHAPTER COMMENTS]</a></p>\n"""
         xhtml += (
             "<hr/><section epub:type='endnotes' role='doc-endnotes'>\n"
