@@ -87,7 +87,7 @@ Come to think of it, I had once made a Small Nebula at the 'Recycling Center' wi
 "But how... No, wait a minute."
 The tone of his speech changed immediately when I told him I wasn't from a Giant Nebula.
 While the examiner was going through a stack of electronic documents, I lightly activated my skill toward the examiner in front of me.
-<I>[Exclusive skill, 'Character List' activated!]
+<!>[Exclusive skill, 'Character List' activated!]
 +
 <Character Information>
 Name: Jeon Yeongwoo
