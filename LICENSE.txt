@@ -1,0 +1,24 @@
+TERMS OF USE AND SOFTWARE LICENSE: ORV-READER
+Copyright (c) 2026 ORV-Reader (Bittu5134)
+PART 1: NOTICE REGARDING FAN TRANSLATIONS
+The translations provided on this website are unofficial fan translations of copyrighted works. We do not own the copyright to the original works, nor are we affiliated with the official copyright holders in any way.
+These translations are provided freely for personal, non-commercial use and for the enjoyment of the community. By accessing and using this website and its content, you acknowledge and agree to the following:
+ * NO OFFICIAL ENDORSEMENT: These translations are not endorsed or approved by the official copyright holders.
+ * RESPECT FOR ORIGINAL COPYRIGHT: We strongly encourage users to support the official releases of the original works. If the original work becomes officially available in your region and language, we urge you to purchase and support it.
+ * NON-COMMERCIAL USE ONLY: You may not use these translations for any commercial purposes, including but not limited to selling, advertising, or incorporating them into paid content without explicit permission from the official copyright holders.
+ * NO GUARANTEE OF ACCURACY: While we strive for accuracy, these are fan-created translations and may contain errors or inconsistencies. The original officially released versions should always be considered the definitive and accurate versions.
+ * POTENTIAL FOR REMOVAL: The official copyright holders retain all rights to their works and may request the removal of these unofficial translations at any time. We reserve the right to remove any content without prior notice if required by copyright owners or legal obligations.
+ * NO LIABILITY: THESE TRANSLATIONS ARE PROVIDED "AS IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE TRANSLATIONS.
+PART 2: SOURCE CODE LICENSE (RESTRICTED)
+Regarding the source code, associated documentation, and website architecture (the "Software"):
+ * GRANT OF LICENSE:
+   Permission is hereby granted, free of charge, to any person obtaining a copy of this Software to view, download, and modify the Software for personal, educational, and non-commercial use only.
+ * RESTRICTIONS AND PROHIBITIONS:
+   The following actions are STRICTLY PROHIBITED without the express written consent of the copyright holder:
+ * PUBLIC HOSTING AND REDISTRIBUTION: You may not host, mirror, or upload this Software (or any modified version of it) to any public-facing domain, website, or server other than the original source repository.
+ * CLONING FOR DEPLOYMENT: You are expressly forbidden from cloning this repository for the purpose of hosting a duplicate or derivative version of the website on a different URL/domain.
+ * COMMERCIAL USE: You may not use the Software or any of its components for commercial purposes or financial gain.
+ * ATTRIBUTION:
+   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ * DISCLAIMER OF WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
