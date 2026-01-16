@@ -128,7 +128,7 @@ I tried to use the skill on the deacon.
 <Character Summary>
 Name: Kim Cheolyang
 Age: 27 years old
-Sponsor: None (No constelations are currently showing interest in this person).
+Sponsor: None (No constellations are currently showing interest in this person).
 Exclusive Attributes: Crouching Figure (General), Attention Seeker (General)
 Exclusive Skills: [Irrational Blind Faith Lv.2.]. [Cognitive Dissonance Lv.3.]
 Overall Stats: [Physique Lv.1], [Strength Lv.2], [Agility Lv.2], [Magic Power Lv.3.]
