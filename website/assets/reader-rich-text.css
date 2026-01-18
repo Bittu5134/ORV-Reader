@@ -466,6 +466,12 @@ div.orv_quote.theme2::after {
 
 /* this is for notice */
 
+.orv_notice p {
+    font-size: smaller;
+    font-style: italic;
+}
+
+
 .orv_notice.theme1 {
     margin-left: 0.8em;
     margin-top: var(--paragraph-space);
@@ -478,8 +484,6 @@ div.orv_quote.theme2::after {
 .orv_notice.theme1 p::after {
     content: ")";
 }
-
-
 
 
 
