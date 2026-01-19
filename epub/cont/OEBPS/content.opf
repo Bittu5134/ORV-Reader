@@ -6,7 +6,7 @@
     <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
     <dc:language>en</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>01-18-2026</dc:date>
+    <dc:date>01-19-2026</dc:date>
     <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
@@ -442,6 +442,7 @@
 <item href="ch_417.xhtml" id="417" media-type="application/xhtml+xml"/>
 <item href="ch_418.xhtml" id="418" media-type="application/xhtml+xml"/>
 <item href="ch_419.xhtml" id="419" media-type="application/xhtml+xml"/>
+<item href="ch_420.xhtml" id="420" media-type="application/xhtml+xml"/>
 <item id="img_0" href="002%20-%20In%20short%2C%20my%20life%20was%20like%20this%20Kim%20Dokja%2C%2028%20years%20old%2C%20single.jpg" media-type="image/jpeg"/>
 <item id="img_1" href="002%20-%20Yoo%20Sangah%20smiled%20brightly.jpg" media-type="image/jpeg"/>
 <item id="img_2" href="006%20-%20I%20wiped%20at%20the%20blood%20on%20my%20cheeks.%20The%20bloodwasn%27t%20erased.%20It%20turned%20out%20to%20be%20blood%20on%20the%20window.jpg" media-type="image/jpeg"/>
@@ -1061,6 +1062,7 @@
 <itemref idref="417"/>
 <itemref idref="418"/>
 <itemref idref="419"/>
+<itemref idref="420"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
