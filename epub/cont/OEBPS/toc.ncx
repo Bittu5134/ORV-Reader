@@ -431,4 +431,6 @@
 <navPoint id="421" playOrder="422"><navLabel><text>974 Episode 58 Myth-grade Constellation (6)</text></navLabel><content src="ch_422.xhtml"/></navPoint>
 <navPoint id="422" playOrder="423"><navLabel><text>975 Episode 58 Myth-grade Constellation (7)</text></navLabel><content src="ch_423.xhtml"/></navPoint>
 <navPoint id="423" playOrder="424"><navLabel><text>976 Episode 58 Myth-grade Constellation (8)</text></navLabel><content src="ch_424.xhtml"/></navPoint>
+<navPoint id="424" playOrder="425"><navLabel><text>977 Episode 58 Myth-grade Constellation (9)</text></navLabel><content src="ch_425.xhtml"/></navPoint>
+<navPoint id="425" playOrder="426"><navLabel><text>978 Episode 58 Myth-grade Constellation (10)</text></navLabel><content src="ch_426.xhtml"/></navPoint>
 </navMap></ncx>
