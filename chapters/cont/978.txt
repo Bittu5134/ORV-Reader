@@ -45,7 +45,7 @@ I reached out as he faded.
 His inscription manifested before my eyes one last time.
 <&>「Asmodeus offered a leisurely smile, as if delivering the perfect exit line for a villain.」
 <#>【Kim Dokja, do not let this myth-grade status go to your head. Your true enemy is already orchestrating the end of this world, far beyond your reach.】
-<!>[...]
+<@>[...]
 <#>【Fight to the bitter end with that masterful tongue of yours. I truly wonder... what sentence will eventually mark your death?】
 He vanished completely, leaving only a faint afterimage that slipped through my fingers.
 <#>【I leave the Black Flame Dragon in your care—for the time being.】
@@ -110,14 +110,14 @@ I felt a cold smile touch my lips. It wasn't exactly a subtle threat. I gripped 
 I was prepared to pay the price, but then—
 <@>[Step back, Anubis.]
 A giant wreathed in light stepped between us.
-<!>[An announcement is issued to all constellations present!]
+<@>[An announcement is issued to all constellations present!]
 Mitra, despite his tattered wings and broken status, stood as a shield before me.
 <@>[If you lay a hand on the Demon King of Salvation, you will answer to me.]
 He was still a Myth-grade constellation. There wasn't a Narrative-grade being on the field willing to gamble their life against him. Anubis snarled, his teeth clicking together.
 <@>[We withdraw.]
 As the <Papyrus> forces retreated into the shadows, the other constellations followed suit. They had realized that, for today, I was untouchable. Mitra turned back to me once the field was clear.
 <@>[Demon King of Salvation.]
-I faced him, my guard still up. He was a constellation of <Veda>, after all. They were just as greedy as the rest. But instead of an attack, the massive entity slowly lowered himself onto one knee.
+I faced him, my guard still up. He was a constellation of <Vedas>, after all. They were just as greedy as the rest. But instead of an attack, the massive entity slowly lowered himself onto one knee.
 <@>[I offer my sincere respects to you.]
 The staff of the Golden Dice Hall followed his lead, prostrating themselves in the dirt.
 <!>[The constellation, 'Lord of December 25th', pays its respects!]
