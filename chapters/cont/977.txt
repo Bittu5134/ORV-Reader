@@ -20,15 +20,15 @@ The blank space rippled as if it would swallow me at any moment.
 Is it even possible to record oneself in a novel? Is the recorded 'me' even 'me'? No, in the first place—
 <&>「Who exactly is 'I'?」
 As if trying to settle those questions, I finally spoke.
-<!>[It doesn't matter.]
+<@>[It doesn't matter.]
 <#>【What?】
-<!>[If you were going to stop because of a few words, you wouldn't have become a recorder in the first place.]
+<@>[If you were going to stop because of a few words, you wouldn't have become a recorder in the first place.]
 Asmodeus chuckled, as if he had expected that much.
 <#>【Well, I suppose that's why even the Black Flame Dragon was so captivated by you.】
 <@>[What do you mean?]
 Instead of answering immediately, Asmodeus lowered his head to look at the Abyssal Black Flame Dragon. Within the achromatic field of vision, the dragon was breathing in slow, heavy rasps.
 <#>【Aren't you curious? Why did the 'Abyssal Black Flame Dragon' end up like this?】
-<!>[At this point, it seems you were the one who succeeded only with your tongue.]
+<@>[At this point, it seems you were the one who succeeded only with your tongue.]
 Asmodeus seemed determined to prolong the standoff. I could guess his intentions.
 <&>「An ancient story has begun to boil within the Black Flame Dragon.」
 Asmodeus was using a 'crest' to prepare for a second attack. Having sensed that I, too, could wield 'myth-grade' status, he was likely preparing a strike to wipe me and the constellations out in one sweep. But I, too, needed time.
@@ -44,16 +44,16 @@ I spoke, masking the truth.
 A gloomy, destructive aura flowed from the dragon's entire body. The story at its core conveyed the dragon's emotions in real time. I carefully identified that feeling.
 <&>「A profound sense of loss.」
 I didn't know what the Black Flame Dragon had lost. However, Asmodeus held something over him, and as a result, the dragon had fallen into madness.
-<!>[Did you steal from him?]
+<@>[Did you steal from him?]
 Even as I asked, I didn't expect a straight answer. Both of us were just stalling for time.
 <#>【Why do you think I stole from him?】
 Unexpectedly, Asmodeus’s expression turned serious.
 <#>【If I leave him here like you did, he'll completely collapse. The only reason he can carry out the scenario now is because of my 'record'.】
-<!>[…]
+<@>[…]
 <#>【Poor Black Flame Dragon. Looking at his expression right now, I can't even imagine how sad he must be.】
 I knew this was Asmodeus's trap. I shouldn't ask any more questions. But the moment he spoke, the question escaped me.
 <#>【Don't you really know? He became like this because of you.】
-<!>[What nonsense is that? I've never had proper contact with the 'Black Flame Dragon' in this worldline.]
+<@>[What nonsense is that? I've never had proper contact with the 'Black Flame Dragon' in this worldline.]
 The smile on Asmodeus's face deepened.
 <#>【As you know, many strange things have happened in this worldline.】
 The moment he spoke, an ominous feeling washed over me.
@@ -120,9 +120,9 @@ I held onto his massive frame and unleashed [Incite].
 The 'Kim Dokja' speaking these words was not the one the dragon hoped for. And the dragon listening was not the one I remembered.
 <@>[I'm sorry I couldn't tell you the story you loved.]
 I don't know who I am, but I must continue this story.
-<!>[Abyssal Black Flame Dragon, this story is not a burden you should bear. So from now on—]
+<@>[Abyssal Black Flame Dragon, this story is not a burden you should bear. So from now on—]
 Because this is the only way to understand who we are.
-<!>[I will record you.]
+<@>[I will record you.]
 With a roar that made the world creak, the 'Abyssal Black Flame Dragon' stopped moving.
 <#>【Kim Dokja!】
 I saw Asmodeus rushing towards me, his expression terrified. He was forced to materialize and use physical force, but it was too late.
@@ -132,7 +132,7 @@ Because my sentence was finally complete.
 As if he had been waiting, the Sun Hunter released his bow.
 <#>【Damn it! Stop—!】
 This arrow's power was the power to interfere with the absolute 'promises' of the <Star Stream>.
-<!>[Get out of here, Asmodeus.]
+<@>[Get out of here, Asmodeus.]
 In other words, this arrow could temporarily sever all bonds existing within the <Star Stream>.
 <&>「Even a sacred 'record contract'.」
 The arrow, flying like a flash, pierced Asmodeus' heart.
