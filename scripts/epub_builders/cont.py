@@ -98,7 +98,7 @@ with open("./epub/cont/OEBPS/content.opf", "w", encoding="utf-8") as f:
             f"""<item href="ch_{index+1}.xhtml" id="{index+1}" media-type="application/xhtml+xml"/>\n"""
         )
 
-    for file_index, file in enumerate(os.listdir("epub/orv/OEBPS/images")):
+    for file_index, file in enumerate(os.listdir("epub/cont/OEBPS/images")):
         f.write(
             f"""<item id="img_{file_index}" href="{urlparse.quote(file)}" media-type="image/jpeg"/>\n"""
         )
