@@ -1,8 +1,5 @@
 name: Deploy to Cloudflare Pages
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
-
 on:
   schedule:
     - cron: "0 */12 * * *" 
@@ -12,37 +9,39 @@ jobs:
   deploy:
     name: Deploy to Cloudflare Pages
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v3
 
-      - name: Set up Node.js 24
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24
+      - name: Ensure deployment only runs on main branch
+        if: github.ref == 'refs/heads/main'
+        run: echo "Deploying from main branch."
+
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v2
         with:
           python-version: "3.x"
 
       - name: Build Chapters
-        run: python scripts/others/sitemap.py
+        run: |
+          python scripts/others/sitemap.py
         env:
           PYTHONIOENCODING: "utf-8"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish to Cloudflare Pages
-        run: npx wrangler pages deploy website --project-name=orv
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      - name: Publish
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          workingDirectory: website
+          command: npx wrangler pages deploy website --project-name=orv
 
       - name: Commit and push changes
-        if: github.ref == 'refs/heads/main'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -50,9 +49,9 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-            git commit -m "chore: automated sitemap update [skip ci]"
-            git pull --rebase origin main
-            git push origin main
+            git commit -m "Automated changes by GitHub Actions"
           fi
+          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) || (git stash && git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) && git stash pop)
+          git push origin $(git rev-parse --abbrev-ref HEAD)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
