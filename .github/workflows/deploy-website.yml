@@ -1,5 +1,8 @@
 name: Deploy to Cloudflare Pages
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
+
 on:
   schedule:
     - cron: "0 */12 * * *" 
@@ -11,12 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+
+      - name: Set up Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -30,11 +36,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy website --project-name=orv
+        run: npx wrangler pages deploy website --project-name=orv
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
 
       - name: Commit and push changes
         if: github.ref == 'refs/heads/main'
@@ -46,7 +51,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: automated sitemap update [skip ci]"
-            # Use --rebase to handle potential concurrent runs
             git pull --rebase origin main
             git push origin main
           fi
