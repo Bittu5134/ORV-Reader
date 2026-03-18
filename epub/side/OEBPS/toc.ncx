@@ -11,4 +11,5 @@
 <navPoint id="1" playOrder="2"><navLabel><text>Story 2 — Someone Who Remembers You</text></navLabel><content src="ch_2.xhtml"/></navPoint>
 <navPoint id="2" playOrder="3"><navLabel><text>Story 3 — Missing Child</text></navLabel><content src="ch_3.xhtml"/></navPoint>
 <navPoint id="3" playOrder="4"><navLabel><text>Chapter 552 — Yoo Joonghyuk's Birthday</text></navLabel><content src="ch_4.xhtml"/></navPoint>
+<navPoint id="4" playOrder="5"><navLabel><text>Story 5 — Apocalypse</text></navLabel><content src="ch_5.xhtml"/></navPoint>
 </navMap></ncx>
