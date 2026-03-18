@@ -9,38 +9,35 @@ jobs:
   deploy:
     name: Deploy to Cloudflare Pages
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true 
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Ensure deployment only runs on main branch
-        if: github.ref == 'refs/heads/main'
-        run: echo "Deploying from main branch."
-
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
       - name: Build Chapters
-        run: |
-          python scripts/others/sitemap.py
+        run: python scripts/others/sitemap.py
         env:
           PYTHONIOENCODING: "utf-8"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish
-        uses: cloudflare/pages-action@v1
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: orv
-          directory: website
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy website --project-name=orv
 
       - name: Commit and push changes
+        if: github.ref == 'refs/heads/main'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -48,9 +45,10 @@ jobs:
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
-            git commit -m "Automated changes by GitHub Actions"
+            git commit -m "chore: automated sitemap update [skip ci]"
+            # Use --rebase to handle potential concurrent runs
+            git pull --rebase origin main
+            git push origin main
           fi
-          git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) || (git stash && git pull --rebase origin $(git rev-parse --abbrev-ref HEAD) && git stash pop)
-          git push origin $(git rev-parse --abbrev-ref HEAD)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
