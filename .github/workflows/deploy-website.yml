@@ -32,6 +32,9 @@ jobs:
           PYTHONIOENCODING: "utf-8"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Install Wrangler
+        run: npm install -g wrangler@4.75.0
+
       - name: Publish
         uses: cloudflare/wrangler-action@v3
         with:
@@ -39,7 +42,7 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           workingDirectory: website
-          command: npx wrangler pages deploy website --project-name=orv
+          command: wrangler pages deploy website --project-name=orv
 
       - name: Commit and push changes
         run: |
