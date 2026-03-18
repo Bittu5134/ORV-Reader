@@ -9,7 +9,6 @@ jobs:
   deploy:
     name: Deploy to Cloudflare Pages
     runs-on: ubuntu-latest
-    
 
     steps:
       - name: Checkout repository
@@ -32,17 +31,14 @@ jobs:
           PYTHONIOENCODING: "utf-8"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install Wrangler
-        run: npm install -g wrangler@4.75.0
-
       - name: Publish
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: orv
+          directory: website
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-          workingDirectory: website
-          command: wrangler pages deploy website --project-name=orv
 
       - name: Commit and push changes
         run: |
