@@ -560,6 +560,7 @@ https://orv.pages.dev/stories/side/read/ch_1
 https://orv.pages.dev/stories/side/read/ch_2
 https://orv.pages.dev/stories/side/read/ch_3
 https://orv.pages.dev/stories/side/read/ch_4
+https://orv.pages.dev/stories/side/read/ch_5
 https://orv.pages.dev/stories/cont/read/ch_553
 https://orv.pages.dev/stories/cont/read/ch_554
 https://orv.pages.dev/stories/cont/read/ch_555
