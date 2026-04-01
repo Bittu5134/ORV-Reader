@@ -27,10 +27,23 @@ LOTM_TEMPLATE = """<div class="lotm-banner" style="margin: 20px auto; padding: 1
     </div>
 </div>"""
 
+HSY_BDAY = """<div class="hsy-birthday-banner" style="margin: 20px auto; padding: 15px 20px; background-color: #1a1a2e; border: 2px solid #58248c; border-radius: 8px; text-align: center; max-width: 800px; color: #ffffff; box-shadow: 0 4px 15px rgba(138, 43, 226, 0.2);">
+    <p style="margin: 0 0 6px 0; font-size: 1.1em; line-height: 1.5;">🖋️ <strong>Happy Birthday to the Greatest Plagiarist, Han Sooyoung!</strong></p>    
+    <div style="margin: 15px auto; max-width: 700px;">
+        <img src="/assets/misc/hsy-fanart1.jpg" alt="Han Sooyoung" style="width: auto; max-height: 50vh; border-radius: 6px; box-shadow: 0 0 20px rgba(138, 43, 226, 0.3); display: block; margin: 0 auto;">
+    </div>
+
+    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+        <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #8a2be2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
+        <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
+    </div>
+</div>"""
+
 EMPTY_TEMPLATE = ""
 
 # Configuration weights (Donate: 40%, Discord: 30%, LOTM: 30%)
-BANNER_WEIGHTS = {"donate": 4, "discord": 3, "lotm": 2, "empty": 0}
+BANNER_WEIGHTS = {"donate": 4, "discord": 3, "lotm": 2, "empty": 0, "hsy_bday":100}
 
 
 def get_chapter_banner(
@@ -46,12 +59,13 @@ def get_chapter_banner(
         selected_html = DONATION_TEMPLATE
     else:
         # 2. Weighted random rotation for middle chapters
-        choices = ["donate", "discord", "lotm", "empty"]
+        choices = ["donate", "discord", "lotm", "empty", "hsy_bday"]
         weights = [
             BANNER_WEIGHTS["donate"],
             BANNER_WEIGHTS["discord"],
             BANNER_WEIGHTS["lotm"],
             BANNER_WEIGHTS["empty"],
+            BANNER_WEIGHTS["hsy_bday"]
         ]
 
         pick = random.choices(choices, weights=weights, k=1)[0]
@@ -59,7 +73,8 @@ def get_chapter_banner(
             "donate": DONATION_TEMPLATE,
             "discord": DISCORD_TEMPLATE,
             "lotm": LOTM_TEMPLATE,
-            "empty": ""
+            "hsy_bday": HSY_BDAY,
+            "empty": "",
         }
         selected_html = mapping[pick]
 
