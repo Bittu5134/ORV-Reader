@@ -43,7 +43,7 @@ HSY_BDAY = """<div class="hsy-birthday-banner" style="margin: 20px auto; padding
 EMPTY_TEMPLATE = ""
 
 # Configuration weights (Donate: 40%, Discord: 30%, LOTM: 30%)
-BANNER_WEIGHTS = {"donate": 4, "discord": 3, "lotm": 2, "empty": 0, "hsy_bday":100}
+BANNER_WEIGHTS = {"donate": 4, "discord": 3, "lotm": 2, "empty": 0, "hsy_bday":0}
 
 
 def get_chapter_banner(
