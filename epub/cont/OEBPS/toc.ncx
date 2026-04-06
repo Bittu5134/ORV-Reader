@@ -447,4 +447,6 @@
 <navPoint id="437" playOrder="438"><navLabel><text>990 Episode 59 What Kind of Ending (11)</text></navLabel><content src="ch_438.xhtml"/></navPoint>
 <navPoint id="438" playOrder="439"><navLabel><text>991 Episode 59 What Kind of Ending (12)</text></navLabel><content src="ch_439.xhtml"/></navPoint>
 <navPoint id="439" playOrder="440"><navLabel><text>992 Episode 59 What Kind of Ending (13)</text></navLabel><content src="ch_440.xhtml"/></navPoint>
+<navPoint id="440" playOrder="441"><navLabel><text>993 Episode 60 Star Fragments (1)</text></navLabel><content src="ch_441.xhtml"/></navPoint>
+<navPoint id="441" playOrder="442"><navLabel><text>994 Episode 60 Star Fragments (2)</text></navLabel><content src="ch_442.xhtml"/></navPoint>
 </navMap></ncx>
