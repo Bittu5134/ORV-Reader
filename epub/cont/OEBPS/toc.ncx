@@ -451,4 +451,7 @@
 <navPoint id="441" playOrder="442"><navLabel><text>994 Episode 60 Star Fragments (2)</text></navLabel><content src="ch_442.xhtml"/></navPoint>
 <navPoint id="442" playOrder="443"><navLabel><text>995 Episode 60 Star Fragments (3)</text></navLabel><content src="ch_443.xhtml"/></navPoint>
 <navPoint id="443" playOrder="444"><navLabel><text>996 Episode 60 Star Fragments (4)</text></navLabel><content src="ch_444.xhtml"/></navPoint>
+<navPoint id="444" playOrder="445"><navLabel><text>997 Episode 60 Star Fragments (5)</text></navLabel><content src="ch_445.xhtml"/></navPoint>
+<navPoint id="445" playOrder="446"><navLabel><text>998 Episode 60 Star Fragments (6)</text></navLabel><content src="ch_446.xhtml"/></navPoint>
+<navPoint id="446" playOrder="447"><navLabel><text>999 Episode 60 Star Fragments (7)</text></navLabel><content src="ch_447.xhtml"/></navPoint>
 </navMap></ncx>
