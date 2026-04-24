@@ -28,7 +28,8 @@ The Apocalypse Dragon was struck by the falling pieces of rocks and became enrag
 <@>[…Polymorph? You were the same as the rest of them.]
 <@>[Screw you! You also polymorphed earlier too, geezer!]
 <@>[That is not what a pure Dragon should do.]
-The Black Flame Dragon reverted back to his original form and roared out. [I will live the way I want to! Whether it's as a human or an Orc, it's my choice!]
+The Black Flame Dragon reverted back to his original form and roared out. 
+<@>[I will live the way I want to! Whether it's as a human or an Orc, it's my choice!]
 <@>[You seem to be a lacking candidate to represent all Dragons.]
 Sparks danced wildly as the battle of biting and slashing continued on.
 The Apocalypse Dragon silently absorbed the Black Flame Dragon's attacks and eventually, its jaw slowly split open wide. The latter began charging up its Breath as well.
@@ -117,7 +118,7 @@ The 'Lightning Throne' Zeus or the 'Spear that Draws the Boundaries of the Sea' 
 "If I'm being honest, then… No, it isn't."
 <Olympus> was indeed powerful, but it was still impossible to stop the Apocalypse Dragon with only these people. If the 'First Tail-Flick' was exactly as described in the original story, then our current combat force would barely get to survive the first impact wave of that tail.
 And then, I heard someone else's true voice.
-<!>[My old companions say that they shall aid you, 'Demon King of Salvation'.]
+<@>[My old companions say that they shall aid you, 'Demon King of Salvation'.]
 Blinding rays of light formed from the northern sky.
 <!>[Constellations of the Nebula, <Vedas>, have incarnated into the scenario!]
 Several Constellations broke past the thick clouds accompanied by the rapturous flames and made their entrance. The moment I saw their exterior appearances, pages of the 'Ways of Survival' flipped open all on their own in my head.
@@ -148,13 +149,15 @@ Unfortunately, there was a problem with the mentality of the newly-joining folks
 <@>[All of you, scram. Our Nebula shall hunt the Apocalypse Dragon down.]
 <@>[Nope, that Apocalypse Dragon shall be hunted down by none other than us, <Guardian Tree>.]
 <@>[Surya, will you give us a ride to that Apocalypse Dragon?]
-Surya heard them yapping away and formed a dumbfounded expression. [Have you all lost your minds? Didn't you witness what happened just now?]
+Surya heard them yapping away and formed a dumbfounded expression.
+<@>[Have you all lost your minds? Didn't you witness what happened just now?]
 <@>[Ah, ah. We all saw the scenario's weird 'direction'. It was the 'Morning Star Goddess', Vakarine, who said that as she entered the conflict zone. It's simply not possible for one measly little monster to possess a Status as ridiculous as that, Surya. Maybe, you were in need of extra coins after exiting <Vedas>?]
 <@>[We were not acti…]
 <@>[It seems that the train's conductor is scared today, so us alone should start the conquest, then.]
 Not every Constellation in the <Star Stream> knew what the Apocalypse Dragon was. The last time it revived was already tens of thousands of years ago, that was why.
 A certain myth would come across as just another story from the distant past even to Constellations. The length of time was more than sufficient enough for those who survived the Calamity, and those born after it, to forget all about it.
-Metatron spoke as if to warn them. [You must all compose yourselves first. Acting individually is inadvisable, everyone. That Apocalypse Dragon is…]
+Metatron spoke as if to warn them.
+<@>[You must all compose yourselves first. Acting individually is inadvisable, everyone. That Apocalypse Dragon is…]
 <@>[You, shut up and stay out of this. The whole 'Great War of Saints and Demons' Story went down the drain because of your actions.]
 As if it was waiting for this moment, the System Message rang out once more.
 <!>['Final Dragon of the Book of Revelation' has started its actions!]
