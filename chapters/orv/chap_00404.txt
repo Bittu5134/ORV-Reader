@@ -12,9 +12,9 @@ The unconscious Archangel dangled in Michael's hand as she was brought up in the
 Metatron shifted his gaze over to the corner of the sphere, where a heated battle was still taking place. Agares and his heavily-wounded body were there.
 Asmodeus and other 'Seekers of the End' were pouring out coordinated attacks on him, but Demon King Agares didn't show any signs of collapsing, even though Stories streamed down from all over his body, even though his two eyes burned in resentment like a dreadful phantom.
 While stuck inside the deadly battle, the Demon King continued to suck on his cigarette. Not just one, but several of them, in fact.
-<@>[Stigma, 'One Ciggie for Prodigious Strength Lv.???', is in activation.]
-<@>[Stigma, 'One Ciggie for Agility Lv.???', is in activation.]
-<@>[Stigma, 'One Ciggie for Magic Power Lv.???', is in activation.]
+<!>[Stigma, 'One Ciggie for Prodigious Strength Lv.???', is in activation.]
+<!>[Stigma, 'One Ciggie for Agility Lv.???', is in activation.]
+<!>[Stigma, 'One Ciggie for Magic Power Lv.???', is in activation.]
 That was Agares's Stigma, [Universal Cigarette], at work. Its speciality, developed after living as a smoker for a very long time. A unique Stigma for the Demon King that possessed the Story to overclock the Incarnation Body's abilities.
 Even after receiving the combined attacks of five, six Demon Kings, Agares remained standing, prompting Asmodeus to say something in admiration. [As expected, the renown of the 'Ruler of East Hell' wasn't for nothing, I see. However, how long will you be able to hold on like this?]
 Agares didn't reply, simply choosing to pull out a new cigarette and light it up.
@@ -56,7 +56,8 @@ Whatever the case might have been, the intended purpose had been accomplished no
 The Chaos Points were now maxed out, and the Apocalypse Dragon had entered the revival sequence. And soon, the apocalypse would begin.
 <!>[Conference venue is disintegrating.]
 The grey sphere wrapped around the conference venue crumbled away bit by bit, and the corpses of the Archangels fell to the ground below.
-Asmodeus asked a question, seemingly enjoying that spectacle in the meantime. [By the way, will this really be alright?]
+Asmodeus asked a question, seemingly enjoying that spectacle in the meantime.
+<@>[By the way, will this really be alright?]
 Metatron remained silent. Time to argue whether it'd be alright or not had long passed by already. He watched the angels falling, and provided the most textbook-like reply he could think of.
 <@>[Everything is according to the will of 'Good'. In order to reach the most ideal ■■…]
 '■■'.
