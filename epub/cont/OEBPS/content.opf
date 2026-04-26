@@ -6,7 +6,7 @@
     <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
     <dc:language>en</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>04-19-2026</dc:date>
+    <dc:date>04-26-2026</dc:date>
     <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
@@ -470,6 +470,16 @@
 <item href="ch_445.xhtml" id="445" media-type="application/xhtml+xml"/>
 <item href="ch_446.xhtml" id="446" media-type="application/xhtml+xml"/>
 <item href="ch_447.xhtml" id="447" media-type="application/xhtml+xml"/>
+<item href="ch_448.xhtml" id="448" media-type="application/xhtml+xml"/>
+<item href="ch_449.xhtml" id="449" media-type="application/xhtml+xml"/>
+<item href="ch_450.xhtml" id="450" media-type="application/xhtml+xml"/>
+<item href="ch_451.xhtml" id="451" media-type="application/xhtml+xml"/>
+<item href="ch_452.xhtml" id="452" media-type="application/xhtml+xml"/>
+<item href="ch_453.xhtml" id="453" media-type="application/xhtml+xml"/>
+<item href="ch_454.xhtml" id="454" media-type="application/xhtml+xml"/>
+<item href="ch_455.xhtml" id="455" media-type="application/xhtml+xml"/>
+<item href="ch_456.xhtml" id="456" media-type="application/xhtml+xml"/>
+<item href="ch_457.xhtml" id="457" media-type="application/xhtml+xml"/>
 <item id="img_0" href="795%20-%20Jeahwan%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.png" media-type="image/jpeg"/>
 <item id="img_1" href="797%20-%20Jeahwan%20-angry%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_2" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
@@ -928,6 +938,16 @@
 <itemref idref="445"/>
 <itemref idref="446"/>
 <itemref idref="447"/>
+<itemref idref="448"/>
+<itemref idref="449"/>
+<itemref idref="450"/>
+<itemref idref="451"/>
+<itemref idref="452"/>
+<itemref idref="453"/>
+<itemref idref="454"/>
+<itemref idref="455"/>
+<itemref idref="456"/>
+<itemref idref="457"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
