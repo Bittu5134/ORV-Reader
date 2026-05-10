@@ -6,7 +6,7 @@
     <dc:contributor opf:role="trl">Community Translators</dc:contributor> 
     <dc:language>en</dc:language>
     <dc:publisher>ORV-Reader Project</dc:publisher> 
-    <dc:date>05-03-2026</dc:date>
+    <dc:date>05-10-2026</dc:date>
     <dc:description>The story follows Lee Hakhyun, the author of ORV from another worldline. He transmigrates into "Ways of Survival" with other ORV readers. However, the scenarios have been messed up due to the participation of ORV readers and KimCom.</dc:description>
     <meta name="cover" content="cover-img"/>
     <dc:subject>Korean Novel</dc:subject>
@@ -482,6 +482,9 @@
 <item href="ch_457.xhtml" id="457" media-type="application/xhtml+xml"/>
 <item href="ch_458.xhtml" id="458" media-type="application/xhtml+xml"/>
 <item href="ch_459.xhtml" id="459" media-type="application/xhtml+xml"/>
+<item href="ch_460.xhtml" id="460" media-type="application/xhtml+xml"/>
+<item href="ch_461.xhtml" id="461" media-type="application/xhtml+xml"/>
+<item href="ch_462.xhtml" id="462" media-type="application/xhtml+xml"/>
 <item id="img_0" href="795%20-%20Jeahwan%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.png" media-type="image/jpeg"/>
 <item id="img_1" href="797%20-%20Jeahwan%20-angry%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_2" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
@@ -952,6 +955,9 @@
 <itemref idref="457"/>
 <itemref idref="458"/>
 <itemref idref="459"/>
+<itemref idref="460"/>
+<itemref idref="461"/>
+<itemref idref="462"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
