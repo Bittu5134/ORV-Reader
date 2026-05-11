@@ -22,6 +22,8 @@ Our analytics (April 11 – May 11, 2026) show a massive, high-intent global aud
 
 We offer a high-visibility **Bottom Banner** placed immediately after chapter content and before the comments section. This "cliffhanger" slot catches readers exactly when they are searching for their next story.
 
+<img width="2187" height="1018" alt="1000231544" src="https://github.com/user-attachments/assets/8e298c09-7c75-40df-8cd7-c311ed4b95e2" />
+
 ### Why We Are Different
 
 * **Exceptional Engagement:** Readers spend significant time on-site, with top chapters (Ch. 1-3 and Ch. 270+) showing a mix of viral hooks and long-term retention.
