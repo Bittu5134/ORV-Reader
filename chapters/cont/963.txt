@@ -20,7 +20,7 @@ I weighed the stories within myself, comparing their scales to mine.
 In a sense, now that they perceived me as a 'low-level warrior' offered an opportunity.
 "Kim Dokja! You too, hurry—"
 "It's okay."
-The distance between me and the Thunderbird was now a stone's throw. It would reach us in five seconds.
+The distance between me and the 'Thunder-Eating bird' was now a stone's throw. It would reach us in five seconds.
 "I told you."
 Four seconds.
 "Those guys..."
@@ -42,10 +42,11 @@ Ignoring him, I lightly patted the half-conscious Kim Anna on the shoulder and o
 "It's okay. That bird can't harm us. It's well-trained."
 Following this, other Constellations arrived.
 The second to stop before me was a giant ape clad in massive armor.
-<&>「Hanuman, the General of Banara」
+<&>「Hanuman, the General of Vanara」
 With a cry of, Hanuman lowered his massive club and let out a thunderous roar.
 <@>[You damn bird-head! I told you to slow down! You haven't killed them all already, have you?]
-Garuda, who snapped a discontented question, wiggled his long beak and replied, [We haven't killed a single one yet. Did we really receive a hold order?]
+Garuda, who snapped a discontented question, wiggled his long beak and replied,
+<@>[We haven't killed a single one yet. Did we really receive a hold order?]
 <@>[Yes!]
 <@>[Every hour? Is there a someone here protected by the Giant Nebula?]
 Garuda shook his massive bird-head, seemingly in incomprehension.
