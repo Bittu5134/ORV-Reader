@@ -5,7 +5,7 @@ I finished patting his head and dragged a nearby piece of floating debris to me.
 (Sun Wukong fired a wind-type magic behind him.)
 <!>[Exclusive skill, 'Way of the Wind Lv.10', is activating!]
 Along with the gust of wind, the debris, with me as its passenger, shot forward at a rapid pace. Lee Gilyoung's voice called out to me from behind, but it was buried under the noise of the rushing winds.
-<!>[Someone in the <Kim Dokja's Company> is suspecting your real identity.]
+<!>[Someone in <Kim Dokja's Company> is suspecting your real identity.]
 <!>[The Wenny King is glaring at you!]
 The Nine Stars noticed my movement and began pursuing me instead. A couple of them even shot past me, rather than stopping me here.
 I spotted the location of the 'sacred texts' in the distance. A single book emitting beautiful light rested on top of a small island shrouded in a mysterious fog.
@@ -83,14 +83,14 @@ My leg speed gradually picked up and soon, I began running on the water without 
 My heart began pounding away in an ominous rhythm.
 <!>[Outer God transformation rate: 98.7%]
 That beating noise, it was the sound of me becoming something that was no longer 'me'.
-<@>[999 said something to me, but I couldn't hear him as the river exploded all around us. What I did hear, though, was another voice coming from the inside.]
+[999] said something to me, but I couldn't hear him as the river exploded all around us. What I did hear, though, was another voice coming from the inside.
 ⸢Kim Dok ja.⸥
-<!>[The Fourth Wall was talking to me.]
+[The Fourth Wall] was talking to me.
 ⸢Thi s is in sa ne.⸥
 It seemed that this guy had also been observing everything until now. But that was pretty obvious.
 ⸢Y ou w ill forg et ev eryt hing.⸥
 ⸢Kim Dok ja no lo nge r w ill be Kim Dok ja.⸥
-<!>[The Fourth Wall was right.]
+[The Fourth Wall] was right.
 <!>[Outer God transformation rate: 99.1%]
 Once I become an 'Outer God', I'd lose every memory I acquired until now.
 ⸢Kim Dokja was scared.⸥
@@ -127,7 +127,7 @@ Breathing got heavier and harder.
 It felt as if my memories were beginning to scatter away already, bit by bit.
 A spear fired by one of the Nine Stars brushed past my shoulder. But the pain shooting up didn't even feel like it belonged to me.
 At that moment, I inexplicably recalled a post I made a long time ago in the online community portal.
-– I'm looking for eyes that haven't read the 'Ways of Survival' yet.
+– I'm looking for eyes that haven't read 'Ways of Survival' yet.
 I felt really bummed about the fact that the story I loved so much was coming to an end and so, posted such a thing online. Recalling it made me smile ever so faintly.
 'To think that I'd forget about such an entertaining story and read it from the beginning again. That'll be a good thing in my case, actually'.
 ⸢Kim Dok ja is an id iot.⸥
