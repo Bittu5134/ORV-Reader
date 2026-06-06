@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en" class="h-full">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <style>
+    :root {
+      --frame-offset: min(30px, 5%);
+      --line-thickness: 0.05em;
+      --line-color: white;
+      --cross-extension: 15px;
+    }
+
+    .custom-scroll::-webkit-scrollbar { width: 4px; }
+    .custom-scroll::-webkit-scrollbar-track { background: transparent; }
+    .custom-scroll::-webkit-scrollbar-thumb { 
+      background: rgba(255, 255, 255, 0.2); 
+      border-radius: 10px; 
+    }
+
+    .ui-frame::before {
+      content: ""; position: absolute; inset: 0 calc(var(--cross-extension) * -1);
+      border-top: var(--line-thickness) solid var(--line-color);
+      border-bottom: var(--line-thickness) solid var(--line-color);
+    }
+    .ui-frame::after {
+      content: ""; position: absolute; inset: calc(var(--cross-extension) * -1) 0;
+      border-left: var(--line-thickness) solid var(--line-color);
+      border-right: var(--line-thickness) solid var(--line-color);
+    }
+
+    @keyframes bgAnimation {
+      0% { transform: scale(1); }
+      100% { transform: scale(1.5); }
+    }
+    .animate-bg-zoom { animation: bgAnimation 100s linear infinite alternate; }
+  </style>
+</head>
+<body class="text-white h-full overflow-hidden">
+
+  <div class="fixed inset-0 z-0 pointer-events-none overflow-hidden bg-[#050a18]">
+    <div class="absolute inset-0 bg-cover bg-center animate-bg-zoom opacity-40"
+         style="background-image: url('{{ bg_url if bg_url else '/assets/images/background.webp' }}');">
+    </div>
+    <div class="absolute inset-0 bg-black/10"></div>
+  </div>
+
+  <div class="block pointer-events-none select-none">
+    <img src="/assets/images/bg-break-effect.webp" class="fixed top-0 left-0 z-20" />
+    <img src="/assets/images/bg-break-effect.webp" class="fixed bottom-0 right-0 z-20 rotate-180" />
+  </div>
+
+  <div class="ui-frame fixed z-50 pointer-events-none
+              inset-(--frame-offset)">
+  </div>
+
+  <main class="custom-scroll fixed z-30 flex flex-col items-center 
+               inset-(--frame-offset) overflow-y-auto overflow-x-hidden 
+               p-8 scroll-smooth">
+    {{ content | safe }}
+  </main>
+
+</body>
+</html>

@@ -1,0 +1,222 @@
+---
+layout: layouts/base.njk
+title: "Select Story - ORV-Reader"
+---
+<style>
+    main {
+        padding: 0;
+    }
+</style>
+
+<link rel="preload" href="/data/meta.json" as="fetch" crossorigin />
+
+<div
+    class="flex flex-col md:flex-row h-fit md:h-screen w-full md:overflow-hidden font-mono text-white selection:bg-white selection:text-black">
+
+    <aside
+        class="w-full md:w-105 h-fit md:h-full flex flex-col border-b-2 md:border-b-0 md:border-r-2 border-white bg-black/90 z-20 shrink-0">
+
+        <div class="h-20.5 px-8 border-b-2 border-white flex flex-col justify-center bg-black">
+            <h1 class="text-2xl font-black uppercase tracking-tighter leading-none">
+                Omniscient Reader's Viewpoint
+            </h1>
+            <div class="flex items-center gap-2 mt-1">
+                <div class="h-2 w-2 bg-[#5da9ff]"></div>
+                <span class="text-xs font-bold tracking-[0.4em] uppercase opacity-50 text-[#5da9ff]">Sing-Shong</span>
+            </div>
+        </div>
+
+        <div class="p-6 md:p-8 space-y-6 md:flex-1 md:overflow-y-auto custom-scroll">
+
+            <div class="relative border-2 border-white group w-fit mx-auto bg-black">
+                <div class="absolute -top-2 -left-2 w-4 h-4 border-t-2 border-l-2 border-[#5da9ff]"></div>
+                <div class="absolute -bottom-2 -right-2 w-4 h-4 border-b-2 border-r-2 border-[#5da9ff]"></div>
+                <img src="/assets/images/covers/orv.webp" class="block w-auto h-auto max-h-[30vh] md:max-h-[40vh]"
+                    height="500" alt="Cover" />
+            </div>
+
+            <div class="space-y-1">
+                <div class="flex justify-between items-end border-b border-white/20">
+                    <span class="text-[10px] font-bold opacity-40 uppercase tracking-widest">Chapters</span>
+                    <span id="displayChapterCount" class="text-2xl font-black italic">---</span>
+                </div>
+                <div class="flex justify-between items-end border-b border-white/20">
+                    <span class="text-[10px] font-bold opacity-40 uppercase tracking-widest">Status</span>
+                    <span class="text-sm font-bold uppercase text-[#5da9ff]">Completed</span>
+                </div>
+            </div>
+
+            <div id="tlSelector" class="flex-col gap-1 hidden"></div>
+
+            <div class="bg-white/5 border border-white/10 p-5 relative">
+                <h3 class="text-[10px] font-bold text-[#5da9ff] uppercase mb-3 tracking-widest">Description</h3>
+                <p class="md:text-sm text-xs leading-relaxed text-white/80 text-justify italic">
+                    Dokja, an average office worker, finds his favorite web novel "Three Ways to Survive the Apocalypse"
+                    becoming reality. With unique knowledge of the impending doom, he strives to reshape his world.
+                </p>
+            </div>
+        </div>
+
+        <div class="p-6 border-t-2 border-white flex flex-col gap-2 bg-black">
+            <a href="/read/orv/original/1/"
+                class="w-full py-3 bg-white text-black text-center text-xs font-black uppercase tracking-[0.2em] hover:bg-[#5da9ff] transition-colors">Begin
+                Reading</a>
+            <div class="flex gap-2">
+                <a href="/download/"
+                    class="flex-1 py-3 border border-white/40 text-center text-xs font-bold hover:border-white uppercase transition-colors">Download</a>
+                <a href="/donate/"
+                    class="flex-1 py-3 border border-white/40 text-center text-xs font-bold hover:border-white uppercase transition-colors">Support</a>
+            </div>
+        </div>
+    </aside>
+
+    <div class="flex-1 flex flex-col min-h-screen md:h-full bg-white/3 backdrop-blur-sm">
+
+        <div class="h-20.5 px-5 border-b-2 border-white flex items-center gap-4 sticky top-0 z-30 bg-black/90">
+            <div class="relative flex-1">
+                <input type="text" id="chapterSearch" placeholder="SEARCH Chapters..."
+                    class="w-full bg-transparent border-b-2 border-white/20 py-2 text-sm font-bold uppercase tracking-widest focus:border-white focus:ring-0 outline-none text-white">
+            </div>
+
+            <button id="reverseOrder"
+                class="h-10 px-4 border-2 border-white hover:bg-white hover:text-black flex items-center gap-2 shrink-0 transition-all">
+                <span class="hidden md:inline text-[10px] font-black uppercase tracking-widest">Sort</span>
+                <svg id="sortIcon" class="size-4 transition-transform" fill="currentColor" viewBox="0 0 24 24">
+                    <path
+                        d="M4 18q-.425 0-.712-.288T3 17t.288-.712T4 16h4q.425 0 .713.288T9 17t-.288.713T8 18zm0-5q-.425 0-.712-.288T3 12t.288-.712T4 11h10q.425 0 .713.288T15 12t-.288.713T14 13zm0-5q-.425 0-.712-.288T3 7t.288-.712T4 6h16q.425 0 .713.288T21 7t-.288.713T20 8z" />
+                </svg>
+            </button>
+        </div>
+
+        <!-- Wrapper for layout list and its messaging states -->
+        <div class="flex-1 overflow-y-auto custom-scroll flex flex-col">
+            <div id="chapterList" class="p-4 md:p-10 grid grid-cols-1 gap-4 overflow-y-visible">
+            </div>
+
+            <!-- FALLBACK UI: Appears dynamically when search returns no matches -->
+            <div id="noChaptersFound"
+                class="hidden p-12 text-center select-none border-2 border-dashed border-white/10 mx-4 md:mx-10 bg-black/20">
+                <div class="text-[#5da9ff] font-black text-lg uppercase tracking-[0.3em] mb-2">[ No Matching Chapters Found ]
+                </div>
+                <p class="text-[10px] opacity-40 uppercase tracking-widest mt-1">Verify chapter name or number</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const chapterList = document.getElementById("chapterList");
+    const countDisplay = document.getElementById("displayChapterCount");
+    const searchInput = document.getElementById("chapterSearch");
+    const tlSelector = document.getElementById("tlSelector");
+    const reverseBtn = document.getElementById("reverseOrder");
+    const noResultsMsg = document.getElementById("noChaptersFound");
+
+    let rawData = null;
+    let currentTL = "original";
+
+    async function initSystem() {
+        try {
+            const response = await fetch("/data/meta.json");
+            rawData = await response.json();
+
+            let maxCount = 0;
+            Object.values(rawData.orv).forEach((list) => {
+                if (list.length > maxCount) maxCount = list.length;
+            });
+            countDisplay.innerText = maxCount;
+
+            buildTLSelector();
+            renderChapters(currentTL);
+        } catch (err) {
+            chapterList.innerHTML = `<div class="p-10 border-2 border-white bg-red-900/20 text-white font-bold uppercase tracking-widest text-xs">Error: Data Stream Interrupted</div>`;
+        }
+    }
+
+    function buildTLSelector() {
+        const tls = Object.keys(rawData.orv);
+        tlSelector.innerHTML = "";
+        tls.forEach((tl) => {
+            const btn = document.createElement("button");
+            btn.innerText = tl.toUpperCase();
+            btn.className = `text-left px-4 py-3 text-[11px] font-black border-2 transition-all ${tl === currentTL ? "bg-[#5da9ff] text-black border-[#5da9ff]" : "border-white/20 text-white/40 hover:border-white hover:text-white"}`;
+            btn.onclick = () => {
+                currentTL = tl;
+                buildTLSelector();
+                renderChapters(tl);
+                // Reset search when shifting timelines
+                searchInput.value = "";
+                noResultsMsg.classList.add("hidden");
+            };
+            tlSelector.appendChild(btn);
+        });
+    }
+
+    function renderChapters(tlKey) {
+        const list = rawData.orv[tlKey];
+        chapterList.innerHTML = "";
+
+        list.forEach((ch) => {
+            const a = document.createElement("a");
+            a.href = `./${tlKey}/${ch.slug}/`;
+            a.className =
+                "chapter-item group relative flex items-center justify-between md:p-5 p-3 bg-black/40 border-2 border-white/10 hover:border-white transition-all";
+            a.setAttribute("data-title", ch.title.toLowerCase());
+            a.setAttribute("data-index", ch.index);
+
+            a.innerHTML = `
+        <div class="flex items-center gap-8 min-w-0">
+          <span class="text-3xl font-black text-white/20 group-hover:text-[#5da9ff]/40 transition-colors italic">
+            ${String(ch.index).padStart(2, "0")}
+          </span>
+          <div class="flex flex-col min-w-0">
+            <span class="text-[10px] font-black uppercase tracking-[0.3em] text-[#5da9ff] mb-1">${ch.category}</span>
+            <h2 class="text-xl md:text-2xl font-black text-white/75 uppercase tracking-tighter leading-tight transition-all">
+              ${ch.title}
+            </h2>
+          </div>
+        </div>
+        <div class="shrink-0 opacity-20 group-hover:opacity-100 transition-all">
+           <svg class="size-8" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+        </div>
+        <div class="absolute top-0 right-0 w-2 h-2 border-t-2 border-r-2 border-white/20 group-hover:border-[#5da9ff] transition-colors"></div>
+        <div class="absolute bottom-0 left-0 w-2 h-2 border-b-2 border-l-2 border-white/20 group-hover:border-[#5da9ff] transition-colors"></div>
+      `;
+            chapterList.appendChild(a);
+        });
+    }
+
+    // Refactored search tracker with validation loop counters
+    searchInput.addEventListener("input", (e) => {
+        const term = e.target.value.toLowerCase().trim();
+        let visibleCount = 0;
+
+        document.querySelectorAll(".chapter-item").forEach((item) => {
+            const match =
+                item.getAttribute("data-title").includes(term) ||
+                item.getAttribute("data-index").includes(term);
+
+            if (match) {
+                item.style.display = "flex";
+                visibleCount++;
+            } else {
+                item.style.display = "none";
+            }
+        });
+
+        if (visibleCount === 0) {
+            noResultsMsg.classList.remove("hidden");
+        } else {
+            noResultsMsg.classList.add("hidden");
+        }
+    });
+
+    reverseBtn.addEventListener("click", () => {
+        const items = Array.from(chapterList.children);
+        chapterList.append(...items.reverse());
+        document.getElementById("sortIcon").classList.toggle("rotate-180");
+    });
+
+    initSystem();
+</script>
+</main>

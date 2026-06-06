@@ -1,0 +1,57 @@
+---
+layout: layouts/base.njk
+title: "Select Story - ORV-Reader"
+bg_url: "/assets/images/background.webp"
+---
+
+{# Define the shared classes for the story cards to avoid repetition #}
+{% set cardClass = "group flex flex-col w-full max-w-[260px] p-4 rounded-lg no-underline transition-transform duration-300 hover:scale-105" %}
+{% set coverBoxClass = "w-full aspect-[2/3] rounded-sm overflow-hidden border border-white/10 bg-[#101524] shadow-[0_10px_30px_rgba(0,0,0,0.5)] transition-all duration-500 group-hover:border-[#5da9ff] group-hover:shadow-[#5da9ff]/30 group-hover:shadow-2xl" %}
+{% set titleClass = "mt-5 text-xl font-semibold text-center opacity-80 transition-all duration-500 group-hover:opacity-100 group-hover:text-[#5da9ff]" %}
+
+<nav class="fixed top-[calc(min(30px,5%)+1rem)] left-[calc(min(30px,5%)+1rem)] z-20">
+  <a href="../" 
+     class="inline-flex items-center justify-center w-11.25 h-11.25 rounded-[10%] border-2 border-white/10 bg-slate-900/40 text-white transition-all backdrop-blur-md hover:border-white/60 hover:bg-white/10"
+     aria-label="Go back">
+    <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="currentColor">
+      <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+    </svg>
+  </a>
+</nav>
+
+<header class="mb-12 pt-16 md:pt-0 shrink-0">
+  <h1 class="text-3xl md:text-5xl font-bold text-center text-[#5da9ff]">
+    Select a Story
+  </h1>
+</header>
+
+<div class="my-auto grid w-full max-w-225 grid-cols-1 gap-10 items-center justify-items-center pb-12 sm:grid-cols-2 lg:grid-cols-3">
+  
+  <a href="./orv/" class="{{ cardClass }}">
+    <div class="{{ coverBoxClass }}">
+      <img src="/assets/images/covers/orv.webp" 
+           alt="Omniscient Reader's Viewpoint" 
+           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+    </div>
+    <p class="{{ titleClass }}">Main Story</p>
+  </a>
+
+  <a href="./sidestory/" class="{{ cardClass }}">
+    <div class="{{ coverBoxClass }}">
+      <img src="/assets/images/covers/sidestory.webp" 
+           alt="ORV Sequel" 
+           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+    </div>
+    <p class="{{ titleClass }}">Side Story / Sequel</p>
+  </a>
+
+  <a href="./oneshot/" class="{{ cardClass }}">
+    <div class="{{ coverBoxClass }}">
+      <img src="/assets/images/covers/oneshot.webp" 
+           alt="One Shot Side Stories" 
+           class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+    </div>
+    <p class="{{ titleClass }}">Oneshot Stories</p>
+  </a>
+
+</div>

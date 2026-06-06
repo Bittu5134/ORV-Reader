@@ -1,0 +1,108 @@
+---
+layout: layouts/base.njk
+title: "ORV-Reader"
+---
+
+<style>
+  .quote-container {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    padding: 1.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .quote-container::before,
+  .quote-container::after {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 2px solid white;
+  }
+  .quote-container::before {
+    top: 0;
+    left: 0;
+    border-right: 0;
+    border-bottom: 0;
+  }
+  .quote-container::after {
+    bottom: 0;
+    right: 0;
+    border-left: 0;
+    border-top: 0;
+  }
+
+  @keyframes glowOnLoad {
+    0%, 100% { text-shadow: 0 0 0px transparent; }
+    50% { text-shadow: 0 0 15px white; }
+  }
+
+  .made-by-glow {
+    animation: glowOnLoad 3s ease-in-out;
+  }
+</style>
+
+<div class="flex flex-col items-center justify-evenly w-full max-w-3xl shrink-0">
+  
+  <img src="/assets/images/banner.webp" 
+       class="w-full max-w-125 h-auto" 
+       alt="ORV Logo" />
+
+  <div class="quote-container">
+    <p class="font-mono uppercase md:text-lg text-sm text-white/90">
+      “There are three ways to survive a apocalypse. I have forgotten some of them now, but one thing is certain: you, who are currently reading these words, will survive.”
+    </p>
+  </div>
+
+  <div class="flex flex-wrap justify-center gap-4 w-full">
+    {% set btnClass = "flex-1 min-w-[200px] max-w-[280px] inline-flex items-center justify-center gap-3 px-4 py-3 border-2 border-white text-white font-semibold text-[0.95rem] no-underline transition-all duration-300 backdrop-brightness-75 hover:bg-white/5" %}
+    
+    <a href="./story/" class="{{ btnClass }}">
+      <svg class="w-6 h-6 shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor">
+        <path d="M240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h480q33 0 56.5 23.5T800-800v640q0 33-23.5 56.5T720-80H240Zm0-80h480v-640h-80v280l-100-60-100 60v-280H240v640Z" />
+      </svg>
+      <span>Start Reading</span>
+    </a>
+
+    <a href="./download/" class="{{ btnClass }}">
+      <svg class="w-6 h-6 shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor">
+        <path d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+      </svg>
+      <span>Download EPUB</span>
+    </a>
+  </div>
+</div>
+
+<div class="mt-auto pt-8 pb-4 flex flex-col items-center gap-6 w-full shrink-0">
+  <p class="text-white/70 text-base text-center made-by-glow">
+    Made by
+    <a href="https://github.com/Bittu5134/" target="_blank" class="text-white font-bold no-underline hover:underline">Bittu5134</a>
+  </p>
+
+  <div class="flex gap-[clamp(1rem,5vw,2.5rem)] justify-center w-full">
+    
+    <a href="./donate/" class="group flex flex-col items-center gap-1.5 text-white no-underline transition-all duration-300">
+      <svg class="w-7 h-7 md:w-6 md:h-6 transition-colors group-hover:text-[#ff6b6b]" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor">
+        <path d="m480-120-58-52q-101-91-167-157T150-447.5Q111-500 95.5-544T80-634q0-94 63-157t157-63q52 0 99 22t81 62q34-40 81-62t99-22q94 0 157 63t63 157q0 46-15.5 90T810-447.5Q771-395 705-329T538-172l-58 52Z" />
+      </svg>
+      <span class="text-[0.75rem] uppercase tracking-wider transition-colors group-hover:text-[#ff6b6b]">Donate</span>
+    </a>
+
+    <a href="https://discord.gg/CZdNvKaNNr" class="group flex flex-col items-center gap-1.5 text-white no-underline transition-all duration-300">
+      <svg class="w-7 h-7 md:w-6 md:h-6 transition-colors group-hover:text-[#7289da]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M19.27 5.33C17.94 4.71 16.5 4.26 15 4a.1.1 0 0 0-.07.03c-.18.33-.39.76-.53 1.09a16.1 16.1 0 0 0-4.8 0c-.14-.34-.35-.76-.54-1.09c-.01-.02-.04-.03-.07-.03c-1.5.26-2.93.71-4.27 1.33c-.01 0-.02.01-.03.02c-2.72 4.07-3.47 8.03-3.1 11.95c0 .02.01.04.03.05c1.8 1.32 3.53 2.12 5.24 2.65c.03.01.06 0 .07-.02c.4-.55.76-1.13 1.07-1.74c.02-.04 0-.08-.04-.09c-.57-.22-1.11-.48-1.64-.78c-.04-.02-.04-.08-.01-.11c.11-.08.22-.17.33-.25c.02-.02.05-.02.07-.01c3.44 1.57 7.15 1.57 10.55 0c.02-.01.05-.01.07.01c.11.09.22.17.33.26c.04.03.04.09-.01.11c-.52.31-1.07.56-1.64.78c-.04.01-.05.06-.04.09c.32.61.68 1.19 1.07 1.74c.03.01.06.02.09.01c1.72-.53 3.45-1.33 5.25-2.65c.02-.01.03-.03.03-.05c.44-4.53-.73-8.46-3.1-11.95c-.01-.01-.02-.02-.04-.02M8.52 14.91c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.84 2.12-1.89 2.12m6.97 0c-1.03 0-1.89-.95-1.89-2.12s.84-2.12 1.89-2.12c1.06 0 1.9.96 1.89 2.12c0 1.17-.83 2.12-1.89 2.12" />
+      </svg>
+      <span class="text-[0.75rem] uppercase tracking-wider transition-colors group-hover:text-[#7289da]">Discord</span>
+    </a>
+
+    <a href="https://github.com/Bittu5134/ORV-Reader?tab=readme-ov-file#orv-reader" class="group flex flex-col items-center gap-1.5 text-white no-underline transition-all duration-300">
+      <svg class="w-7 h-7 md:w-6 md:h-6 transition-colors group-hover:text-[#4dabf7]" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" fill="currentColor">
+        <path d="M440-280h80v-240h-80v240Zm40-320q17 0 28.5-11.5T520-640q0-17-11.5-28.5T480-680q-17 0-28.5 11.5T440-640q0 17 11.5 28.5T480-600Zm0 520q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Z" />
+      </svg>
+      <span class="text-[0.75rem] uppercase tracking-wider transition-colors group-hover:text-[#4dabf7]">Info</span>
+    </a>
+
+  </div>
+</div>

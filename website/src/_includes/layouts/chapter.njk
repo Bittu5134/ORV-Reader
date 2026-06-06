@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en" data-theme="starstream">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} — {{ story }}</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+  <script>
+    const CONFIG_KEY = "readerSettings";
+    const DEFAULT_SETTINGS = {
+      theme: "starstream",
+      font: "Bookerly",
+      fontSize: 22,
+      fontWeight: 450,
+      lineHeight: 1.3,
+      textAlign: "justify",
+      indent: false,
+      solidBackground: true
+    };
+
+    (function () {
+      const saved = JSON.parse(localStorage.getItem(CONFIG_KEY) || "{}");
+      const cfg = { ...DEFAULT_SETTINGS, ...saved };
+      const el = document.documentElement;
+
+      // Apply initial styles immediately to prevent flash
+      el.setAttribute("data-theme", cfg.theme);
+      Object.entries({
+        '--chapter-font': cfg.font,
+        '--chapter-size': cfg.fontSize + 'px',
+        '--chapter-weight': cfg.fontWeight,
+        '--chapter-lh': cfg.lineHeight,
+        '--chapter-align': cfg.textAlign,
+        '--chapter-indent': cfg.indent ? '1.5em' : '0',
+        '--card-bg-opacity': cfg.solidBackground ? '1' : '0'
+      }).forEach(([key, val]) => el.style.setProperty(key, val));
+    })();
+  </script>
+
+  <style>
+    .reader-area {
+      font-family: var(--chapter-font), sans-serif;
+      font-size: var(--chapter-size);
+      font-weight: var(--chapter-weight);
+      line-height: var(--chapter-lh);
+      text-align: var(--chapter-align);
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .reader-area p {
+      text-indent: var(--chapter-indent);
+      margin-bottom: 1em;
+    }
+
+    /* System Window Styling */
+    .chapter-text h2,
+    .chapter-text h3 {
+      @apply text-primary font-black uppercase tracking-widest border-b border-primary/20 mb-6 pb-2;
+    }
+
+    .chapter-text img {
+      width: auto;
+      max-height: 90vh;
+      display: block;
+      margin: auto;
+    }
+
+    .chapter-text figcaption {
+      font-size: small;
+      text-align: center;
+      opacity: 0.8;
+      font-style: italic;
+    }
+
+    .chapter-text figure {
+      margin-bottom: 0.5em;
+    }
+
+    .chapter-text .hidden-caption + figcaption {
+      display: none;
+    }
+  </style>
+
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+</head>
+
+<body
+  class="min-h-screen bg-base-300 text-base-content transition-colors duration-300 selection:bg-primary selection:text-primary-content pb-20">
+
+  <main class="w-full max-w-4xl mx-auto relative">
+    <div class="bg-base-100 absolute inset-0 rounded-3xl transition-opacity duration-500 -z-10"
+      style="opacity: var(--card-bg-opacity, 1)"></div>
+
+    <article class="reader-area p-6 md:p-12">
+      <header class="border-base-content/10 border-b-3 mb-12 pb-8 text-center md:text-left">
+        <div class="flex flex-wrap gap-2 items-center mb-4 justify-center md:justify-start">
+          <span class="badge badge-primary font-black p-3">{{ category }}</span>
+          <span class="badge badge-outline font-mono outline-1">CHAPTER_{{ slug }}</span>
+        </div>
+        <h1 class="uppercase font-black tracking-widest italic text-4xl leading-tight text-base-content">
+          {{ title }}
+        </h1>
+      </header>
+
+      <div class="chapter-text prose-pre:bg-base-200 prose-pre:text-primary max-w-none" id="reading-zone">
+        {{ content | safe }}
+      </div>
+    </article>
+
+    <div
+      class="flex flex-col sm:flex-row items-center justify-between gap-4 border-base-content/10 border-t mt-12 py-10 px-6">
+      {% set prev = collections.orvChapters | getPreviousCollectionItem(page) %}
+      {% set next = collections.orvChapters | getNextCollectionItem(page) %}
+
+      <div class="join">
+        {% if prev %}
+        <a class="btn join-item btn-md" href="{{ prev.url }}">❮ Prev</a>
+        {% else %}
+        <a class="btn join-item btn-md" href="/read/orv/">Home</a>
+        {% endif %}
+        <span class="btn join-item pointer-events-none no-animation font-mono bg-base-200 border-x-0">NODE_{{ index
+          }}</span>
+        {% if next %}
+        <a class="btn join-item btn-md" href="{{ next.url }}">Next ❯</a>
+        {% else %}
+        <a class="btn join-item btn-md" href="/read/orv/">Home</a>
+        {% endif %}
+      </div>
+
+      <button class="btn btn-ghost btn-sm opacity-50" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">Back to
+        Top ↑</button>
+    </div>
+  </main>
+
+  <nav id="system-nav"
+    class="w-full bg-base-100 border-t border-base-content/10 flex gap-2 items-center justify-center md:gap-5 p-3 fixed bottom-0 left-0 right-0 z-50 transition-transform duration-300 ease-in-out translate-y-0">
+    <a class="btn btn-sm btn-ghost btn-square" href="/" title="Home">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path fill="currentColor"
+          d="M20.25 10a1.25 1.25 0 1 0-2.5 0zm-14 0a1.25 1.25 0 1 0-2.5 0zm13.866 2.884a1.25 1.25 0 0 0 1.768-1.768zM12 3l.884-.884a1.25 1.25 0 0 0-1.768 0zm-9.884 8.116a1.25 1.25 0 0 0 1.768 1.768zM7 22.25h10v-2.5H7zM20.25 19v-9h-2.5v9zm-14 0v-9h-2.5v9zm15.634-7.884l-9-9l-1.768 1.768l9 9zm-10.768-9l-9 9l1.768 1.768l9-9zM17 22.25A3.25 3.25 0 0 0 20.25 19h-2.5a.75.75 0 0 1-.75.75zm-10-2.5a.75.75 0 0 1-.75-.75h-2.5A3.25 3.25 0 0 0 7 22.25z" />
+      </svg>
+    </a>
+    <button class="btn btn-sm btn-primary" onclick="toc_modal.showModal()">
+      <span class="hidden sm:inline">Scenario List</span>
+      <svg viewBox="0 0 24 24" class="size-4 sm:ml-1" fill="none" stroke="currentColor" stroke-width="2">
+        <path fill="currentColor"
+          d="M4 18q-.425 0-.712-.288T3 17t.288-.712T4 16h16q.425 0 .713.288T21 17t-.288.713T20 18zm0-5q-.425 0-.712-.288T3 12t.288-.712T4 11h16q.425 0 .713.288T21 12t-.288.713T20 13zm0-5q-.425 0-.712-.288T3 7t.288-.712T4 6h16q.425 0 .713.288T21 7t-.288.713T20 8z" />
+      </svg>
+    </button>
+    <button class="btn btn-sm btn-ghost btn-square" onclick="settings_modal.showModal()">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+        <path fill="currentColor"
+          d="M19.9 12.66a1 1 0 0 1 0-1.32l1.28-1.44a1 1 0 0 0 .12-1.17l-2-3.46a1 1 0 0 0-1.07-.48l-1.88.38a1 1 0 0 1-1.15-.66l-.61-1.83a1 1 0 0 0-.95-.68h-4a1 1 0 0 0-1 .68l-.56 1.83a1 1 0 0 1-1.15.66L5 4.79a1 1 0 0 0-1 .48L2 8.73a1 1 0 0 0 .1 1.17l1.27 1.44a1 1 0 0 1 0 1.32L2.1 14.1a1 1 0 0 0-.1 1.17l2 3.46a1 1 0 0 0 1.07.48l1.88-.38a1 1 0 0 1 1.15.66l.61 1.83a1 1 0 0 0 1 .68h4a1 1 0 0 0 .95-.68l.61-1.83a1 1 0 0 1 1.15-.66l1.88.38a1 1 0 0 0 1.07-.48l2-3.46a1 1 0 0 0-.12-1.17ZM18.41 14l.8.9l-1.28 2.22l-1.18-.24a3 3 0 0 0-3.45 2L12.92 20h-2.56L10 18.86a3 3 0 0 0-3.45-2l-1.18.24l-1.3-2.21l.8-.9a3 3 0 0 0 0-4l-.8-.9l1.28-2.2l1.18.24a3 3 0 0 0 3.45-2L10.36 4h2.56l.38 1.14a3 3 0 0 0 3.45 2l1.18-.24l1.28 2.22l-.8.9a3 3 0 0 0 0 3.98m-6.77-6a4 4 0 1 0 4 4a4 4 0 0 0-4-4m0 6a2 2 0 1 1 2-2a2 2 0 0 1-2 2" />
+      </svg>
+    </button>
+  </nav>
+
+  <dialog class="modal modal-bottom sm:modal-middle" id="settings_modal">
+    <div class="bg-base-100 modal-box border border-primary/20">
+      <div class="flex items-center justify-between mb-8">
+        <h3 class="uppercase font-black text-xl text-primary tracking-tighter">System Interface</h3>
+        <form method="dialog"><button class="btn btn-sm btn-circle btn-ghost">✕</button></form>
+      </div>
+
+      <div class="grid gap-8">
+        <div class="grid sm:grid-cols-2 gap-4">
+          <div class="form-control">
+            <label class="label-text uppercase font-bold text-[10px] opacity-50 mb-2 ml-1">Color Palette</label>
+            <select id="pref-theme" class="select select-bordered select-md w-full"
+              onchange="updatePref('theme', this.value)"></select>
+          </div>
+          <div class="form-control">
+            <label class="label-text uppercase font-bold text-[10px] opacity-50 mb-2 ml-1">Font Stream</label>
+            <select id="pref-font" class="select select-bordered select-md w-full"
+              onchange="updatePref('font', this.value)"></select>
+          </div>
+        </div>
+
+        <div class="space-y-6">
+          <div class="form-control">
+            <div class="flex justify-between mb-2 px-1 text-[10px] uppercase font-bold opacity-50">
+              <span>Text Scale</span>
+              <span id="val-size" class="text-primary">22px</span>
+            </div>
+            <input id="input-size" class="range range-primary range-xs" max="50" min="12" type="range"
+              oninput="updatePref('fontSize', this.value)">
+          </div>
+
+          <div class="form-control">
+            <div class="flex justify-between mb-2 px-1 text-[10px] uppercase font-bold opacity-50">
+              <span>Line Spacing</span>
+              <span id="val-lh" class="text-primary">1.3</span>
+            </div>
+            <input id="input-lh" class="range range-secondary range-xs" max="3" min="0.5" step="0.1" type="range"
+              oninput="updatePref('lineHeight', this.value)">
+          </div>
+        </div>
+
+        <div class="bg-base-200/50 p-4 rounded-2xl space-y-4">
+          <label class="flex items-center justify-between cursor-pointer group">
+            <span class="text-xs font-bold uppercase opacity-70 group-hover:opacity-100 transition-opacity">Paragraph
+              Indent</span>
+            <input type="checkbox" id="pref-indent" class="toggle toggle-primary"
+              onchange="updatePref('indent', this.checked)">
+          </label>
+          <label class="flex items-center justify-between cursor-pointer group">
+            <span class="text-xs font-bold uppercase opacity-70 group-hover:opacity-100 transition-opacity">Card
+              Background</span>
+            <input type="checkbox" id="pref-solid" class="toggle toggle-accent"
+              onchange="updatePref('solidBackground', this.checked)">
+          </label>
+        </div>
+      </div>
+
+      <div class="modal-action">
+        <form method="dialog"><button class="btn btn-primary w-full">Apply Changes</button></form>
+      </div>
+    </div>
+  </dialog>
+
+  <dialog class="modal" id="toc_modal">
+    <div class="bg-base-100 modal-box p-0 max-w-2xl border border-primary/20">
+      <div class="bg-base-200/50 p-6 flex flex-col gap-4">
+        <div class="flex items-center justify-between">
+          <h3 class="uppercase font-black text-lg tracking-tighter">Scenario Database</h3>
+          <form method="dialog"><button class="btn btn-sm btn-circle btn-ghost">✕</button></form>
+        </div>
+        <div class="relative">
+          <svg class="absolute left-3 top-3 size-4 opacity-30" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <circle cx="11" cy="11" r="8" />
+            <path d="m21 21-4.3-4.3" />
+          </svg>
+          <input id="toc-search" type="text" placeholder="Filter Scenario Data..."
+            class="input input-bordered w-full pl-10 focus:input-primary transition-all">
+        </div>
+      </div>
+      <div class="max-h-[60vh] overflow-y-auto p-4 space-y-2" id="toc-list">
+        {% for ch in collections.orvChapters %}
+        <a class="btn btn-ghost btn-md justify-start w-full font-normal toc-item hover:btn-primary hover:text-primary-content transition-all {{ 'btn-active bg-primary/10 text-primary' if ch.url == page.url }}"
+          href="{{ ch.url }}" data-index="{{ ch.data.index }}" data-title="{{ ch.data.title | lower }}">
+          <span class="text-[10px] font-mono opacity-40 mr-4">#{{ ch.data.index }}</span>
+          <span class="truncate">{{ ch.data.title }}</span>
+        </a>
+        {% endfor %}
+        <div id="toc-no-results" class="hidden py-20 text-center opacity-30 italic">NO DATA FOUND AT THIS INDEX</div>
+      </div>
+    </div>
+  </dialog>
+
+  <script>
+    const THEMES = {
+      priority: ["starstream", "business", "light", "retro", "black"],
+      all: ["dark", "night", "bumblebee", "sunset", "emerald", "corporate", "synthwave", "cyberpunk", "valentine", "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "luxury", "dracula", "cmyk", "autumn", "acid", "lemonade", "coffee", "winter", "dim", "nord", "bumblebee"]
+    };
+
+    const FONTS = {
+      book: ["Bookerly", "Alegreya", "EB Garamond", "Crimson Pro", "Roboto", "monospace"],
+      system: ["Merriweather", "Georgia", "Verdana", "Arial", "Times New Roman", "Courier New"]
+    };
+
+    let settings = { ...DEFAULT_SETTINGS, ...JSON.parse(localStorage.getItem(CONFIG_KEY) || "{}") };
+
+    /** Build Select Menus */
+    async function populateSelectors() {
+      const themeSelect = document.getElementById('pref-theme');
+      const fontSelect = document.getElementById('pref-font');
+
+      // Build Themes
+      themeSelect.innerHTML = `
+        <optgroup label="Core Selection">${THEMES.priority.map(t => `<option value="${t}">${t}</option>`).join('')}</optgroup>
+        <optgroup label="Archive Selection">${THEMES.all.map(t => `<option value="${t}">${t}</option>`).join('')}</optgroup>
+      `;
+
+      // Build Fonts
+      let fontHtml = `<optgroup label="Book Fonts">${FONTS.book.map(f => `<option value="${f}" style="font-family:${f}">${f}</option>`).join('')}</optgroup>`;
+      fontHtml += `<optgroup id="local-group" label="Local Fonts"></optgroup>`;
+      fontSelect.innerHTML = fontHtml;
+
+      // Local Font Detection
+      if ('queryLocalFonts' in window) {
+        try {
+          const local = await window.queryLocalFonts();
+          const unique = [...new Set(local.map(f => f.family))].sort().slice(0, 50); // Limit to 50 for performance
+          document.getElementById('local-group').innerHTML = unique.map(f => `<option value="${f}">${f}</option>`).join('');
+        } catch (e) { console.warn("Font access denied"); }
+      } else {
+        document.getElementById('local-group').innerHTML = FONTS.system.map(f => `<option value="${f}">${f}</option>`).join('');
+      }
+
+      // SYNC INITIAL UI STATE
+      themeSelect.value = settings.theme;
+      fontSelect.value = settings.font;
+      document.getElementById('input-size').value = settings.fontSize;
+      document.getElementById('input-lh').value = settings.lineHeight;
+      document.getElementById('pref-indent').checked = settings.indent;
+      document.getElementById('pref-solid').checked = settings.solidBackground;
+
+      updateUIVisuals();
+    }
+
+    /** Update CSS Variables and Labels */
+    function updateUIVisuals() {
+      const el = document.documentElement;
+      el.setAttribute("data-theme", settings.theme);
+
+      el.style.setProperty('--chapter-font', settings.font);
+      el.style.setProperty('--chapter-size', settings.fontSize + 'px');
+      el.style.setProperty('--chapter-lh', settings.lineHeight);
+      el.style.setProperty('--chapter-indent', settings.indent ? '1.5em' : '0');
+      el.style.setProperty('--card-bg-opacity', settings.solidBackground ? '1' : '0');
+
+      document.getElementById('val-size').innerText = settings.fontSize + 'px';
+      document.getElementById('val-lh').innerText = settings.lineHeight;
+    }
+
+    /** Global Save & Apply */
+    function updatePref(key, val) {
+      settings[key] = val;
+      localStorage.setItem(CONFIG_KEY, JSON.stringify(settings));
+      updateUIVisuals();
+    }
+
+    // TOC Search Logic
+    document.getElementById("toc-search").addEventListener("input", e => {
+      const s = e.target.value.toLowerCase().trim();
+      let c = 0;
+      document.querySelectorAll(".toc-item").forEach(item => {
+        const matches = item.dataset.title.includes(s) || item.dataset.index.includes(s);
+        item.classList.toggle("hidden", !matches);
+        if (matches) c++;
+      });
+      document.getElementById("toc-no-results").classList.toggle("hidden", c > 0);
+    });
+
+    // Keyboard Shortcuts
+    window.addEventListener('keydown', e => {
+      if (["INPUT", "TEXTAREA"].includes(e.target.tagName)) return;
+      const k = e.key.toLowerCase();
+      if (k === 's') settings_modal.showModal();
+      if (k === 't') toc_modal.showModal();
+    });
+
+    populateSelectors();
+
+    // ==========================================
+    // NAV BAR SCROLL/CLICK HIDE LOGIC
+    // ==========================================
+    const navBar = document.getElementById("system-nav");
+    const readingZone = document.getElementById("reading-zone");
+    let isNavVisible = true;
+    let lastScrollY = window.scrollY;
+
+    function toggleNav(show) {
+      if (show) {
+        navBar.classList.remove("translate-y-full");
+        isNavVisible = true;
+      } else {
+        navBar.classList.add("translate-y-full");
+        isNavVisible = false;
+      }
+    }
+
+    // 1. Hide on click anywhere in the main reading area
+    readingZone.addEventListener("click", () => {
+      toggleNav(!isNavVisible);
+    });
+
+    // 2. Hide on scroll down, show on scroll up
+    window.addEventListener("scroll", () => {
+      // Don't do scroll-hiding if we are in a modal
+      if (document.body.classList.contains("modal-open")) return;
+
+      const currentScrollY = window.scrollY;
+
+      // Add a small threshold (e.g. 10px) so tiny scrolls don't trigger it wildly
+      if (currentScrollY > lastScrollY + 10) {
+        toggleNav(false); // Scrolling down
+      } else if (currentScrollY < lastScrollY - 10) {
+        toggleNav(true);  // Scrolling up
+      }
+
+      lastScrollY = currentScrollY;
+    }, { passive: true });
+
+  </script>
+  <script src="https://unpkg.com/littlefoot/dist/littlefoot.js"></script>
+
+  <script>littlefoot.littlefoot({
+      activateOnHover: true,
+      hoverDelay: 50,
+      dismissOnUnhover: true,
+      buttonTemplate: `<button aria-label="Footnote <% number %>" class="relative btn btn-xs btn-info px-3 py-2 h-3 text-sm mx-1 font-mono"><% number %></button>`,
+    })</script>
+
+</body>
+
+</html>
