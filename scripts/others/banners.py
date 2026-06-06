@@ -1,5 +1,5 @@
 import random
-
+random.seed(5149)
 # Subtle footer placed OUTSIDE the banner div
 # It uses the same max-width and margin as your banners to stay aligned
 PROMOTION_FOOTER = """
@@ -76,10 +76,10 @@ EMPTY_TEMPLATE = ""
 
 # Configuration weights (Donate: 40%, Discord: 30%, LOTM: 30%)
 BANNER_WEIGHTS = {
-    "donate": 1,
+    "donate": 2,
     "discord": 2,
-    "lotm": 2,
-    "promo": 4,
+    "lotm": 1,
+    "promo": 0,
     "empty": 0,
     "hsy_bday": 0,
 }
@@ -98,7 +98,7 @@ def get_chapter_banner(
         selected_html = DONATION_TEMPLATE
     else:
         # 2. Weighted random rotation for middle chapters
-        choices = ["donate", "discord", "promo", "lotm", "empty", "hsy_bday"]
+        choices = ["donate", "discord", "lotm", "promo", "empty", "hsy_bday"]
         weights = [
             BANNER_WEIGHTS["donate"],
             BANNER_WEIGHTS["discord"],

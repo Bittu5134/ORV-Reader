@@ -3,7 +3,8 @@ What the 'Secretive Plotter' said felt as hollow as words coming from someone wh
 I spoke up as if to rebel against that hollowness. "…Your life saved someone else's."
 To someone who had lost so much, the truth of saving a kid whom he didn't even know the name of wouldn't be much of a consolation. The boy was someone completely unrelated to him, after all. That boy was not his companion or his family member.
 I tried to open my lips several times, yet I still couldn't say anything else. The life I lived was no help whatsoever in the quest to save this guy.
-The 'Secretive Plotter' looked at me struggling and spoke. 【When I first saw you, I believed that I needed to bring you under my wings.】
+The 'Secretive Plotter' looked at me struggling and spoke.
+<#>【When I first saw you, I believed that I needed to bring you under my wings.】
 Bring me under his wings. For some reason, I recalled the moments I first encountered him.
 +
 <Sponsor Selection>
@@ -28,9 +29,11 @@ Those messages made the first actual face-to-face with him rather awkward for me
 <#>【I had to decide – whether to continue observing this distorted world, or to destroy it.】
 "…Was that why you sent me to the 1863rd turn?"
 The Plotter nodded his head. His choice led to the beginning of this 'world-line'.
-He continued on. 【It was roughly a similar reason why I gave this turn's Yoo Joonghyuk the information on the 1863rd turn. I had a need to test you. To find out whether you or this turn's Yoo Joonghyuk was the more suitable candidate to witness the conclusion.】
+He continued on.
+<#>【It was roughly a similar reason why I gave this turn's Yoo Joonghyuk the information on the 1863rd turn. I had a need to test you. To find out whether you or this turn's Yoo Joonghyuk was the more suitable candidate to witness the conclusion.】
 "Okay, so your choice was?"
-The 'Secretive Plotter' didn't reply and simply stared at me, before opening his mouth. 【There is a massive wall at the end of this world. It's the 'Final Wall' that can only be opened when all the keys have been gathered together.】
+The 'Secretive Plotter' didn't reply and simply stared at me, before opening his mouth. 
+<#>【There is a massive wall at the end of this world. It's the 'Final Wall' that can only be opened when all the keys have been gathered together.】
 – You have acquired answers to all the questions.
 – The 'Three Divine Questions and Answers' has ended.
 I realized it then. That reply of his was the answer to my 'three questions'.
@@ -75,7 +78,8 @@ This incredible flame that burned away the entirety of the expansive forest… C
 <@>[MykingMykingMykingMykingMyking]
 <@>[EscapeEscapeEscapeEscapeEscape]
 Small 'Outer Gods' quickly gathered around the Plotter. Many Outer Gods had left him by now, but still, there were quite a lot that chose to remain. They were like the citizens crowding around to protect their king, having sensed the imminent fall of their kingdom.
-The 'Secretive Plotter' looking at his subjects spoke to me. 【'Demon King of Salvation'. I too made a mistake like you once before.】
+The 'Secretive Plotter' looking at his subjects spoke to me.
+<#>【'Demon King of Salvation'. I too made a mistake like you once before.】
 His voice remained relaxed, even as he faced an urgent situation of his forest burning away. As if, he had predicted all of this beforehand.
 <#>【Rather foolishly, I tried to change what had already happened in the past.】
 "…What are you suddenly on about? Are you talking about the events of the 41st turn?"
@@ -84,8 +88,8 @@ Yoo Joonghyuk from the 41st turn made a deal with the 'Devil of the Horizon' and
 If the 'Secretive Plotter' was thinking about that particular 'calamity', then I wanted to tell him that there was nothing to worry about.
 Unfortunately, [41] next to me was shaking his head. "This isn't from my regression turn."
 "What? But then…"
-<@>[41 didn't reply and simply stared at the Plotter.]
-My head was in a mess. According to my knowledge, the only regression turn in the 'Ways of Survival' where he interfered with the past that had already happened was the 41st.
+[41] didn't reply and simply stared at the Plotter.
+My head was in a mess. According to my knowledge, the only regression turn in 'Ways of Survival' where he interfered with the past that had already happened was the 41st.
 …But now, there was another turn besides that one?
 When was that? Did it happen outside the original story?
 A sun enveloped in pure flames was rising up high above the wide-open ceiling of the hall. However, this sun belonged to neither Surya nor Apollo. And in the centre of this exploding sun, ominous-looking sunspots were growing larger. No Constellations that I knew possessed a Sun that horrifying.
@@ -113,11 +117,12 @@ There was such a name among the records written by the 'Recorder of Fear'.
 One of the kings that ruled over the 'Outer Gods' alongside the 'Secretive Plotter'.
 The thing was, I never thought about who the other kings could be, or where they might have come from.
 What a stupid moron I was.
-All the 'Outer Gods' were beings from the discarded regression turns from the 'Ways of Survival'. Since that was the case, I should've figured it out that their kings would also be other beings from the 'Ways of Survival', too.
+All the 'Outer Gods' were beings from the discarded regression turns from 'Ways of Survival'. Since that was the case, I should've figured it out that their kings would also be other beings from 'Ways of Survival', too.
 Ku-gugugugu!
 It felt as if my hands were trembling like crazy.
 I didn't want to imagine the cause and effect. No, I didn't want to acknowledge it. Right now, I didn't want to accept that a world as horrifying as this one could actually exist.
-With his trademark disinterested voice, the Plotter addressed me. 【Now do you understand? This is the consequence of distorting the world-line.】
+With his trademark disinterested voice, the Plotter addressed me. 
+<#>【Now do you understand? This is the consequence of distorting the world-line.】
 As his words came to an end, a sword wrapped in the most brilliant, luminous flames began pointing in our direction.
 It was the sword of an Archangel that I was intimately familiar with.
 Why didn't I know it? Maybe, I didn't want to know in the first place?

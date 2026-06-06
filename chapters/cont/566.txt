@@ -76,7 +76,7 @@ Bihyung, who was listening to me, asked.
 —You...... Are you a dokkaebi?
 'I know your industry well.'
 Ji Eunyoo used to say similar things when she was complaining about management.
-—I-I won't sign a <Stream Constract> with you. How can I trust a guy who's barely cleared the first scenario.......
+—I-I won't sign a <Stream Contract> with you. How can I trust a guy who's barely cleared the first scenario.......
 I wondered if it was an illusion, but Bihyung's voice was a bit more gentle. It's time to push in.
 'But I cleared it in an pretty unique way.'
 —It was just luck.
@@ -123,7 +123,7 @@ I checked the scenario.
 <Sub Scenario - Domination>
 Category: Sub
 Difficulty: D
-Clead Conditions: Control Geumho Station and become the leader of the area. The scenario ends when more than half of the people recognize you as the leader.
+Clear Conditions: Control Geumho Station and become the leader of the area. The scenario ends when more than half of the people recognize you as the leader.
 Time Limit: 4 hours
 Reward: 500 coins
 Failure: —
