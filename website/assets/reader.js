@@ -74,6 +74,7 @@ function changeGiscusTheme(theme) {
 }
 
 
+
 setInterval(() => {
     changeGiscusTheme(window.theme)
 }, 2000)
@@ -102,7 +103,6 @@ function classChangeTheme(elementClass, elemetTheme) {
 }
 
 
-
 function loadSettingsFromLocalStorage() {
     try {
         let settings = JSON.parse(localStorage.getItem('settings1'));
@@ -111,6 +111,9 @@ function loadSettingsFromLocalStorage() {
 
         if (settings.theme) {
             document.getElementById('set-theme').value = settings.theme;
+        }
+        if (settings.menu) {
+            document.getElementById('set-menu').value = settings.menu;
         }
         if (settings.font) {
             document.getElementById('set-font').value = settings.font;
@@ -167,16 +170,17 @@ loadSettingsFromLocalStorage();
 
 window.theme = "dark"
 
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function (e) {
 
 
-
+    e.preventDefault();
     // this is for settings
     const settingsForm = document.getElementById('settings-form');
 
     function applySettings() {
         let root = document.documentElement;
         let theme = document.getElementById('set-theme').value;
+        let menu = document.getElementById('set-menu').value; //change
         let font = document.getElementById('set-font').value;
         let fontSize = document.getElementById('set-font-size').value;
         let fontWeight = document.getElementById('set-font-weight').value;
@@ -199,6 +203,26 @@ document.addEventListener('DOMContentLoaded', function () {
         if (lineHeight < 1) { lineHeight = 1; }
         lineHeight = lineHeight / 30.625
         root.style.setProperty('--line-space', lineHeight + "rem")
+        
+        const setmenu = document.getElementById('set-menu');
+
+     
+        if(setmenu.value === "static") {
+            document.getElementById('menu-bar').classList.remove("fixed");
+        }
+        
+        document.addEventListener("click", clickHandler);
+        
+
+        function clickHandler() {
+            if (setmenu.value !== "onclick") return;
+
+            document.getElementById('menu-bar').classList.add("fixed");
+
+            setTimeout(() => {
+                document.getElementById('menu-bar').classList.remove("fixed");
+            }, 3000);
+        }
 
         window.theme = theme;
 
@@ -319,6 +343,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         const settings = {
             theme: document.getElementById('set-theme').value,
+            menu: document.getElementById('set-menu').value,
             font: document.getElementById('set-font').value,
             fontSize: document.getElementById('set-font-size').value,
             fontWeight: document.getElementById('set-font-weight').value,
@@ -388,7 +413,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
     settingsForm.addEventListener('change', function (event) {
+        
         applySettings();
+        console.log(document.getElementById('set-menu').value);
     });
 
     document.getElementById('set-font-size').addEventListener('input', function (event) {

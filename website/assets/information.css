@@ -154,6 +154,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 .ch-container {
@@ -186,7 +187,8 @@ body {
 }
 
 #chapter-result {
-    overflow-y: scroll;
+    min-height: 0;
+    overflow-y:auto; /* change */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -197,13 +199,32 @@ body {
     color: white;
 }
 
-#chapter-result::-webkit-scrollbar {
-    display: none;
+
+::-webkit-scrollbar {
+  width: 10px;
+  
 }
+
+/* changes */
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #06b6d4;
+  border-radius: 9999px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0891b2;
+}
+
+
 
 #chapter-result {
     -ms-overflow-style: none;
-    scrollbar-width: none;
+    
 }
 
 .chapter_item {

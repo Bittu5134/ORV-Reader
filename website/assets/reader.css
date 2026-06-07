@@ -102,6 +102,10 @@ body {
 }
 
 /* This is for the navbar */
+.menu.fixed{
+    position: sticky;
+}
+
 .menu {
     top: 0;
     z-index: 3;
@@ -135,7 +139,7 @@ body {
     height: clamp(35px, 4vh, 70px);
     width: auto;
     filter: var(--icons-color);
-    scale: 0.8;
+    scale: 0.7;
 }
 
 
@@ -177,6 +181,7 @@ body {
     align-items: center;
     padding: 0.5em 1em;
     font-size: 30px;
+    cursor: pointer;
 }
 
 .chapters {
