@@ -3,11 +3,25 @@ import os
 import urllib.parse as urlparse
 import sys
 import os
+import json
 
 root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 if root_path not in sys.path:
     sys.path.append(root_path)
 from others.banners import get_chapter_banner
+
+# Load chapter discussion mapping
+discussion_map = {}
+
+try:
+    with open("./website/meta/orv.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    for item in data:
+        discussion_map[item["index"]] = item["discussion"]
+
+except Exception as e:
+    print(f"Failed to load discussion mapping: {e}")
 
 
 for file_index, file in enumerate(os.listdir("chapters/orv")):
@@ -179,9 +193,12 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
         html.append("<br>")
         html.append("<hr>")
 
-        template = template.replace(r"{{CONTENT}}", str("\n".join(html)))
-        template = template.replace(r"{{PATH}}", f"orv/{file}")
+        template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
+        template = template.replace(r"{{PATH}}",f"side/{file}")
         template = template.replace(r"{{INDEX}}", str(file_index))
+
+        discussion_id = discussion_map.get(file_index, "")
+        template = template.replace(r"{{DISCUSSION-ID}}", str(discussion_id))
 
         # Banner logic: First 5 chapters = Discord, Last 5 chapters = Donation, Others = Random
         current_chapter = file_index + 1
