@@ -151,7 +151,9 @@ Unfortunately, there was a problem with the mentality of the newly-joining folks
 <@>[Surya, will you give us a ride to that Apocalypse Dragon?]
 Surya heard them yapping away and formed a dumbfounded expression.
 <@>[Have you all lost your minds? Didn't you witness what happened just now?]
-<@>[Ah, ah. We all saw the scenario's weird 'direction'. It was the 'Morning Star Goddess', Vakarine, who said that as she entered the conflict zone. It's simply not possible for one measly little monster to possess a Status as ridiculous as that, Surya. Maybe, you were in need of extra coins after exiting <Vedas>?]
+<@>[Ah, ah. We all saw the scenario's weird 'direction'.]
+It was the 'Morning Star Goddess', Vakarine, who said that as she entered the conflict zone. 
+<@>[It's simply not possible for one measly little monster to possess a Status as ridiculous as that, Surya. Maybe, you were in need of extra coins after exiting <Vedas>?]
 <@>[We were not acti…]
 <@>[It seems that the train's conductor is scared today, so us alone should start the conquest, then.]
 Not every Constellation in the <Star Stream> knew what the Apocalypse Dragon was. The last time it revived was already tens of thousands of years ago, that was why.
