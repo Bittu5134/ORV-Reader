@@ -16,10 +16,12 @@ While stuck inside the deadly battle, the Demon King continued to suck on his ci
 <!>[Stigma, 'One Ciggie for Agility Lv.???', is in activation.]
 <!>[Stigma, 'One Ciggie for Magic Power Lv.???', is in activation.]
 That was Agares's Stigma, [Universal Cigarette], at work. Its speciality, developed after living as a smoker for a very long time. A unique Stigma for the Demon King that possessed the Story to overclock the Incarnation Body's abilities.
-Even after receiving the combined attacks of five, six Demon Kings, Agares remained standing, prompting Asmodeus to say something in admiration. [As expected, the renown of the 'Ruler of East Hell' wasn't for nothing, I see. However, how long will you be able to hold on like this?]
+Even after receiving the combined attacks of five, six Demon Kings, Agares remained standing, prompting Asmodeus to say something in admiration. 
+<@>[As expected, the renown of the 'Ruler of East Hell' wasn't for nothing, I see. However, how long will you be able to hold on like this?]
 Agares didn't reply, simply choosing to pull out a new cigarette and light it up.
 Metatron and Michael crossed the now-dead battlefield and approached the Demon King.
-Agares spoke. [Metatron, you better think again. You won't be able to protect the 'Good and Evil' in this fashion. What meaning is there in being remembered after everyone has perished??]
+Agares spoke. 
+<@>[Metatron, you better think again. You won't be able to protect the 'Good and Evil' in this fashion. What meaning is there in being remembered after everyone has perished??]
 <@>[As long as it's remembered, it shall revive again sometime in the future.]
 <@>[Revive? Like your accursed Corrupted Angel?]
 Michael frowned deeply.
@@ -40,7 +42,8 @@ Even if Metatron and Agares were killed, someone else would become the 'Scribe o
 Agares spat his phlegm on the floor and formed a bitter grin.
 <@>[…I shall give up on 'Evil'.]
 A cigarette flew up from Agares's fingers. It spun in the air while emitting dense smoke.
-Asmodeus hurriedly shouted out. [Stop him!]
+Asmodeus hurriedly shouted out. 
+<@>[Stop him!]
 The swirling, spinning smoke enveloped Agares's entire body.
 <!>[Stigma, 'One Ciggie for Cowardice Lv.???', is activating!]
 Greyish, murky smoke exploded as the attacks rained down.
@@ -49,8 +52,10 @@ Metatron looked at the discarded cigarette on the floor. Thick smoke swirled in 
 His enemy was gone, and only the 'Good' remained. Was this a sense of loneliness, or a type of freedom he felt? Metatron couldn't tell.
 Someone trampled on the dying bud and killed it off.
 <!>[The Oldest Evil is closely observing the new 'Evil'.]
-He raised his head to find Asmodeus grinning primly towards him. [What a miss that was. I was thinking of taking over Agares's 'Wall'.]
-Metatron looked at the Demon King and replied. [You'll soon possess it.]
+He raised his head to find Asmodeus grinning primly towards him. 
+<@>[What a miss that was. I was thinking of taking over Agares's 'Wall'.]
+Metatron looked at the Demon King and replied. 
+<@>[You'll soon possess it.]
 Whatever the case might have been, the intended purpose had been accomplished now.
 <!>[Current Chaos Points: 100]
 The Chaos Points were now maxed out, and the Apocalypse Dragon had entered the revival sequence. And soon, the apocalypse would begin.
@@ -62,7 +67,8 @@ Metatron remained silent. Time to argue whether it'd be alright or not had long 
 <@>[Everything is according to the will of 'Good'. In order to reach the most ideal ■■…]
 '■■'.
 The dearest wish of all Constellations, as well as where the story of a star would come to an end.
-Asmodeus spoke. [■■… It seems that all Constellations that seek it end up becoming quite similar to each other. You really do resemble someone I know. Your dispositions are completely opposite of one another, though.]
+Asmodeus spoke. 
+<@>[■■… It seems that all Constellations that seek it end up becoming quite similar to each other. You really do resemble someone I know. Your dispositions are completely opposite of one another, though.]
 Just before Metatron could ask who that was, he heard the Dragon's Howling tearing through the sky.
 Guwaaaaahh-!!
 Dragons, easily numbering well past several thousand, were freely roaming around the skies to wage a bloody war. Explosions rang out seemingly endlessly. Dragons and their torn wings were crashing back to the earth.
@@ -96,7 +102,7 @@ I reflexively activated [Electrification] and defended against the Dragon Breath
 But then, I heard a certain message.
 <!>[You are eligible to enter the 'Dragon's Festival'.]
 …What?!
-<@>[Will you enter the 'Dragon's Festival'?]
+<!>[Will you enter the 'Dragon's Festival'?]
 My head temporarily blanked out after that message suddenly floated up to my view.
 No, hang on a minute. I might be a Constellation, but I was definitely not a Dragon, so how come such a message…
 "Why aren't you participating in the proceedings?"
