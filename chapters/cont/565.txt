@@ -6,7 +6,7 @@ Wait. How many?
 —Your chosen sponsor will be your strong supporter.
 1. Monarch of the Small Fries
 2. Dragon Lying Down
-3. Sneaking Schemer
+3. Sneaky Schemer
 .......
 +
 I blinked, dumbfounded.
@@ -14,7 +14,7 @@ This many people applied to be my sponsor?
 Where did they get the word?
 <!>[The constellations are awaiting your choice.]
 I couldn't tell. I guess we'll have to see who's here first.
-There are a lot of people who applied, and they may not be worthy.
+There are a lot of constellations that applied, and they may not be worthy.
 First up is the 'Monarch of the Small Fries'.
 I expected this one.
 In Omniscient Reader, he was the sponsor behind the acting leader on Geumho Station, Bang Cheolsoo. After the beginning, he disappeared.
@@ -26,13 +26,13 @@ He must have been impressed with my killing strategy, but unfortunately, I didn'
 <!>[The constellation 'Dragon Lying Down' is frowning.]
 Next up is...... Huh?
 For a moment, I thought I'd misread the modifier.
-Third, the 'Sneaking Schemer'.
+Third, the 'Sneaky Schemer'.
 I thought it was 'Secretive Plotter'.
 An imitation?
 Thinking about it, I couldn't recall a constellation with this modifier.
-<!>[The constellation 'Sneaking Schemer' says he's very strong and you should choose him.]
+<!>[The constellation 'Sneaky Schemer' says he's very strong and you should choose him.]
 The way he's talking, he's not even worthy of the modifier. I wonder if he's actually copying the 'Secretive Plotter'.
-'Secretive Plotter' is an exceptional case, but as Kim Dokja says, it's unlikely that constellation with such a poor modifier is a strong one.
+'Secretive Plotter' is an exceptional case, but as Kim Dokja says, it's unlikely that a constellation with such a poor modifier is a strong one.
 +
 4. Abyssal Black Flame Dragon
 +
@@ -46,7 +46,7 @@ It's been a long time since I've seen that modifier.
 Now that I think about it, he's been all over Kim Namwoon, Han Sooyoung, Kim Dokja, and Yoo Joonghyuk before.
 Then, does that mean I'm also a main character?
 <!>[The constellation 'Abyssal Black Flame Dragon' is cancelling his 'Sponsor Application'.]
-<!>[The number of options for sponsors has reduced to 9.]
+<!>[The number of options for sponsors has been reduced to 9.]
 Short-tempered bastard.
 I wasn't planning on choosing him anyway, so it wasn't a shame.
 There were still six more to go.
@@ -56,12 +56,12 @@ There were still six more to go.
 I suddenly regretted rejecting Black Flame Dragon.
 +
 6. Primordial Cow
-7. Rice Cake-Eating Tiger
+7. Tiger Eating Rice Cakes
 +
 Not yet.
 There are still three more to go.
 +
-8. Pig Living in a Brick House
+8. Pig in a Brick House
 9. Dog Who Threw Himself Into the Flames
 +
 What the hell is going on here?
@@ -92,7 +92,7 @@ The second is the 'adult Kim Dokja', who inherits the modifier in the second hal
 Unless I'm being fooled by a high-level trick, this is clearly the beginning of the novel.
 Above all, the presence of Bihyung and 'Daepong Girls' High School' Lee Jihye proved this fact.
 If it was after the end of the main story of 'Omniscient Reader', there was no way Bihyung or Lee Jihye would have appeared like this.
-<&>「So, does '???' is the 'young Kim Dokja'?」
+<&>「So, is '???' the 'young Kim Dokja'?」
 Come to think of it, it doesn't make sense.
 Throughout the course of 'Omniscient Reader', 'Young Kim Dokja' rarely interfered in the story, except to regress Yoo Joonghyuk.
 He probably doesn't even realize he's a god.
@@ -102,7 +102,7 @@ Even when he's already Yoo Joonghyuk's sponsor?
 Even if I thought so, it didn't make sense either.
 At the end of Omniscient Reader, the 'adult Kim Dokja' had his soul split into molecules and scattered into the universe.
 <!>[A constellation who hasn't revealed their modifier is awaiting your choice.]
-A cold tension radiating down my spine.
+A cold tension radiated down my spine.
 "You...... Who are you?"
 I ask, not really expecting an answer, but.
 <!>[A constellation who hasn't revealed their modifier is looking at you.]
@@ -128,7 +128,7 @@ In my daze, ahjussi continued to shake me.
 "I think I'm going to throw up......."
 "Oh, I'm sorry. I just saw you with white eyes suddenly. What happened with the Sponsor Selection?"
 "Sponsor Selection......?"
-<!>[There is 10 seconds left to complete the Sponsor Selection.]
+<!>[There are 10 seconds left to complete the Sponsor Selection.]
 Holy shit.
 I quickly looked at the Sponsor Selection window.
 And then.
@@ -137,7 +137,7 @@ And then.
 +
 I wondered what had happened.
 Apparently, the '10th' option that was visible a moment ago has disappeared.
-<!>[There is 5 seconds left to complete the Sponsor Selection.]
+<!>[There are 5 seconds left to complete the Sponsor Selection.]
 I didn't have much time to think.
 Should I choose the best constellation or.......
 I pondered until the very last second and made my decision.
@@ -155,13 +155,13 @@ Dansoo ahjussi shook his head as if agreeing with my response.
 "Oh, come to think of it, Kim Dokja......."
 "No, no, I couldn't decide, there were a lot of good constellations."
 It's a lie, but I had to say it like this.
-<!>[The constellation 'Rice Cake-Eating Tiger' is relieved that was it.]
+<!>[The constellation 'Tiger Eating Rice Cakes' is relieved that that was it.]
 <!>[The constellation 'Primordial Cow' is relieved.]
-<!>[The constellation 'Pig Living in a Brick House' asks to be picked next time.]
+<!>[The constellation 'Pig in a Brick House' asks to be picked next time.]
 <!>[The constellation 'Nail-Eating Rat' nods saying that it can happen.]
 By saying it like this, I avoided the criticism of the constellation that made a Sponsor Application.
 <!>[The constellation 'Abyssal Black Flame Dragon' accuses you of being pathetic for missing the opportunity.]
-<!>[The constellation 'Sneaking Schemer' is looking at you with narrowed eyes.]
+<!>[The constellation 'Sneaky Schemer' is looking at you with narrowed eyes.]
 Luckily, that was a good reaction.
 "How about you?"
 "It was pretty hard for me, too."
@@ -215,11 +215,11 @@ Isn't he one of the twelve gods of the great nebula <Olympus>, and a powerful na
 No, why did those constellations appear?
 I was happy for him, but I was still a little envious and upset.
 "Who was the last one? No way the last one......."
-"Well, the last one constellation took me by surprise."
+"Well, the last constellation took me by surprise."
 Surprise?
 For a moment, I thought about '???'
 Did that option come up for him too?
-"It's a constellation called 'Sneaking Schemer'."
+"It's a constellation called 'Sneaky Schemer'."
 It turned out to be the Secretive Plotter imitation.
 Luckily, that last one wasn't a big deal.
 "He came to me, too."
@@ -238,9 +238,9 @@ I thought for a moment, then decided to do the smart thing and save everyone's p
 "And a dragon as famous as the Black Flame Dragon."
 "That's incredible."
 <!>[The constellation 'Dragon Lying Down' is moved by your words and has sponsored you 100 coins.]
-"And...... There were a couple of constellation on the level of the Prisoner of the Golden Headband......."
+"And...... There were a couple of constellations on the level of the Prisoner of the Golden Headband......."
 "On the level of the Prisoner of the Golden Headband......."
-<!>[The constellation 'Rice Cake-Eating Tiger' has sponsored you 100 coins.]
+<!>[The constellation 'Tiger Eating Rice Cakes' has sponsored you 100 coins.]
 <!>[The constellation 'Primordial Cow' has sponsored you 100 coins.]
 <!>[The constellation 'Nail-Eating Rat' has sponsored you 100 coins.]
 <!>[The constellation 'Dog Who Threw Himself into the Flames' has sponsored you 100 coins.]
@@ -252,13 +252,13 @@ Seeing them rejoice made me feel good, too.
 ......No way.
 <!>[The constellation 'Prisoner of the Golden Headband' has entered the channel.]
 No, wait.
-<!>[The constellation 'Rice Cake-Eating Tiger' has left the channel.]
+<!>[The constellation 'Tiger Eating Rice Cakes' has left the channel.]
 <!>[The constellation 'Primordial Cow' has left the channel.]
 <!>[The constellation 'Nail-Eating Rat' has left the channel.]
 <!>[The constellation 'Dog Who Threw Himself into the Flames' has left the channel.]
 I felt like I could hear Bihyung's scream from somewhere.
 <!>[The constellation 'Prisoner of the Golden Headband' asks where they all went.]
-<!>[The constellation 'Pig Living in a Brick House' says he didn't see them because he was at home.]
+<!>[The constellation 'Pig in a Brick House' says he didn't see them because he was at home.]
 Even as the channel fizzled, Dansoo ahjussi, who was sitting next to me, kept giving me thumbs up.
 "Wow, that's amazing, all those big constellations."
 "No, but who did you pick?"
@@ -279,18 +279,18 @@ I thought of the first sentence about Dansoo ahjussi.
 "Sometimes I thought to myself. What if I were the main character."
 Sure enough, I nodded my head in agreement with the exquisite protagonist-like remarks.
 "If I were Kim Dokja, who would I have chosen in the first 'Sponsor Selection'?"
-In the first <Sponsor Selection> Kim Dokja received a huge love letter from Uriel, the Great Sage, Heaven's Equal, Black Flame Dragon, and the Secretive Plotter, but he made the mistake of not choosing anyone.
+In the first Sponsor Selection, Kim Dokja received a huge love letter from Uriel, the Great Sage Heaven's Equal, the Black Flame Dragon, and the Secretive Plotter, but he made the mistake of not choosing anyone.
 "I was surprised. I would have picked the strongest one, of course."
 "That's usually the case."
 Kim Dokja had read the 3,149 chapters of 'Ways of Survival' that had 50,000 characters per chapter, and since he was a madman who memorized them all, he could survive with that choice.
-However, Dansoo ahjussi had only read 551 of the 5,000 characters per chapter 'Omniscient Reader', and even then, he didn't understand most of them.
+However, Dansoo ahjussi had only read 551 chapters of 'Omniscient Reader' (which had 5,000 characters per chapter), and even then, he didn't understand most of them.
 "Yes...... I just picked the strongest constellation, as usual."
 "I think I know who you picked."
 Dansoo ahjussi smiled and nodded.
 "Yes. I've forgotten a lot of other things, but I do remember the name of this constellation, because it's the strongest in the entire novel."
 He was suddenly talking a lot, and I felt a little uneasy.
 Come to think of it, ahjussi didn't even remember who Cheon Inho was.
-"Ahjussi. Sorry to disappoint you, but the 'Commander of the Red Cosmos' is the strong, but she's not the strongest......."
+"Ahjussi. Sorry to disappoint you, but the 'Commander of the Red Cosmos' is strong, but she's not the strongest......."
 "I didn't pick the red flower or whatever."
 "The 'God of Wine and Ecstasy' is also a narrative-grade. As you know, above the narrative level, there's the myth level......."
 "I don't like alcohol."
@@ -306,9 +306,9 @@ I suddenly realized what had happened.
 No, no, no.
 No way.
 There's no way a reader of my novel would get that confused.
-But Dansoo ahjussi was smiling confidently, like Kim Dokja who had already broken through the [Last Wall.]
-"I've picked the strongest one, the 'Sneaking Schemer'."
-<!>[The constellation 'Sneaking Schemer' is smiling brightly.]
+But Dansoo ahjussi was smiling confidently, like Kim Dokja who had already broken through the [Final Wall.]
+"I've picked the strongest one, the 'Sneaky Schemer'."
+<!>[The constellation 'Sneaky Schemer' is smiling brightly.]
 I suddenly began to think that he was like Han Myungoh, who chose 'Lame Trickster'.
 <!>[The restriction on this area has been lifted!]
 In the distance, I could see men with pipes running toward us.

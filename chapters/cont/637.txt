@@ -196,9 +196,9 @@ When  [Incite] was activated twice in a row, the muscles of my whole body seemed
 My eyes were bloodshot, and a stinging pain arose in my heart.
 But I didn’t stop.
 <!>['Thoughts of almost everything' mimicks 'Broken Faith (mass production type)'!]
-'Thoughts' was changed to 'Broken Faith'.
+'Thought' was changed to 'Broken Faith'.
 <!>[Exclusive Skill 'White Blue Steel Lv.1' is activated!]
-I activated the special option of [Broken Faith] learned from LiteraryGirl64.
+I activated the special option of [Broken Faith] learned from LiteratureGirl64.
 <!>[The Blade of Faith activates!]
 The strongest anti-personnel weapon that I can use now.
 <&>「Now, the power to control the body is flowing from that meteorite.」

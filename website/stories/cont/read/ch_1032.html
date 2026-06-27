@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1032 Episode 63. Ragnarok (6)</title>
+    <meta property="og:title" content="1032 Episode 63. Ragnarok (6)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+    
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="51" id="set-font-size">
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
+			</div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+                </select>
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <a href="../../../download.html"><button>Download Full EPUB</button></a>
+        <hr>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/side/1032.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>1032 Episode 63. Ragnarok (6)</h1></div>
+<p class="orv_line">Even though I didn't say anything, the Mass Production Maker already knew what I wanted to say.</p>
+<p class="orv_line">[You want to open that 'gate', don't you?]</p>
+<p class="orv_line">Seeing the meaningful expression of the Mass Production Maker, the Handsome Monkey King beside me spoke with a triumphant face.</p>
+<p class="orv_line">[Look, from now on, that old man is going to demand something enormous from you.]</p>
+<p class="orv_line">His tone was slightly mocking, as if looking forward to what would happen next.</p>
+<p class="orv_line">[In order to get the gate's 'key' from that old man, you must—]</p>
+<p class="orv_line">But the moment he heard the Mass Production Maker's next words, the Handsome Monkey King blinked foolishly.</p>
+<p class="orv_line">[If you want, I will give you the key.]</p>
+<p class="orv_line">"Give it to me now."</p>
+<p class="orv_line">[I don't have it right now. My hideout is nearby, so stay there for a bit while I look for the key.]</p>
+<p class="orv_line">"There is no time."</p>
+<p class="orv_line">[I understand how you feel, but there is no need to hurry like that.]</p>
+<p class="orv_line">He guided the Handsome Monkey King and me to his flying vessel and said:</p>
+<p class="orv_line">[Anyway, the 'main battlefield' is in a lull right now. The final battle won't happen for another four days.]</p>
+<p class="orv_line">"Do you know what is happening on the main battlefield?"</p>
+<p class="orv_line">The Mass Production Maker smiled without answering. It seemed to mean he would tell me if I followed him.</p>
+<p class="orv_line">*</p>
+<p class="orv_line">After a flight of about ten minutes, we arrived at the Mass Production Maker's hideout. It was a hideout shaped like a giant floating castle, reminiscent of the 'Recycling Center'.</p>
+<p class="orv_line">[I will bring the key. The butler will guide you.]</p>
+<p class="orv_line">As we entered the hideout, a long corridor appeared. On the corridor walls, the stories of the 'scenario areas' he had collected so far were hung like paintings.</p>
+<p class="orv_line">[This bastard. The world is going to ruin, but he's living in such a luxurious place all by himself?]</p>
+<p class="orv_line">Listening to the grumbling of the Handsome Monkey King walking beside me, I examined the stories hanging on the corridor walls one by one. Among them were stories I knew well.</p>
+<div class="orv_quote"><p>「 Philia Hunter Academy. 」</p></div>
+<p class="orv_line">It was a school my companions and I had attended together once. The school attended by Ma Hyeonsung, the protagonist of "The Infinite Jailer".</p>
+<div class="orv_quote"><p>「 "Dokja-ssi." 」</p></div>
+<p class="orv_line">For a moment, dizziness struck along with an unknown pain. A side of my heart throbbed and my legs shook so much that it was hard to walk. But I did not turn on [The Fourth Wall]. I merely took a deep breath, pretending to be calm, and continued to walk down the corridor. Reading the time my companions and I had lived without avoiding anything.</p>
+<p class="orv_line">[This way, please.]</p>
+<p class="orv_line">Guided by the butler managing the center, we entered the drawing room, where luxurious dishes were prepared on the table.</p>
+<p class="orv_line">[What?]</p>
+<p class="orv_line">The Handsome Monkey King's eyes widened, and he ran straight to the table and began to stuff his face with the food. Dishes that at a glance recalled fine dining. Above all, what was extraordinary was the ingredients of those dishes.</p>
+<p class="orv_line">[Wait a minute. Isn't this the Great Pill of Reincarnation?]</p>
+<p class="orv_line">Not truffle, but a sandwich literally ground with the Great Pill of Reincarnation.</p>
+<p class="orv_line">[They are peaches of the Peach Orchard! How on earth did he get these? The Queen Mother of the West would never have allowed it.]</p>
+<p class="orv_line">Besides those, there was cold buckwheat noodles accompanied by Stalactite Liquid, and sous-vide Dragon Heart dishes. Having swept the table like that, the Handsome Monkey King finally swallowed the elixir of Taishang Lajuon topped on the ice cream served as dessert before speaking to me.</p>
+<p class="orv_line">[Hey.]</p>
+<p class="orv_line">"Yes?"</p>
+<p class="orv_line">[What on earth is your identity? Why is that old man treating you so well?]</p>
+<p class="orv_line">I answered while putting the elixir of Taishang Lajuon left on the table into my mouth. The elixir I thought would taste bitter unexpectedly tasted like sweet chocolate.</p>
+<p class="orv_line">"Probably because I am Kim Dokja."</p>
+<p class="orv_line">It wasn't an answer I expected the Handsome Monkey King to understand. Nevertheless, whatever the Handsome Monkey King was thinking, he stared at me intently and said something unexpected.</p>
+<p class="orv_line">[Well, of course. I know that much too.]</p>
+<p class="orv_line">After the meal, the Handsome Monkey King hesitated as if he had something to say, then pouted his lips and left the drawing room, saying, "I'll go look around for a bit." Watching his back vanish with the Out-of-Body Clone technique, I felt like I vaguely knew what he wanted to say to me.</p>
+<div class="orv_quote"><p>「 Perhaps he read the stories of the Great Sage Heaven's Equal of other worldlines in the 'Yangji Jade Vase'. 」</p></div>
+<p class="orv_line">Perhaps the reason he vanished was because he wanted to examine the stories of that worldline once more. The eldest brother must have foreseen all of this and sent the Yangji Jade Vase to the Handsome Monkey King of the 41st turn. While grateful for that consideration, my heart felt heavier on the other hand.</p>
+<div class="orv_quote"><p>「 Kim Dokja was now afraid of getting close to anyone. 」</p></div>
+<p class="orv_line">I looked around the drawing room, waiting for someone to enter. But neither the butler nor the Mass Production Maker returned.</p>
+<p class="orv_line">Sitting in the quiet drawing room on the night before destruction, eating the Great Pill of Reincarnation and the peaches of the Peach Orchard left by the Handsome Monkey King felt extremely strange, but from now on, there was not a single second to waste.</p>
+<p class="orv_line">Since things had turned out this way, it was best to handle the deferred tasks first. There were things to check ahead of the final showdown. Messages from constellations or nebulas that had arrived without my knowledge, records left by the recorders. Deferred scenario rewards. And...</p>
+<div class="orv_system"><p>[A new chapter of 'Omniscient Reader's Viewpoint' has been updated on the platform.]</p></div>
+<p class="orv_line">After a long time, I accessed the platform through my smartphone.</p>
+<div class="orv_quote"><p>「 The platform where the 'Side Stories' of Omniscient Reader's Viewpoint were serialized. 」</p></div>
+<p class="orv_line">Fortunately, the connection was smooth this time. I immediately checked the backlog of comments using the 'Daily Free Pass'.</p>
+<div class="orv_system"><p>[You have used all of today's allocated 'Daily Free Passes'!]</p></div>
+<p class="orv_line">In the past, I would have stopped reading once the 'Free Passes' were exhausted, but today was different. I read as many comments as possible, even spending additional coins. I remembered or took notes of comments that seemed like they would be of any help. Perhaps because I read a large number of comments, pop-up events appeared in between, giving me free passes.</p>
+<p class="orv_line">I also checked the comments of old chapters once more. Then, the faces of the people I had lived that time with rose one by one.</p>
+<p class="orv_line">Catching insects in the first scenario with Dansoo ahjussi.</p>
+<p class="orv_line">Hunting the first mole cricket with Kyung Sein.</p>
+<p class="orv_line">Escaping from the Ichthyosaur with Jung Heewon.</p>
+<p class="orv_line">Encountering Cha Sungwoo at the Dark Keeper's hideout.</p>
+<p class="orv_line">Talking about my work with Cha Yerin.</p>
+<p class="orv_line">Meeting the Yoo Joonghyuk of the 41st turn and becoming his companion.</p>
+<p class="orv_line">The readers also remembered the stories I remembered. Some memories were vivid, while others were faint—but thinking that someone had read all those stories after all made me feel strange.</p>
+<p class="orv_line">As it came to the recent chapters, the atmosphere of the comments became darker.</p>
+<p class="orv_line">— Is it true? Is it ending like this?</p>
+<p class="orv_line">Expressions of sadness or lamentation.</p>
+<p class="orv_line">— He's really dying?</p>
+<p class="orv_line">Words that didn't feel like there was any hope. Nevertheless, looking at those comments, strangely, my heart became calm.</p>
+<p class="orv_line">— I'm rooting for you.</p>
+<p class="orv_line">Perhaps it was because of the reader's comment I checked at the very end.</p>
+<p class="orv_line">[You still like reading something.]</p>
+<p class="orv_line">Suddenly looking up, the 'Mass Production Maker' was in front of my eyes. Somehow, it was a landscape that gave me a sense of déjà vu. The memory of sitting in his passenger seat and reading something while traversing the &lt;Star Stream&gt; came to mind. It was a memory of Kim Dokja that I knew well.</p>
+<p class="orv_line">[At that time, you were reading a blank screen.]</p>
+<p class="orv_line">"Was I?"</p>
+<p class="orv_line">[How is it? Is the sentence you wanted written in that blank space now?]</p>
+<p class="orv_line">I stared down at the smartphone screen for a moment, then replied:</p>
+<p class="orv_line">"I think I'll only know that when this story is completely finished."</p>
+<p class="orv_line">Only now did I seem to understand why the Mass Production Maker brought me here. He was giving me, standing before a dead end, time to look back on all these paths one last time.</p>
+<p class="orv_line">"The meal was really delicious."</p>
+<p class="orv_line">[I wanted to feed you something. Right now, your incarnation body looks extremely unstable.]</p>
+<p class="orv_line">"Thank you for your concern."</p>
+<p class="orv_line">Bowing my head, I looked closely at the Mass Production Maker's face. Suddenly, the memory of meeting him for the last time at 'Philia Academy' came to mind. Perhaps the Mass Production Maker also recalled that time, as he spoke to me with an enigmatic smile:</p>
+<p class="orv_line">[You have a face that looks much more like the person I knew back then.]</p>
+<p class="orv_line">"Are you the 'Mass Production Maker' I know?"</p>
+<p class="orv_line">[Who is the 'Mass Production Maker' you know?]</p>
+<p class="orv_line">"A star who can spend all the coins he has collected just to see the conclusion he wants."</p>
+<p class="orv_line">The Mass Production Maker laughed, whatever he thought of my answer. I looked straight at him and said:</p>
+<p class="orv_line">"I need your help."</p>
+<p class="orv_line">[But you are not the 'Kim Dokja' I know.]</p>
+<p class="orv_line">"But you came all the way here because you were curious about his story, didn't you?"</p>
+<p class="orv_line">[Do you really intend to become that 'Kim Dokja'?]</p>
+<p class="orv_line">The moment I received his question, the stories inside me squirmed.</p>
+<div class="orv_system"><p>[The story 'Demon King of Salvation' begins its narration!]</p></div>
+<div class="orv_system"><p>[The story 'King of Terror' begins its narration!]</p></div>
+<div class="orv_system"><p>[The story 'Prisoner of the Golden Headband' begins its narration!]</p></div>
+<p class="orv_line">In response to his intense desire, the stories inside me reacted first. But the Mass Production Maker looked at me with warm eyes, as if calming the stories down.</p>
+<p class="orv_line">[I want to hear your story, not the stories.]</p>
+<p class="orv_line">"I am still here as Kim Dokja."</p>
+<p class="orv_line">[Is that your will? Or the will of the story?]</p>
+<p class="orv_line">I hesitated for a moment before answering.</p>
+<p class="orv_line">"Now I cannot distinguish it well either."</p>
+<p class="orv_line">[You are indeed honest.]</p>
+<p class="orv_line">"Whether we control the stories or are controlled by the stories, what's more important in the end is what we get to see through this story."</p>
+<p class="orv_line">As if slightly surprised by my answer, the Mass Production Maker's eyes wavered.</p>
+<p class="orv_line">"Mass Production Maker. The fact that you are here even after confirming the ■■ must mean you were not satisfied with that conclusion."</p>
+<p class="orv_line">The Mass Production Maker shook his head and replied:</p>
+<p class="orv_line">[No, I was satisfied. Perhaps the problem was that it was too satisfying.]</p>
+<p class="orv_line">The Mass Production Maker continued with a bitter smile:</p>
+<p class="orv_line">[Even though I knew that some afterstories are beautifully completed only when left as blank spaces, I still wanted to check all the blank spaces. Probably because I loved that story too much.]</p>
+<p class="orv_line">"......"</p>
+<p class="orv_line">[It wouldn't be just me. All the constellations who possessed or descended into this worldline with me would have felt the same way.]</p>
+<p class="orv_line">I thought of Uriel whom I met at the 'Recycling Center', and the Great Sage Heaven's Equal whom I met in the 'Bush of the Missing'.</p>
+<p class="orv_line">[Actually, I regret it a little. There are times when I think that you ended up like this because we wanted to see the blank spaces of that story.]</p>
+<p class="orv_line">Before I could answer that it wasn't so, the Mass Production Maker shook his head.</p>
+<p class="orv_line">[Anyway, you have finally come this far. I offer my sincere respect to you.]</p>
+<p class="orv_line">"Thank you."</p>
+<p class="orv_line">[But main battlefield in your brother is too strong. And by that brother's side, terrifying owners of stories are holding their ground.]</p>
+<p class="orv_line">"Who is it?"</p>
+<p class="orv_line">The Mass Production Maker did not answer. Instead, looking straight at me with unreadable eyes, he said:</p>
+<p class="orv_line">[You will die.]</p>
+<p class="orv_line">"Kim Dokja dying is a regular occurrence anyway, isn't it?"</p>
+<p class="orv_line">[I want to see a different conclusion.]</p>
+<p class="orv_line">It was fresh to realize he was a star capable of making such a worried expression. I grinned and replied:</p>
+<p class="orv_line">"Don't worry. A conclusion beyond what you imagined will be waiting."</p>
+<p class="orv_line">[The opponent is a 'reader' who has read all the stories of this world.]</p>
+<p class="orv_line">"I know."</p>
+<p class="orv_line">[Do you really believe you can write a story that will convince him?]</p>
+<p class="orv_line">"I can't make such a guarantee. But..."</p>
+<p class="orv_line">I recalled the last words Ji Eunyu had left me.</p>
+<div class="orv_quote"><p>「 "I want Kim Dokja to survive this time too." 」</p></div>
+<p class="orv_line">Simply chewing over those words again and again, I answered:</p>
+<p class="orv_line">"Kim Dokja will definitely survive and see the conclusion he wants. And you will too."</p>
+<p class="orv_line">The Mass Production Maker looked at me for a moment, then pulled a splendid key from his chest and handed it to me.</p>
+<div class="orv_system"><p>[You have acquired the 'Key of the Wealth Emperor'!]</p></div>
+<p class="orv_line">It was the first key to open the gate of the 'main battlefield'.</p>
+<p class="orv_line">[The Handsome Monkey King and I will help you. But I can't guarantee what the other two Kings will do.]</p>
+<p class="orv_line">I wasn't surprised since the Handsome Monkey King had already said something similar.</p>
+<p class="orv_line">[I know what you're thinking. But the other Kings will really be different from me.]</p>
+<p class="orv_line">"I don't care. If they can't be convinced, I'll take the keys by force and go up."</p>
+<p class="orv_line">The Mass Production Maker smiled bitterly at my response.</p>
+<p class="orv_line">[Unfortunately, you won't be able to do that. Because—]</p>
+<p class="orv_line">The sound of thunder was heard from the distant sky. Dark rain was falling over the sky of the &lt;Star Stream&gt; where the starlight had gone out.</p>
+<p class="orv_line">[The remaining two 'Kings' are existences you know extremely well.]</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_1031"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./ch_1033">Next<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></a>
+        </div>
+         <div class="evadav">
+         </div>
+           
+        <div class="donation-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #ffb74d; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(255, 183, 77, 0.08);">
+    <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💖 <strong>This site is maintained by Readers like you!</strong></p>
+    <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Hosting and domain costs are funded entirely through community donations.</p>
+    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+        <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #ffb74d; color: #1a1a2e; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
+        <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
+    </div>
+</div>
+    <div style="max-width: 800px; margin: -15px auto 20px auto; text-align: left;">
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/promote.md" 
+           style="font-size: 0.65em; color: var(--text-primary); opacity: 0.3; text-decoration: none; font-family: sans-serif;">
+           Promote with us
+        </a>
+    </div>
+
+        <div class="giscus" id="comments" style="margin-top: -8px;">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="1031" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
+        data-term="1914" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top"
+        data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>
