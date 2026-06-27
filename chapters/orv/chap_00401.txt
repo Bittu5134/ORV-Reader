@@ -100,7 +100,7 @@ He began forming an expression of sheer rapturous ecstasy. As blood continued to
 "Kill me! Hurry!! Please kill meeee!"
 I couldn't figure out what the hell was wrong with this guy's head. In any case, I couldn't waste any more time here. If I couldn't extract the list from this guy, then I'd have to personally search around.
 I was about to smash the man's head in without hesitation, but then, a message suddenly floated up.
-<@>[Members from the same camp have…]
+<!>[Members from the same camp have…]
 <!>[Current Chaos Points: 87]
 Damn it, I forgot that he was also 'Evil'.
 Just as I let go of his neck, the Story leaking out of his seven orifices suddenly increased in volume and his body began rapidly expanding. And then, he began smiling in a bizarre manner.
@@ -122,7 +122,7 @@ He used to be a Constellation of <Vedas> once upon a time, but after the Olympus
 "I simply got lucky."
 <@>[True, the absent-minded Indra might come across as a neighbourhood dummy sometimes, but still, he's not someone you can defeat by relying on luck.]
 Perhaps because he had left <Vedas>, Surya didn't seem all that perturbed while talking about Indra's fate. He scanned the fragments of the 'Seeker of the End' he ended just now, and spoke.
-<!>[I was wondering why the Giant Story's state felt off, but now I see that 'Seekers of the End' have shown up in this place.]
+<@>[I was wondering why the Giant Story's state felt off, but now I see that 'Seekers of the End' have shown up in this place.]
 "Were you aware of them?"
 <@>[These bastards had infiltrated <Vedas> once before.]
 …Even <Vedas>?
