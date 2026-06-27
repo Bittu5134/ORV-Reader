@@ -6,7 +6,9 @@ Such a thing happened often back in the Journey to the West.
 <!>[One additional point has been awarded.]
 A spirit would suddenly pop out of nowhere and help out the group, saying that it was the will of the Buddha-nim or something similar. Such blatant acts of ignoring probability and deus ex machina ran rampant in the original Journey to the West; so much so that I had to wonder whether it was the very first 'lump all lucky coincidences to one person' type novel or not.
 I courteously bowed a little and spoke. "Thank you for helping us out always."
-<@>[…Only doing it because I've been told to. Perhaps reminded of someone right now, Jang Hayoung looked up at the sky with a resentful expression and muttered to no one in particular. Count yourself lucky… If I hadn't been late, the role of the 'Demon King of Salvation' would've been mine…]
+<@>[…Only doing it because I've been told to.]
+Perhaps reminded of someone right now, Jang Hayoung looked up at the sky with a resentful expression and muttered to no one in particular. 
+<@>[Count yourself lucky… If I hadn't been late, the role of the 'Demon King of Salvation' would've been mine…]
 That came out so naturally, didn't it. It seemed that this role was supposed to be Jang Hayoung's.
 "…Why did you want to perform this role?"
 She looked at me with distant eyes before shaking her head with a smirk.
@@ -80,7 +82,7 @@ This march of the Yogoes even earned a nickname, to boot: the Pilgrimage.
 Countless Yogoes, journeying to India so that they could become enlightened on their existence.
 <!>[A portion of audience members are entering the applicable scenario in order to view the 'Pilgrimage'.]
 Heck, recommendations for our Story chamber even showed up in the 'Journey to the West' recommendation bulletin board, too.
-<@>[Cool Zhu Bajie and Sha Wujing, adorable Tang Sanzang, and the soft Sun Wukong.]
+<!>[Cool Zhu Bajie and Sha Wujing, adorable Tang Sanzang, and the soft Sun Wukong.]
 Author: uri9158
 – Review: Zhu Bajie is so cool, and Tang Sanzangs are super cute, too.
 <!>['I've become the retired SSSSS-rank', a masterpiece that initially sounds like a mass-produced Story.]
@@ -93,11 +95,11 @@ Shin Yoosung walking at the rear of the group next to me kept glancing behind he
 "…Hi?"
 I was slightly nervous about the Yogoe suddenly attacking her, but thankfully, what I feared didn't happen.
 Yogoe crouched like an obedient puppy and rubbed its nose against the tip of her fingers. This guy was no longer the terrifying 'Outer God' that I knew of.
-<@>[SowarmSowarmSowarmSowarm]
+<#>[SowarmSowarmSowarmSowarm]
 They were not the 'demonic beasts' that Shin Yoosung could tame. Well, 'Outer Gods' weren't designated as one of those friendly lifeforms, after all. They were simply 'things' that lost their usefulness, wandering around on the outside of scenarios.
 Even then, Shin Yoosung carefully paid attention to them with a serious expression on her face.
-<@>[YoosungYoosungYoosungYoosungYoosung]
-<@>[NamemeNamemeNamemeNamemeNameme]
+<#>[YoosungYoosungYoosungYoosungYoosung]
+<#>[NamemeNamemeNamemeNamemeNameme]
 Did she actually understand them?
 Could she understand their words and see what their real appearance was?
 I hesitated a little before asking her. "Aren't you afraid?"
@@ -111,8 +113,8 @@ I saw her determined eyes scanning the ranks of Yogoes and bit down hard on my l
 <!>[Notice to all Constellation-nims currently participating in the scenario.]
 An unannounced broadcast suddenly came from somewhere.
 The surrounding atmosphere trembled and Yogoes all looked up at the sky with worried expressions.
-<@>[TheycomingTheycomingTheycomingTheycoming]
-<@>[DontlikeDontlikeDontlikeDontlikeDontlike]
+<#>[TheycomingTheycomingTheycomingTheycoming]
+<#>[DontlikeDontlikeDontlikeDontlikeDontlike]
 Cries of the 'Outer Gods' rose up from here and there.
 A Great Dokkaebi appearing as a semi-transparent figure was being transmitted in the sky above.
 <@>[The 'Journey to the West Remake' scenario is gradually inching towards its conclusion. I heard that recently, due to the point gap between the upper ranks and the middle being too great, many Constellation-nims are half-way giving up on the scenario itself.]
@@ -126,7 +128,8 @@ Along with Lee Jihye's loud yell, our surroundings began transforming. As the ra
 <!>[The 'I've become the retired SSSSS-rank Sun Wukong' has been incorporated into the 'Giant Story'.]
 (Sun Wukong knew which river this was.)
 (They were now in the western riverbank of Tongtian River. This was the final hurdle before reaching India.)
-The Great Dokkaebi laughed. [Deciding the first spot through just the score alone is not amusing. However, isn't 'finding out which 'Story' is stronger' the natural law of <Star Stream>?]
+The Great Dokkaebi laughed. 
+<@>[Deciding the first spot through just the score alone is not amusing. However, isn't 'finding out which 'Story' is stronger' the natural law of <Star Stream>?]
 <!>[Many audience members are cheering on and agreeing with that declaration!]
 <!>[A small number of audience members are smacking their lips!]
 <!>[A portion of judges are frowning at the interference of a Great Dokkaebi.]
