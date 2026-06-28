@@ -139,9 +139,9 @@ def main():
         try:
             with open(CONT_JSON_PATH, "r", encoding="utf-8") as f:
                 old_data = json.load(f)
-                # Map title -> existing data dict
+                # Map index -> existing data dict
                 existing_map = {
-                    item["title"]: item for item in old_data if "title" in item
+                    item["index"]: item for item in old_data if "index" in item
                 }
         except Exception as e:
             print(f"⚠️ Could not parse existing cont.json file: {e}. Starting fresh.")
@@ -182,15 +182,21 @@ def main():
         t_name = item["title"]
         idx = item["index"]
 
-        # Check if this title was already completely verified in previous runs
+        # Check if this index was already completely verified in previous runs
         if (
-            t_name in existing_map
-            and existing_map[t_name].get("discussion") is not None
+            idx in existing_map
+            and existing_map[idx].get("discussion") is not None
         ):
-            print(
-                f'⏩ [{idx + 1}] Skipping verification: "{t_name}" already exists in records.'
-            )
-            item["discussion"] = existing_map[t_name]["discussion"]
+            old_title = existing_map[idx].get("title", "")
+            if old_title != t_name:
+                print(
+                    f'⏩ [{idx + 1}] Title updated: "{old_title}" -> "{t_name}". Reusing existing discussion ID.'
+                )
+            else:
+                print(
+                    f'⏩ [{idx + 1}] Skipping verification: "{t_name}" already exists in records.'
+                )
+            item["discussion"] = existing_map[idx]["discussion"]
             continue
 
         # Target item is confirmed brand new or incomplete! Run processing logic

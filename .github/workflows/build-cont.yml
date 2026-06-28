@@ -35,8 +35,8 @@ jobs:
           python scripts/side/system-extractor.py
           python scripts/side/ai.py
           python scripts/side/system-text-format.py
-          python scripts/side/htmlBuilder.py
           python scripts/side/titles.py
+          python scripts/side/htmlBuilder.py
         env:
           PYTHONIOENCODING: "utf-8" 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

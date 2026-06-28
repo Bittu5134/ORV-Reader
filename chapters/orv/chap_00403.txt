@@ -12,7 +12,7 @@ Han Sooyoung didn't seem to know.
 Herself from the 1863rd regression turn must've not told her of it, it seems.
 I recalled that version of Han Sooyoung, wearing the exact same white coat as me. That meticulous person wouldn't have forgotten about it, so it was more likely that her choice was deliberate.
 – It's too long to explain right now.
-I couldn't really tell. However, she might have believed that not knowing would be more advantageous for herself in the 3rd turn.
+Really, i could tell. However, she might have believed that not knowing would be more advantageous for herself in the 3rd turn.
 I felt just a bit strange after recalling Han Sooyoung from the 1863rd turn after such a long while.
 That turn, when I went to visit it, was already facing its final battle. Did Han Sooyoung survive that battle? If she did, what kind of person would she have become now?
 I shifted my head to find Yoo Joonghyuk staring at me.
@@ -21,7 +21,7 @@ I shifted my head to find Yoo Joonghyuk staring at me.
 As if he knew it, he turned his head away.
 He looked as if he was rueful about something. If I had accepted the offer, then he might have lopped my head off right this instant or something.
 Meanwhile, Great Dokkaebis were still waiting for me.
-<!>[Your decision?]
+<@>[Your decision?]
 "Well, I'm sure you've already guessed it… No thanks."
 <@>[And your reason is?]
 "Because it's suspicious."
@@ -43,7 +43,7 @@ The Stream Contract. A type of contract that I had with Bihyung once upon a time
 The two Great Dokkaebis formed surprised expressions. I decided to land another blow. "In order to become the 'Final Storyteller', you are trying to take my Story and use it, aren't you?"
 <@>[…How do you know things like this?]
 "I'm not interested in your offer."
-<@>[Then, your group will die here.]
+<@>[Then your group will die here.]
 "We don't know that. Didn't you say it earlier? It's 'almost' a guarantee. In that case, there's a very low chance of us not dying."
 <@>[Have you not seen the Calamity from the other world-line?]
 This time, it was my turn to be surprised. It seemed that Great Dokkaebis were now more or less aware of the events of the 1863rd regression turn.
@@ -108,7 +108,7 @@ I saw my companions rush over here from the distance.
 "Dokja hyung!"
 I saw Shin Yoosung and Lee Gilyoung, and Lee Jihye leading the battleship as well as Jung Heewon. Uriel was accompanying them, her expression complicated.
 She saw Gabriel in my arms and was taken greatly by surprise.
-<!>[…Gabriel!!]
+<@>[…Gabriel!!]
 I handed the wounded Archangel over to her. I quickly looked at my companions first as there wasn't a lot of time for a detailed explanation.
 "Ahjussi, is the Apocalypse Dragon really going to wake up?"
 I nodded my head.

@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1031 Episode 63. Ragnarok (5)</title>
+    <meta property="og:title" content="1031 Episode 63. Ragnarok (5)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+    
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="51" id="set-font-size">
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
+			</div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+                </select>
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <a href="../../../download.html"><button>Download Full EPUB</button></a>
+        <hr>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/side/1031.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>1031 Episode 63. Ragnarok (5)</h1></div>
+<p class="orv_line">The Handsome Monkey King was not in a good mood today. There were many reasons for his bad mood, and to be more precise, it wasn't just today that he was in a bad mood.</p>
+<div class="orv_notice"><p> [TL Note: "Handsome Monkey King" (미후왕 / Mihuwang) is the title of Sun Wukong. (and his brothers who share his name)]</p></div>
+<p class="orv_line">For a constellation of the Handsome Monkey King's level, it was possible to read the heavenly secret of the &lt;Star Stream&gt;. Though it was called a heavenly secret, to put it simply, it felt like this:</p>
+<div class="orv_quote"><p>「 Predicting what will happen in the future through the positions of the constellations. 」</p></div>
+<p class="orv_line">Reading the heavenly secret was similar to analyzing the stock market for humans.</p>
+<div class="orv_quote"><p>「 Watching the movements of each faction, institution, and foreigner, observing their positions, and finding out what will happen to the market in the future. 」</p></div>
+<p class="orv_line">For reference, the market trend of the &lt;Star Stream&gt; today that he had read was as follows:</p>
+<p class="orv_line">[Did everyone really die?]</p>
+<p class="orv_line">Of course, the stars in the sky weren't actually all delisted. Nevertheless, the stars were clearly declining. The light of the once-powerful 'giant nebulas' was going out, and the stars that had looked down on the world from the top of the sky suddenly vanished or fell.</p>
+<p class="orv_line">[Are you really going to give up like this! Where did all those myth-grade constellations who used to show off so much go!]</p>
+<p class="orv_line">There is nothing more helpless than waiting for the end in a world that might perish at any moment. The Handsome Monkey King stood up abruptly, swallowing his anger.</p>
+<p class="orv_line">[If we're going to die anyway, we should at least struggle!]</p>
+<p class="orv_line">Currently, he was one of the four 'Kings' ruling this 'Hall'. Specifically, he was called the 'Monkey King' of the North.</p>
+<p class="orv_line">[U-Uaaah!]</p>
+<p class="orv_line">[My King!]</p>
+<p class="orv_line">Whenever he passed by, the foolish constellations wearing monkey masks shouted.</p>
+<div class="orv_system"><p>[The constellation 'A Certain Monkey of the Water Curtain Cave' prays to you!]</p></div>
+<p class="orv_line">Because they had witnessed the great catastrophe of 'Ragnarok' with their own eyes, their minds had collapsed and their stories had shattered, leaving them unable to live without relying on the stories of other stars.</p>
+<p class="orv_line">The Handsome Monkey King patted the shoulders of those stars lightly, then glared at the sky and said:</p>
+<p class="orv_line">[If worst comes to worst, I want to invade even if I'm alone, but...]</p>
+<p class="orv_line">The Handsome Monkey King also didn't fail to understand the feelings of the stars that fled from the end. Beyond the 'gate' that this Hall sealed, there were indeed such monsters teeming. The Handsome Monkey King had also clearly seen what monsters were on the main battlefield of 'Ragnarok'. Even his brothers were all killed by those monsters.</p>
+<p class="orv_line">Great Sage Heaven's Equal.</p>
+<p class="orv_line">Bimawen.</p>
+<p class="orv_line">Victorious Fighting Buddha.</p>
+<p class="orv_line">He and his brothers had all participated in 'Ragnarok'. His brothers' plan was simple. They planned to take advantage of the chaos in the heavenly realm to steal core stories from &lt;Emperor&gt;'s Three Sovereigns and Five Emperors, thereby leaping to become 'myth-grade constellations'.</p>
+<p class="orv_line">The plan proceeded sequentially, and a myth-grade constellation was just around the corner. That was, until the 'great catastrophe' of 'Ragnarok' suddenly opened its eyes.</p>
+<div class="orv_quote"><p>「 At a single word from the great catastrophe, half of the stars in the night sky fell. 」</p></div>
+<p class="orv_line">Among the shattered half were his brothers. Fortunately, his brothers had transferred all of their stories to him right before their dissipation, but in return, their souls disappeared from the &lt;Star Stream&gt;.</p>
+<div class="orv_system"><p>[Your incomplete story finishes its narration.]</p></div>
+<p class="orv_line">Fortunately, the Handsome Monkey King was in an area far from the catastrophe, so he was able to avoid the dissipation of his incarnation body. But his other brothers were not so lucky. Clenching the stories of his brothers lodged inside him, the Handsome Monkey King bit his lips tightly.</p>
+<p class="orv_line">His brothers were all detestable fellows. But no matter how detestable they were, brothers were brothers. He had not ruled out the thought of revenge either.</p>
+<div class="orv_quote"><p>「 "Handsome Monkey King. You must survive." 」</p></div>
+<p class="orv_line">The one who stopped him was the incarnation he cherished. The incarnation of the Korean Peninsula, Min Jiwon. Using the 'Pluck of Request' that the Handsome Monkey King had given her once, she banished his incarnation body from the 'main battlefield'.</p>
+<div class="orv_quote"><p>「 "Please, survive somehow—" 」</p></div>
+<p class="orv_line">To survive and plot for the future. That was her last message.</p>
+<div class="orv_system"><p>[The contract of the 'Pluck of Request' is activated!]</p></div>
+<div class="orv_system"><p>[You have been banished from the 'Main Battlefield'!]</p></div>
+<div class="orv_system"><p>[You cannot participate in the 'Main Battlefield' for the next two months!]</p></div>
+<p class="orv_line">Since then, he had tried contacting her several times, but no news returned.</p>
+<div class="orv_quote"><p>「 Tomorrow, the restriction on participating in the 'main battlefield' forced upon him by the 'Pluck of Request' would end. 」</p></div>
+<p class="orv_line">By tomorrow, it would be two months since the Handsome Monkey King came to this 'Hall'. During those two months, he recovered his strength and prepared to return to the 'main battlefield'.</p>
+<p class="orv_line">The problem was that in order to return to the 'main battlefield', he needed the cooperation of the other Kings.</p>
+<div class="orv_quote"><p>「 Two months ago, the Handsome Monkey King, along with the other Kings, had sealed the gate leading to the 'main battlefield'. 」</p></div>
+<p class="orv_line">Because of this issue, the Handsome Monkey King had gone to see the other Kings several times. Saying that his strength was fully recovered, so let's go up to the battlefield once more and fight against the catastrophe. But none of the other three Kings had any intention of opening that 'gate' again.</p>
+<p class="orv_line">[Cowards.]</p>
+<p class="orv_line">Only then did the Handsome Monkey King think that perhaps his ■■ ended here. His long-cherished wish to rise to the myth-grade and take revenge on the heavenly realm had gone awry, and the giant nebulas he hated had fallen.</p>
+<p class="orv_line">[Is it really up to here.]</p>
+<p class="orv_line">Had he ever seen such a dark sky in the &lt;Star Stream&gt; before? Looking at the sky of the &lt;Star Stream&gt; which had now lost even its day, the Handsome Monkey King remembered his brothers.</p>
+<div class="orv_quote"><p>「 It was then that a new star rose in the sky. 」</p></div>
+<p class="orv_line">Startled, the Handsome Monkey King glared at the sky with wide eyes. A star he had never seen before, yet its bright light gave him a sense of déjà vu. At the same time, the Handsome Monkey King sensed an unusual current pervading the battlefield.</p>
+<p class="orv_line">The shaking ground. The sound of chains breaking.</p>
+<div class="orv_quote"><p>「 Someone is trying to open the 'gate'. 」</p></div>
+<br>
+<hr>
+<br>
+<p class="orv_line">The moment I saw the constellation in front of me, sharp memories rushed in. The image of my big brother, who threw away everything to save me, was vivid in my eyes.</p>
+<p class="orv_line">"You are..."</p>
+<p class="orv_line">After taking a breath, the memories receded like the tide, and the being in front of me was clearly visible.</p>
+<p class="orv_line">"You are not the Great Sage Heaven's Equal."</p>
+<p class="orv_line">It was a subtle difference, but I could tell. The 'Monkey King' in front of me was not the Great Sage Heaven's Equal. He was his brother, who possessed the Great Sage's story.</p>
+<p class="orv_line">"Are you... the Handsome Monkey King?"</p>
+<p class="orv_line">At my call, the Handsome Monkey King's lips twitched.</p>
+<p class="orv_line">[I asked. How did you get my star relic—]</p>
+<p class="orv_line">"This vase is not from this world."</p>
+<p class="orv_line">Instead of a detailed explanation, I threw the star relic 'Yangji Jade Vase' to him. Receiving the star relic in a daze, he opened his eyes wide and began to examine the 'Yangji Jade Vase'.</p>
+<p class="orv_line">I looked at the Handsome Monkey King and asked:</p>
+<p class="orv_line">"Are your other brothers here by any chance?"</p>
+<p class="orv_line">The Handsome Monkey King's presence here meant that his other brothers must have also participated in 'Ragnarok'. But his answer completely betrayed my expectations.</p>
+<p class="orv_line">[Some are dead, and some are inside me.]</p>
+<p class="orv_line">Watching the Handsome Monkey King continue his chilling tale without any change in expression, I realized anew that the end of the &lt;Star Stream&gt; was truly right in front of us.</p>
+<div class="orv_quote"><p>「 In this worldline, the Great Sage Heaven's Equal did not become 'The Oldest Liberator'. 」</p></div>
+<p class="orv_line">I had expected it to some extent, but seeing him unified in an incomplete state made my mind complicated.</p>
+<div class="orv_quote"><p>「 In this turn, the 'myth-grade constellation' Sun Wukong does not exist. 」</p></div>
+<p class="orv_line">After looking at the Yangji Jade Vase for a long time, the Handsome Monkey King snapped his head up.</p>
+<p class="orv_line">[Wait a minute. Are you... that guy from back then?]</p>
+<p class="orv_line">Recognizing me late, the Handsome Monkey King's eyes widened. In fact, I was acquainted with the Handsome Monkey King. I had met him once when doing a scenario related to the 'Twelve Zodiacs' at the 'Recycling Center'.</p>
+<p class="orv_line">"Yes. Let me introduce myself again. My name is..."</p>
+<p class="orv_line">[Kim Dokja.]</p>
+<p class="orv_line">The Handsome Monkey King glared at me as if he detested that name.</p>
+<p class="orv_line">[I know. Because I know the 'catastrophe' with the exact same name as yours.]</p>
+<p class="orv_line">As if he already knew of 'Snowfield Kim Dokja', the Handsome Monkey King spoke without hiding his anger in the slightest.</p>
+<div class="orv_quote"><p>「 Ahead of the destruction of the &lt;Star Stream&gt;, two beings who had lost their brothers faced each other. 」</p></div>
+<p class="orv_line">I hid my bitter smile at this ironic play of fate and said:</p>
+<p class="orv_line">"Yes. I came to stop that guy."</p>
+<p class="orv_line">[Stop... the catastrophe?]</p>
+<p class="orv_line">"Yes."</p>
+<p class="orv_line">The being in front of me was that 'Handsome Monkey King'. I believed that he, of all people, would understand my heart.</p>
+<p class="orv_line">[You are talking nonsense.]</p>
+<p class="orv_line">But the Handsome Monkey King's response was cold.</p>
+<p class="orv_line">[What on earth are you going to stop! How is someone like you going to stop the 'catastrophe of Ragnarok'? The great catastrophe that even myth-grade constellations couldn't stop—]</p>
+<p class="orv_line">"I can do it."</p>
+<p class="orv_line">The Handsome Monkey King glared at my calm answer. Then, as if hiding a trembling voice, he said:</p>
+<p class="orv_line">[Even if that were possible, it's too late. The battle of 'Ragnarok' already ended two months ago.]</p>
+<p class="orv_line">Looking at the 'gate' shrouded in an ominous aura, he added with a sigh:</p>
+<p class="orv_line">[Now this world has nothing left but destruction.]</p>
+<br>
+<hr>
+<br>
+<p class="orv_line">For a while after that, I sat near the 'gate' and listened to the story of what had happened to the scenario from the Handsome Monkey King.</p>
+<div class="orv_quote"><p>「 During the week I slept in the 'Yangji Jade Vase', two months had already passed outside. 」</p></div>
+<p class="orv_line">I thought that might be the case. It was something I had expected ever since I met Ji Eunyu in the 'record archives'. Once again, I had ended up late. But being late was a regular occurrence for me. The important thing was how to make up for that lateness from now on.</p>
+<p class="orv_line">[Do you really intend to go to the 'main battlefield'? Even though the battle is over?]</p>
+<p class="orv_line">"Yes."</p>
+<p class="orv_line">[There will be no constellation to help you.]</p>
+<p class="orv_line">"Aren't you here?"</p>
+<p class="orv_line">The Handsome Monkey King's face contorted at my cheeky answer.</p>
+<p class="orv_line">[It's obvious that entering there will lead to dissipation, so why should I help you?]</p>
+<p class="orv_line">"You still want to fight, don't you? Isn't that why you waited here?"</p>
+<p class="orv_line">The Handsome Monkey King only pouted his lips without agreeing or denying.</p>
+<p class="orv_line">[What do you know...]</p>
+<p class="orv_line">Even though he spoke like that, I knew what kind of constellation the Handsome Monkey King was. After mumbling to himself for a while, the Handsome Monkey King suddenly turned his head toward me and asked:</p>
+<p class="orv_line">[Were you planning to break the 'gate' and enter?]</p>
+<p class="orv_line">"That's right."</p>
+<p class="orv_line">[If you force that gate open, there will be a penalty.]</p>
+<p class="orv_line">"I don't care."</p>
+<p class="orv_line">To be honest, if I hadn't met the Handsome Monkey King, I would have broken the gate and gone up anyway.</p>
+<p class="orv_line">[Foolish! If you really intend to go up and fight, why on earth would you do that? How are you going to challenge an opponent you have no chance against even without penalties, while carrying a penalty on your back!]</p>
+<p class="orv_line">"So, will you help me?"</p>
+<p class="orv_line">The Handsome Monkey King glared at me with his burning Golden Pupils, then answered like a sigh:</p>
+<p class="orv_line">[Fine, I'll help.]</p>
+<p class="orv_line">I didn't expect him to agree so quickly. Avoiding my gaze, the Handsome Monkey King turned his eyes back to the 'gate' and said:</p>
+<p class="orv_line">[The incarnation I cherished often spoke of you.]</p>
+<p class="orv_line">I immediately understood whose story that was.</p>
+<p class="orv_line">[Even at the moment she sent me here... for some reason, she seemed to be waiting for you.]</p>
+<p class="orv_line">"......"</p>
+<p class="orv_line">[I thought that if I helped you one last time, she would like it. It's not like I believe you can defeat the catastrophe.]</p>
+<p class="orv_line">"What happened to her?"</p>
+<p class="orv_line">[Her incarnation body vanished. But I don't know if even her soul has perished. Because she had the power of a 'recorder'.]</p>
+<p class="orv_line">That's right. Ji Eunyu was a being who became the 'Recorder of Fear' through her contract with the lump-headed dokkaebi. If so, there was still hope.</p>
+<p class="orv_line">"Is it true that the catastrophe used the power of 'the Oldest Dream'?"</p>
+<p class="orv_line">The Handsome Monkey King said. Snowfield Kim Dokja exerted the authority of 'the Oldest Dream', and at that moment, half of the stars in 'Ragnarok' disappeared.</p>
+<p class="orv_line">[That's right.]</p>
+<p class="orv_line">I could vaguely guess what kind of power he had used.</p>
+<div class="orv_quote"><p>「 Interruption of Reading. 」</p></div>
+<p class="orv_line">Perhaps 'Snowfield Kim Dokja' had manifested the authority to 'no longer read' some of the constellations existing in this world. But there was something I couldn't understand. If he really was able to use the power of 'the Oldest Dream', there was no need to go through the troublesome effort of reducing the stars by half. Yet the fact that he did such a thing meant...</p>
+<p class="orv_line">[That entity is not the only threat. The 'catastrophes of another world' are protecting him. They are terrifying guys who suddenly appeared two months ago.]</p>
+<p class="orv_line">Otherworld catastrophes? I wondered who on earth that was referring to for a moment and asked:</p>
+<p class="orv_line">"By any chance, have you heard any news about &lt;Kim Dokja's Company&gt;?"</p>
+<p class="orv_line">[Kim Dokja's Company?]</p>
+<p class="orv_line">The Handsome Monkey King looked at me as if I were talking nonsense. Apparently, the Handsome Monkey King didn't know who &lt;Kim Dokja's Company&gt; referred to.</p>
+<p class="orv_line">I thought for a moment and gave an example of one of them.</p>
+<p class="orv_line">"Well, with a handsome face—"</p>
+<p class="orv_line">[Handsome? How much?]</p>
+<p class="orv_line">"You'll know as soon as you see him. And he always wears a black coat..."</p>
+<p class="orv_line">[Ah! Was that guy from &lt;Kim Dokja's Company&gt;? If it's him—]</p>
+<p class="orv_line">Indeed, no matter what, there was no way he wouldn't recognize Yoo Joonghyuk.</p>
+<p class="orv_line">[That guy should still be on the 'main battlefield'.]</p>
+<p class="orv_line">The moment I heard his answer, a message rose above the 'gate'.</p>
+<div class="orv_window">
+<p><!>[Currently, 97% of the 'Main Battlefield' has been occupied by the 'Catastrophe Camp'.]</p>
+<p><!>[If all beings belonging to the 'Constellation Camp' perish, the final phase of 'Ragnarok' will begin.]</p>
+</div>
+<p class="orv_line">Three percent. That dizzying number was proof that Yoo Joonghyuk was still fighting in that world.</p>
+<p class="orv_line">"Didn't you say the battle was over?"</p>
+<p class="orv_line">[It's three percent. Don't you know what that means? It's practically over...]</p>
+<p class="orv_line">"I will go meet the other Kings immediately."</p>
+<p class="orv_line">According to the Handsome Monkey King, in order to open the 'gate', the consent of the other three Kings, including himself, was required. I thought it was actually better. Beyond that 'gate', the forces of the 'Catastrophe Camp', including Snowfield Kim Dokja, would be waiting. If I could borrow even one more star's hand, it would be a huge help.</p>
+<p class="orv_line">But the Handsome Monkey King didn't seem to agree with my thoughts.</p>
+<p class="orv_line">[It won't be easy. The other 'Kings' except for me are all...]</p>
+<p class="orv_line">It was then that a sound like a jet plane was heard from the sky.</p>
+<p class="orv_line">[Damn, one guy has already arrived.]</p>
+<p class="orv_line">Along with a massive sonic boom, something was seen descending toward this place. It was a flying vessel of splendid design.</p>
+<p class="orv_line">[He's the King of the South. He's called the 'Wealth Emperor' (재황).]</p>
+<p class="orv_line">The Wealth Emperor of the South.</p>
+<p class="orv_line">[No matter who you are, you'll never be able to convince that guy. He's not someone who listens to anyone in the first place.]</p>
+<p class="orv_line">The Handsome Monkey King glared at the flying vessel and frowned.</p>
+<p class="orv_line">[He's a miser who knows nothing but coins. Unless you have the spare capacity to give him enough coins to satisfy him, no matter how hard you wag your tongue...]</p>
+<p class="orv_line">The moment I saw the familiar emblem engraved on the flying vessel, I wondered, 'No way—'. Soon, the one who got off the flying vessel was an old man in a Hawaiian shirt. The moment he confirmed my face, he recognized me too.</p>
+<p class="orv_line">[I wondered who touched the 'gate', and as expected, it was you.]</p>
+<p class="orv_line">I was deeply moved to hear his voice after a long time and replied:</p>
+<p class="orv_line">"You were here."</p>
+<p class="orv_line">[It's been a while.]</p>
+<p class="orv_line">Naturally, I thought he would have survived until now. Because he was the star with the most coins in this world.</p>
+<div class="orv_quote"><p>「 Above the throne of coins he had built, he was an existence who lived only to watch the conclusion of this world. 」</p></div>
+<p class="orv_line">Perhaps one of the most necessary allies for me right now.</p>
+<p class="orv_line">"It's been a long time, Mass Production Maker."</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_1030"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./ch_1032">Next<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></a>
+        </div>
+         <div class="evadav">
+         </div>
+           
+        <div class="donation-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #ffb74d; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(255, 183, 77, 0.08);">
+    <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💖 <strong>This site is maintained by Readers like you!</strong></p>
+    <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Hosting and domain costs are funded entirely through community donations.</p>
+    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+        <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #ffb74d; color: #1a1a2e; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
+        <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
+    </div>
+</div>
+    <div style="max-width: 800px; margin: -15px auto 20px auto; text-align: left;">
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/promote.md" 
+           style="font-size: 0.65em; color: var(--text-primary); opacity: 0.3; text-decoration: none; font-family: sans-serif;">
+           Promote with us
+        </a>
+    </div>
+
+        <div class="giscus" id="comments" style="margin-top: -8px;">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="1030" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
+        data-term="1913" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top"
+        data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>

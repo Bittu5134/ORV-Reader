@@ -5,7 +5,7 @@ It didn't make sense. Something must be wrong with the <Star Stream> system if i
 "Hey, we've completed our assignment, let us out!"
 Why isn't there a scenario completion message. A system message should have appeared as soon as the bug was killed.
 <!>[There has been a problem with the main scenario system.]
-With a tsuchuchut sound, Bihyung appeared out of thin air. He looked back at me and the others with a troubled look on its face.
+With a tsuchuchut sound, Bihyung appeared out of thin air. He looked back at me and the others with a troubled look on his face.
 <@>[Hey...... everyone.]
 The moment I saw his face, I realized what I missed.
 I was an idiot. Why didn't I notice sooner?
@@ -16,14 +16,14 @@ At first, I thought he was referring to Kim Dokja.
 But there was something I hadn't considered.
 There wasn't just one 'reader' in this scenario.
 Bihyung, who was twitching his lips, spoke up in a disapproving voice.
-<@>[It seem like you all think this is some sort of insect killing game. The scenario this time is really strange. Can the same thing happen at the same time ?]
+<@>[It seems like you all think this is some sort of insect killing game. The scenario this time is really strange. Can the same thing happen at the same time?]
 I looked at the ahjussi. He seemed to be thinking the same thing.
 "No way......."
 Somewhere in the world, there are readers who have read 'Omniscient Reader' just like him.
 They knew the solution to the first scenario, just like we did, so they chose to catch bugs and clear the scenario.
 What we didn't realize was that too many people had used that solution.
 <!>[The Bureau has detected an unnatural flow in the scenario.]
-<!>[The probability of the scenario beings to tilt.]
+<!>[The probability of the scenario begins to tilt.]
 <!>[The will of the <Star Stream> is moving.]
 A trope that has been tried so often, it has lost its novelty.
 <@>[You've got to hand it to humans for being cruel, killing poor bugs to save their own lives....]
@@ -47,7 +47,7 @@ I instinctively looked up into the air.
 I couldn't see any stars in the ceiling-blocked sky. However, somewhere in that unseen sky, there must be constellations watching our underground struggle.
 <!>[The probability of the <Star Stream> is moving.]
 I remembered the grand principle of the <Star Stream> that I had forgotten for the past three years.
-The probability of the <Star Stream> moves towards the direction stars are interested in.」
+<&>「The probability of the <Star Stream> moves towards the direction stars are interested in.」
 <!>[The main scenario contents have changed.]
 It felt like the celestial body of the universe was tilting.
 And at that exact tilt, I could hear the laws of the world twisting.
@@ -84,14 +84,14 @@ He must be blaming himself for my death.
 "Oh, my. Then―"
 "Don't worry about me. It's not really me you should be worried about."
 "What?"
-"The rules have changed, and the person who was supposed to live may to die."
+"The rules have changed, and the person who was supposed to live may die."
 The person who was supposed to live.
 That is, those who had survived by 'killing bugs' in Omniscient Reader.
 "No way."
 Reader ahjussi seemed to have thought of that as well.
 <&>「Kim Dokja might die.」
 We didn't yet know if the changed rules were specific to some regions or if they would apply to the entire scenario area.
-But now we had to assume the worst. If, in the unlikely event that this change kills Kim Dokja,thenᅳ
+But now we had to assume the worst. If, in the unlikely event that this change kills Kim Dokja, thenᅳ
 <&>「Someone will have to replace Kim Dokja.」
 Reader ahjussi asked, his lips trembling.
 "What do we do now?"
@@ -101,7 +101,7 @@ The terrified people raised their voices to the air.
 <!>[A few constellations are giggling.]
 For the first time, we heard a message from the constellations.
 The stunned people looked around in horror.
-Deacon Kim Cheolyang, who came rushed over, grabbed me by my shoulders.
+Deacon Kim Cheolyang, who came rushing over, grabbed me by my shoulders.
 "Brother, what are we going to do? Is there any other way but the bugs?"
 Not only Kim Cheolyang, but all the other people who were looking for bugs rushed toward me.
 "You got us into this mess! What are we going to do now?"
@@ -110,7 +110,7 @@ They shouted at me. As if I was responsible for this whole mess.
 I calmly retorted.
 "Because of me?"
 "Uh, well, you're responsible anyway! You're the reason we're all going to die!"
-"Calm down. No one's going to die. Just because the bugs failed doesn't mean there no a way out."
+"Calm down. No one's going to die. Just because the bugs failed doesn't mean there is no way out."
 "You're right. I can kill you if I have to."
 The big guy who had stopped trampling on the bug was coming toward me, dragging the soles of his sneakers.
 I looked at him and said.
@@ -171,7 +171,7 @@ Therefore, the 'time penalty' will not be triggered this time.
 With a beep, a timer appeared out of thin air, and Bihyung laughed.
 <@>[There are twenty minutes left now. If you don't want to die, keep your chin up. Especially if you don't want to end up like your leaders.]
 With those words, the screen flashed with images of the National Assembly members' heads exploding.
-The frightened people stood back Inhorror.
+The frightened people stood back in horror.
 "What the hell is this―"
 "U-uwaaa!"
 A sense of dread settled over the entire station. Strangely enough, the horror actually uplifted me deeply.

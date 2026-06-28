@@ -68,36 +68,36 @@ There were still quite a few people who hadn't made it to the stairwell. The for
 At this rate, Chungmuro Station would be wiped out.
 I made a decision.
 I don't know if this will work.
-"Idea."
+"Thought."
 Still, I had to try.
 "Let's go."
 'Thoughts of Almost Everything' gurgled into the bracelet.
 I commanded it.
-<!>[The exclusive skill 'Incite Lv.5' is activated.]
-"Turn into the Ever-changing Stealth Suit."
+<!>[The exclusive skill 'Incite Lv. 5' has been activated.]
+<&>「Turn into the Ever-changing Stealth Suit.」
 Ever-changing Stealth Suit.
-The disguise item 'RepresentativeKimDokja' was wearing.
-At the time, I had fulfilled the requirement of 'being hit 10 times' to obtain the appearance of 'Ever-changing Stealth Suit' which allowed me to place this item in the 'mimicry list'.
+The disguise item that 'RepresentativeKimDokja' was wearing.
+At the time, I had fulfilled the requirement of 'being hit 10 times' to obtain the appearance of the 'Ever-changing Stealth Suit', which allowed me to place this item on the mimicry list.
 <!>[Putting on the 'Ever-changing Stealth Suit'!]
-'Transform into a ground rat.'
+<&>「Transform into a ground rat.」
 A moment later, with a blinding flash of light, my appearance changed to that of a ground rat.
 The ground rats that had been pouncing on me stopped in their tracks.
 They sniffed and hovered around me.
 Some of them bared their fangs at me, showing their intense hostility.
 I suppose it's natural for them to be suspicious, since they saw me as a human just a moment ago.
 I used [Incite] on them.
-"I am a ground rat."
+<&>「I am a ground rat.」
 A few ground rats came up to me and sniffed, then one by one they scurried past me.
 Luckily, the plan worked.
 I ran backwards through the procession of ground rats and quickly made my way to the center of the platform.
 I could see two giant centipedes roaring at the ceiling.
-Now a bit.
-Everywhere I looked, the ground rats left out wild cries.
+Before long,
+Everywhere I looked, the ground rats let out wild cries.
 And then.
 <&>「...... ......」
 I heard a strange voice.
 I turned around, wondering where it was coming from.
-<!>[Your exclusive attribute is activated].
+<!>[Your exclusive attribute has been activated.]
 <!>[You understand the language settings.]
 <!>[You are interpreting the language of the ground rats.]
 <&>「Go up」
@@ -124,22 +124,22 @@ Everything in this world belongs to the 'scenario'. This was true even for the g
 I looked down at the floor. There was a pile of bullet-riddled ground rats corpses.
 Dozens of times more than the dead humans.
 <&>「The extras, they don't even realize they're extras.」
-A huge shadow was casted over me.
+A huge shadow was cast over me.
 <&>「You」
 Since when? A giant centipede was bending over my head.
 <&>「Why did you come this way?」
 I looked around without answering.
 This was the center of the station.
 People were almost at the top of the stairs. The important thing is to stall the time from now on until Gong Pildu unleashes the [Armed Zone] again.
-<!>[The exclusive skill 'Incite Lv.5' is activated!]
-"Look this way!"
+<!>[The exclusive skill 'Incite Lv. 5' has been activated!]
+<&>「Look this way!」
 In response to my [Incite], a bunch of ground rats turned to look at me.
 <&>「Whatwhatwhatwhat」
 <&>「Wherewherewherewhere」
 It wasn't enough.
 I shouted again.
-"This way!"
-<!>[The exclusive skill 'Incite Lv.5' is being used to the limit!]
+<&>「This way!」
+<!>[The exclusive skill 'Incite Lv. 5' is being used to the limit!]
 <!>[The level of the exclusive skill 'Incite' has increased!]
 Poosyuk, Blood trickled from my nose with the sound.
 This time, more of them looked back at me. Some of the ground rats that ran straight ahead, others that jumped up to the stairwell and attacked people.
@@ -150,16 +150,16 @@ They were all looking in my direction.
 I suddenly remembered the 'outer gods' from Omniscient Reader. They were extras who died as 'Nameless Ones' in the worldview of the 'Ways of Survival'.
 I was not a Kim Dokja, so I did not have the power to save them.
 Instead, I was forced to kill them all to end the scenario.
-'Idea.'
+'Thoughts.'
 I invoked it, and in my mind's eye, I could see the forms I had collected so far.
 Magic Power Recovery Bracelet.
 Damaged Samyeongdang's Bamboo Stick.
 Ever-changing Stealth Suit.
 Magic Power Stove.
 And.......
-I didn't want to use this items until the end. Because, in return, the platform would be a dead zone for a while.
+I didn't want to use these items until the end. Because, in return, the platform would be a dead zone for a while.
 But now I had no other choice.
-"Turn into a 'Poison Bomb'."
+<&>「Turn into a 'Poison Bomb'.」
 Poison Bomb. It was an item they left behind when we fought the Misreading Association.
 A biochemical weapon made from the anal sac of a poisonous rhinoceros.
 I picked up one of the used bombs at the time and put it on the possible mimicry list.
@@ -182,12 +182,12 @@ I stared at them for a moment.
 <&>「Humanhumanhuman」
 <&>「IdontwanttodieIdontwanttodie」
 I slowly opened my mouth.
-<!>[The exclusive skill 'Incite Lv.5' is activated.]
-"You don't have to die like this."
+<!>[The exclusive skill 'Incite Lv. 5' has been activated.]
+<&>「You don't have to die like this.」
 I looked back at the ground rats, the giant centipedes, and the grolls.
-"Don't hurt any more people and go back. Then I won't kill you either."
+<&>「Don't hurt any more people and go back. Then I won't kill you either.」
 <!>[The constellation 'Nail-Eating Rat' admires your boldness.]
-<!>[The constellation 'Rice Cake-Eating Tiger' opens its mouth at your suggestion.]
+<!>[The constellation 'Tiger Eating Rice Cakes' opens its mouth at your suggestion.]
 <!>[The constellation 'Demon-like Judge of Fire' marvels at your integrity.]
 I know the odds are slim.
 But theoretically, the monsters and humans could resolve the scenario without harming each other.
@@ -213,7 +213,7 @@ Looking at the message, I thought.
 <&>「After all, isn't this world one giant instigator?」
 One of the ground rats looked at me and said.
 <&>「Thereisnosuchstory」
-With those words, a mischief of ground rats pounced on me.
+With those words, a swarm of ground rats pounced on me.
 I replied.
 "Yes."
 There was a loud explosion. A blizzard of poisonous gas, accompanied by an unpleasant odor, swept across the platform.
@@ -221,7 +221,7 @@ I heard the screams of the monsters. The giant centipedes and ground rats dying,
 I could see the monsters from the tunnel falling to the ground as well. As I watched them die, I thought to myself.
 <&>「If only the monsters hadn't died here, this story would have been interesting.」
 <!>[The constellation 'Abyssal Black Flame Dragon' cheers for the mass murder.]
-<!>[The constellation 'Rice Cake-Eating Tiger' says that monsters are best when they're dead.]
+<!>[The constellation 'Tiger Eating Rice Cakes' says that monsters are best when they're dead.]
 <!>[The constellation 'Prisoner of the Golden Headband' admires your idea.]
 <!>[The constellation 'Dragon Lying Down' appreciates your strategy.]
 .......
@@ -236,11 +236,11 @@ I realized that the ground rat was already dead. Instead, I found a tiny creatur
 It was a ground rat pup.
 I stared down at it in disbelief.
 <&>「After all, every story has a protagonist.」
-As if it wanted to live, the pup struggled to breath and exhale with difficulty.
+As if it wanted to live, the pup struggled to breathe and exhale with difficulty.
 I could see the tip of its nose turning black from exposure to the gas.
 I bent down and scooped it up in my arms. I poured a little of the remaining Poisonous Rhinoceros' Horn Powder into its mouth.
 Its groans gradually ceased.
-<!>[The constellation 'Sneaking Schemer' is watching your story.]
+<!>[The constellation 'Sneaky Schemer' is watching your story.]
 I walked across the platform with the pup in my arms. It was hard to see through the fog.
 <!>[The constellation 'Lotus Blooming Under the Moonlight' is watching your story.]
 I walked and walked and walked, relying on the faint voices of the stars.
