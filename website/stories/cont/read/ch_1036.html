@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1036 Episode 63. Ragnarok (10)</title>
+    <meta property="og:title" content="1036 Episode 63. Ragnarok (10)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+    
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="51" id="set-font-size">
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
+			</div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+                </select>
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <a href="../../../download.html"><button>Download Full EPUB</button></a>
+        <hr>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/side/1036.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>1036 Episode 63. Ragnarok (10)</h1></div>
+<br>
+<p class="orv_line">Yoo Joonghyuk summoned Uriel of the 1,864th turn. It wasn't an impossible task. He had previously escaped the 'Recycling Center' and confirmed the physical descent of the Uriel before his eyes, establishing a link with her. The problem was that that prideful guy had actually asked a constellation for help.</p>
+<br>
+<p class="orv_line">"So, what happened? Where was that bastard?"</p>
+<br>
+<p class="orv_line">[The main battlefield of 'Ragnarok'.]</p>
+<br>
+<p class="orv_line">It seemed Yoo Joonghyuk and Jung Heewon had headed straight there as soon as they escaped the 'Bush of the Missing'. At that time, Yoo Joonghyuk had tied three people to his spear and escaped.</p>
+<br>
+<div class="orv_quote"><p>「 Lee Hyunsung. Shin Yoosung. And Jung Heewon. 」</p></div>
+<br>
+<p class="orv_line">Thinking back, I hadn't heard what happened to the other two besides Jung Heewon.</p>
+<br>
+<p class="orv_line">"Who was Yoo Joonghyuk with? Was it only Heewon-ssi?"</p>
+<br>
+<p class="orv_line">[Yeah, it was like that when I went.]</p>
+<br>
+<p class="orv_line">I felt a bit disappointed. After all, Lee Hyunsung and Shin Yoosung were members of &lt;Kim Dokja's Company&gt; from the 1,864th turn. If they had remained by Yoo Joonghyuk's side, it would have certainly been a great help.</p>
+<br>
+<p class="orv_line">...Well, whatever. Right now, finding out Jung Heewon's exact condition was more important.</p>
+<br>
+<p class="orv_line">"Was Heewon-ssi injured? I heard she fought against Snowfield Kim Dokja."</p>
+<br>
+<p class="orv_line">Uriel shook her head as if she didn't know that far.</p>
+<br>
+<p class="orv_line">[When I arrived, Heewon was already unconscious. She was emitting a cold chill from her entire body... for me, applying urgent treatment was the most I could do.]</p>
+<br>
+<p class="orv_line">I quickly realized what that treatment was.</p>
+<br>
+<p class="orv_line">"So the heat coming from Heewon-ssi's body was indeed..."</p>
+<br>
+<p class="orv_line">[That's right. It's my story.]</p>
+<br>
+<p class="orv_line">As expected, that story originated from Uriel's [Hellfire].</p>
+<br>
+<p class="orv_line">"Was there no other conversation with Yoo Joonghyuk? Didn't he tell you how Heewon-ssi ended up like this?"</p>
+<br>
+<p class="orv_line">[I didn't hear the details. It wasn't a situation where I could stay there for long.]</p>
+<br>
+<p class="orv_line">After leaving Jung Heewon to Uriel, Yoo Joonghyuk immediately ordered them to leave.</p>
+<br>
+<div class="orv_quote"><p>「 "Archangel. Take that woman and escape the 'main battlefield'. Right now." 」</p></div>
+<br>
+<p class="orv_line">That was the last message Yoo Joonghyuk left. Uriel pursed her lips with a gloomy expression, perhaps remembering that time.</p>
+<br>
+<p class="orv_line">[Actually, there were many things I wanted to ask... but there was no other way. It was clear that Heewon would die if she stayed there. The army of catastrophes was approaching.]</p>
+<br>
+<p class="orv_line">It seemed Yoo Joonghyuk had hurriedly evacuated Jung Heewon right before the war with the catastrophes broke out. Since Jung Heewon's body was freezing in real-time, Uriel said she brought her to the 'Hall' and treated her all this time.</p>
+<br>
+<p class="orv_line">[I bought and fed her the Great Return Pill and elixirs imbued with Solar energy, but they had no effect.]</p>
+<br>
+<p class="orv_line">That was strange. Originally, incarnation bodies exposed to cold or Yin energy, including the Nine Yin Severed Meridians, can show improved symptoms if they consume elixirs containing hot Yang energy. But if the elixirs had no effect, there was only one answer.</p>
+<br>
+<p class="orv_line">"So there's a problem with Heewon-ssi's soul."</p>
+<br>
+<p class="orv_line">Perhaps while facing 'Snowfield Kim Dokja', a crack had formed in Jung Heewon's soul itself. In other words, the cold that was killing her was leaking from her very soul.</p>
+<br>
+<p class="orv_line">[Right now, the most I can do is warm her with my story so she doesn't die. Ah, there was one time when Heewon regained consciousness, though...]</p>
+<br>
+<p class="orv_line">"Was it when we killed the World Snake?"</p>
+<br>
+<p class="orv_line">[That's right.]</p>
+<br>
+<p class="orv_line">She said Jung Heewon, who had been unconscious all along, woke up with a nostalgic look in her eyes the moment she saw Yamata-no-Orochi's head.</p>
+<br>
+<p class="orv_line">"A nostalgic look?"</p>
+<br>
+<p class="orv_line">[Yeah. I can't describe it any other way.]</p>
+<br>
+<p class="orv_line">Jung Heewon slew Yamata-no-Orochi with those 'nostalgic eyes' and lost consciousness again. More precisely, she didn't lose consciousness, but closed the door to her soul while maintaining a subconscious state, as if she were dreaming.</p>
+<br>
+<p class="orv_line">Then was it Jung Heewon's subconscious that fired the Formless Sword Qi at me? It was hard to believe she could show such ridiculous power even in an unconscious state. In the two months I hadn't seen her, Jung Heewon had taken another leap into the realm of transcendence.</p>
+<br>
+<p class="orv_line">"Where is Heewon-ssi now?"</p>
+<br>
+<p class="orv_line">If this was the inside of Jung Heewon's mind, her soul would surely be somewhere here. Uriel let out a weak sigh and gestured to me.</p>
+<br>
+<p class="orv_line">[Follow me.]</p>
+<br>
+<p class="orv_line">I quietly followed behind Uriel. In the dark tunnel, her two wings fluttered outside her training suit. Perhaps because she had suffered so much in the meantime, her wings were heavily damaged.</p>
+<br>
+<p class="orv_line">I stared into the pitch-black tunnel and said,</p>
+<br>
+<p class="orv_line">"It feels strange."</p>
+<br>
+<p class="orv_line">[Huh? What is?]</p>
+<br>
+<p class="orv_line">"It's because this is the first time I've walked side-by-side with you like this."</p>
+<br>
+<p class="orv_line">Uriel looked back, startled, and laughed.</p>
+<br>
+<p class="orv_line">[Ah, ah. Right? Ahaha.]</p>
+<br>
+<p class="orv_line">The star that became infinitely serious when it came to things involving Jung Heewon, but fell apart completely in front of her favorite incarnation. The only star that did not wish for Kim Dokja's death until the very, very end.</p>
+<br>
+<p class="orv_line">I bowed my head and greeted her once again.</p>
+<br>
+<p class="orv_line">"Thank you so much for back then at the Recycling Center."</p>
+<br>
+<p class="orv_line">[No, I went because I wanted to.]</p>
+<br>
+<p class="orv_line">Thinking back, this was practically the first time I was speaking with her properly. When she was 'Teacher Yang', both of us had to speak in line with our concepts anyway. Perhaps Uriel was conscious of that too, as she kept walking slightly ahead with tentative steps instead of walking side-by-side.</p>
+<br>
+<p class="orv_line">I slowly followed behind her.</p>
+<br>
+<div class="orv_quote"><p>「 At a distance of exactly three steps away, Uriel was walking with light, fluttering steps. 」</p></div>
+<br>
+<p class="orv_line">In writing terms, a gap as wide as a single space. A close distance, but an interval that ultimately prevented us from becoming the same word. Yet a distance where we could still become a single sentence together. We kept walking, leaving exactly that much blank space between us.</p>
+<br>
+<p class="orv_line">As we walked, I thought that perhaps this was the right distance for us. Star and human. Constellation and incarnation. From this distance, she had watched Kim Dokja's story all this time.</p>
+<br>
+<p class="orv_line">"Thank you for protecting Heewon-ssi."</p>
+<br>
+<p class="orv_line">[She's my incarnation, after all. No, of course, she isn't my incarnation yet in this worldline—]</p>
+<br>
+<p class="orv_line">Watching her hair sway in the darkness, I knew Uriel was grinning.</p>
+<br>
+<p class="orv_line">[Because the Heewon of this world is still Heewon.]</p>
+<br>
+<p class="orv_line">"Just like how Uriel in any world is still Uriel."</p>
+<br>
+<p class="orv_line">She probably didn't know what kind of comfort her broad smile brought me.</p>
+<br>
+<p class="orv_line">Perhaps she had relaxed a bit; as we walked along the tracks of the platform, Uriel began talking on her own.</p>
+<br>
+<p class="orv_line">[Did you know? Back at Geumho Station, when you and the kids fought the mole cricket—]</p>
+<br>
+<p class="orv_line">Uriel began talking disjointedly. It was the first time I was hearing about those days directly from Uriel's own mouth. A story from the time when all these scenarios first began.</p>
+<br>
+<p class="orv_line">Instead of just listening to her story, I memorized her expression and tone as she talked excitedly. Thinking that if the real Kim Dokja returned someday, I would definitely tell him about this bright star reflecting in my eyes, and the way she looked when talking so happily.</p>
+<br>
+<p class="orv_line">[So... it reminded me of a long time ago. You know, it was like that in the 1,864th turn too. Right?]</p>
+<br>
+<p class="orv_line">"Yes?"</p>
+<br>
+<p class="orv_line">Listening absentmindedly, I snapped back to my senses. Up until now, I thought Uriel was talking about the original 'Kim Dokja'.</p>
+<br>
+<p class="orv_line">"Were the words you just said your impressions of watching my story all this time?"</p>
+<br>
+<p class="orv_line">[Of course. What else?]</p>
+<br>
+<p class="orv_line">Uriel had been watching my story since that early on?</p>
+<br>
+<p class="orv_line">[I missed it.]</p>
+<br>
+<p class="orv_line">Whether she knew my thoughts or not, Uriel continued speaking as she looked at me with nostalgic eyes.</p>
+<br>
+<p class="orv_line">[It felt as if I were living through those days once again. For the stars that still cannot leave this story, it felt like you were carrying out the scenarios until only a single reader remains... Was that too sentimental? I'm sorry, when they were all life-or-death scenarios for you...]</p>
+<br>
+<p class="orv_line">I couldn't say anything in response.</p>
+<br>
+<p class="orv_line">After a brief silence, a white light could be seen streaming in from afar. The tunnel was finally coming to an end.</p>
+<br>
+<p class="orv_line">"Uriel."</p>
+<br>
+<p class="orv_line">We looked at each other at the same time. In the faintly brightening light, her face was clearly visible. The emotions that couldn't be seen in the darkness seemed to be exposed in broad daylight. A longing faded by the passage of time. And even a resignation that foretold a certain end.</p>
+<br>
+<p class="orv_line">"It's not over yet."</p>
+<br>
+<p class="orv_line">Perhaps to her, who was once the Archangel of &lt;Eden&gt; and had fought the final battle of that terrible scenario, the conclusion of this worldline was faintly visible.</p>
+<br>
+<p class="orv_line">[Kim Dokja. Do you... really have to take Heewon?]</p>
+<br>
+<p class="orv_line">I thought for a moment, then nodded again and replied,</p>
+<br>
+<p class="orv_line">"Yes. She is my companion."</p>
+<br>
+<p class="orv_line">[What if... Heewon can no longer fight?]</p>
+<br>
+<p class="orv_line">Just as I was about to ask what she meant, the sound of water echoed from somewhere. The scenery shifted at the end of the tunnel, and a vast river unfolded before our eyes.</p>
+<br>
+<p class="orv_line">I could see broken bridge piers below the river. A broken subway train lay scattered on top of the piers. In the center of the river, a giant monster species was floating belly-up.</p>
+<br>
+<p class="orv_line">I recognized what that monster was at a glance.</p>
+<br>
+<div class="orv_quote"><p>「 Sea Commander. 」</p></div>
+<br>
+<p class="orv_line">Why was this scenery—that monster—in Jung Heewon's inner world? In an instant, a series of thoughts connected like a circuit in my mind.</p>
+<br>
+<div class="orv_quote"><p>「 Why did Jung Heewon react so strongly to the 'World Snake'? 」</p></div>
+<br>
+<p class="orv_line">Along with a feeling of suffocation in my chest, I was overcome with the sensation of understanding everything.</p>
+<br>
+<p class="orv_line">[I couldn't do it. No matter what I did, I couldn't cross over to that scenery. Heewon wouldn't allow it.]</p>
+<br>
+<p class="orv_line">Listening to Uriel's voice, I stared at the dead Sea Commander. The area near the Sea Commander's belly was glowing white.</p>
+<br>
+<p class="orv_line">[Dokja-ya.]</p>
+<br>
+<p class="orv_line">With just that, I could tell where Jung Heewon's soul was right now.</p>
+<br>
+<p class="orv_line">[Save Heewon.]</p>
+<br>
+<p class="orv_line">I nodded and immediately dove into the Han River.</p>
+<br>
+<p class="orv_line">*</p>
+<br>
+<p class="orv_line">Jung Heewon was dreaming.</p>
+<br>
+<div class="orv_quote"><p>「 I don't want to wake up. 」</p></div>
+<br>
+<p class="orv_line">Even though she knew she had to wake up from the dream, something was weighing her down. As if dragging her down to a deeper depth, the sentences written upon her were binding her.</p>
+<br>
+<div class="orv_quote"><p>「 You must not wake up. 」</p></div>
+<br>
+<p class="orv_line">Jung Heewon stared at that sentence.</p>
+<br>
+<div class="orv_quote"><p>「 You must absolutely not wake up. 」</p></div>
+<br>
+<p class="orv_line">Looking at those sentences, Jung Heewon remembered why she had ended up trapped here. There was no order to her memories, but there were still things that came to mind clearly.</p>
+<br>
+<p class="orv_line">The first thing that came to mind was Yoo Joonghyuk's face, clad in a pitch-black coat.</p>
+<br>
+<div class="orv_quote"><p>「 "Stop! Get back!" 」</p></div>
+<br>
+<p class="orv_line">And the man in a pure white coat who appeared before her eyes.</p>
+<br>
+<div class="orv_quote"><p>「 "You arrived sooner than I expected. Is my brother not here yet?" 」</p></div>
+<br>
+<p class="orv_line">The moment she first saw that man, Jung Heewon was deeply shocked. One reason was that the man's appearance resembled the person she had protected all this time, and the other was because she felt goosebumps all over her body the instant she looked at him.</p>
+<br>
+<div class="orv_quote"><p>「 "You are that person, aren't you?" 」</p></div>
+<br>
+<p class="orv_line">Whether it was appropriate to call that being a 'person' was uncertain, but Jung Heewon could tell instinctively. That the man standing before her eyes was the source of all tragedy.</p>
+<br>
+<div class="orv_quote"><p>「 "I will stop you." 」</p></div>
+<br>
+<p class="orv_line">Jung Heewon was confident. It didn't matter who the enemy was, even if it was a being that transcended humanity. Just to protect a single person, to reach the end of the story with him, she had honed and polished her sword. That was why she swung her sword without hesitation even at that moment.</p>
+<br>
+<p class="orv_line">A trajectory meant purely for killing, showing no mercy in her moves. The sword strike at the end of that trajectory gracefully grazed the man's cheek. With a rustle, stories dripped down like drops of blood.</p>
+<br>
+<div class="orv_quote"><p>「 "For some reason, I'm envious. Did you want to protect my brother that much?" 」</p></div>
+<br>
+<p class="orv_line">The man seemed to be surprised by her skill, and also seemed to be saddened.</p>
+<br>
+<div class="orv_quote"><p>「 "But you cannot stop anything. Nothing at all." 」</p></div>
+<br>
+<p class="orv_line">Jung Heewon swung her sword once more at the smiling man who approached. And in the next moment, as if time had stopped, the man reached out his hand.</p>
+<br>
+<div class="orv_quote"><p>「 "Aren't you curious?" 」</p></div>
+<br>
+<p class="orv_line">For a moment, Jung Heewon couldn't move. Even though she knew it was the man's authority, she couldn't refuse it. The man's cold fingertips touched Jung Heewon's forehead.</p>
+<br>
+<div class="orv_quote"><p>「 "What will happen to you at the end of this story. What kind of scenery you will see." 」</p></div>
+<br>
+<p class="orv_line">Like turning the page of a book, his cold finger swept her bangs.</p>
+<br>
+<div class="orv_quote"><p>「 "See it for yourself. The result of your hard work." 」</p></div>
+<br>
+<p class="orv_line">And the destined future unfolded before Jung Heewon's eyes. Scenery where people died, stars fell, and the &lt;Star Stream&gt; finally met its end.</p>
+<br>
+<p class="orv_line">Jung Heewon laughed. She already knew. She knew that such a cruel tragedy would occur at the conclusion of all these worlds, and that it wouldn't simply be a happy ending. So she tried to say that she wasn't afraid of something like this.</p>
+<br>
+<p class="orv_line">At least, until she saw the scene that unfolded in the next moment.</p>
+<br>
+<div class="orv_quote"><p>「 Jung Heewon blankly stared down at the blood on her hands. 」</p></div>
+<br>
+<p class="orv_line">The moment she read that sentence, Jung Heewon's heart beat strangely. Perhaps it was an ordinary sentence. Looking down at her blood-stained hands was something she had already done hundreds, thousands of times.</p>
+<br>
+<div class="orv_quote"><p>「 Her sword was piercing through someone's chest. Following the tilt of the blade, stories flowed and scattered beautifully. 」</p></div>
+<br>
+<p class="orv_line">Yet the moment she read the next sentence, she felt strangely afraid of reading what came next. Even so, she couldn't help but read. Because someone's stories flowing along the surface of the sword were so warm and gentle. Because those stories were so familiar—</p>
+<br>
+<div class="orv_system"><p>[You have learned your '■■'!]</p></div>
+<br>
+<p class="orv_line">Jung Heewon had no choice but to confirm who she had pierced.</p>
+<br>
+<div class="orv_quote"><p>「 Incarnation Jung Heewon will kill the being she wanted to protect the most. 」</p></div>
+<br>
+<p class="orv_line">Kim Dokja, pierced by her sword, was slowly collapsing onto the ground.</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_1035"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./../">Home<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg></a>
+        </div>
+         <div class="evadav">
+         </div>
+           
+        <div class="donation-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #ffb74d; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(255, 183, 77, 0.08);">
+    <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💖 <strong>This site is maintained by Readers like you!</strong></p>
+    <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Hosting and domain costs are funded entirely through community donations.</p>
+    <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+        <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #ffb74d; color: #1a1a2e; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
+        <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+        <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
+    </div>
+</div>
+    <div style="max-width: 800px; margin: -15px auto 20px auto; text-align: left;">
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/promote.md" 
+           style="font-size: 0.65em; color: var(--text-primary); opacity: 0.3; text-decoration: none; font-family: sans-serif;">
+           Promote with us
+        </a>
+    </div>
+
+        <div class="giscus" id="comments" style="margin-top: -8px;">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="1035" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
+        data-term="" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top"
+        data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>
