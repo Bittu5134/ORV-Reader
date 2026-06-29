@@ -53,8 +53,8 @@ hiding place.
 As soon as I did that.
 <!>[The character 'Kim Cheolyang' is looking at you.]
 <!>[The character 'Kim Cheolyang' wants to do something unexpected.]
-A message rang in your head.
-<!>[The activation conditions for the exclusive skill '■■' has been met.]
+A message rang in my head.
+<!>[The activation conditions for the exclusive skill '■■' have been met.]
 <!>[The exclusive skill '■■' has been activated.]
 ......■■?
 <!>[The character 'Kim Cheolyang's attribute is preparing to bloom.]
@@ -88,7 +88,7 @@ Use Kim Cheolyang to save me and the ahjussi from the crisis.
 As I concentrated, the sentences flowed out of my head.
 It was natural.
 I'm Omniscient Reader's author.
-「At that moment, an unknown loyalty sprang up inside of Kim Cheolyang for the man with the narrow eyes¹ This loyalty soon awakened him.]
+<&>「At that moment, an unknown loyalty sprang up inside of Kim Cheolyang for the man with the narrow eyes¹ This loyalty soon awakened him.」
 <?>[1] meaning Lee Hakhyun, but Kim Cheolyang didn't know his name yet.
 <!>[The character 'Kim Cheolyang' evolves into 'Judge of Destruction'.]
 "Stop. Don't touch him." (149 characters in total)」
@@ -107,7 +107,7 @@ rlaehrwk37: I'm getting off
 +
 I stood dumbfounded for a moment, then regained my composure. Now was not the time to be shocked.
 I resumed writing my sentence.
-「At that moment, Kim Cheolyang realized that he was actually a martial arts master in his previous life........ (147 characters in total)」
+<&>「At that moment, Kim Cheolyang realized that he was actually a martial arts master in his previous life........ (147 characters in total)」
 <!>[This story is impossible.]
 <!>[This story's reproduction success rate is 0.1%.]
 <!>[You're running out of probability.]
@@ -115,7 +115,7 @@ I resumed writing my sentence.
 +
 rlaehrwk37: I'm getting off
 +
-「At that moment, Kim Cheolyang realized that he was Kim Namwoon's cousin. The unknown affection towards his own blood that flowed from him....... (143 characters in total)」
+<&>「At that moment, Kim Cheolyang realized that he was Kim Namwoon's cousin. The unknown affection towards his own blood that flowed from him....... (143 characters in total)」
 <!>[This story is bizarre.]
 <!>[This story's reproduction success rate is 3%.]
 <!>[You're running out of probability.]
@@ -130,13 +130,13 @@ I started to feel self-deprecating. I couldn't think of anything to write or how
 I closed my eyes, watching the time tick away in real time.
 It's times like these that I need to go back to the drawing board.
 <&>「"Author-nim."」
-Then I heard the voice of the dokkaebi Ji Eunyoo in my head.
+Then I heard the voice of the dokkaebi Ji Eunyu in my head.
 <&>「"What does this character want?"」
 Ah.
 <!>[There are 20 seconds remaining.]
 <!>[The exclusive attribute is in effect!]
 I thought about Kim Cheolyang, a character who existed only as a setting.
-[There are 15 seconds remaining.]
+<!>[There are 15 seconds remaining.]
 How he would act in this situation, what he would say, what he would want to be.
 Just like the day I first wrote 'Omniscient Reader', I frantically wrote sentences.
 I spoke as Kim Cheolyang and acted as Kim Cheolyang.
@@ -151,7 +151,7 @@ The moment I typed the last word.
 rlaehrwk37: Oh
 +
 I don't know what that "oh" means, but at least it surprised the reader.
-By the way, this asshole, I'll remembered your ID.
+By the way, this asshole, I'll remember your ID.
 <!>[Successfully recreating the scene.]
 <!>[Leaving the 'Snowfield'.]
 I felt the power draining from my body, and the colors around me returned to normal.
@@ -161,7 +161,7 @@ Then.
 <&>「At that moment, Kim Cheolyang stepped forward.」
 The sentence I had written began to come to life.
 "Our faith is being tested right now."
-「Not anyone could do it. But the moment he stepped forward, he was seized with an intense belief that he had been chosen by God.」
+<&>「Not anyone could do it. But the moment he stepped forward, he was seized with an intense belief that he had been chosen by God.」
 "Faith?"
 <&>「Maybe it was the fire. I could see the fire burning beyond their pupils.」
 That's all I wrote. However, it was enough for an introduction.

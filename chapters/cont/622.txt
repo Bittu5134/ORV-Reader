@@ -1,18 +1,17 @@
 <title>622 Episode 14 Hunting (1)
 Yoo Joonghyuk strode ahead without hesitation. He didn't say where he was going.
-Lee Hyunsung, Kim Namwoon, and Lee Jihye followed him with a gap of one or two steps each.
+Lee Hyunsung, Kim Namwoon, and Lee Jihye followed close behind, a step or two behind him.
 We kept a certain distance and pursued Yoo Joonghyuk and his party.
 How much time did we spend like that?
 Kyung Sein, who was walking beside me, quietly raised a worried voice.
 "Can we keep following him?"
-"He didn’t tell us to come after him.
-Instead of belonging to 'Chungmuro Station', we chose to become 'wanderers'."
-It was a risky decision, so before making this choice, I sought the opinions of Kyung Sein, Dansu-ahjussi, and Jung Heewon in advance.
+"He didn't tell us to follow him. Instead of belonging to 'Chungmuro Station', we chose to become 'Wanderers'."
+It was a risky decision, so before making this choice, I sought the opinions of Kyung Sein, Dansoo ahjussi, and Jung Heewon in advance.
 —Chungmuro should be safe right now, but I think Inho-ssi will be the one who will save me when I am really in danger.
 Kyung Sein.
 —Can I go and look for Jiyoon?
-Dansu-ahjussi.
--I think you'll die somewhere if left alone.
+Dansoo ahjussi.
+—I think you'll die somewhere if left alone.
 Lastly, Jung Heewon.
 At this point, I thought that we might have been together in our previous lives.
 "Thank you for the new sword, Inho-ssi. I'm sorry for the late thanks."
@@ -20,46 +19,46 @@ At this point, I thought that we might have been together in our previous lives.
 Jung Heewon swung Mikazuki Munechika into the air.
 "Very."
 Even so, she did not take her eyes off the back of Yoo Joonghyuk’s head.
-There is only Jung Heewon who can still burn with fighting spirit even after seeing the power of 'Yoo Joonghyuk'.
+Only Jung Heewon could still burn with fighting spirit even after witnessing Yoo Joonghyuk's power.
 Excluding special cases like regressors or reincarnated people, the strongest among the ordinary people is probably Jung Heewon.
-Right after leaving Chungmuro Station and coming completely to the ground, Yoo Joonghyuk stopped his steps.
-He looked around the ruined city with nonchalant eyes and stopped his party.
+Right after leaving Chungmuro Station and coming completely to the surface, Yoo Joonghyuk stopped his steps.
+He looked around the ruined city with cold eyes and brought his party to a halt.
 "Wait."
-Yoo Joonghyuk, who had a large cabinet inserted into the floor, agonized over the western and northern streets alternately.
+Yoo Joonghyuk, who stuck his great spear into the ground, looked back and forth between the western and northern streets in contemplation.
 West and north from this point.
 Something vaguely came to mind, but there was not enough information to confirm it.
 I wish I could find 'Ways of Survival'.
 All I have now are comments from readers and memos that come to mind from time to time.
-When we slept on the floor from afar, Kim Namwoon saw us.
+As we settled down at a distance, Kim Namwoon noticed us.
 The moment the grinning guy was about to come this way, Lee Jihye let out a chilling voice.
-"Don't go and fight for nothing. If you don't want to get hurt by me."
+"Don't pick a fight for no reason. Unless you want to get hurt by me."
 "Huh? Yes."
-The person who came to us instead of the hesitantly babbling Kim Namwoon was the most moderate and kind man among Yoo Joonghyuk and his party.
+The person who approached us instead of the hesitantly muttering Kim Namwoon was the most moderate and kind man in Yoo Joonghyuk's party.
 "Hello, are you hurt?"
 "Ah, no. Thanks."
 "Sorry. Our captain tends to be quiet."
 "No. We're following on our own."
 Lee Hyunsung, with his honest eyes, smiled, showing off his strong chest muscles.
 Looking at his naive expression, I realized once again that I had really entered Omniscient Reader.
-The real 'Steel Sword Master' Lee Hyunsung.
+The real 'Steel Sword Emperor' Lee Hyunsung.
 I didn't have time to appreciate it because I was in the middle of the battle earlier, but seeing it this way made me thrilled.
 Suddenly something came to my mind and I looked back at Jung Heewon.
 However, Jung Heewon, who met Lee Hyunsung, did not seem to be particularly impressed.
 What seemed strange was the other side.
-"Sein, have you ever played Hills?"
+"Sein, do you work out?"
 "Yes? How did you know?"
-"Your shield action is evident. You seem to be using a wide squat for the hold and a hammer curl for the upper block, is that correct?"
+"Your posture is clean. You seem to use a wide squat for the hold and a hammer curl for the upper block, is that correct?"
 "Wow, you noticed!"
-<!>[Character 'Lee Hyunsung' has a favor for the incarnation 'Kyung Sein'.]
-Is this uncomfortable?
+<!>[Character 'Lee Hyunsung' feels favorable toward incarnation 'Kyung Sein'.]
+Is this okay?
 I looked back at Jung Heewon.
 "Why?"
 "It's nothing."
 Well, if you think about it, there is no law saying that Jung Heewon and Lee Hyunsung must be connected.
 Because the 41st turn and the 3rd turn are different.
 But, anyway, this...
-<!>[A constellation that likes to switch genders looks excited.]
-I decided to just turn it off.
+<!>[A constellation who likes to change genders is excited.]
+I decided to just ignore it.
 Now, the first step is to check the newly shown scenario.
 +
 <Main Scenario #4 - Capture the Flag>
@@ -70,21 +69,21 @@ Time limit: 14 days
 Reward: 2,000 Coins
 Failure: ???
 +
-As expected, the fourth scenario was a 'flag battle' like the main story. When I clicked the clear condition, a window with a long message came to mind just like in the main story.
+As expected, the fourth scenario was a 'flag battle' like the main story. When I clicked the clear conditions, a window with a long description appeared.
 +
-<!>[Clear conditions{]
+<!>[Clear Conditions]
 1. Every station representative has a 'flag'.
 *Flags can only be carried by station representatives.
 2. When you capture another group's flag, you can steal all stations owned by that group. Conversely, when the 'flag' is captured, all stations owned are taken away.
-3. Even if you fail to capture the flag, if you kill the station representative, it will be considered as capturing the flag, and you will receive extra points in this case.
+3. Even if you fail to capture the flag, killing the station representative will count as a successful capture, and you will receive bonus points in this case.
 +
 A new rule has also been added.
-You don't have to take the flag, just kill the representative, and even give extra points.
-I felt it in the 'Theater Dungeon' scenario, but there was a strange sense of incongruity in the scenario of the 41st turn.
-It feels as if someone has read the full story and improved the scenario to suit their taste.
-...That would be overthinking.
+You don't have to take the flag, just kill the representative, and it even gives bonus points.
+I felt it during the 'theater dungeon' scenario as well, but there was a strange sense of incongruity in the scenarios of the 41st turn.
+It felt as if someone had read the entire story and modified the scenario to suit their taste.
+...But that was probably just overthinking.
 +
-4. There are hidden 'white flags' in some places offshore.
+4. There are hidden 'white flags' in some places on the surface.
 +
 Second new condition.
 A white flag is also hidden outside the station.
@@ -94,7 +93,7 @@ It is probably the hidden piece of this scenario.
 * Currently, your 'target station' does not exist. You are unable to perform that scenario.
 +
 The conditions for the last task were almost identical to those I remembered.
-<!>[Currently, you are a 'wanderer' without a station.]
+<!>[Currently, you are a 'Wanderer' without a station.]
 <!>[You cannot participate in 'Capture the Flag'.]
 <!>[A hidden scenario has been imposed.]
 I checked the 'Hidden Scenario' window that followed.
@@ -108,8 +107,8 @@ Reward: 'Capture the Flag' Scenario participation ticket.
 Failure: ???
 +
 Wanderer Scenario.
-It was a scenario that could be called a kind of resurrection of the losers.
-I called Dansu ahjussi, Kyung Sein, and Jung Heewon and started talking.
+It was a scenario that could be called a kind of wild card round for the defeated.
+I called Dansoo ahjussi, Kyung Sein, and Jung Heewon and started talking.
 "Did you all read the scenario?"
 "Yes."
 "For now, there are three possible options. The first is to go to another station and ask the representative to accept us."
@@ -120,54 +119,54 @@ Kyung Sein shook her head.
 "Finding the hidden white flag. Right?"
 "Yes. You're right."
 "Then it must be the third, right? Usually the third is the correct answer."
-It was. In the Omniscient Reader for 'Kim Dok-ja'. Kyung Sein, who was quietly watching, asked in a whisper.
-"Do you know the location of the hidden white flag? That's why, just like Kim Dokja knew the location of the hidden 'Green Zone'."
+It was. In the Omniscient Reader for 'Kim Dokja'. Kyung Sein, who had been watching quietly, asked in a whisper.
+"Do you know the location of the hidden white flag? Just like Kim Dokja knew the location of the hidden 'Green Zone'."
 It would be nice if things went smoothly like that.
 "No, I don't know."
 "Then what are you going to do?"
 "We have to take the flag of another station."
 In the end, no matter what, the 'flag fight' was a fight to hold each other's flag.
-Confrontation is unavoidable, and we must rupture other stations. Only then will the hidden scenario 'King's Road' be opened, and we will be able to gain the right to challenge the 'Absolute Throne' in the future.
-Dansu ahjussi opened his mouth in a dark voice.
-"Looks like it's going to be a tough fight. I wish I could just capture the flag, but things won't go so easily."
+Confrontation is unavoidable, and we must take over other stations. Only then will the hidden scenario 'King's Road' be opened, and we will be able to gain the right to challenge the 'Absolute Throne' in the future.
+Dansoo ahjussi spoke in a solemn voice.
+"Looks like it's going to be a tough fight. I wish we could just capture a flag, but it won't be that easy."
 The station whose flag is captured loses control to the station that captured it.
 Even at Chungmuro Station, a fight broke out because of this, but in other stations, I wonder.
-Jung Heewon also added a word.
+Jung Heewon also added:
 "If I had to kill them anyway, I'd feel less guilty if they were people I didn't know well."
-Dansu ahjussi and Kyung Sein were surprised at the murderous intent contained in the cool tone.
-I said to comfort the two of them.
+Dansoo ahjussi and Kyung Sein were surprised at the murderous intent contained in her cold tone.
+I said to comfort the two of them:
 "It would be nice not to kill them if possible, but there will inevitably be situations where we can’t help it. Everyone, prepare your hearts."
-Thinking of future fights, the battle we went through at Chungmuro Station was nothing more than children's play.
+Thinking of future fights, the battle we went through at Chungmuro Station was nothing more than child's play.
 Our enemies will be more clever than Ye Hyunwoo, more inconsiderate than Han Sooyoung, and more brutal than Gong Pildu.
 Just looking at the Misreading Association, whom I met a while ago, that is the case.
 They were tenacious, immeasurable in number, and a group of criminals who did not abide by social common sense.
-<!>[The constellation 'Snake That Cut Off Its Tail' is smirking at you.]
-An indirect message that sounds scary to think about.
+<!>[The constellation 'Snake That Cut Its Own Tail' is smirking at you.]
+An indirect message that was chilling to contemplate.
 They were the Constellations of the Misreading Association.
-<!>[The constellation 'Rat that Calls Plague' tells you to try your best.]
-I remember that little mouse that Asmodeus flowered last time, but it seems that the bird has crawled in again.
-<!>[The constellation 'Snake That Cut Off Its Tail' warns you that even if you die, you will not be able to step on the blunderer of the stars.]
-It was a fight that was not fair.
-The members of the Misreading Association could spy on us anytime during the channel relay, and leak information to their incarnations.
+<!>[The constellation 'Rat That Spreads the Plague' tells you to try your best.]
+I remembered that little mouse that Asmodeus used last time, and it seemed that bastard had crawled back in again.
+<!>[The constellation 'Snake That Cut Its Own Tail' warns you that even in death, you will never reach the ranks of the constellations.]
+It was an unfair fight from the start.
+The members of the Misreading Association could spy on us anytime during the channel broadcast and leak information to their incarnations.
 After thinking for a while, I called Bihyung through 'Dokkaebi Communication'.
 —Why. What is it.
-'I have a favor to ask of you.'
-I enumerated the list of constellations from the Misreading Association that I had discovered so far, and asked Bihyung if he could judge their position on the channel.
-—Are you out of your mind? To the constellations like our heavens! How dare you incarnation...!
-'Listen. I understand that the channel finances have weakened a lot recently. Is that correct?'
+"I have a favor to ask of you."
+I enumerated the list of constellations from the Misreading Association that I had discovered so far, and asked Bihyung if he could track their position on the channel.
+—Are you out of your mind? To constellations of our caliber! How dare an incarnation...!
+"Listen. I understand that the channel's finances have weakened a lot recently. Is that correct?"
 At the sudden financial talk, Bihyung swallowed his words for a moment.
 —It’s none of your business.
-'It's all because of the sponsorship. The amount of support must have been much less than before. Right?'
+"It's all because of sponsorship. The support amount must be much lower than before, right?"
 —It was reduced, but... I'm also looking for the cause.
 The channel's finances weakened because the apostles were all talking about filtered conversations.
 It was because the constellations had escaped.
 The stupid Bihyung didn't seem to know that fact yet.
-'Have you looked at the list of constellations I mentioned? They probably don't have a sponsorship record.
+"Have you looked at the list of constellations I mentioned? They probably don't have a record of sponsorship."
 —Certainly they are the ones with no record of sponsorship.
-Also.
-'Shouldn't we start managing the quality of the channel soon?'
+Just as I thought.
+"Shouldn't we start managing the quality of the channel soon?"
 —Hmm. Well, it's not wrong, but it's a bit…
-'Of course. You can't be punished for that reason. The only thing I'm worried about is... There's a story that the Bureau's channel has recently been breached.'
+"Of course. You can't punish them for that reason. The only thing I'm worried about is... There are rumors that the Bureau's channel was recently breached."
 —Where did you hear that again?
-There is a fact that you can know no matter where you hear it.
-'I think those guys didn't come through the normal way.'
+There were facts you could gather no matter where you listened.
+"I don't think those guys entered through normal means."

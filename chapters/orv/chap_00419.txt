@@ -163,12 +163,12 @@ What shocked me even more could be found at the bottom of the chatroom display.
 <!>[Constellation name: Secretive Plotter]
 <!>[You're currently a VIP subscriber.]
 <!>[Due to one of the VIP membership perks, you are exempt from the cost of indirect messaging.]
-– Please select the expression you wish to convey.
-<@>[Currently, you have selected (Stay Strong).]
-– Please enter the amount of coins to be sponsored. (You can sponsor from 50 Coins upwards in the applicable channel.)
-<@>[(No amount has been entered) C]
-– Please enter the message you with to convey through indirect messaging.
-<@>[Forgetaboutfoolslikehimandchooseanewleader (You have exceeded the word length input limit.)]
+<!>Please select the expression you wish to convey.
+<!>Currently, you have selected (Stay Strong).
+<!> Please enter the amount of coins to be sponsored. (You can sponsor from 50 Coins upwards in the applicable channel.)
+<!>(No amount has been entered)
+<!> Please enter the message you with to convey through indirect messaging.
+<!>[Forgetaboutfoolslikehimandchooseanewleader (You have exceeded the word length input limit.)]
 I stopped reading there and looked down at the kkoma Yoo Joonghyuk number [666] in sheer dumbfoundedness. "Hey, I'm asking you just in case…"
 "…"
 "By any chance, the one who sent all those indirect messages was…"

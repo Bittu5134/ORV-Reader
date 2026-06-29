@@ -1,8 +1,8 @@
 <title>587 Episode 6. Star Relic (4)
-A short while later, we descended into the subway and ate ground rat meat. This was to take advantage of the 'contamination resistance effect' of the meat.
-We had made beef jerky beforehand at Geumho Station, and it came in handy at times like this.
+A short while later, we descended into the subway and ate ground rat meat. This was to gain the 'contamination resistance effect' of the meat.
+We had made ground rat jerky beforehand at Geumho Station, and it came in handy at times like this.
 "What, are you eating alone?"
-Jung Heewon, who had just returned from washing her face, took a big bite out of the piece of jerky I was holding and murmured.
+Jung Heewon, who had just returned from washing her face, took a big bite of the jerky I was holding and murmured,
 "Did anything fun happen?"
 "Why?"
 "Because you all look like you're having fun."
@@ -17,34 +17,32 @@ Well, I wouldn't call it volunteer work, since we got paid.
 At the constellation's sudden message, Jung Heewon stared at the air and tilted her head.
 "Bald?"
 <!>[The constellation 'Bald General of Justice' warns her not to end that sentence.]
-As it turns out, Jung Heewon was still unfamiliar with concepts like constellation and incarnation.
+As it turned out, Jung Heewon was still unfamiliar with concepts like 'constellation' and 'incarnation'.
 I briefly explained it.
 "I understand roughly what a constellation is. It's like a god, right?"
 "That's right."
 "So that's why Inho-ssi and the others have repaired the bald...... god's statue?"
-An disturbing spark was fluttering over Jung Heewon's head, so I hastily added.
-"He's not a bald god, he's a bald general. His real name is Samyeongdang, and he was a great person in Korea. An excellent man."
+A disturbing spark fluttered over Jung Heewon's head, so I hastily added,
+"He's not a bald god, he's the Bald General. His real name is Samyeongdang, and he was a great person in Korea. An excellent man."
 <!>[The constellation 'Bald General of Justice' calms down.]
 "Samyeongdang is a Buddhist monk, right?"
-Come to think of it, Jung Heewon doesn't know much about Korean history.
+Come to think of it, Jung Heewon didn't know much about Korean history.
 I tried to think of a way to explain, but Kyung Sein replied instead.
-"Samyeongdang was a monk in the middle of the Joseon Dynasty. During the Japanese Invasion of Korea, he defended the Korean Peninsula by fighting against the Japanese troops."
+"Samyeongdang was a monk in the middle of the Joseon Dynasty. During the Japanese Invasion of Korea, he defended the Korean Peninsula by leading monk soldiers against the Japanese troops."
 Jung Heewon's eyes widened.
 "Sein is smart."
 "Hehe."
 Kyung Sein winked at me.
-In fact, her explanation was an imitation of Yoo Sangah's. It was indeed a masterful response.
-Jung Heewon asked.
+In fact, her explanation was an imitation of Yoo Sangah's. It was a masterful response.
+Jung Heewon asked,
 "So these are all the items Samyeongdang gave you?"
 I nodded.
 "That's right."
 Samyeongdang's 'sponsorship'. The shiny bag contained three items.
 <!>[Samyeongdang's Beads]
-<!>[Samyeongdang's Straw Mat]
+<!>[Samyeongdang's Straw Mat]
 <!>[Damaged Samyeongdang's Bamboo Stick]
-'Samyeongdang's Beads' and 'Samyeongdang's Straw Mat' are items that also appear in the 3rd
-turn.
-It's the last item, the 'Damaged Samyeongdang's Bamboo Stick', that's important.
+'Samyeongdang's Beads' and 'Samyeongdang's Straw Mat' were items that also appeared in the 3rd turn. It was the last item, the 'Damaged Samyeongdang's Bamboo Stick', that was important.
 +
 [Item Information]
 Name: Damaged Samyeongdang's Bamboo Stick
@@ -53,68 +51,68 @@ Description: A star relic of the 'Bald General of Justice', a historical-grade c
 As an add-on, it increases Physique by 1 and Magic Power by 1, and provides a significant boost to magic resistance.
 It can deal additional damage to ghost species and other heteromorphic monsters.
 +
-This time I couldn't keep my mouth shut.
+This time, I couldn't help but gasp.
 I never thought I'd get another star relic.
 An item that even Kim Dokja thought about but never actually got.
 <!>[The constellation 'Bald General of Justice' shrugs it off.]
-I suppose that means our actions pleased Samyeongdang.
-I don't know who broke the statue, but I'm very grateful.
+I suppose that meant our actions pleased Samyeongdang.
+I didn't know who had broken the statue, but I was grateful.
 "Let's distribute the items."
-The first thing I picked up was the Samyeongdang's Straw Mat. In fact, the owner of this item had already been decided.
+The first thing I picked up was the Samyeongdang's Straw Mat. In fact, the owner of this item had already been determined.
 "Me? Why?"
 Jung Heewon, who received the straw mat, asked, tilting her head.
-"I thought it would look good on you."
+"I just thought it would look good on you."
 Kyung Sein, who was beside her, nodded enthusiastically.
 Jung Heewon looked down at the item hesitantly, but then made up her mind and put on the straw mat.
-This completed her initial set-up in the 3rd turn, which included 'Samyeongdang's Straw Mat' and the 'ground rat knife'.
+This completed her initial setup in the 3rd turn, which included 'Samyeongdang's Straw Mat' and the 'ground rat knife'.
 Kyung Sein was impressed and whispered to me.
-"I never thought I'd be able to see Heewon-nim's 'early setting' with my own eyes......."
+"I never thought I'd get to see Heewon-nim's 'early setup' with my own eyes..."
 As if sensing something, Jung Heewon glanced over suspiciously. We quickly clapped our hands and cheered.
 "It looks good on you."
-"Unni! You look great!"
+"Unni, you look great!"
 Dansoo ahjussi, who had been standing still, chimed in.
 "You look just like an outlaw in the wilderness."
 "Really?"
 Jung Heewon looked back and forth at her reflection in the screen door in disbelief.
 For reference, when Kim Dokja saw that scene in the original, he commented.
 <&>「Actually, no matter how you look at it, it looks like a beggar's blanket.」
-He may have said that, but he was probably smiling. We watched Jung Heewon's excitement for a moment before deciding who would own the rest of the items.
+He may have written that, but he had probably been smiling. We watched Jung Heewon's excitement for a moment before deciding who would own the rest of the items.
 We decided that Kyung Sein would get the 'Samyeongdang's Beads', which has magic resistance, while Dansoo ahjussi would get the 'Samyeongdang's Bamboo Stick', which increases magic stats.
 Kyung Sein asked in an apologetic voice.
 "If you give them all to us, what about Inho-ssi?"
 "I'm okay. I already have a star relic."
-Dansoo ahjussi was overjoyed that he had his first star relic, and he swung the bamboo stick around in the air. He even gave it a name.
+Dansoo ahjussi was overjoyed to have his first star relic, swinging the bamboo stick through the air. He even gave it a name.
 "Wilson."
-That's weird. I thought the bracelet was named Wilson.
+That was strange. I thought the bracelet was named Wilson.
 
 ***
 
 After completing the preparations, we entered the tunnel heading straight for Chungmuro.
-While Dansoo ahjussi was using his [Diverse Communication] to sense the danger ahead, Jung Heewon and Kyung Sein were talking in small voices.
-"It's creepy here. A ghost might come out. I think I hear strange cries as well......."
+While Dansoo ahjussi used his [Diverse Communication] to sense danger ahead, Jung Heewon and Kyung Sein talked in hushed voices.
+"It's creepy here. A ghost might come out. I think I hear strange cries, too..."
 "Don't say that. You can't kill ghosts with a knife."
 Come to think of it, it was about time for that 'monster' to come out.
-At this point, I was wondering if I should warn my companions, but then I heard a welcomed message in my ear.
+Just as I was wondering if I should warn my companions, I heard a welcome message in my ear.
 —This guy closes his eyes every time he sees me.
 It was Bihyung's 'dokkaebi communication'.
 I looked up and smirked.
-'I haven't seen you much lately, that's why I closed my eyes.'
-—Are you being sarcastic? Only now could I spare some time. The number of kids doing weird stuff has dropped significantly.
-The number has dropped significantly. Normally, this would be good news, but this time, it was ominous. I had an idea who the friends who were doing the weird stuff might be.
-—And the constellations' situation is weird too...... And what have you done to get cursed by the constellations? Some of them are out to get you these days.
+'I haven't seen you much lately, so I closed my eyes.'
+—Are you being sarcastic? I only just managed to find some free time. The number of kids doing weird stuff has dropped significantly.
+The number had dropped significantly. Normally, this would be good news, but this time, it felt ominous. I had a feeling who those 'kids doing weird stuff' were.
+—And the constellations' situation is weird too...... And what have you done to get cursed by the constellations? Some of them are targetting you these days.
 Constellations that are after me?
 —Shit, there they go again. I'm leaving.
-With those words, Bihyung turned off the communication again.
-We have the stream contract, so he came to take care of me for a moment.
-By the way, the constellations are cursing me.
-I got a sense of what kind of friends they were.
-I'm guessing it's the 'Plague-Carrying Rat' we fought a while back. Maybe there's more people from the Misreading Association possessing constellations.
+With those words, Bihyung cut off the communication.
+Since we had a stream contract, he must have checked in on me.
+Regardless, the constellations were cursing me.
+I had a feeling what kind of people they were.
+I guessed it was the 'Plague-Carrying Rat' we fought earlier. Maybe more people from the Misreading Association had possessed constellations.
 "Stop it. I really hate ghosts."
 "Do I still look like Sein?"
 The two were still talking about ghosts.
 By now, we were more than halfway through the tunnel. It was time to get ready.
 I unwrapped the 'Thoughts of Almost Everything' from my wrist.
-It was shaped like a bracelet now, but it could mimic any item it touched.
+It was shaped like a bracelet now, but it had the ability to mimic any item it touched.
 I opened the list of items that could be mimicked.
 +
 [Possible Mimicry List]
@@ -123,18 +121,18 @@ I opened the list of items that could be mimicked.
 .......
 +
 In preparation for this time, I put a few items on the mimicry list.
-'Damaged Samyeongdang's Bamboo Stick' was a top-rated item, so it had a separate condition, but fortunately, the requirement was to 'have contact with the idea for at least 10 minutes', so I was able to complete it without any problems.
+'Damaged Samyeongdang's Bamboo Stick' was a top-rated item, so it had a separate condition, but fortunately, the requirement was to 'have contact with the idea for at least 10 minutes', so I was able to meet it without any issues.
 <!>[You have selected 'Damaged Samyeongdang's Bamboo Stick'.]
 <!>[The item is top-rated.]
 <!>[The item can be mimicked for 1 hour.]
 One hour. That's more than enough.
 The problem is.
 <!>['Thoughts of Almost Everything' refuses to mimic.]
-This guy could refuse the mimicry.
-Two long narrow eyes and a mouth appeared on the ring of the bracelet, and a small babbling sound came out.
+This guy could refuse mimicry commands.
+Two long, narrow eyes and a mouth appeared on the ring of the bracelet, emitting a small babbling sound.
 "Si-jyo."
-That was the only downside to the item ego 'Thoughts of Almost Everything'.
-I couldn't transform it into the shape I needed when I needed it.
+That was the only downside to the item ego, the 'Thoughts of Almost Everything'.
+I couldn't transform it whenever I wanted.
 Of course, I had a solution.
 <!>[The exclusive skill 'Incite Lv.4' is activated!]
 "From now on, you are the 'Damaged Samyeongdang's Bamboo Stick'."
@@ -145,29 +143,28 @@ With a mystic light, the bracelet's form began to change.
 <!>[The duration of the mimicry is 1 hour.]
 Sure enough, it looked exactly like 'Damaged Samyeongdang's Bamboo Stick'. The performance was the same.
 <!>[The constellation 'Bald General of Justice' is shocked!]
-<!>[The constellation 'Sneaking Schemer' asks if it's a scam.]
+<!>[The constellation 'Sneaky Schemer' asks if it's a scam.]
 Surprised, Jung Heewon poked her head over my shoulder.
-"Huh. That looks exactly like Dansoo ahjussi's item?"
+"Huh. That looks exactly like Dansoo ahjussi's bamboo stick?"
 "I made it for you."
 "What? For me?"
 "I'm not giving it to you, I'm just lending it to you for a while."
 Jung Heewon took the bamboo stick, swung it around, and tilted her head.
 "It looks strong. But I have a knife already?"
-"Hold on to that. You'll need it. You said earlier that you can't kill ghosts with a knife, but this can kill ghosts."
+"Hold on to that. You'll need it. You said earlier that you can't kill ghosts with a knife, but this can."
 "What's wrong with you, Inho-ssi, really?"
-"I'm not kidding, something really is going to come out now. Hit everything you see with it."
-In the original, Jung Heewon goes on a rampage in the 'Phantom Prison' just before entering Chungmuro Station.
-It's just that they had Kim Dokja and Lee Hyunsung, but if Jung Heewon went on a rampage here, none of us could stop her.
-That's why the 'Damaged Samyeongdang's Bamboo Stick' with its magic resistance is a must have for Jung Heewon at this point.
-Kyung Sein and Dansoo ahjussi already had a premonition of what lay ahead.
+"I'm not kidding, something is really about to come out. Hit everything you see with this."
+In the original story, they had Kim Dokja and Lee Hyunsung to restrain her, but if Jung Heewon went on a rampage here, none of us would be able to stop her.
+That was why the 'Damaged Samyeongdang's Bamboo Stick' with its magic resistance was a must-have for Jung Heewon.
+Kyung Sein and Dansoo ahjussi already had a bad feeling about what lay ahead.
 "Is everyone ready?"
 Kyung Sein whispered as she shook the 'Samyeongdang's Beads' on her wrist.
-"It's 'Phantom Prison' time now, isn't it? But what are you going to do, Inho-ssi? You don't have any items with magic resistance."
+"It's 'Phantom Prison' time now, isn't it? But what are you going to do, Inho-ssi? You don't have any magic resistance items."
 "I don't need them."
 "What?"
-At the same time as she said that, something like a fog began to gather around us.
+As soon as she spoke, something like a fog began to gather around us.
 "Be careful, everyone. It's starting."
-The final gateway to Chungmuro has finally begun.
+The final gateway before Chungmuro had finally begun.
 <!>[A new sub scenario has arrived!]
 +
 [Sub Scenario — Phantom Prison]
@@ -180,23 +177,23 @@ Failure: ???
 +
 <!>[Sub scenario — 'Phantom Prison' has begun!]
 The rising fog quickly covered the tunnel.
-My sense of space became disoriented, and the figures of Kyung Sein and Dansoo ahjussi, who were right next to me, disappeared.
-I heard their voices in the distance like a hallucination.
+My sense of space became disoriented, and Kyung Sein and Dansoo ahjussi, who were right beside me, vanished.
+I heard their voices from afar like hallucinations.
 "Jiyoon?"
 "U-uaaa!"
 Phantom Prison is a space that touches the traumas of incarnations and leads them to madness.
-Trapped in this fog, the incarnations are forced to face their most horrific memories.
+Trapped in this fog, incarnations were forced to face their most horrific memories.
 "Sein-ssi! Dansoo ahjussi! Heewon-ssi! Everyone, wake up, it's all an illusion!"
-I shouted, but my voice only echoed in the hollow fog.
-The only reassuring thing is that everyone in the group is wearing 'magic resistance' items.
-They'll be panicking, but they shouldn't have any trouble escaping the 'Phantom Prison'.
-The problem is me.
-I don't have the 'Samyeongdang's Beads', nor do I have 'Samyeongdang's Bamboo Stick'.
-I also don't have the [Fourth Wall] or [Destroy Evil(破魔)] skills like Kim Dokja in the original.
+I shouted, but my voice only echoed hollowly through the fog.
+The only reassuring thing was that everyone else in the group was wearing magic resistance items.
+They would be panicking, but they should have no trouble escaping the Phantom Prison.
+The problem was me.
+I didn't have Samyeongdang's Beads or Samyeongdang's Bamboo Stick.
+I also lacked the [Fourth Wall] or the [破魔 (Destroy Evil)] skill like Kim Dokja in the original.
 But I wasn't worried.
-To be honest, I was even a little excited to find out what I would see.
+To be honest, I was almost curious to see what I would face.
 <!>['Phantom Prison' is experiencing a temporary error!]
-Because I didn't have any memories that could be called 'traumatic'.
+Because I didn't have any memories that could be considered traumatic.
 
 ***
 

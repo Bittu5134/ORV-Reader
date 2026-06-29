@@ -130,8 +130,8 @@ Name: Kim Cheolyang
 Age: 27 years old
 Sponsor: None (No constellations are currently showing interest in this person).
 Exclusive Attributes: Crouching Figure (General), Attention Seeker (General)
-Exclusive Skills: [Irrational Blind Faith Lv.2.]. [Cognitive Dissonance Lv.3.]
-Overall Stats: [Physique Lv.1], [Strength Lv.2], [Agility Lv.2], [Magic Power Lv.3.]
+Exclusive Skills: [Irrational Blind Faith Lv.2], [Cognitive Dissonance Lv.3]
+Overall Stats: [Physique Lv.1], [Strength Lv.2], [Agility Lv.2], [Magic Power Lv.3]
 Overall Evaluation: Kim Cheolyang feels that his faith is currently being tested; he wants to be a leader who is recognized by the people, but he has been unable to overcome his natural personality and he's crouching down.
 +
 Character Kim Cheolyang.
@@ -211,7 +211,7 @@ Maybe now the people of Geumho Station will be able to live a completely differe
 Someone asked anxiously.
 "Has anything changed?"
 People looked at each other and asked.
-"This thing is dead, right? It's it tough because it's a bug?"
+"This thing is dead, right? Is it because it's a bug?"
 The big guy who had been trampling the bug in the corner questioned.
 I don't know how many times he trampled on it because the giant bug was crushed by the sole of his sneakers and I couldn't find any trace of it.
 I thought back to the first scenario of 'Omniscient Reader' and suddenly realized an eerie fact.

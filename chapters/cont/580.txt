@@ -21,10 +21,10 @@ The man who retracted the thorn asked.
 ***
 
 After using 'Readers' Comments List' a few times, I slowly realized the generation pattern of the readers' ID.
-For example, Dansoo ahjussi's ID, wldbsdldkQk80, when converted to English based on a QWERTY keyboard, looks like this
+For example, Dansoo ahjussi's ID, wldbsdldkQk80, when typed on a QWERTY keyboard using the Korean layout, looks like this:
 wldbsdldkQk80 = Jiyoon's dad 80
-We can convert alsdn0905, Kyung Sein's ID, similarly.
-alsdn0905 = Minwoo0905 (presumably his real name).
+We can convert alsdn0905, Kyung Sein's ID, similarly:
+alsdn0905 = Minwoo0905 (presumably her real name).
 Both of them were perfect if they wanted their personal information to be leaked.
 But the two new people I met were different.
 First, there was this guy.
@@ -32,9 +32,9 @@ killer_king¹ = killer_king
 <?>[1] It was written in English in the original.
 Killer King. Aside from the fact that it's a combination of two cool words, it's a pretty uninformative ID.
 On the other hand, the woman over there lighting the 'Magic Power Stove' was a little different.
-ansgkrthsu64 = LiteraryGirl64
+ansgkrthsu64 = LiteratureGirl64
 I didn't recognize her nickname, but it was clear that she was a book lover.
-Literary Girl 64 placed the freshly caught ground rat meat on the Magic Power Stove and began roasting it with medicine.
+LiteratureGirl64 placed the freshly caught ground rat meat on the Magic Power Stove and began roasting it with medicine.
 "Sit down for now."
 Killer King commanded us confidently, then sat down himself.
 He hesitated a moment, then added some words.
@@ -72,7 +72,7 @@ I asked in a whisper.
 I don't know, but that Killer King seemed to be very important in that world.
 "Killer King-nim is the Second Apostle of the Seven Apostles."
 Since they were the Seven Apostles, it must have a total of seven leaders.
-This means that the Killer King in front of me is the second of them.......
+This means that the Killer King in front of me is the second of them...
 Wait. So there's someone who's read more than him?
 As if reading my mind, Kyung Sein whispered.
 "Rumor has it that the First Apostle has read Omniscient Reader over 100 times."
@@ -81,8 +81,8 @@ Killer King, who had overheard the conversation, stepped in.
 "Oh, yes, I did. I'm sorry."
 "And I was about to reach the 100 readings myself."
 "Stop talking about pathetic things and eat."
-Everyone turned around at the sound of her voice. Literary Girl 64, who had been silent for a long time, opened her mouth for the first time.
-Perhaps because of the sudden attention, Literary Girl 64 lowered her head blushing and looked down at the stove.
+Everyone turned around at the sound of her voice. LiteratureGirl64, who had been silent for a long time, opened her mouth for the first time.
+Perhaps because of the sudden attention, LiteratureGirl64 lowered her head blushing and looked down at the stove.
 Kyung Sein asked Killer King.
 "Is she also an 'Apostle'?"
 Killer King picked up a skewer of ground rat and said.
@@ -90,12 +90,12 @@ Killer King picked up a skewer of ground rat and said.
 "Ah, so your sister has read the Book of Revelation."
 "No, I haven't."
 "What? And yet you ended up in Omniscient Reader?"
-At that, Literary Girl 64 glared at Killer King.
+At that, LiteratureGirl64 glared at Killer King.
 Killer King coughed lightly and replied.
 "I told her about the Book of Revelation a few times."
 "How many times?"
 "......Quite a few times."
-Suddenly, I understood the meaning of (12.8 times) in Literary Girl 64's information list.
+Suddenly, I understood the meaning of (12.8 times) in LiteratureGirl64's information list.
 She shook her head as if she was bored, and handed us each a skewer of ground rat.
 As I was about to take the skewer, Literature Girl 64 glanced in my direction. When I looked back at her, she bowed her head and mumbled something.
 I wasn't sure, but she seemed to be thanking me.
@@ -105,7 +105,7 @@ She just smiled and handed me the skewer.
 I'm touched. This is completely normal.
 It was painful to think that the one who didn't read Omniscient Reader was the most normal.
 <!>[The constellation 'Prisoner of the Golden Headband' smacks his lips.]
-<!>[The constellation 'Sneaking Schemer' gulps down his saliva.]
+<!>[The constellation 'Sneaky Schemer' gulps down his saliva.]
 I was really hungry, and the sight of the golden brown meat in front of me was hard to resist.
 Kyung Sein asked.
 "May I eat it?"
@@ -114,11 +114,11 @@ Kyung Sein asked.
 We started tearing into the meat without anyone stopping us.
 When you're eating something really good, there's a natural silence. No one said a word, but we were all thinking the same thing.
 <&>「This is really good.」
-The meat that existed only in text has become real. The seasoning that the younger sibling made was just right.
+The meat that existed only in text has become real. The seasoning that his younger sister made was just right.
 "Ha, it's really good."
 "You're very skillful."
 Only after barely tearing off one leg piece by piece did Kyung Sein and Dansoo ahjussi express their admiration at the same time.
-Literary Girl 64 smiled silently.
+LiteratureGirl64 smiled silently.
 Killer King also shook his head as if the meat wasn't bad.
 "Killer King-nim. I'm actually a real fan of yours. I also remember the comment war you had with the members of the Misreading Association for three days and four nights."
 "You remember that useless stuff."
@@ -139,7 +139,7 @@ Since no one else spoke up, I had to point it out.
 "By the way, your way of speaking is strangely similar to someone's."
 "No."
 "You must like Yoo Joonghyuk."
-Literary Girl 64, who was next to me, made a raspy, windy sound.
+LiteratureGirl64, who was next to me, let out a dry chuckle.
 Killer King looked at me and asked.
 "You hardly ate the meat."
 "I'm a slow eater."
@@ -167,17 +167,17 @@ I have notes that only I know about, so this wasn't a lie.
 Killer King nodded and said.
 "Interesting."
 A moment of silence.
-I spit the bite of skewer I'd taken on the floor and stood up slowly.
+I spat the bite of skewer I'd taken onto the floor and stood up slowly.
 "I'm not that interesting."
 At the same time, Dansoo ahjussi and Kyung Sein fell sideways.
 I glared at the two people in front of me, holding the spike in my right hand.
-Killer King held the spike like me, ready for battle. And beside him, I could see Literary Girl 64, her head down. Killer King said.
+Killer King held the spike like me, ready for battle. And beside him, I could see LiteratureGirl64, her head down. Killer King said.
 "They're not dead, just asleep."
 If it's a sleeping potion you can get early on, it's probably the stem of yanaspleta.
 I don't know how they got it, but they were prepared.
 "Why did you do this?"
 "I have two reasons."
-Killer King looked at the 'Dark Keeper' fallen on the distance.
+Killer King looked at the 'Dark Keeper' lying in the distance.
 "One. You were going to attack us."
 "We weren't."
 "Two. I smell blood on you."
@@ -187,7 +187,7 @@ I paused for the first time.
 "Even if you know the contents of the Book of Revelation, you are, at your core, an ordinary human being. Few humans can kill their own kind without hesitation because they're suddenly in a novel."
 "True, but if you want to protect yourself, you have to fight."
 "The average reader has a pattern. If you've been lucky enough to find a bug and kill it, you wouldn't have killed anyone yet, but if you had to kill someone, you would have killed one. But."
-Upon closer inspection, one of Killer King's eyes shined in an unnerving dark red color.
+Upon closer inspection, one of Killer King's eyes shone with an unnerving dark red color.
 I knew what that skill was.
 "You have killed at least ten human beings."
 It is the stigma of an archangel who can read the sins of others.

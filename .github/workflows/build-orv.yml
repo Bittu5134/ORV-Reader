@@ -24,8 +24,8 @@ jobs:
 
       - name: Run Python script
         run: |
-          python scripts/main_epub_processor/htmlBuilder.py
           python scripts/main_epub_processor/titles.py
+          python scripts/main_epub_processor/htmlBuilder.py
         env:
           PYTHONIOENCODING: "utf-8" #
 
