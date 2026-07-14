@@ -585,3 +585,175 @@ window.addEventListener('beforeunload', releaseWakeLock);
 
 // Optional: Release wake lock on history navigation
 window.addEventListener('popstate', releaseWakeLock);
+
+// Giscus error detection & auth redirection logic for rate limiting
+(function() {
+    let giscusLoaded = false;
+    let bannerTriggered = false;
+
+    function showGiscusAuthBanner() {
+        if (bannerTriggered) return;
+        bannerTriggered = true;
+
+        const commentsDiv = document.getElementById('comments');
+        if (!commentsDiv) return;
+
+        // Check if banner already exists
+        if (document.getElementById('giscus-auth-banner')) return;
+
+        const oldScript = document.getElementById('giscus-script');
+        const discussionId = oldScript ? oldScript.getAttribute('data-term') : null;
+        const githubDiscussionUrl = (discussionId && !isNaN(discussionId))
+            ? `https://github.com/Bittu5134/ORV-Reader/discussions/${discussionId}`
+            : 'https://github.com/Bittu5134/ORV-Reader/discussions';
+
+        const banner = document.createElement('div');
+        banner.id = 'giscus-auth-banner';
+        banner.className = 'theme1'; // matches site styles
+        banner.style.margin = '20px auto';
+        banner.style.padding = '20px';
+        banner.style.backgroundColor = 'var(--primary)';
+        banner.style.border = '1px solid #ff5e1f';
+        banner.style.borderRadius = '8px';
+        banner.style.textAlign = 'center';
+        banner.style.maxWidth = '800px';
+        banner.style.color = 'var(--text-primary)';
+        banner.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.1)';
+        banner.style.fontFamily = 'sans-serif';
+
+        const authUrl = 'https://giscus.app/api/oauth/authorize?redirect_uri=' + encodeURIComponent(window.location.href) + '#comments';
+
+        banner.innerHTML = `
+            <p style="margin: 0 0 8px 0; font-size: 1.1em; line-height: 1.5; font-weight: bold; color: #ff5e1f;">
+                💬 Comments having trouble loading?
+            </p>
+            <p style="margin: 0 0 16px 0; font-size: 0.9em; opacity: 0.9; line-height: 1.5; text-align: left;">
+                This happens because the comments section is temporarily rate-limited. 
+                To view or write comments, please log in, or open the discussion page directly.
+            </p>
+            <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+                <a href="${authUrl}" style="display: inline-block; padding: 10px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s; cursor: pointer;">
+                    Log In to view comments
+                </a>
+                <a href="${githubDiscussionUrl}" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #333; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s; cursor: pointer; border: 1px solid #555;">
+                    Open Discussion Page
+                </a>
+            </div>
+        `;
+
+        commentsDiv.parentNode.insertBefore(banner, commentsDiv);
+    }
+
+    // 1. Listen for Giscus postMessages
+    window.addEventListener('message', (event) => {
+        if (event.origin !== 'https://giscus.app') return;
+
+        const { data } = event;
+        if (!(typeof data === 'object' && data.giscus)) return;
+
+        const giscusData = data.giscus;
+
+        // Detect rate limiting or other Giscus errors
+        if (giscusData.error) {
+            console.warn('Giscus error detected:', giscusData.error);
+            
+            // Hide the Giscus iframe so the reader doesn't see the raw Giscus rate limit message
+            const commentsDiv = document.getElementById('comments');
+            if (commentsDiv) {
+                const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
+                if (iframe) iframe.style.display = 'none';
+            }
+            
+            showGiscusAuthBanner();
+        } else if (giscusData.discussion || giscusData.resizeHeight) {
+            giscusLoaded = true;
+        }
+
+        // Log viewer status
+        if (giscusData.viewer) {
+            if (!giscusData.viewer.login) {
+                console.log('Giscus status: Reader is not logged in to GitHub.');
+            } else {
+                console.log('Giscus status: Reader is logged in to GitHub as ' + giscusData.viewer.login);
+            }
+        }
+    });
+
+    // 2. Fallback timeout: if Giscus doesn't load within 4 seconds, show authorization tip
+    window.addEventListener('load', () => {
+        setTimeout(() => {
+            const commentsDiv = document.getElementById('comments');
+            if (commentsDiv && !giscusLoaded) {
+                console.log('Giscus loading timed out (4s), showing authorization banner.');
+                
+                // Hide the Giscus iframe if it exists so it doesn't show raw errors or loading spin
+                const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
+                if (iframe) iframe.style.display = 'none';
+                
+                showGiscusAuthBanner();
+            }
+        }, 4000);
+    });
+})();
+
+
+// Dynamic Banner Injection
+(function() {
+    const bannerContainer = document.getElementById('chapter-banner');
+    if (!bannerContainer) return;
+
+    const current = parseInt(bannerContainer.dataset.current);
+    const first = parseInt(bannerContainer.dataset.first) || 1;
+    const last = parseInt(bannerContainer.dataset.last) || 490;
+
+    const DONATION_BANNER = `
+    <div class="donation-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #ffb74d; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(255, 183, 77, 0.08); font-family: sans-serif;">
+        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💖 <strong>This site is maintained by Readers like you!</strong></p>
+        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Hosting and domain costs are funded entirely through community donations.</p>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+            <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #ffb74d; color: #1a1a2e; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
+            <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+            <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
+        </div>
+    </div>`;
+
+    const DISCORD_BANNER = `
+    <div class="discord-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #5865F2; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(88, 101, 242, 0.08); font-family: sans-serif;">
+        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💬 <strong>Report issues on our Discord Server!</strong></p>
+        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Connect with the community, share theories, and get notified about new chapters.</p>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+            <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Join Discord</a>
+            <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
+        </div>
+    </div>`;
+
+    const LOTM_BANNER = `
+    <div class="lotm-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #38bdf8; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(56, 189, 248, 0.08); font-family: sans-serif;">
+        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">🧐 <strong>Looking for a change of pace? Read Lord of the Mysteries!</strong></p>
+        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Experience the journey of Klein Moretti on our beautifully formatted sister site.</p>
+        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+            <a href="https://beyonder.pages.dev" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #0284c7; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Read LOTM</a>
+        </div>
+    </div>`;
+
+    let selectedBanner = '';
+
+    if (!isNaN(current)) {
+        if (current <= first + 4) {
+            selectedBanner = DISCORD_BANNER;
+        } else if (current >= last - 4) {
+            selectedBanner = DONATION_BANNER;
+        } else {
+            const rand = Math.random();
+            if (rand < 0.4) {
+                selectedBanner = DONATION_BANNER;
+            } else if (rand < 0.8) {
+                selectedBanner = DISCORD_BANNER;
+            } else {
+                selectedBanner = LOTM_BANNER;
+            }
+        }
+    }
+
+    bannerContainer.innerHTML = selectedBanner;
+})();
