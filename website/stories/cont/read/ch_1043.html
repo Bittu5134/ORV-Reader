@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1043 Episode 64. Eternal Night (2)</title>
+    <meta property="og:title" content="1043 Episode 64. Eternal Night (2)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+    
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="51" id="set-font-size">
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
+			</div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+                </select>
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <a href="../../../download.html"><button>Download Full EPUB</button></a>
+        <hr>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/side/1043.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>1043 Episode 64. Eternal Night (2)</h1></div>
+<br>
+<p class="orv_line">Cha Yerin ran straight toward the battlefield. The battlefield was already a complete mess due to the disasters.</p>
+<br>
+<p class="orv_line">The urgent voice of an incarnation in charge of the first line of outer wall barricades reached her ears.</p>
+<br>
+<p class="orv_line">"The barricades are collapsing!"</p>
+<br>
+<p class="orv_line">It was called a barricade, but it was a first line of defense that could barely block even the 'Nameless Things'. At one point, even that barricade was imbued with the story of a 'Myth-grade Constellation'. But now that the stars had lost their light, it was nothing more than a pile of scrap metal.</p>
+<br>
+<p class="orv_line">"Uaaah!"</p>
+<br>
+<p class="orv_line">Incarnations who had not yet evacuated near the defensive line bent over with screams. Instead of attacking those incarnations, the 'Nameless Things' pushed past the barricades and descended toward the second line of defense.</p>
+<br>
+<p class="orv_line">"Stay down! Just a little more—"</p>
+<br>
+<p class="orv_line">If you do not resist, they will not attack. That was the singular characteristic of the disasters that descended in this 'Ragnarok'. In particular, the lowest-grade disasters, the 'Nameless Things', did not bother touching incarnations who showed no intent to resist. As if killing the incarnations was not their purpose.</p>
+<br>
+<p class="orv_line">However, they were not completely safe just because they didn't resist.</p>
+<br>
+<p class="orv_line">"We have to move now! Run!"</p>
+<br>
+<p class="orv_line">At Cha Yerin's warning, the incarnations who had crouched stood up and began to run. However, there was an Outer God approaching even faster than them.</p>
+<br>
+<p class="orv_line">Kugugugugu.</p>
+<br>
+<p class="orv_line">Giant disasters resembling black spheres were rolling from behind the 'Nameless Things' with a roaring sound.</p>
+<br>
+<p class="orv_line">"Save me! Kuaaa!"</p>
+<br>
+<p class="orv_line">With a sharp scream, an incarnation was crushed under a sphere. If they were an incarnation who had reached this scenario, being crushed slightly under a heavy object wouldn't make their body explode and kill them instantly. But this time was different.</p>
+<br>
+<div class="orv_quote"><p>「 Story Eaters. 」</p></div>
+<br>
+<p class="orv_line">These godheads of the other world, belonging to the 'mid-sized disasters', were characterized by moving their giant sphere-like bodies to crush everything in their sight. The places they touched lost all vitality and became desolate deserts, which was due to their 'story collection' characteristic.</p>
+<br>
+<div class="orv_quote"><p>「 Disasters that roll around while constantly collecting stories of the area. 」</p></div>
+<br>
+<p class="orv_line">Because of that, incarnations who approached near them without knowing were struck by tentacles and had all their stories stolen.</p>
+<br>
+<p class="orv_line">"Run! It's a Story Eater!"</p>
+<br>
+<p class="orv_line">The incarnations each used skills like [Nimble Movements] or [Instant Acceleration] to quickly retreat from the first line of defense. But at the next moment, the movement of the Story Eaters changed strangely. Discovering the fleeing incarnations, the Story Eater suddenly stood in place and let out a bizarre cry toward the sky.</p>
+<br>
+<div class="orv_outergod"><p>[Kkigigigig—!]</p></div>
+<br>
+<p class="orv_line">Cha Yerin, who knew their pattern beforehand, shouted.</p>
+<br>
+<p class="orv_line">"Cover your ears!"</p>
+<br>
+<p class="orv_line">Sure enough, some incarnations with experience quickly covered their ears or blocked their hearing. The problem was the incarnations who did not hear the warning.</p>
+<br>
+<p class="orv_line">"Ah—"</p>
+<br>
+<p class="orv_line">The bodies of the incarnations who heard the cry froze in an instant. They froze for exactly about three seconds. And those three seconds were enough time for the Story Eater to devour the incarnations.</p>
+<br>
+<p class="orv_line">"Kuaaa!"</p>
+<br>
+<p class="orv_line">A bundle of tentacles rising from the Story Eater's sphere emitted gas and pierced the incarnations like syringes.</p>
+<br>
+<p class="orv_line">"Keo-heok! Save me—!"</p>
+<br>
+<p class="orv_line">But no one could save the dying incarnations. There was no way to save them in the first place. If they ran in blindly, they would all become prey for the Eaters due to the tentacles that popped out one after another.</p>
+<br>
+<p class="orv_line">"Everyone run!"</p>
+<br>
+<p class="orv_line">"Uaaah!"</p>
+<br>
+<p class="orv_line">With that, the first line of defense collapsed completely. Thinking that she could no longer delay, Cha Yerin equipped her claws, and as if waiting for this, Gong Pildu's voice rang out.</p>
+<br>
+<p class="orv_line">"Leave this place to me!"</p>
+<br>
+<p class="orv_line">Gong Pildu, who summoned the Armed Fortress, began supporting with artillery fire.</p>
+<br>
+<p class="orv_line">Dududududu!</p>
+<br>
+<p class="orv_line">Hot bullets traversed the battlefield and pierced the heads of the 'Nameless Things'. It was a scene reminiscent of Chungmuro's 'Emergency Defense Battle', but its scale was incomparable to the 'Emergency Defense Battle'.</p>
+<br>
+<p class="orv_line">Kyaaaa!</p>
+<br>
+<p class="orv_line">The heads of the 'Nameless Things' running in the lead exploded due to Gong Pildu's reinforced magic bullets, which had grown stronger over the scenarios. Confirming hostility, the 'Nameless Things' began running toward the Armed Fortress all at once.</p>
+<br>
+<p class="orv_line">"Protect the Armed Fortress!"</p>
+<br>
+<p class="orv_line">As Gong Pildu's Armed Fortress stood at the lead of the second line of defense, nearby incarnations also gathered around the Armed Fortress.</p>
+<br>
+<div class="orv_system"><p>[The constellation, 'Defense Master', bestows a blessing upon his incarnation!]</p></div>
+<br>
+<p class="orv_line">The 'Defense Master', who had grown steadily alongside Gong Pildu, also revealed his power. The second line of defense, which was being pushed back amidst the pouring gunfire, was restored once again through the active efforts of the Armed Fortress. Probably, the 'Nameless Things' would be handled to some extent with this.</p>
+<br>
+<p class="orv_line">The problem was the 'Story Eaters' rolling fiercely behind them.</p>
+<br>
+<p class="orv_line">"Kuaaa!"</p>
+<br>
+<p class="orv_line">An incarnation caught by the Story Eater's tentacles reached out toward Cha Yerin. But it was already too late. The moment the tentacles pierced, the incarnation, whose stories were completely drained, turned into a mummy in an instant and crumbled.</p>
+<br>
+<div class="orv_quote"><p>「 Although the 'Story Eaters' were threatening on their own, because of their potential, they belonged to the targets that had to be handled with priority over other 'mid-sized Outer Gods'. 」</p></div>
+<br>
+<p class="orv_line">If Story Eaters consume a large amount of stories, they evolve into 'Named'—that is, Outer Gods of the 'Old One' class. Because of this, she had to handle the 'Story Eaters' before they entered the evolution stage to secure superiority on the battlefield.</p>
+<br>
+<p class="orv_line">The problem was that to defeat a 'Story Eater', three skilled Historical-grade Constellations, or a Fable-grade Constellation was needed.</p>
+<br>
+<div class="orv_quote"><p>「 The number of 'Story Eaters' currently visible was ten. 」</p></div>
+<br>
+<p class="orv_line">Cha Yerin caught her breath and raised the stories of her whole body.</p>
+<br>
+<div class="orv_system"><p>[The story, 'Path of the Wind', begins its storytelling!]</p></div>
+<br>
+<p class="orv_line">[Path of the Wind] which she had obtained at the 'Recycling Center'. Storm-like wind blades began to flow from her entire body.</p>
+<br>
+<p class="orv_line">Gyiaaaa!</p>
+<br>
+<p class="orv_line">The 'Nameless Things' that had been hastily approaching screamed as they were torn to pieces. She accelerated just like that and ran toward the nearest 'Story Eater'. Sensing the threat, the 'Story Eater' stretched out tentacles to check her. Piercing through the first tentacle, a dazzling aura bloomed from Cha Yerin's entire body.</p>
+<br>
+<p class="orv_line">[Fighting Action Mode].</p>
+<br>
+<p class="orv_line">Originally, [Fighting Action Mode] was a skill that could only be properly used when her brother, Cha Seongwoo, was present. However, after painstaking efforts, she became able to draw out the performance of [Fighting Action Mode] to some extent on her own.</p>
+<br>
+<p class="orv_line">Seogeok!</p>
+<br>
+<p class="orv_line">Aiming for an opening, Cha Yerin's claws cut out the Story Eater's outer skin. Almost simultaneously, the formidable energy harbored in the claws explosively swirled, digging into the interior of the Story Eater.</p>
+<br>
+<div class="orv_quote"><p>「 "Dark Spinning Breaker." 」</p></div>
+<br>
+<p class="orv_line">If her brother had been by her side, he would have said that. Cha Yerin bit her lip tightly and infused more powerful magic into the claws. Unable to withstand the expansion of the energy lodged inside its body, the first 'Story Eater' exploded miserably.</p>
+<br>
+<p class="orv_line">"Yerin-ah! Watch out!"</p>
+<br>
+<p class="orv_line">Gong Pildu's shout echoed from afar. Already, other 'Story Eaters' were approaching.</p>
+<br>
+<div class="orv_quote"><p>「 Each Story Eater has a different grade. 」</p></div>
+<br>
+<p class="orv_line">The two specimens running toward her now were more powerful than the one she had handled previously.</p>
+<br>
+<div class="orv_outergod"><p>[P r e y   P r e y   P r e y   P r e y]</p></div>
+<br>
+<p class="orv_line">Cha Yerin felt a familiar story from the approaching 'Story Eaters'. The 'Story Eaters' before her eyes were beings she once knew.</p>
+<br>
+<div class="orv_quote"><p>「 Stars that clung to Snow White. 」</p></div>
+<br>
+<p class="orv_line">Although many incarnations left 'Snow White's' subordinate position and chose the 'Constellation Camp', conversely, there were also stars who crawled under 'Snow White's' command on their own feet. Stars that chose to submit to the 'Most Ancient Dream' and be recorded at the world's end, even if it meant throwing away their honor as constellations. Now, having lost their sense of self and become disasters, they were running to devour Cha Yerin's stories.</p>
+<br>
+<div class="orv_outergod"><p>[O o o o o]</p></div>
+<br>
+<p class="orv_line">Looking at the Eaters approaching right in front of her, Cha Yerin made a quick judgment. The buff of [Fighting Action Mode] alone wasn't enough to handle both.</p>
+<br>
+<div class="orv_system"><p>[The Incarnation, 'Cha Yerin', reveals her status!]</p></div>
+<br>
+<p class="orv_line">She pulled up all her stories as if squeezing them. The energy harbored in her claws gradually deepened, eventually becoming close to a golden color. At the same time, a formidable status began to flow from her entire body.</p>
+<br>
+<div class="orv_quote"><p>「 A realm that could be reached only because she was a 'Reader' who survived to the end. 」</p></div>
+<br>
+<p class="orv_line">A natural intelligence that allowed her to learn [Path of the Wind] in 30 minutes. An outstanding comprehension as a reader. Furthermore, having undergone a metamorphosis after eating the 'Holy Oil Fruit' that Cha Seongwoo had obtained for her, she had reached as far as the 4th stage of transcendence in the final scenario.</p>
+<br>
+<div class="orv_quote"><p>「 Transcendence Stage 4. 」</p></div>
+<br>
+<p class="orv_line">In an instant, a status surpassing the power of a Fable-grade Constellation raged from her entire body. As her madly beating heart pumped stories, an unbelievable superhuman strength welled up from her whole body. With a whooshing sound, her claws emitted light.</p>
+<br>
+<p class="orv_line">One. The first 'Story Eater' was hacked to pieces by her claws.</p>
+<br>
+<p class="orv_line">Two. A large hole was pierced in the center of the second 'Story Eater' by her claws that thrust as she spun and turned.</p>
+<br>
+<p class="orv_line">'It's not over yet.'</p>
+<br>
+<p class="orv_line">Two 'Story Eaters', who had approached stealthily underground by hiding in the shadows of the other Eaters, shot up from beneath her feet.</p>
+<br>
+<div class="orv_outergod"><p>[Kkigigigig—]</p></div>
+<br>
+<p class="orv_line">She blocked her hearing using the power of her stories and leapt into the air. In an instant, the rushing tentacles narrowly pierced through the empty air. The moment the 'Story Eaters', startled by her sudden wit, hesitated, Cha Yerin activated [Fighting Action Mode].</p>
+<br>
+<div class="orv_quote"><p>「 "Shadow Breaker." 」</p></div>
+<br>
+<p class="orv_line">The ultimate technique of [Fighting Action Mode]. A golden energy storm erupted from the shadows of the 'Story Eaters'. Torn apart by the energy that poured down in their moment of carelessness, the two 'Story Eaters' collapsed with rough screams.</p>
+<br>
+<div class="orv_system"><p>[Fighting Action Mode is deactivated.]</p></div>
+<br>
+<div class="orv_system"><p>[Combat Summary: Combo Score 88 points! Your lonely struggle fighting alone is remarkable.]</p></div>
+<br>
+<p class="orv_line">Falling straight to the ground, Cha Yerin stumbled.</p>
+<br>
+<div class="orv_quote"><p>「 This was the limit. 」</p></div>
+<br>
+<p class="orv_line">Due to the long battle, her incarnation body had already reached its limit, and the flow of her stories was not in a normal state.</p>
+<br>
+<div class="orv_system"><p>[Warning! Your incarnation body has reached its limit!]</p></div>
+<br>
+<div class="orv_system"><p>[Your stories are beginning to flow backward!]</p></div>
+<br>
+<p class="orv_line">Defeating five mid-sized disasters single-handedly.</p>
+<br>
+<div class="orv_system"><p>[You have achieved an amazing feat!]</p></div>
+<br>
+<div class="orv_system"><p>[&lt;Star Stream&gt; is filled with admiration at your active performance!]</p></div>
+<br>
+<p class="orv_line">A feat that normally would have brought a shower of admiration and sponsorship from the stars. But there was not a single starlight shining down on her. This was because all the stars that used to watch over her had already fallen long ago.</p>
+<br>
+<p class="orv_line">In the distance, she saw the 'Story Eaters' approaching her. Exactly five specimens. Just as many as she had defeated still remained. Moreover, this was only the beginning. Amidst the surging army of disasters, there would easily be hundreds more of those 'Story Eaters'.</p>
+<br>
+<div class="orv_quote"><p>‘Brother.’</p></div>
+<br>
+<p class="orv_line">Even if she was lucky enough to handle all those Eaters, at the rear of the army were large Outer Gods of the 'Interstellar Predator' class—the 'Old Ones'—who were more powerful than them. Even if, by some miracle, she defeated all those Outer Gods, behind them stood the monstrous 'Snow White', who could extinguish all starlight in the sky just by blinking.</p>
+<br>
+<div class="orv_quote"><p>‘What was the sight you saw at the end, brother?’</p></div>
+<br>
+<p class="orv_line">Cha Yerin infused the last of her magic into her claws and thought about her brother, Cha Seongwoo.</p>
+<br>
+<div class="orv_quote"><p>「 "Yerin-ah. That is not the correct interpretation." 」</p></div>
+<br>
+<p class="orv_line">The person who loved this world more than anyone. If he had been by her side, what advice would he have given her? If it were her brother, who had read the same story a hundred times, would he have been able to find a way to resolve this situation?</p>
+<br>
+<p class="orv_line">Cheucheucheut.</p>
+<br>
+<p class="orv_line">The moment her magic cut out, her knees buckled. Not missing the opening, the lead 'Story Eater' stretched out its tentacles. Held powerlessly, her claws made a snapping sound. The broken blade rolled on the ground, and Cha Yerin looked up at the dark sky. A faint chuckle escaped her. That pitch-black scenery, where nothing could be seen, was a sight more familiar to her than anyone else. Perhaps it was just returning to how everything was before it all began. Thinking that made her feel a little more at peace.</p>
+<br>
+<p class="orv_line">Certain of her death, the last thing she recalled was the existence she had resented all this time.</p>
+<br>
+<div class="orv_quote"><p>I want to see a star.</p></div>
+<br>
+<div class="orv_quote"><p>Just once, I want to see a dazzling star that brightens the darkness of that sky.</p></div>
+<br>
+<p class="orv_line">Thinking that wish was ridiculous, the moment she closed her eyes, she felt as if a part of the distant night sky was growing bright.</p>
+<br>
+<p class="orv_line">"Ah."</p>
+<br>
+<p class="orv_line">At first, she thought it was her imagination. But the moment she saw the approaching Eaters falter and stop, Cha Yerin realized something.</p>
+<br>
+<div class="orv_quote"><p>「 At least one star that watched over her remained on this battlefield. 」</p></div>
+<br>
+<p class="orv_line">---</p>
+<br>
+<p class="orv_line">&lt; Episode 64. Eternal Night (2) &gt; End</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_1042"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./../">Home<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M240-200h120v-240h240v240h120v-360L480-740 240-560v360Zm-80 80v-480l320-240 320 240v480H520v-240h-80v240H160Zm320-350Z" /></svg></a>
+        </div>
+         <div class="evadav">
+         </div>
+           
+        <div id="chapter-banner" data-current="1043" data-first="553" data-last="1043"></div>
+        <div class="giscus" id="comments" style="margin-top: -8px;">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="1042" data-type="cont" src="../../../assets/reader.js"></script>
+    <script src="https://giscus.app/client.js" id="giscus-script" data-repo="Bittu5134/ORV-Reader"
+        data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
+        data-term="1928" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top"
+        data-theme="dark" data-lang="en" crossorigin="anonymous" async>
+        </script>
+
+</body>
+
+</html>
