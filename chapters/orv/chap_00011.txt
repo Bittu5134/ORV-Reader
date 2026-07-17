@@ -39,7 +39,7 @@ It was a lie. I could tell just by looking at his face. I was the only reader of
 <!>[Your understanding of the character 'Yoo Joonghyuk' is increasing.]
 <!>[Your understanding of this person is already very high.]
 …Huh?
-<!>[The conditions of use for the exclusive skill 'Omniscient Reader's Viewpoint' stage 2 has been reached!]
+<!>[The conditions of use for the exclusive skill [Omniscient Reader's Viewpoint] stage 2 has been reached!]
 <!>[Do you want to activate the exclusive skill?]
 Then after a moment, I was able to read someone's thoughts like a waterfall in my head.
 <&>「 Only Lee Hyunsung and Kim Namwoon should've survived in that carriage. 」
@@ -83,15 +83,15 @@ I have never seen a protagonist as careful as Yoo Joonghyuk.
 <&>「He is abnormally well-adjusted to this changed world. 」
 <&>「He probably killed Kim Namwoon. 」
 <&>「 He has gone beyond being useful to being dangerous. 」
-Yoo Joonghyuk's right eye started shining with a gold colour. I quickly realized what he was doing. In fact, it would be weird if this guy didn't use 'that'. Sage's Eye. Yoo Joonghyuk's strongest detection skill. Sage's Eye was the SS-grade skill that showed the target's attributes window as well as hidden information.
+Yoo Joonghyuk's right eye started shining with a gold colour. I quickly realized what he was doing. In fact, it would be weird if this guy didn't use 'that'. [Sage's Eye]. Yoo Joonghyuk's strongest detection skill. [Sage's Eye] was the SS-grade skill that showed the target's attributes window as well as hidden information.
 As long as he used it, I couldn't avoid revealing my identity. On the other hand, I thought it was a good thing. I still didn't know my 'attribute' and 'skills'. If Yoo Joonghyuk discovered my information, I would also be able to know about myself. Then hopefully, I would be able to use the information I learned to escape this situation.
-<!>[The exclusive skill, 'Fourth Wall' is activated!]
+<!>[The exclusive skill, [Fourth Wall] is activated!]
 <!>[Fourth Wall has detected the use of the detection skill Sage's Eye!]
 Sparks flew in the air and Yoo Joonghyuk's body staggered.
 <&>「…Kuk, what? 」
 Yoo Joonghyuk covered his right eye and watched me with confusion. "You…what is your identity?"
 I'm sorry but I was wondering the same thing.
-<!>[The exclusive skill Fourth Wall has blocked Sage's Eye!]
+<!>[The exclusive skill [Fourth Wall] has blocked Sage's Eye!]
 I didn't know that I had a skill that would defend against Sage's Eye. After Bookmark, it was Fourth Wall. This complicated things. Yoo Joonghyuk wouldn't believe me now.
 <&>「 I must kill him here. 」
 He was a person who didn't trust what he didn't know.
@@ -105,15 +105,15 @@ Yoo Joonghyuk's eyes narrowed. "How do you know this? Perhaps you―"
 <&>「 …Perhaps? 」
 If I couldn't hide my hand and if I didn't possess the best hand, then there was only one way out. It was to show a hand that would make the other person misunderstand.
 "Yoo Joonghyuk, I know the future that you don't know."
-<!>[The character 'Yoo Joonghyuk' has used the 'Lie Detection' skill.]
+<!>[The character 'Yoo Joonghyuk' has used the [Lie Detection] skill.]
 <!>[Lie Detection has confirmed that your words are the truth.]
 Yoo Joonghyuk's eyes slowly widened. "…How?"
 "How else?"
 <&>「 No way. There was a prophet other than Anna Croft? It is also in South Korea? 」
 Prophet. In Ways of Survival, it was the only attribute that could see the future and had the passive of 'nullifying all detection skills'. In fact, only one person had the attribute of 'prophet' in the world of Ways of Survival.
-<&>「 Only a prophet can defend against my Sage's Eye. 」
+<&>「 Only a prophet can defend against my [Sage's Eye]. 」
 I didn't answer and Yoo Joonghyuk bit his lips.
-"Can you perhaps use 'Future Sight'?"
+"Can you perhaps use [Future Sight]?"
 "It is something similar."
 "You knew I would come here."
 "Yes."
