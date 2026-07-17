@@ -142,8 +142,8 @@ body {
 /* for the comments */
 
 .giscus {
-    position: relative;
-    top: 5vh;
+    display: none;
+    margin-top: 5vh;
     max-width: clamp(100px, 90%, 900px);
 }
 

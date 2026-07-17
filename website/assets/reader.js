@@ -1,3 +1,97 @@
+function getReaderState() {
+    try {
+        const raw = localStorage.getItem('orv_reader_state');
+        const state = raw ? JSON.parse(raw) : {};
+        if (state.login === undefined || state.login === null) {
+            state.login = false;
+        }
+        return state;
+    } catch (e) {
+        console.error('Error reading local storage state:', e);
+        return { login: false };
+    }
+}
+
+function saveReaderState(state) {
+    try {
+        localStorage.setItem('orv_reader_state', JSON.stringify(state));
+    } catch (e) {
+        console.error('Error saving local storage state:', e);
+    }
+}
+
+function migrateLocalStorage() {
+    try {
+        const state = {};
+        let migrated = false;
+
+        const lastRead = localStorage.getItem('lastread');
+        if (lastRead !== null) {
+            state.lastread = lastRead;
+            localStorage.removeItem('lastread');
+            migrated = true;
+        }
+
+        const lastType = localStorage.getItem('lasttype');
+        if (lastType !== null) {
+            state.lasttype = lastType;
+            localStorage.removeItem('lasttype');
+            migrated = true;
+        }
+
+        const settings = localStorage.getItem('settings1');
+        if (settings !== null) {
+            try {
+                state.settings = JSON.parse(settings);
+            } catch (e) {}
+            localStorage.removeItem('settings1');
+            migrated = true;
+        }
+
+        const types = ['orv', 'side', 'cont'];
+        state.scroll_positions = {};
+        state.scroll_history = {};
+
+        types.forEach(type => {
+            const historyKey = `scroll_history_${type}`;
+            const historyRaw = localStorage.getItem(historyKey);
+            if (historyRaw !== null) {
+                try {
+                    const historyList = JSON.parse(historyRaw) || [];
+                    state.scroll_history[type] = historyList;
+                    
+                    historyList.forEach(scrollKey => {
+                        const val = localStorage.getItem(scrollKey);
+                        if (val !== null) {
+                            state.scroll_positions[scrollKey] = parseInt(val, 10);
+                            localStorage.removeItem(scrollKey);
+                        }
+                    });
+                } catch (e) {}
+                localStorage.removeItem(historyKey);
+                migrated = true;
+            }
+        });
+
+        if (migrated) {
+            const existing = JSON.parse(localStorage.getItem('orv_reader_state')) || {};
+            const merged = {
+                ...state,
+                ...existing,
+                settings: { ...state.settings, ...existing.settings },
+                scroll_positions: { ...state.scroll_positions, ...existing.scroll_positions },
+                scroll_history: { ...state.scroll_history, ...existing.scroll_history }
+            };
+            localStorage.setItem('orv_reader_state', JSON.stringify(merged));
+        }
+    } catch (e) {
+        console.error('Error during local storage migration:', e);
+    }
+}
+
+// Run migration immediately
+migrateLocalStorage();
+
 function changeGiscusTheme(theme) {
     // const scriptId = 'giscus-script';
     // const existingScript = document.getElementById(scriptId);
@@ -83,8 +177,10 @@ setTimeout(() => {
     const scriptElement = document.getElementById('main-script');
     let index = scriptElement.dataset.index;
     let type = scriptElement.dataset.type;
-    localStorage.setItem("lastread", String(index))
-    localStorage.setItem("lasttype", String(type))
+    let state = getReaderState();
+    state.lastread = String(index);
+    state.lasttype = String(type);
+    saveReaderState(state);
 }, 10000);
 
 function classChangeTheme(elementClass, elemetTheme) {
@@ -105,7 +201,8 @@ function classChangeTheme(elementClass, elemetTheme) {
 
 function loadSettingsFromLocalStorage() {
     try {
-        let settings = JSON.parse(localStorage.getItem('settings1'));
+        let state = getReaderState();
+        let settings = state.settings;
 
         if (!settings) return null;
 
@@ -336,7 +433,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
         try {
-            localStorage.setItem('settings1', JSON.stringify(settings));
+            let state = getReaderState();
+            state.settings = settings;
+            saveReaderState(state);
             console.log('Settings saved to local storage.');
         } catch (error) {
             console.error('Error saving settings to local storage:', error);
@@ -415,8 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
     const scrollKey = `scrollY_${type}_${index}`;
 
     try {
-        const savedScroll = localStorage.getItem(scrollKey);
-        if (savedScroll !== null) {
+        let state = getReaderState();
+        const savedScroll = state.scroll_positions ? state.scroll_positions[scrollKey] : undefined;
+        if (savedScroll !== undefined && savedScroll !== null) {
             window.scrollTo(0, parseInt(savedScroll, 10));
         }
     } catch (e) {
@@ -425,23 +525,27 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function saveScrollPosition() {
         try {
-            localStorage.setItem(scrollKey, window.scrollY);
+            let state = getReaderState();
+            if (!state.scroll_positions) state.scroll_positions = {};
+            if (!state.scroll_history) state.scroll_history = {};
 
-            const SCROLL_HISTORY_KEY = `scroll_history_${type}`;
-            const MAX_HISTORY_SIZE = 5;
+            state.scroll_positions[scrollKey] = window.scrollY;
 
-            let history = JSON.parse(localStorage.getItem(SCROLL_HISTORY_KEY)) || [];
+            const scrollHistoryType = type; // e.g. 'orv'
+            let history = state.scroll_history[scrollHistoryType] || [];
 
             history = history.filter(key => key !== scrollKey);
 
             history.unshift(scrollKey);
 
+            const MAX_HISTORY_SIZE = 5;
             while (history.length > MAX_HISTORY_SIZE) {
                 const oldestKey = history.pop();
-                localStorage.removeItem(oldestKey);
+                delete state.scroll_positions[oldestKey];
             }
 
-            localStorage.setItem(SCROLL_HISTORY_KEY, JSON.stringify(history));
+            state.scroll_history[scrollHistoryType] = history;
+            saveReaderState(state);
         } catch (e) {
             console.error('Error saving scroll:', e);
         }
@@ -586,65 +690,105 @@ window.addEventListener('beforeunload', releaseWakeLock);
 // Optional: Release wake lock on history navigation
 window.addEventListener('popstate', releaseWakeLock);
 
-// Giscus error detection & auth redirection logic for rate limiting
+// Giscus comments support: Show Discussion button, Help banner injection and viewer status listener
 (function() {
-    let giscusLoaded = false;
-    let bannerTriggered = false;
+    const commentsDiv = document.getElementById('comments');
+    if (!commentsDiv) return;
 
-    function showGiscusAuthBanner() {
-        if (bannerTriggered) return;
-        bannerTriggered = true;
-
-        const commentsDiv = document.getElementById('comments');
-        if (!commentsDiv) return;
-
-        // Check if banner already exists
-        if (document.getElementById('giscus-auth-banner')) return;
+    const injectHelpBanner = () => {
+        // Check if banner already exists to prevent duplicate insertion
+        if (document.getElementById('giscus-help-banner')) return;
 
         const oldScript = document.getElementById('giscus-script');
         const discussionId = oldScript ? oldScript.getAttribute('data-term') : null;
+
         const githubDiscussionUrl = (discussionId && !isNaN(discussionId))
             ? `https://github.com/Bittu5134/ORV-Reader/discussions/${discussionId}`
             : 'https://github.com/Bittu5134/ORV-Reader/discussions';
 
+        const authUrl = 'https://giscus.app/api/oauth/authorize?redirect_uri=' + encodeURIComponent(window.location.href) + '#comments';
+
         const banner = document.createElement('div');
-        banner.id = 'giscus-auth-banner';
+        banner.id = 'giscus-help-banner';
         banner.className = 'theme1'; // matches site styles
-        banner.style.margin = '20px auto';
-        banner.style.padding = '20px';
+        banner.style.margin = 'auto auto';
+        banner.style.padding = '15px 20px';
         banner.style.backgroundColor = 'var(--primary)';
         banner.style.border = '1px solid #ff5e1f';
         banner.style.borderRadius = '8px';
         banner.style.textAlign = 'center';
         banner.style.maxWidth = '800px';
         banner.style.color = 'var(--text-primary)';
-        banner.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.1)';
+        banner.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.05)';
         banner.style.fontFamily = 'sans-serif';
 
-        const authUrl = 'https://giscus.app/api/oauth/authorize?redirect_uri=' + encodeURIComponent(window.location.href) + '#comments';
+        // Hide banner initially if user is logged in
+        const state = getReaderState();
+        if (state.login) {
+            banner.style.display = 'none';
+        }
 
         banner.innerHTML = `
-            <p style="margin: 0 0 8px 0; font-size: 1.1em; line-height: 1.5; font-weight: bold; color: #ff5e1f;">
-                💬 Comments having trouble loading?
-            </p>
-            <p style="margin: 0 0 16px 0; font-size: 0.9em; opacity: 0.9; line-height: 1.5; text-align: left;">
-                This happens because the comments section is temporarily rate-limited. 
-                To view or write comments, please log in, or open the discussion page directly.
+            <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 1.5;">
+                💬 If comments are having trouble loading, you can try logging in or opening the discussion page directly:
             </p>
             <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <a href="${authUrl}" style="display: inline-block; padding: 10px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s; cursor: pointer;">
+                <a href="${authUrl}" style="display: inline-block; padding: 8px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; transition: opacity 0.3s; cursor: pointer;">
                     Log In to view comments
                 </a>
-                <a href="${githubDiscussionUrl}" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #333; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s; cursor: pointer; border: 1px solid #555;">
+                <a href="${githubDiscussionUrl}" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 18px; background-color: #333; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; transition: opacity 0.3s; cursor: pointer; border: 1px solid #555;">
                     Open Discussion Page
                 </a>
             </div>
         `;
 
-        commentsDiv.parentNode.insertBefore(banner, commentsDiv);
-    }
+        commentsDiv.parentNode.insertBefore(banner, commentsDiv.nextSibling);
+    };
 
-    // 1. Listen for Giscus postMessages
+    const setupShowDiscussionButton = () => {
+        // If comments are already visible, do nothing
+        if (commentsDiv.style.display === 'block') return;
+
+        const btnContainer = document.createElement('div');
+        btnContainer.id = 'show-discussion-container';
+        btnContainer.style.textAlign = 'center';
+        btnContainer.style.margin = '30px auto';
+        btnContainer.style.maxWidth = '800px';
+
+        const btn = document.createElement('button');
+        btn.id = 'show-discussion-btn';
+        btn.textContent = '💬 Show Discussion';
+        btn.style.padding = '12px 28px';
+        btn.style.backgroundColor = 'var(--primary)';
+        btn.style.color = 'var(--text-primary)';
+        btn.style.border = '1px solid #ff5e1f';
+        btn.style.borderRadius = '8px';
+        btn.style.fontWeight = 'bold';
+        btn.style.fontSize = '0.95em';
+        btn.style.cursor = 'pointer';
+        btn.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.05)';
+        btn.style.transition = 'opacity 0.2s, background-color 0.2s';
+        
+        btn.addEventListener('mouseover', () => {
+            btn.style.opacity = '0.9';
+            btn.style.backgroundColor = 'rgba(255, 94, 31, 0.1)';
+        });
+        btn.addEventListener('mouseout', () => {
+            btn.style.opacity = '1';
+            btn.style.backgroundColor = 'var(--primary)';
+        });
+
+        btn.addEventListener('click', () => {
+            btnContainer.style.display = 'none';
+            commentsDiv.style.display = 'block';
+            injectHelpBanner();
+        });
+
+        btnContainer.appendChild(btn);
+        commentsDiv.parentNode.insertBefore(btnContainer, commentsDiv);
+    };
+
+    // Listen for Giscus postMessages to check if the user is logged in or if there is an error
     window.addEventListener('message', (event) => {
         if (event.origin !== 'https://giscus.app') return;
 
@@ -653,47 +797,58 @@ window.addEventListener('popstate', releaseWakeLock);
 
         const giscusData = data.giscus;
 
-        // Detect rate limiting or other Giscus errors
-        if (giscusData.error) {
-            console.warn('Giscus error detected:', giscusData.error);
+        // Handle Giscus errors (like 429 Rate Limit)
+        if ('error' in giscusData) {
+            console.warn('[Giscus] Error detected:', giscusData.error);
             
-            // Hide the Giscus iframe so the reader doesn't see the raw Giscus rate limit message
-            const commentsDiv = document.getElementById('comments');
-            if (commentsDiv) {
-                const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
-                if (iframe) iframe.style.display = 'none';
+            // Hide the Giscus iframe
+            const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
+            if (iframe) {
+                iframe.style.display = 'none';
             }
-            
-            showGiscusAuthBanner();
-        } else if (giscusData.discussion || giscusData.resizeHeight) {
-            giscusLoaded = true;
+
+            // Force show the help banner and update its message
+            const banner = document.getElementById('giscus-help-banner');
+            if (banner) {
+                banner.style.display = 'block';
+                const p = banner.querySelector('p');
+                if (p) {
+                    p.innerHTML = `⚠️ <strong>Comments rate limit exceeded.</strong> Please log in via GitHub or open the discussion page directly to view and write comments:`;
+                }
+            }
         }
 
-        // Log viewer status
         if (giscusData.viewer) {
-            if (!giscusData.viewer.login) {
-                console.log('Giscus status: Reader is not logged in to GitHub.');
-            } else {
-                console.log('Giscus status: Reader is logged in to GitHub as ' + giscusData.viewer.login);
+            const username = giscusData.viewer.login;
+            const isLoggedIn = typeof username === 'string' && username.trim() !== '' && username !== 'null' && username !== 'undefined' && username !== 'giscus[bot]';
+            console.log(`[Giscus] User logged in status: ${isLoggedIn} (Username: "${username}")`);
+
+            let state = getReaderState();
+            state.login = isLoggedIn;
+            saveReaderState(state);
+
+            // Hide/show the banner dynamically based on login status
+            const banner = document.getElementById('giscus-help-banner');
+            if (banner) {
+                if (isLoggedIn) {
+                    banner.style.display = 'none';
+                    // Ensure the Giscus iframe is shown if they are logged in
+                    const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
+                    if (iframe) {
+                        iframe.style.display = 'block';
+                    }
+                } else {
+                    banner.style.display = 'block';
+                }
             }
         }
     });
 
-    // 2. Fallback timeout: if Giscus doesn't load within 4 seconds, show authorization tip
-    window.addEventListener('load', () => {
-        setTimeout(() => {
-            const commentsDiv = document.getElementById('comments');
-            if (commentsDiv && !giscusLoaded) {
-                console.log('Giscus loading timed out (4s), showing authorization banner.');
-                
-                // Hide the Giscus iframe if it exists so it doesn't show raw errors or loading spin
-                const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
-                if (iframe) iframe.style.display = 'none';
-                
-                showGiscusAuthBanner();
-            }
-        }, 4000);
-    });
+    if (document.readyState === 'complete') {
+        setupShowDiscussionButton();
+    } else {
+        window.addEventListener('load', setupShowDiscussionButton);
+    }
 })();
 
 
