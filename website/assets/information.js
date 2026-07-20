@@ -2,13 +2,98 @@ let ChapterList = [];
 let ongoing = false;
 const script = document.getElementById('main-script');
 
+function getReaderState() {
+    try {
+        const raw = localStorage.getItem('orv_reader_state');
+        const state = raw ? JSON.parse(raw) : {};
+        if (state.login === undefined || state.login === null) {
+            state.login = false;
+        }
+        return state;
+    } catch (e) {
+        console.error('Error reading local storage state:', e);
+        return { login: false };
+    }
+}
+
+function migrateLocalStorage() {
+    try {
+        const state = {};
+        let migrated = false;
+
+        const lastRead = localStorage.getItem('lastread');
+        if (lastRead !== null) {
+            state.lastread = lastRead;
+            localStorage.removeItem('lastread');
+            migrated = true;
+        }
+
+        const lastType = localStorage.getItem('lasttype');
+        if (lastType !== null) {
+            state.lasttype = lastType;
+            localStorage.removeItem('lasttype');
+            migrated = true;
+        }
+
+        const settings = localStorage.getItem('settings1');
+        if (settings !== null) {
+            try {
+                state.settings = JSON.parse(settings);
+            } catch (e) {}
+            localStorage.removeItem('settings1');
+            migrated = true;
+        }
+
+        const types = ['orv', 'side', 'cont'];
+        state.scroll_positions = {};
+        state.scroll_history = {};
+
+        types.forEach(type => {
+            const historyKey = `scroll_history_${type}`;
+            const historyRaw = localStorage.getItem(historyKey);
+            if (historyRaw !== null) {
+                try {
+                    const historyList = JSON.parse(historyRaw) || [];
+                    state.scroll_history[type] = historyList;
+                    
+                    historyList.forEach(scrollKey => {
+                        const val = localStorage.getItem(scrollKey);
+                        if (val !== null) {
+                            state.scroll_positions[scrollKey] = parseInt(val, 10);
+                            localStorage.removeItem(scrollKey);
+                        }
+                    });
+                } catch (e) {}
+                localStorage.removeItem(historyKey);
+                migrated = true;
+            }
+        });
+
+        if (migrated) {
+            const existing = JSON.parse(localStorage.getItem('orv_reader_state')) || {};
+            const merged = {
+                ...state,
+                ...existing,
+                settings: { ...state.settings, ...existing.settings },
+                scroll_positions: { ...state.scroll_positions, ...existing.scroll_positions },
+                scroll_history: { ...state.scroll_history, ...existing.scroll_history }
+            };
+            localStorage.setItem('orv_reader_state', JSON.stringify(merged));
+        }
+    } catch (e) {
+        console.error('Error during local storage migration:', e);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
-    const LastRead = parseInt(localStorage.getItem("lastread"))
-    const lastType = localStorage.getItem("lasttype")
+    migrateLocalStorage();
+    const state = getReaderState();
+    const LastRead = parseInt(state.lastread)
+    const lastType = state.lasttype
 
     console.log(LastRead, lastType)
 
-    if (LastRead && lastType === script.dataset.type) {
+    if (LastRead !== undefined && !isNaN(LastRead) && lastType === script.dataset.type) {
         const readbtn = document.getElementById("read");
         const reada = document.getElementById("read-a");
 
