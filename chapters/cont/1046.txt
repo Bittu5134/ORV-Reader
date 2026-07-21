@@ -140,11 +140,14 @@ An 'incarnation body suitable'. It was the first time I received such a message.
 
 Along with the messages popping up one after another, the full-fledged 'Main Scenario' window appeared.
 
-+ <Main Scenario # 98 - Ragnarok> +
++ 
+  <Main Scenario # 98 - Ragnarok> 
++
 
 Seeing the number '98' written made me realistically feel that I had finally come this far.
 
-+ Category: Main
++ 
+  Category: Main
   Difficulty: ???
   Clear Conditions: You have become an 'Einherjar' of the 'Constellation Camp'. Defeat the disasters of the 'Disaster Camp' along with the stars that follow you.
   Time Limit: -
@@ -156,7 +159,8 @@ The result being 'destruction of the world and extermination of all living thing
 
 I thought the scenario description was somewhat vague, but looking closely, the rules of the 'Main Battlefield' were listed additionally below.
 
-+ 1. The corresponding scenario ends when all 'flags' of the opposing camp are occupied.
++ 
+  1. The corresponding scenario ends when all 'flags' of the opposing camp are occupied.
   2. A total of 12 fortresses exist in each camp, and one flag is preserved in each fortress.
   3. Killing the commander of the fortress is also recognized as seizing the fortress's flag.
   4. The commander of the fortress is automatically appointed as the 'existence with the highest status' in that fortress.
@@ -168,7 +172,8 @@ Well, to summarize, it felt like this. Attack the enemy's fortress, and occupy t
 
 I continued checking the contents.
 
-+ Flags held by the Disaster Camp: 23
++ 
+  Flags held by the Disaster Camp: 23
   Flags held by the Constellation Camp: 1
 +
 
