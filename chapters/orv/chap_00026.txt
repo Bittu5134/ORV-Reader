@@ -65,7 +65,7 @@ For agility, it was enough to be able to evade.
 <!>[400 coins have been invested in agility.]
 <!>[Agility Lv. 10 -> Agility Lv. 11]
 <!>[Now you can move a bit faster.]
-I needed to maintain Purest Sword Force, so magic power had to be at least level 10.
+I needed to maintain [Purest Sword Force], so magic power had to be at least level 10.
 <!>[1,200 coins have been invested in magic power.]
 <!>[Magic Power Lv. 6 -> Magic Power Lv. 10]
 <!>[A mysterious energy lives in your soul.]
@@ -103,10 +103,10 @@ Lee Gilyoung's total stats were still low but he was able to use Diverse Communi
 "Please leave it to me."
 Yoo Sangah made a thread with magic power to block the movements of the ground rats. Her attack ability was low but her overall stats were similar to Jung Heewon.
 "…Isn't it just a lot of numbers?"
-Finally, there was no need to talk about Jung Heewon. Compared to Lee Hyunsung, her total stats were low but her skills were sufficient. There was the exclusive skill 'Judgment Time' that belonged to the 'Judge of Destruction'. As long as the opponent in front of her was 'wicked' according to the Absolute Good constellations, Jung Heewon wouldn't lose.
+Finally, there was no need to talk about Jung Heewon. Compared to Lee Hyunsung, her total stats were low but her skills were sufficient. There was the exclusive skill [Judgment Time] that belonged to the 'Judge of Destruction'. As long as the opponent in front of her was 'wicked' according to the Absolute Good constellations, Jung Heewon wouldn't lose.
 The last ground rat fell down. Lee Hyunsung held the shield by his side and started sweating.
 "Sigh…this seems to be enough."
-In fact, this shouldn't have been cleared so easily. No matter how simple the pattern of the ground rats was, fighting 30 of them was tough. I wouldn't be able to annihilate them myself without activating Bookmark. The party had become stronger.
+In fact, this shouldn't have been cleared so easily. No matter how simple the pattern of the ground rats was, fighting 30 of them was tough. I wouldn't be able to annihilate them myself without activating [Bookmark]. The party had become stronger.
 We advanced further through the tunnel. Finally, a new platform appeared in front of me.
 "Yaksu Station. By the way…there is nobody? No, that's not it."
 Yaksu Station was filled with dead bodies and ground rat corpses. Based on the injuries, some of the people were killed by Yoo Joonghyuk, not the ground rats.
@@ -142,7 +142,7 @@ Yujeong Samyeongdang¹
 Okay, good. There were no signs of anyone… I stood in front of the statue, holding my hands together.
 <!>[A constellation wearing a straw mat is delighted with your actions.]
 <!>[100 coins have been sponsored.]
-I didn't hesitate to use Purest Sword Force to activate the Blade of Faith.
+I didn't hesitate to use [Purest Sword Force] to activate the Blade of Faith.
 <!>[A constellation wearing a straw mat is puzzled by your actions.]
 Then I struck the statue of Samyeongdang.
 <!>[A constellation wearing a straw mat is appalled by your actions.]
