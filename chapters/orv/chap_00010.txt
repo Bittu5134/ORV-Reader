@@ -6,8 +6,8 @@ I saw the badge of the school student with a damaged head.
 "…Kim Namwoon."
 The guy whose head burst a few minutes ago was now aiming for me as a demonic person. Kim Namwoon's vocal cords that burst out were in a bizarre shape.
 "Kuweeeoooh."
-<!>[Exclusive skill, Omniscient Reader's Viewpoint Lv. 1 has been activated!]
-<!>[This person doesn't have any consciousness. The skill Omniscient Reader's Viewpoint will be cancelled.]
+<!>[Exclusive skill, [Omniscient Reader's Viewpoint] Lv. 1 has been activated!]
+<!>[This person doesn't have any consciousness. The skill [Omniscient Reader's Viewpoint] will be cancelled.]
 Damn, it was as expected. My thigh was scratched by Kim Namwoon's overgrown black fingernails. A pain that felt like a burn spread through my leg. The skin which hadn't been cut by a knife was now torn by fingernails. This was the main reason why demonic people were dangerous. The demonic people became several times stronger than when they were human.
 "Yoo Sangah-ssi, immediately―" I felt something as I spoke. Without looking back, I could see what was going on.
 "Let me go! Let go! Dokja-ssi! Dokja-ssi!"
@@ -16,12 +16,12 @@ Han Myungoh, who had just been limping, was carrying Yoo Sangah over one shoulde
 <!>[The constellation 'Demon-like Judge of Fire' is impressed with your sacrifice.]
 <!>[100 coins have been sponsored.]
 …Indeed. Planning to leave me? By the way, the way he was running was a little strange. Despite being on one leg, he was running as fast as an Olympic athlete. This couldn't be the exclusive skill of Han Myungoh, who had a big belly. Therefore, it must be the stigma of his sponsor.
-I already knew the constellation who provided that stigma. It was the One-legged Swift Horse. I used Character List on the distant Han Myungoh.
-<!>[The information of this person can't be read in 'Character List'.]
-Once again, Character List didn't work properly. If I remembered correctly, the stigma of 'One-legged Swift Horse' came from the constellation Lame Trickster. Lame Trickster didn't give any stigmas in the mental barrier system. In addition, Han Myungoh couldn't possess such a skill from the beginning. In other words, my skill failed not because of Han Myungoh's ability.
+I already knew the constellation who provided that stigma. It was the [One-legged Swift Horse]. I used [Character List] on the distant Han Myungoh.
+<!>[The information of this person can't be read in [Character List].]
+Once again, Character List didn't work properly. If I remembered correctly, the stigma of [One-legged Swift Horse] came from the constellation Lame Trickster. Lame Trickster didn't give any stigmas in the mental barrier system. In addition, Han Myungoh couldn't possess such a skill from the beginning. In other words, my skill failed not because of Han Myungoh's ability.
 …I was stupid. I looked at the message window floating in front of me and laughed.
-<!>[This person isn't registered in 'Character List'.]
-I was thinking too hard when it meant literally that. Character List literally read the information of characters. Yoo Sangah and Han Myungoh were characters who didn't originally appear in Ways of Survival. They were people who would've died if I hadn't saved them. It was natural that I couldn't confirm their information with Character List.
+<!>[This person isn't registered in [Character List].]
+I was thinking too hard when it meant literally that. [Character List] literally read the information of characters. Yoo Sangah and Han Myungoh were characters who didn't originally appear in Ways of Survival. They were people who would've died if I hadn't saved them. It was natural that I couldn't confirm their information with [Character List].
 "Gruk! Gruk! Gruk!"
 On one side, the incoming Kim Namwoon and demonic people were jabbering nonsense at me. On the other side, Han Myungoh was already halfway across the bridge. Lee Hyunsung and Lee Gilyoung had already entered the safety zone across the bridge so I couldn't ask for help from them.
 This was truly a predicament. I couldn't cross the bridge alone. My brain moved quickly. Should I capture one of the demonic people and cross the bridge? It was worth trying, but the success rate was too low. Unlike the name, the demonic people were categorized as non-human, meaning they didn't count as a person.
@@ -50,7 +50,7 @@ Of course. It would be strange for a constellation to support me after what happ
 <@>[What did I say? You should've chosen well when you had the chance. How pitiful.]
 Kim Namwoon attacked me again and again, resulting in damage to my waist. Of course, I also injured Kim Namwoon's left side with the knife. Thanks to that, his stomach was hanging out like a skipping rope. In order to kill a demonic person, I had to completely destroy the heart. However, the skin of a demonic person was hardest near the heart. The Swiss Army knife wasn't able to pierce it with sharpness alone.
 Dammit, it wouldn't be so hard if I had just one combat skill.
-<!>[The exclusive skill 'Bookmark' is activated.]
+<!>[The exclusive skill [Bookmark] is activated.]
 …Bookmark?
 <!>['Character Bookmarks' is activated.]
 <!>[Available Bookmark Slots: 3]
@@ -61,7 +61,7 @@ Dammit, it wouldn't be so hard if I had just one combat skill.
 2. Steel Sword Lee Hyunsung (Understanding 35).
 3. Empty slot.
 +
-Bookmark. I've read over 3,000 chapters of Ways of Survival and I never saw this skill name before. Still, I intuitively knew how to use it.
+[Bookmark]. I've read over 3,000 chapters of Ways of Survival and I never saw this skill name before. Still, I intuitively knew how to use it.
 "Activate bookmark number one."
 There was the feelings of pages turning in my head. It was the scenes of Kim Namwoon in Ways of Survival.
 <&>「Hahahaha! I'm full of strength! 」
@@ -69,7 +69,7 @@ There was the feelings of pages turning in my head. It was the scenes of Kim Nam
 <&>「A new world requires new laws.」
 Kim Namwoon's memories crowded in and all of my muscle nerves started to tense up. The power of another person was spiking within me.
 <!>[The number one bookmark has been activated.]
-<!>[The level of the Bookmark skill is low, shortening the activation time.]
+<!>[The level of the [Bookmark] skill is low, shortening the activation time.]
 <!>[Activation Time: One minute.]
 One minute. That was enough.
 <!>[Your understanding of the character is low, so only a part of the character's skill is activated.]
@@ -93,9 +93,9 @@ It was obviously the sound of a person's flesh colliding with another body, but 
 The headless demonic people realized that something was strange and started turning around. However, it was too late. The man destroyed all the demonic people threatening me and appeared in front of me. An overwhelming force without any weapons. He beat the demonic people with only two fists.
 I had prepared my mind in advance but sweat still flowed down my back. Dealing with this guy? It was absolutely impossible. I couldn't win even if my overall stats rose by more than double what they were now.
 "You, who are you?"
-The man's cool gaze turned to me. I reflexively turned on Character List in order to overcome the fear.
-<!>[The exclusive skill, Character List is activated.]
-<!>[There is too much information about this person. Character List is converted to Character Summary.]
+The man's cool gaze turned to me. I reflexively turned on [Character List] in order to overcome the fear.
+<!>[The exclusive skill, [Character List] is activated.]
+<!>[There is too much information about this person. [Character List] is converted to [Character Summary].]
 +
 [Character Summary]
 Name: Yoo Joonghyuk.

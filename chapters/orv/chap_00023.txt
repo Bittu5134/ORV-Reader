@@ -1,12 +1,12 @@
 <title>Ch 23: Ep. 5 – Dark Keeper, IV
 Maybe we would've fought for a long time.
-<!>[The exclusive skill 'Bookmark' can now be activated.]
+<!>[The exclusive skill [Bookmark] can now be activated.]
 <!>[The number two bookmark has been activated.]
-<!>[The level of the Bookmark skill is low, shortening the activation time.]
+<!>[The level of the [Bookmark] skill is low, shortening the activation time.]
 <!>[Activation Time: One minute.]
 Well, I had this. My bones might be torn out of my body or my blood might be spilt.
 <!>[Your understanding of the character is low, so only a part of the character's skill is activated.]
-<!>['Weapons Training Lv.1' has been activated.]
+<!>[[Weapons Training] Lv.1 has been activated.]
 But I didn't. To be exact, I couldn't afford it. I used all the powers I had. I squeezed out all of my strength and ran through the tentacles. The landscape around me flashed by. The only thing left was the afterimage of a sharp white light and the sense of cutting something.
 <!>[Your understanding of the character 'Lee Hyunsung' has increased.]
 <!>[The number two bookmark has been disabled.]

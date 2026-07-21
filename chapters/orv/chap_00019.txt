@@ -43,11 +43,11 @@ The people closed their mouths dumbly. If they went out now, they would die. Eve
 "What is it?"
 "A deal. We will be happy to exchange food for anything we determine to be of value. Every person can give something different. Isn't that right?"
 Cheon Inho's cold gaze caused the people to tremble. It was mostly the people who came to me yesterday and bought food.
-<!>[The character 'Cheon Inho' has activated the 'Incite Lv. 2' skill.]
+<!>[The character 'Cheon Inho' has activated [Incite] Lv. 2.]
 "Originally, I wasn't going to do this, but yesterday, Kim Dokja-ssi told me something nice. That's right, everyone. Is there anything free in the world? If you want food, you have to prove your worth. This is the way it is. Haha, thank you for telling me something good, Kim Dokja-ssi."
 …Look at this? At this moment, everyone's attention was focused on me. Their eyes were mostly filled with resentment.
 "Because of that bastard…"
-People wanted to be stupid and Cheon Inho had the 'Incite' skill. It was a skill that most good group leaders would have. But this way, the hostility would turn towards me again…
+People wanted to be stupid and Cheon Inho had the [Incite] skill. It was a skill that most good group leaders would have. But this way, the hostility would turn towards me again…
 I looked at the back of Cheon Inho. It was a cute level, at least compared to the people at Chungmuro and Seoul Station. The people gathered in front of the podium were already trying to bargain.
 "I-I will buy it with coins. How much do you want?"
 "200 coins."
@@ -60,7 +60,7 @@ I looked at the back of Cheon Inho. It was a cute level, at least compared to th
 "…I see."
 "Don't touch him because I will kill him myself. Understood?"
 Her killing intent was impressive. Was she chosen by a sponsor or was it a late blooming attribute?
-<!>[The exclusive skill, Character List is activated.]
+<!>[The exclusive skill, [Character List] is activated.]
 I was a little worried about using this skill. This woman would've died if I hadn't saved her. Would she be registered as a character?
 +
 [Character Summary]

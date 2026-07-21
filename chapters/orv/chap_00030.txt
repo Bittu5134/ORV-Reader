@@ -10,10 +10,10 @@ I quickly opened my mouth, "I was wondering about one thing." He turned to look 
 "If you are a prophet, you should know."
 "I don't know everything."
 To be exact, I didn't remember everything.
-<!>[The character 'Yoo Joonghyuk' has used the 'Lie Detection' skill.]
+<!>[The character 'Yoo Joonghyuk' has used [Lie Detection].]
 <!>[The character Yoo Joonghyuk has confirmed that your words are true.]
 He was thorough.
-"…Indeed, I see. A prophet whose level of 'future sight' is low."
+"…Indeed, I see. A prophet whose level of [Future Sight] is low."
 Think what you want. Yoo Joonghyuk continued speaking, "I need Gong Pildu alive."
 "Is it because of a future scenario?"
 Yoo Joonghyuk didn't answer. It was like he was trying to gauge the information I knew.
@@ -29,7 +29,7 @@ I wasn't a humanist. I didn't believe that everyone in this world was worth keep
 "Yoo Joonghyuk. Can I hit you?"
 "If you have confidence."
 I angrily formed a fist as I heard a message.
-<!>[The character Yoo Joonghyuk has used 'Strong Self-Defense Lv. 5'.]
+<!>[The character Yoo Joonghyuk has used [Strong Self-Defense] Lv. 5.]
 I dropped my fist. Cowardly bastard.
 "Are you finished?" Yoo Joonghyuk asked.
 "…"
@@ -58,10 +58,10 @@ I immediately explained about Gong Pildu. Jung Heewon was unconscious so she had
 "Those scum are upstairs."
 "I'll go and throw them out." Jung Heewon picked up the ground rat blade. That reminded me, I should change their weapons. There was a lot to be done.
 "Your actions are absurd."
-"We can win if we join forces. Don't you remember Gumho Station?" Jung Heewon's expression was confident. It was natural. Jung Heewon had the Judgment Time skill as a trump card. She had good senses and was quick to adapt, so she would've already figured out her attribute and skills.
+"We can win if we join forces. Don't you remember Gumho Station?" Jung Heewon's expression was confident. It was natural. Jung Heewon had the [Judgment Time] skill as a trump card. She had good senses and was quick to adapt, so she would've already figured out her attribute and skills.
 "Don't dawdle! Let's go and kill them!"
-As long as her opponents were 'wicked', her Judgment Time boasted the highest power.
-<!>[The character 'Jung Heewon' has activated the exclusive skill 'Judgment Time'.]
+As long as her opponents were 'wicked', her [Judgment Time] boasted the highest power.
+<!>[The character 'Jung Heewon' has activated the exclusive skill [Judgment Time].]
 <!>[Constellations of the Absolute Good system are silent at Jung Heewon's request.]
 <!>[The skill has been cancelled.]
 Jung Heewon's face filled with confusion. "No, this…what? Is it broken?" Jung Heewon tried to activate the skill again. However, the skill wasn't triggered. "No…why isn't it activating? Aren't they obviously wicked?"
@@ -82,8 +82,8 @@ They simultaneously looked at me. Lee Hyunsung asked, "…Do you really have a w
 I looked around and lowered my voice. "Get Gong Pildu out of the Armed Zone."
 "What is the Armed Zone?"
 "His stigma. It is optimized to defend an area."
-Armed Zone. The reason why it was difficult to go against Gong Pildu was this stigma. It was a fraudulent ability that could build 'turrets' in an area. Right now, it was just Armed Zone. Once the stigma evolved in the future, it would become 'Armed Fortress' and a siege needed to be prepared to catch him. However, Gong Pildu had an obvious weakness.
-"His Armed Zone will be released as soon as he leaves his designated area. His mini-turrets will also become useless. Usually, there are many restrictions on such a wide defense skill."
+[Armed Zone]. The reason why it was difficult to go against Gong Pildu was this stigma. It was a fraudulent ability that could build 'turrets' in an area. Right now, it was just [Armed Zone]. Once the stigma evolved in the future, it would become [Armed Fortress] and a siege needed to be prepared to catch him. However, Gong Pildu had an obvious weakness.
+"His [Armed Zone] will be released as soon as he leaves his designated area. His mini-turrets will also become useless. Usually, there are many restrictions on such a wide defense skill."
 At the same time, Lee Hyunsung and Jung Heewon looked at me with admiration.
 "Ah…I see."
 "You figured this out after seeing it once? Is this Dokja-ssi's attribute?"

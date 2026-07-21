@@ -90,9 +90,9 @@ Bihyung's mocking tone was somewhat annoying.
 <@>[No way. The system can't have an error. The scenario system is perfect.]
 "Take a look yourself."
 Bihyung looked at me with suspicious eyes and started to mutter something.
-<!>[The dokkaebi 'Bihyung' has used 'System Interference' on you.]
-System interference—it was an absolute interference skill that could only be used by dokkaebis with the right to interfere in the scenario. In fact, it was unclear if the reason why I couldn't see the attributes window was an error or not. However, at least the dokkaebi would be able to find out something. That said, if he couldn't figure it out, that was also a profit for me.
-<!>[The exclusive skill, 'Fourth Wall' is activated!]
+<!>[The dokkaebi 'Bihyung' has used [System Interference] on you.]
+[System interference] —it was an absolute interference skill that could only be used by dokkaebis with the right to interfere in the scenario. In fact, it was unclear if the reason why I couldn't see the attributes window was an error or not. However, at least the dokkaebi would be able to find out something. That said, if he couldn't figure it out, that was also a profit for me.
+<!>[The exclusive skill, [Fourth Wall] is activated!]
 In the next moment, sparks flew in the air and struck Bihyung.
 
 ***

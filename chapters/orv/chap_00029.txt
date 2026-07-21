@@ -25,7 +25,7 @@ In any case, I seemed to be the type that was popular with the bad guys. It was 
 "You are fairly good at talking. But it isn't good to be too cocky."
 Tadak. I heard magic bullets being loaded in the turrets. 'Damn bastard'.
 Gong Pildu smiled like an ordinary neighborhood ahjussi, but I knew… Gong Pildu could never be an ordinary neighborhood ahjussi.
-<!>[The exclusive skill, Character List is activated.]
+<!>[The exclusive skill, [Character List] is activated.]
 +
 [Character Summary]
 Name: Gong Pildu
@@ -35,7 +35,7 @@ Exclusive Attributes: Landlord (Rare), Great Landowner (Rare)
 Exclusive Skills: Private Property Lv. 3, Patience Lv. 1, Profit Calculation Lv. 2, Leadership Lv. 2, Incite Lv. 1, Weapons Training Lv. 1.
 Stigma: Armed Zone Lv. 3.
 Overall Stats: Physique Lv. 9, Strength Lv. 11, Agility Lv. 10, Magic Power Lv. 19.
-Overall Evaluation: Gong Pildu, the representative of the Chungmuro Landlord Alliance. His skill 'Private Property' and stigma 'Armed Zone' has the best effect in a battle against many. It is advisable not to make him an enemy.
+Overall Evaluation: Gong Pildu, the representative of the Chungmuro Landlord Alliance. His skill [Private Property] and stigma [Armed Zone] have the best effect in a battle against many. It is advisable not to make him an enemy.
 * 'Starter Pack' is currently applied.
 * A growth package is currently applied.
 +
@@ -63,7 +63,7 @@ There was a reaction. I thought that Yoo Joonghyuk would've already caused a pro
 "How can I believe that?"
 "Don't believe me. Don't you have nothing to lose?" I threw out the bait.
 Perhaps Gong Pildu would have to accept my suggestion. It was because right now, Yoo Joonghyuk was the only person who could threaten the power balance in Chungmuro.
-<!>[The character 'Gong Pildu' has activated 'Profit Calculation Lv. 2!]
+<!>[The character 'Gong Pildu' has activated [Profit Calculation] Lv. 2!]
 "Why won't I receive any loss?"
 "…?"
 "There is no guarantee that you aren't a scammer. I can't ignore my years of experience. In my experience, people like you run away to avoid paying the rent at the end of the month."
@@ -88,7 +88,7 @@ Gong Pildu's expression hardened. Even if I didn't add anything, Gong Pildu woul
 It was Yoo Joonghyuk. I didn't expect that damn regressor to be happy.
 "Master, it's that person. He pretended to be Master's companion," Lee Jihye cried out shrilly as she pointed at me. The main character, the lone hero of a drama, was walking by her side. He looked at me with impressively fierce eyes.
 <!>[The character 'Yoo Joonghyuk' is greatly disturbed.]
-<!>[Exclusive skill, Omniscient Reader's Viewpoint stage 2 has been activated!]
+<!>[Exclusive skill, [Omniscient Reader's Viewpoint] stage 2 has been activated!]
 There was a brief moment of dizziness, and I started to hear his thoughts.
 <&>「 How… Already? 」
 I waved to him and said casually, "Hi Joonghyuk."
@@ -114,8 +114,8 @@ I asked, "Were you hoping I would be killed?"
 "I thought it would be good."
 This rotten companion…
 I became angrier when I saw that cheeky face. It made me want to run over and strike him in the jaw, but I couldn't do it.
-<!>[The exclusive skill, Character List is activated.]
-<!>[There is too much information about this person. Character List is converted to Character Summary.]
+<!>[The exclusive skill, [Character List] is activated.]
+<!>[There is too much information about this person. [Character List] is converted to [Character Summary].]
 Full version.
 <!>[Converting the character information of 'Yoo Joonghyuk' into the 'full version'.]
 +
@@ -147,7 +147,7 @@ Anyway, I didn't want to alienate Yoo Joonghyuk right now. In order to clear the
 <!>[The character 'Yoo Joonghyuk' is a bit disappointed in you.]
 '…What? Why?'
 The answer was very clear.
-<!>[The character 'Yoo Joonghyuk' has used Sage's Eye Lv. 8!]
+<!>[The character 'Yoo Joonghyuk' has used [Sage's Eye] Lv. 8!]
 <&>「 He picked up Lee Hyunsung but was only able to raise him to this level. 」
 I was at a loss for a moment because it was true. Certainly, Lee Hyunsung's growth would be better if he had moved with Yoo Joonghyuk.
 'Still… this bastard'.

@@ -112,7 +112,7 @@ In this distorted vision, the voices of my party members were gradually fading.
 A space that led to madness by touching a person's trauma.
 <&>「 Dokja, you didn't see anything. Understood? 」
 The landscape disappeared and the face of a person popped up. I smiled bitterly as I stared into the air. I wanted to deny reality.
-<!>[The exclusive skill, 'Fourth Wall' is activated!]
+<!>[The exclusive skill, [Fourth Wall] is activated!]
 <!>[Due to the skill effect, immunity to Phantom Prison has occurred.]
 The moment my mind relaxed, the uncomfortable feeling diminished.
 <!>[The constellation 'Secretive Plotter' admires your spirit.]
@@ -127,22 +127,22 @@ Those trapped in Phantom Prison would lose their minds and unleash their madness
 …I was too late. I heard the screams of people filled with madness, but it wasn't everyone.
 "…Dokja-ssi?" At this moment, Yoo Sangah's appearance was revealed in Phantom Prison. Samyeongdang's Beads around her wrist was glowing brightly. Fortunately, it worked. I approached Yoo Sangah and said, "Cover the surroundings. From now on, I will destroy this space."
 Yoo Sangah nodded with a nervous expression.
-<!>[The exclusive skill 'Destroy Evil Lv. 1' is activated.]
-Destroy Evil. It was one level higher than the Repel Evil skill that could be bought with coins. It was a skill that I obtained after breaking the bronze statue of Samyeongdang.
-<!>[The exclusive skill 'Destroy Evil Lv. 1' has turned off 'Phantom Prison'.]
-Indeed, it was a skill used by Samyeongdang. If I had bought Repel Evil, it would've taken a minute to release it. As the fog retreated and Phantom Prison disappeared, my companions started to appear one by one.
+<!>[The exclusive skill [Destroy Evil] Lv. 1 is activated.]
+Destroy Evil. It was one level higher than the [Repel Evil] skill that could be bought with coins. It was a skill that I obtained after breaking the bronze statue of Samyeongdang.
+<!>[The exclusive skill [Destroy Evil] Lv. 1 has turned off 'Phantom Prison'.]
+Indeed, it was a skill used by Samyeongdang. If I had bought [Repel Evil], it would've taken a minute to release it. As the fog retreated and Phantom Prison disappeared, my companions started to appear one by one.
 "O-Our resolve! We are the South Korean army, loyal to the nation and the people!"
 "Uh…Uh…Mother."
 The trauma could be seen with one glance. Lee Hyunsung was bowing with his head on the ground, while Lee Gilyoung had his head on his knees and was shaking. Yoo Sangah came forward first. "Lee Hyunsung-ssi? Gilyoung! Please wake up!"
 At this moment, a blade flew from the rear. Fortunately, the blade wasn't fast and it wasn't difficult to avoid.
 "…I will kill all of you."
-Jung Heewon was waving her sword through the air like a madman. My heart ached as I watched Jung Heewon's eyes became gradually redder. This was dangerous. It was a sign of 'Demon Slaying'. I stunned Jung Heewon by strongly hitting her in the back of the neck. Luckily, Jung Heewon was unharmed. I thought it wouldn't be like this with Samyeongdang's Straw Mat but Jung Heewon's mental state was more fragile than I expected.
+Jung Heewon was waving her sword through the air like a madman. My heart ached as I watched Jung Heewon's eyes became gradually redder. This was dangerous. It was a sign of [Demon Slaying]. I stunned Jung Heewon by strongly hitting her in the back of the neck. Luckily, Jung Heewon was unharmed. I thought it wouldn't be like this with Samyeongdang's Straw Mat but Jung Heewon's mental state was more fragile than I expected.
 "Yoo Sangah, please look after Jung Heewon-ssi."
 "…Yes, yes!"
 "It isn't over yet."
 <!>[You have met the conditions to clear the sub-scenario!]
 <!>[You have earned 300 coins.]
-Monsters appeared as soon as the clear message showed up. They were a mass of liquid, reminiscent of ectoplasm. The 8th grade specter. It was the specters who made Phantom Prison. I used Purest Sword Force to invoke Blade of Faith. Fortunately, the battle itself wasn't difficult. In the first place, the specters weren't difficult if Phantom Prison was destroyed. The creepy and weird specters were destroyed.
+Monsters appeared as soon as the clear message showed up. They were a mass of liquid, reminiscent of ectoplasm. The 8th grade specter. It was the specters who made Phantom Prison. I used [Purest Sword Force] to invoke Blade of Faith. Fortunately, the battle itself wasn't difficult. In the first place, the specters weren't difficult if Phantom Prison was destroyed. The creepy and weird specters were destroyed.
 <!>[Specter's Stone.]
 I put the fallen stones into my pocket. This needed to be picked up. Thanks to Yoo Sangah, the others were recovering quickly.
 "A-Are you okay?"
@@ -155,7 +155,7 @@ I worried about it for a short moment. Jung Heewon was stunned and it was diffic
 "Ah, this girl…!" Yoo Sangah had keen eyes and recognized her first. I also knew her. It was because she was one of the main characters of Ways of Survival. The only survivor of Daepong Girls High School, Lee Jihye. She was one of the reasons why Yoo Joonghyuk went straight to Chungmuro in the shortest time.
 "…Did you guys beat the specters?" Lee Jihye discovered the stone in my hand and was surprised. "How did you…only Master could catch them?"
 I immediately used a skill.
-<!>[The exclusive skill, Character List is activated.]
+<!>[The exclusive skill, [Character List] is activated.]
 +
 [Character Summary]
 Name: Lee Jihye
