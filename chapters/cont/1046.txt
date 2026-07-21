@@ -140,7 +140,9 @@ An 'incarnation body suitable'. It was the first time I received such a message.
 
 Along with the messages popping up one after another, the full-fledged 'Main Scenario' window appeared.
 
-+ <Main Scenario # 98 - Ragnarok> +
++ 
+  <Main Scenario # 98 - Ragnarok> 
++
 
 Seeing the number '98' written made me realistically feel that I had finally come this far.
 
