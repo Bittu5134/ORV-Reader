@@ -29,7 +29,7 @@ By the way, it really was amazing. With a luxurious silver guard and a white bla
 Name: Unbroken Faith
 Rating: Star Relic
 Description: In the past, it was the sword of the hero 'Kaizenix', who led the Grusiad during the Great Demon Age. The great ether dominance of Kaizenix allowed him to create a 'Blade of Faith' that contained fire, darkness and divine power respectively.
-As an additional option, it increases strength and physique level by 2.
+As an additional option, it increases the strength and physique levels by 2.
 +
 I was speechless. No… was this real? It wasn't a simple alphabet rating but a star relic item?
 "D-Dokja-ssi! Doesn't it look like a huge item?"
@@ -44,7 +44,7 @@ I looked around at Yoo Sangah and Lee Gilyoung. "…Can I really have it?"
 The message showed that the constellation existed somewhere. Later, I would open up Ways of Survival and look for it.
 "Then we should go back. There are plenty of ground rats out there, so we can go back with just the Magic Power Stove."
 "By the way, how do we get back?"
-"It won't be a problem to leave with Gilyoung's power. Use Diverse Communication and…"
+"It won't be a problem to leave with Gilyoung's power. Use [Diverse Communication] and…"
 However, Lee Gilyoung's expression wasn't bright. "Hyung, I…"
 "Huh?"
 "There aren't any insects nearby."
@@ -75,12 +75,12 @@ Untangle?
 Yoo Sangah wasn't a character in the novel, so I didn't know her attribute. It was like with Lee Gilyoung and Han Myungoh.
 "Uh, that…"
 Yoo Sangah made a difficult expression. It wouldn't have been so frustrating if I could use Character List on Yoo Sangah. I tried to use Character List once again as a test.
-<!>[The exclusive skill, Character List is activated.]
-<!>[This person isn't registered in 'Character List'.]
+<!>[The exclusive skill, [Character List] is activated.]
+<!>[This person isn't registered in [Character List].]
 Indeed… but there was one more message.
 <!>[Currently collecting information about the corresponding figure.]
 '…Eh?'
-It was a message that never existed before. Come to think of it, I heard a system message when Yoo Sangah used the 'Interpreter' skill. It wasn't something that was originally heard. Was it possible for the Character List to be updated after some time? Perhaps…
+It was a message that never existed before. Come to think of it, I heard a system message when Yoo Sangah used the [Interpreter] skill. It wasn't something that was originally heard. Was it possible for the [Character List] to be updated after some time? Perhaps…
 I organized my thoughts and decided to let Yoo Sangah go. "Forget that I asked. By the way, nice work. In the future, don't let other people know about your personal attribute."
 "That's not it! I trust Dokja-ssi…!" Well, Yoo Sangah's appearance said otherwise.
 At the moment, I got an idea. "Can Yoo Sangah tell me about the nature of your sponsor?"
