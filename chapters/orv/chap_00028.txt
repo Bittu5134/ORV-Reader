@@ -114,7 +114,7 @@ As if they were never there, the crowd of people rushed back like a tide. The pe
 Other people's land…
 Oh, it must be true. The man stroked Lee Gilyoung's head with an unknown look.
 "Since you don't know, I will teach you from now on."
-<!>[The character 'Gong Pildu' has activated 'Armed Zone Lv. 3!]
+<!>[The character 'Gong Pildu' has activated [Armed Zone] Lv. 3!]
 There was a whirring sound, and mini turrets resembling gatling guns rose from the ground.
 <!>[The character 'Gong Pildu' demands 500 coins for invading his private land.]
 <!>[If you don't follow the recommendations, all nearby turrets will fire immediately.]
