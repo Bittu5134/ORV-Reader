@@ -198,7 +198,7 @@ But I didn’t stop.
 <!>['Thoughts of almost everything' mimicks 'Broken Faith (mass production type)'!]
 'Thought' was changed to 'Broken Faith'.
 <!>[Exclusive Skill 'White Blue Steel Lv.1' is activated!]
-I activated the special option of [Broken Faith] learned from LiteratureGirl64.
+I activated the special option of [Broken Faith] learned from LiteraryGirl64.
 <!>[The Blade of Faith activates!]
 The strongest anti-personnel weapon that I can use now.
 <&>「Now, the power to control the body is flowing from that meteorite.」

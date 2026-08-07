@@ -48,7 +48,7 @@ At first, I thought they couldn't recognize me because my face had changed, but 
 "Excuse me."
 "Yes"
 "Oh, no. I guess I saw it wrong."
-Shin Yoosoung seemed to recognize me a little, but then her face turned red and she ran away.
+Shin Yoosung seemed to recognize me a little, but then her face turned red and she ran away.
 I was wondering if they were suffering from a status abnormality, so I tried using [Character List].
 <!>['Character list' cannot be used for this person.]
 Never before has such a message appeared to a 'character'. It was even impossible for such a message to appear to a person who I had already used [Character List] on.
