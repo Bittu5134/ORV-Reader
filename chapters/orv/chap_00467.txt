@@ -1,5 +1,5 @@
 <title>Ch 467: Ep. 89 - Great Apocalypse, I
-<@>[Your ■■ is getting nearer.]
+<!>[Your ■■ is getting nearer.]
 The system message whispered in my ear. It had been repeating itself over and over again for the past few days.
 "It seems that it won't be long now."
 "Yes."
@@ -43,7 +43,7 @@ Bihyung shrugged his shoulders and spoke up.
 <!>[Constellation, 'Demon-like Judge of Fire', is dabbing her eyes away.]
 <!>[Constellation, 'Abyssal Black Flame Dragon', is grumbling while handing over a handkerchief.]
 This damn guy, sending that out as another broadcast.
-<!>[And so. The Final Scenario is literally just around the corner.]
+<@>[And so. The Final Scenario is literally just around the corner.]
 "I know."
 <@>[How reliable you are. I'm sure you already know this, but the Final Scenario is…]
 "Bihyung."
@@ -66,7 +66,8 @@ And in such a scenario, Bihyung had chosen us.
 When I first met this guy, he was no bigger than a soccer ball.
 He was a true Dokkaebi who indiscriminately massacred people for the sake of increasing the number of subscribers in the channel, and he mass-produced horrifying scenarios on the fly.
 That very Dokkaebi who grew up by devouring the Stories we created had eventually morphed into a human-like being. He was as tall as a human, he wore clothes like a human, and he was making expressions of a human, too.
-That very Dokkaebi, he was looking at me on a similar eye level as he spoke up. [Sign the contract with me. I shall make you the next Dokkaebi King.]
+That very Dokkaebi, he was looking at me on a similar eye level as he spoke up.
+<@>[Sign the contract with me. I shall make you the next Dokkaebi King.]
 "…?"
 <@>[That's what you said to me inside that fish-dragon's mouth.]
 Indeed, I did say something like that in the past. "Hang on, could it be that you selected us while believing in that rubbish? There are very low odds of us winning, you know."
@@ -87,7 +88,7 @@ However, forget about a declaration, not a single Nebula tried to provoke us. Th
 "But, why? It's not as if our Story is that shocking, now was it?"
 <@>[That's because you're going to be annihilated even if they leave you alone. That's why.]
 I felt my heart cool down in an instant. I could see the footage playing on the Constellations' panels.
-<!>[Constellations know that you simply can't forsake Earth.]
+<@>[Constellations know that you simply can't forsake Earth.]
 Separate from the 'Candidate Ballot battles', Earth had entered the Great Apocalypse sequence. The North American continent was already no more, and next up was North-east Asia.
 Back in the original story's Final Scenario, Outer Gods and the rulers of other worlds also began invading this world.
 <!>[The ascension of the forgotten islands are still ongoing!]
@@ -101,7 +102,9 @@ I recalled Uriel from the 999th regression turn I met in the N'Gai's Forest some
 ⸢Once the Great Apocalypse scenario begins, the attacks from the Kings will commence.⸥
 If my predictions were correct, then the Kings showing up for the Great Apocalypse soon to get underway should be the existences that witnessed the 'Conclusion' during the 999th regression turn. And <Kim Dokja's Company> needed to fight against them.
 "Who summoned the Kings? Was it your people from the Bureau?"
-<@>[I can't reveal any information to you. Except that… Bihyung formed an expression showing his firm resolve and finished what he wanted to say. Until the moment I breathe my last, I shall tell my story with you.]
+<@>[I can't reveal any information to you. Except that…] 
+Bihyung formed an expression showing his firm resolve and finished what he wanted to say.
+<@>[Until the moment I breathe my last, I shall tell my story with you.]
 
 ***
 
@@ -135,8 +138,8 @@ The current him might be able to withstand the chaos's aftereffects lingering ar
 Han Myungoh nodded his head, finished his preparations, and stood up. Looked to me he had already made up his mind before coming here. Companions all bade him good luck.
 Not receiving the 'One Single Story' scenario didn't automatically mean there would be no 'One Single Story' – it existed for everyone. Just like how anyone could embark on a journey to search for their own ■■.
 I watched him tremble in fear as he stepped foot inside the portal and began thinking about something.
-<@>[Your ■■ is getting nearer.]
-It wasn't <Star Stream> that decided where your 'Conclusion' might be.
+<!>[Your ■■ is getting nearer.]
+It wasn't the <Star Stream> that decided where your 'Conclusion' might be.
 I looked back to discover that my companions were waiting for me.
 "I shall continue with the meeting."
 

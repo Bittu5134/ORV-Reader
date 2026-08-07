@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>1051 Episode 65. The Last Banquet (2)</title>
+    <meta property="og:title" content="1051 Episode 65. The Last Banquet (2)" />
+    <link rel="manifest" href="../../../assets/manifest.json">
+    <link rel="shortcut icon" href="../../../assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../../../assets/reader.css">
+    <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
+    <meta name="description" content="Read Omniscient Reader's Viewpoint Sequal (Ch 553+) online">
+    
+</head>
+
+<body>
+    <nav class="menu" id="menu-bar">
+        <a href="../"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
+            </svg></a>
+        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
+                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
+            </svg></a>
+        <a href="#comments"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                fill="#e3e3e3">
+                <path
+                    d="M240-400h480v-80H240v80Zm0-120h480v-80H240v80Zm0-120h480v-80H240v80ZM880-80 720-240H160q-33 0-56.5-23.5T80-320v-480q0-33 23.5-56.5T160-880h640q33 0 56.5 23.5T880-800v720ZM160-320h594l46 45v-525H160v480Zm0 0v-480 480Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('download').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('edit').style.display = 'flex'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+            </svg></a>
+        <a href="#" onclick="document.documentElement.requestFullscreen();"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="M120-120v-200h80v120h120v80H120Zm520 0v-80h120v-120h80v200H640ZM120-640v-200h200v80H200v120h-80Zm640 0v-120H640v-80h200v200h-80Z" />
+            </svg></a>
+        <a href="#" onclick="document.getElementById('settings').style.display = 'block'"><svg
+                xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+                <path
+                    d="m370-80-16-128q-13-5-24.5-12T307-235l-119 50L78-375l103-78q-1-7-1-13.5v-27q0-6.5 1-13.5L78-585l110-190 119 50q11-8 23-15t24-12l16-128h220l16 128q13 5 24.5 12t22.5 15l119-50 110 190-103 78q1 7 1 13.5v27q0 6.5-2 13.5l103 78-110 190-118-50q-11 8-23 15t-24 12L590-80H370Zm70-80h79l14-106q31-8 57.5-23.5T639-327l99 41 39-68-86-65q5-14 7-29.5t2-31.5q0-16-2-31.5t-7-29.5l86-65-39-68-99 42q-22-23-48.5-38.5T533-694l-13-106h-79l-14 106q-31 8-57.5 23.5T321-633l-99-41-39 68 86 64q-5 15-7 30t-2 32q0 16 2 31t7 30l-86 65 39 68 99-42q22 23 48.5 38.5T427-266l13 106Zm42-180q58 0 99-41t41-99q0-58-41-99t-99-41q-59 0-99.5 41T342-480q0 58 40.5 99t99.5 41Zm-2-140Z" />
+            </svg></a>
+    </nav>
+    <nav class="chapters" id="chapters">
+        <span class="close-chapters-btn" onclick="document.getElementById('chapters').style.display = 'none'">X</span>
+        <input type="search" oninput="findChapter()" id="find-chapter" min="0" placeholder="Search Chapters">
+
+        <div class="search_reasult" id="chapter-search-reasult">
+        </div>
+    </nav>
+    <nav class="settings" id="settings">
+        <span class="close-settings-btn" onclick="document.getElementById('settings').style.display = 'none'">X</span>
+
+        <form class="setting_items" id="settings-form">
+            <div class="setting_item">Theme <select name="set-theme" id="set-theme">">
+                    <option value="dark" selected>Dark</option>
+                    <option value="light">Light</option>
+                    <option value="sepia">Sepia</option>
+                    <option value="pastel">Pastel</option>
+                    <option value="midnight">Midnight</option>
+                    <option value="forest">Forest</option>
+                    <option value="paper">Paper</option>
+                    <option value="lavender">Lavender</option>
+                    <option value="dark-sepia">Dark Sepia</option>
+                    <option value="dark-pastel">Dark Pastel</option>
+                    <option value="dark-forest">Dark Forest</option>
+                    <option value="dark-paper">Dark Paper</option>
+                    <option value="dark-lavender">Dark Lavender</option>
+                </select></div>
+            <div class="setting_item">Font <select name="set-font" id="set-font">
+                    <option value="system-ui" style="font-family: system-ui;">System-UI</option>
+                    <option value="Verdana" style="font-family: Verdana;" selected>Verdana</option>
+                    <option value="Arial" style="font-family: Arial;">Arial</option>
+                    <option value="Georgia" style="font-family: Georgia;">Georgia</option>
+                    <option value="Times New Roman" style="font-family: 'Times New Roman';">Times New Roman</option>
+                    <option value="Trebuchet MS" style="font-family: 'Trebuchet MS';">Trebuchet MS</option>
+                    <option value="Courier New" style="font-family: 'Courier New';">Courier New</option>
+                    <option value="Tahoma" style="font-family: Tahoma;">Tahoma</option>
+                    <option value="Lucida Sans Unicode" style="font-family: 'Lucida Sans Unicode';">Lucida Sans Unicode
+                    </option>
+                    <option value="Arial Black" style="font-family: 'Arial Black';">Arial Black</option>
+                    <option value="Impact" style="font-family: Impact;">Impact</option>
+
+                </select></div>
+            <div class="setting_item">Font Size
+                <input type="number" min="30" max="100" value="51" id="set-font-size">
+            </div>
+            <div class="setting_item">Line Height
+                <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
+			</div>
+            <div class="setting_item">Font Weight
+                <select name="set-font-weight" id="set-font-weight">
+                    <option value="normal" style="font-weight: unset;" selected>Normal</option>
+                    <option value="lighter" style="font-weight: lighter;">Lighter</option>
+                    <option value="bold" style="font-weight: bold;">Bold</option>
+                    <option value="bolder" style="font-weight: bolder;">Bolder</option>
+                </select>
+            </div>
+            <hr>
+                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+                    id="set-rich-text-toggle" checked></div>
+            <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3">Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5" selected>Alert</option>
+                </select></div>
+            <div class="setting_item">System Window Style <select name="set-rich-system-window"
+                    id="set-rich-system-window">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2">Brackets</option>
+                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme4">Box</option>
+                    <option value="theme5">Alert</option>
+                </select></div>
+            <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme3">Alert</option>
+                </select></div>
+            <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
+                    <option value="theme1">Disabled</option>
+                    <option value="theme2" selected>box</option>
+                </select></div>
+
+            <input class="setting_reset" type="reset" value="Reset Everything">
+        </form>
+
+    </nav>
+    <nav class="download" id="download">
+        <span class="close-download-btn" onclick="document.getElementById('download').style.display = 'none'">X</span>
+        <hr>
+        <a href="../../../download.html"><button>Download Full EPUB</button></a>
+        <hr>
+        <button onclick="print()">
+            Print This Page
+        </button>
+        <hr>
+    </nav>
+    <nav class="edit" id="edit">
+        <span class="close-edit-btn" onclick="document.getElementById('edit').style.display = 'none'">X</span>
+        <hr>
+        <h1>Edit This Page on Github</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/side/1051.txt" target="_blank"
+            rel="noopener noreferrer"><button>
+                Edit
+        </button></a>
+        <hr>
+        <h1>How to Format Text</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Formatting Guide
+        </button></a>
+        <hr>
+        <h1>Read This First Before Doing Anything</h1>
+        <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
+            rel="noopener noreferrer"><button>
+                Contribution Guide
+        </button></a>
+        <hr>
+    </nav>
+
+    <div class="main">
+        
+        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <article class="orv_main">
+            <div class="orv_title"><h1>1051 Episode 65. The Last Banquet (2)</h1></div>
+<br>
+<p class="orv_line">I paused for a moment. As if denying the record floating before my eyes, I slowly inhaled and declared:</p>
+<br>
+<p class="orv_line">"Yoo Joonghyuk doesn't die. Even if he's a guy who dies a lot, he's never someone who dies easily."</p>
+<br>
+<p class="orv_line">As proof of my words, the state of the 'Dark Heavenly Moon Spear' carving in my hand was quite different from the other carvings.</p>
+<br>
+<div class="orv_quote"><p>「 The 'Dark Heavenly Moon Spear' carved by Odin has not broken yet. 」</p></div>
+<br>
+<p class="orv_line">The divine relic carvings of the other constellations were all broken or heavily damaged. In contrast, the 'Dark Heavenly Moon Spear' showed no flaws or cracks. In other words, Yoo Joonghyuk was not dead yet. Wherever he was and whatever he was doing right now, that guy hadn't died yet.</p>
+<br>
+<p class="orv_line">Yet Odin's expression wasn't bright.</p>
+<br>
+<div class="orv_constellation"><p>[He dies.]</p></div>
+<br>
+<p class="orv_line">A voice closer to a calm statement of fact. Suppressing my inner turmoil deeply, I glared into his eye.</p>
+<br>
+<p class="orv_line">"Did you carve this beforehand because he looked like a guy about to die soon? So you could break it when he dies?"</p>
+<br>
+<div class="orv_constellation"><p>[.....]</p></div>
+<br>
+<p class="orv_line">"I'm sorry, but that guy doesn't die. This carving will never break. So—"</p>
+<br>
+<p class="orv_line">Saying that, I tucked the carving into my breast pocket.</p>
+<br>
+<p class="orv_line">"I'll keep this as a souvenir."</p>
+<br>
+<p class="orv_line">It was to prevent Odin from accidentally snapping it. But as if all my efforts were meaningless, Odin slowly shook his head and said:</p>
+<br>
+<div class="orv_constellation"><p>[He dies.]</p></div>
+<br>
+<p class="orv_line">Staring into his calm eye, I asked back:</p>
+<br>
+<p class="orv_line">"Did you see it with your one eye?"</p>
+<br>
+<p class="orv_line">Odin was a constellation who sacrificed one of his eyes to Mímir's Well to gain the truth of the world and foresight into the future. I knew all too well that his single eye reached into [Foresight], much like the 'Lump-bearing King' or 'Anna Croft'.</p>
+<br>
+<div class="orv_constellation"><p>[I saw it.]</p></div>
+<br>
+<p class="orv_line">Even without using [Lie Detection], I could tell. Those words were true.</p>
+<br>
+<p class="orv_line">"When and how does Yoo Joonghyuk die?"</p>
+<br>
+<div class="orv_constellation"><p>[That I do not know. But he will surely die. That is all I know.]</p></div>
+<br>
+<p class="orv_line">"Yoo Joonghyuk is a Regressor. As the incarnation of the 'Oldest Dream', there's no way he would die. Even if he dies, it's not a real death. What dies will be this world."</p>
+<br>
+<p class="orv_line">Odin also knew that the 'puppet of the Oldest Dream' repeated his life. So he couldn't deny my words. He shouldn't have been able to.</p>
+<br>
+<div class="orv_constellation"><p>[He will finally gain peace through death.]</p></div>
+<br>
+<p class="orv_line">For a moment, I was rendered speechless. The 41st regression was the final turn Yoo Joonghyuk could reach before the proper 'Ways of Survival' began. His experiences and wisdom gathered up to this point would be passed to the 2nd regression, forming the foundation for the start of 'Ways of Survival' and the eventual birth of the 'Secretive Plotter'.</p>
+<br>
+<p class="orv_line">What became of the 41st regression's Yoo Joonghyuk afterward was never revealed.</p>
+<br>
+<div class="orv_quote"><p>「 The Yoo Joonghyuk of this regression line will regress no more. 」</p></div>
+<br>
+<p class="orv_line">I knew this too. It was information I had known from the very beginning. For a certain reason in this regression line, Yoo Joonghyuk meets a death without regression.</p>
+<br>
+<p class="orv_line">"Yeah, I suppose so. Humans all die eventually."</p>
+<br>
+<p class="orv_line">I had stayed too long in a scenario world where constellations, transcendents, and systems ran rampant, forgetting for a moment. It's normal for humans to die. What mattered was the manner of death.</p>
+<br>
+<p class="orv_line">"Maybe Yoo Joonghyuk will die too. But at least he won't die here. Because I'm going to make it so."</p>
+<br>
+<p class="orv_line">Wondering if I had ever had so many words inside me, I kept muttering continuously:</p>
+<br>
+<p class="orv_line">"That bastard will see the conclusion he wants."</p>
+<br>
+<p class="orv_line">Were these my words, or Kim Dokja's words? I couldn't tell. Perhaps they were Han Sooyoung's words. Or maybe another Kim Dokja fragment's words. They could have been Cha Seongwoo's, Lee Dansoo's, or Gyeong Sein's words. Or perhaps the words of an unnamed recorder reading this story right now.</p>
+<br>
+<p class="orv_line">"He will finally learn what happiness is, and what the reason for his existence was. He will surely be compensated for this long tragedy, for the life he has endured."</p>
+<br>
+<p class="orv_line">Whose words were they anyway? No matter whose words they were, in the end, this was my true heart.</p>
+<br>
+<p class="orv_line">"And he will die as a human."</p>
+<br>
+<div class="orv_constellation"><p>[As a human?]</p></div>
+<br>
+<p class="orv_line">"Yeah, as a human."</p>
+<br>
+<p class="orv_line">After saying that, I paused. For some reason, my stomach felt turned. It felt as though the clumsily mixed Kim Dokjas inside me were shouting all at once.</p>
+<br>
+<div class="orv_quote"><p>「 I wish Yoo Joonghyuk wouldn't die. 」</p></div>
+<br>
+<p class="orv_line">I barely managed to stop those words from bursting out of my mouth.</p>
+<br>
+<div class="orv_quote"><p>「 I wish he would remain the protagonist of this story forever. I wish this story would never end. 」</p></div>
+<br>
+<p class="orv_line">One side of my heart constricted insanely.</p>
+<br>
+<div class="orv_system"><p>[The Fable, 'Successor of the Eternal Name', chuckles and looks at you.]</p></div>
+<div class="orv_system"><p>[The influence of the Fable, 'Successor of the Eternal Name', grows stronger!]</p></div>
+<br>
+<p class="orv_line">Clutching my chest lightly, I took several deep breaths, forcing down the thoughts surging within me. Then I looked at Odin.</p>
+<br>
+<p class="orv_line">"Anyway, I need your help."</p>
+<br>
+<p class="orv_line">Setting down his carving knife, Odin slowly shook his head.</p>
+<br>
+<div class="orv_constellation"><p>[I can do nothing.]</p></div>
+<br>
+<p class="orv_line">Knowing full well he would spout weak nonsense right off the bat, I didn't panic and picked up his words:</p>
+<br>
+<p class="orv_line">"Why? Because you lost to the Master of the Erased Blank Space?"</p>
+<br>
+<div class="orv_constellation"><p>[The stars capable of ending 'Ragnarok' are all dead. Even one of them...]</p></div>
+<br>
+<p class="orv_line">Odin looked at me with a somewhat resentful gaze, concluding with a deep sigh:</p>
+<br>
+<div class="orv_constellation"><p>[Did he not die at your hands?]</p></div>
+<br>
+<p class="orv_line">I quickly realized what Odin was talking about.</p>
+<br>
+<div class="orv_quote"><p>「 The stars capable of ending Ragnarok. 」</p></div>
+<br>
+<p class="orv_line">In the giant nebula &lt;Asgard&gt;, there were several stars representing the major events of 'Ragnarok'.</p>
+<br>
+<p class="orv_line">Thor, Thunder of Thursday.</p>
+<p class="orv_line">Tyr, the One Who Lost an Arm to the Wolf of Destruction.</p>
+<p class="orv_line">Heimdall, Guardian of the Great Horned Bridge.</p>
+<p class="orv_line">Vidar, Terminator of War.</p>
+<br>
+<p class="orv_line">They were each fated to face their matching 'Great Disaster'.</p>
+<br>
+<div class="orv_quote"><p>「 'Thor' who fights against the 'World Serpent' encircling the universe. 」</p></div>
+<div class="orv_quote"><p>「 'Tyr' who fights against the netherworld gatekeeper 'Garm'. 」</p></div>
+<div class="orv_quote"><p>「 'Heimdall' who fights against the King of Hell 'Loki'. 」</p></div>
+<div class="orv_quote"><p>「 'Vidar' who fights against 'Fenrir', the Wolf That Swallowed a God. 」</p></div>
+<br>
+<p class="orv_line">However, those four stars were not in this scenario right now. Heimdall died at the hands of Snowfield Kim Dokja right at the start of the scenario, while Thor and Tyr seemed to have met their end on the battlefield. Lastly, in Vidar's case—</p>
+<br>
+<p class="orv_line">"Ah."</p>
+<br>
+<p class="orv_line">Right. That bastard got killed by me back in 'New Martial Arts Earth'.</p>
+<br>
+<div class="orv_constellation"><p>[It seems you finally remember.]</p></div>
+<br>
+<p class="orv_line">Technically, it was Yoo Joonghyuk who killed him, not me. Still, since he was a Fable-grade constellation, I thought he would have barely clung to life... Did he really die? Well, having his Fable entirely absorbed by Apollo, there was no way he could have survived.</p>
+<br>
+<p class="orv_line">I offered a faint smile toward Odin, who was glaring at me in disbelief.</p>
+<br>
+<p class="orv_line">"Well, there are plenty of actors who can perform the story, aren't there?"</p>
+<br>
+<div class="orv_constellation"><p>[What—]</p></div>
+<br>
+<p class="orv_line">"Because stars are merely 'Fable-machines' existing solely to inherit stories. Right?"</p>
+<br>
+<p class="orv_line">At my words, Odin's shoulders twitched violently. Because what I had just said was also the long-cherished belief of Odin, the 'One-Eyed Father'.</p>
+<br>
+<div class="orv_quote"><p>「 Every star is merely a small word to record a great Fable. 」</p></div>
+<br>
+<p class="orv_line">In fact, adhering to that belief, Odin had resurrected dead constellations time and time again. Heimdall was such a case. Continuously passing down &lt;Asgard&gt;'s Fables, Odin had maintained his nebula by repeatedly reviving constellations destined to be sacrificed in the Great Destruction.</p>
+<br>
+<p class="orv_line">"You can just revive them again. Like you've always done."</p>
+<br>
+<div class="orv_constellation"><p>[That is no longer possible. Because even the netherworld has vanished.]</p></div>
+<br>
+<p class="orv_line">"Who said anything about reviving them?"</p>
+<br>
+<div class="orv_constellation"><p>[.....?]</p></div>
+<br>
+<p class="orv_line">"The stage doesn't remember who the 'actors' are. It merely remembers the 'roles'."</p>
+<br>
+<p class="orv_line">Realizing the meaning behind my words late, Odin's single eye widened.</p>
+<br>
+<div class="orv_constellation"><p>[Don't tell me you...]</p></div>
+<br>
+<p class="orv_line">"That's right."</p>
+<br>
+<p class="orv_line">Reaching out my open palm toward Odin, I said:</p>
+<br>
+<p class="orv_line">"I'll be the one to revive the 'roles'. You just hand over the core Fable of 'Ragnarok' you possess."</p>
+<br>
+<p class="orv_line">Odin couldn't say a word, staring foolishly at my empty palm. I only regretted that the sky was pitch-black right now. If the stars could hear my proposal right now, they would have showered me with sponsorships.</p>
+<br>
+<div class="orv_constellation"><p>[The constellation, 'Abyssal Black Flame Dragon', is amazed by your absurd proposal.]</p></div>
+<br>
+<p class="orv_line">Ah, right, these guys were watching.</p>
+<br>
+<div class="orv_constellation"><p>[The constellation, 'Mass-Production Maker', nods saying it is just like you.]</p></div>
+<div class="orv_constellation"><p>[The constellation, 'Demon-like Judge of Fire', feels a deep longing from your appearance.]</p></div>
+<br>
+<p class="orv_line">Meihouwang was staring at me with his mouth wide open, having forgotten to even use indirect messages. In truth, it was a situation worthy of that. Because my proposal right now—</p>
+<br>
+<div class="orv_constellation"><p>[Are you... telling me to hand over all of &lt;Asgard&gt; right now?]</p></div>
+<br>
+<p class="orv_line">Odin's lips trembled violently at my sheer brazenness. I shrugged my shoulders at Odin and asked back:</p>
+<br>
+<p class="orv_line">"The nebula is ruined anyway, so what's there that you can't give up?"</p>
+<br>
+<div class="orv_constellation"><p>[.....]</p></div>
+<br>
+<p class="orv_line">"If you leave it like this, you're finished anyway. So hand it over."</p>
+<br>
+<div class="orv_constellation"><p>[Receiving the Fable... do you plan to create 'roles'?]</p></div>
+<br>
+<p class="orv_line">"Yeah."</p>
+<br>
+<div class="orv_constellation"><p>[You should know the price of 'roles'.]</p></div>
+<br>
+<p class="orv_line">"I'll take care of that myself, so just hand over the Fable."</p>
+<br>
+<p class="orv_line">Odin was silent for a while, lost in thought. He parted his lips several times before looking at me with eyes cast in deep darkness.</p>
+<br>
+<div class="orv_constellation"><p>[Do you know your own future?]</p></div>
+<br>
+<p class="orv_line">I wondered why he was suddenly talking about the future, but looking closely, his single eye was shining brightly.</p>
+<br>
+<p class="orv_line">"Can you see my future?"</p>
+<br>
+<p class="orv_line">Odin slowly shook his head.</p>
+<br>
+<div class="orv_constellation"><p>[I cannot see it. But I can feel it.]</p></div>
+<br>
+<p class="orv_line">"Really? How is it? Do I die too?"</p>
+<br>
+<p class="orv_line">I let out a self-deprecating laugh after saying that. Odin stared into me for a moment before answering:</p>
+<br>
+<div class="orv_constellation"><p>[Death is rather an easy salvation. In contrast, your future is...]</p></div>
+<br>
+<p class="orv_line">Beyond his single eye, a pitch-black darkness surged for a moment.</p>
+<br>
+<div class="orv_constellation"><p>[So distant that even death cannot be seen.]</p></div>
+<br>
+<p class="orv_line">In the past, hearing those words would have plunged me into serious reflection. But not now. I didn't have the time for that.</p>
+<br>
+<p class="orv_line">"So, are you giving it to me or not?"</p>
+<br>
+<p class="orv_line">Looking at me with a somewhat dazed face, Odin answered hesitantly:</p>
+<br>
+<div class="orv_constellation"><p>[Give me thirty minutes.]</p></div>
+<br>
+<p class="orv_line">With those final words, Odin curled back up in the corner. Staring down at Odin for a moment, I stepped out of the tent. Since he needed time, it seemed better for me not to be there.</p>
+<br>
+<p class="orv_line">Either way, Odin was in a situation where he had to hand over his Fable by betting his entire nebula. It wouldn't be an easy decision for him either. Well, if he didn't give it to me, I planned to take it by force anyway.</p>
+<br>
+<div class="orv_constellation"><p>[You careless fool! Are you really planning to give that guy time?]</p></div>
+<br>
+<p class="orv_line">Turning around, I saw Meihouwang poking his head out from the tent.</p>
+<br>
+<p class="orv_line">"Yes."</p>
+<br>
+<div class="orv_constellation"><p>[What if he suddenly runs away?]</p></div>
+<br>
+<p class="orv_line">"You'll just catch him and bring him right back, so what's there to worry about?"</p>
+<br>
+<p class="orv_line">At my words, Meihouwang's eyes flickered lightly. Twitching his lips with a dissatisfied expression, he added:</p>
+<br>
+<div class="orv_constellation"><p>[I'll keep watch.]</p></div>
+<br>
+<p class="orv_line">"Thank you."</p>
+<br>
+<p class="orv_line">However, just as he was about to enter the tent, Meihouwang paused and asked:</p>
+<br>
+<div class="orv_constellation"><p>[By the way, you fool, do you actually know what kind of Fable 'Ragnarok' is?]</p></div>
+<br>
+<p class="orv_line">"Of course."</p>
+<br>
+<div class="orv_constellation"><p>[Then...]</p></div>
+<br>
+<p class="orv_line">Meihouwang scrutinized my face for a moment as if gauging my intentions, then let out a sigh.</p>
+<br>
+<div class="orv_constellation"><p>[Never mind. Forget it. Come in quickly.]</p></div>
+<br>
+<p class="orv_line">With those words, Meihouwang disappeared back into the tent. Staring at the space where he disappeared for a moment, I raised my head and looked at the sky. Whether viewed from inside or outside the tent, the sky was still pitch-black. Far away, a star that looked like Uriel twinkled a faint light toward me.</p>
+<br>
+<div class="orv_quote"><p>「 Snowfield Kim Dokja will descend here tomorrow. 」</p></div>
+<br>
+<p class="orv_line">Now, the unavoidable final fight will truly begin. Yet strangely, I felt neither nervous nor scared. Perhaps it was because I, too, had endured a time that was far from easy.</p>
+<br>
+<div class="orv_system"><p>[The Fable, 'Successor of the Eternal Name', nods.]</p></div>
+<br>
+<p class="orv_line">Still, that didn't mean I could greet him without any preparation. So, to prepare for the final stage, the first person I had to find was—</p>
+<br>
+<div class="orv_system"><p>['Midday Tryst' has received a new message.]</p></div>
+<br>
+<p class="orv_line">The protagonist of this story, whose whereabouts were currently unknown.</p>
+<br>
+<hr>
+        </article>
+        <div class="change-ch">
+            <a href="./ch_1050"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z" /></svg>Previous</a>
+            <a href="./ch_1052">Next<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></a>
+        </div>
+         <div class="evadav">
+         </div>
+           
+        <div id="chapter-banner" data-current="1051" data-first="553" data-last="1053"></div>
+        <div class="giscus" id="comments" data-repo="Bittu5134/ORV-Reader"
+            data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
+            data-term="1958" data-reactions-enabled="1" data-emit-metadata="1" data-input-position="top"
+            data-theme="dark" data-lang="en" style="margin-top: -8px;">
+        </div>
+    </div>
+
+    <script id="main-script" data-titles="../../../../meta/cont.json" data-index="1050" data-type="cont" src="../../../assets/reader.js"></script>
+
+</body>
+
+</html>
