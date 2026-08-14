@@ -197,6 +197,53 @@ function classChangeTheme(elementClass, elemetTheme) {
     });
 }
 
+function countChapterWords() {
+    const chapter = document.querySelector('article.orv_main');
+    if (!chapter) {
+        return 0;
+    }
+
+    const selectors = [
+        '.orv_line',
+        '.orv_system p',
+        '.orv_window h3',
+        '.orv_window p',
+        '.orv_box p',
+        '.orv_constellation p',
+        '.orv_outergod p',
+        '.orv_quote p'
+    ];
+
+    const uniqueNodes = new Set();
+    selectors.forEach(selector => {
+        chapter.querySelectorAll(selector).forEach(node => uniqueNodes.add(node));
+    });
+
+    const text = Array.from(uniqueNodes)
+        .map(node => node.textContent || '')
+        .join(' ');
+
+    const normalizedText = text.replace(/(\p{N}),(?=\p{N})/gu, '$1');
+    const tokens = normalizedText.match(/[\p{L}\p{N}]+(?:['’-][\p{L}\p{N}]+)*/gu) || [];
+    const wordCount = tokens.length;
+
+    const titleTarget = chapter.querySelector('.orv_title') || chapter.querySelector('h1');
+    if (!titleTarget) {
+        return wordCount;
+    }
+
+    let wordCountNode = chapter.querySelector('.orv_wordcount');
+    if (!wordCountNode) {
+        wordCountNode = document.createElement('div');
+        wordCountNode.className = 'orv_wordcount';
+        titleTarget.insertAdjacentElement('afterend', wordCountNode);
+    }
+
+    const readingTime = Math.ceil(wordCount / 250);
+    wordCountNode.textContent = `${new Intl.NumberFormat(undefined).format(wordCount)} words · ~${readingTime} min read`;
+    return wordCount;
+}
+
 
 
 function loadSettingsFromLocalStorage() {
@@ -483,6 +530,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     applySettings();
+    countChapterWords();
     window.applySettings = applySettings;
 
 
