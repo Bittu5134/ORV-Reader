@@ -524,6 +524,9 @@
 <item href="ch_499.xhtml" id="499" media-type="application/xhtml+xml"/>
 <item href="ch_500.xhtml" id="500" media-type="application/xhtml+xml"/>
 <item href="ch_501.xhtml" id="501" media-type="application/xhtml+xml"/>
+<item href="ch_502.xhtml" id="502" media-type="application/xhtml+xml"/>
+<item href="ch_503.xhtml" id="503" media-type="application/xhtml+xml"/>
+<item href="ch_504.xhtml" id="504" media-type="application/xhtml+xml"/>
 <item id="img_0" href="795%20-%20Jeahwan%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.png" media-type="image/jpeg"/>
 <item id="img_1" href="797%20-%20Jeahwan%20-angry%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
 <item id="img_2" href="799%20-%20Jeahwan%20-clothed%20-%20Monarch%20Slayer%20-%20The%20World%20After%20the%20Fall.jpeg" media-type="image/jpeg"/>
@@ -1036,6 +1039,9 @@
 <itemref idref="499"/>
 <itemref idref="500"/>
 <itemref idref="501"/>
+<itemref idref="502"/>
+<itemref idref="503"/>
+<itemref idref="504"/>
 <itemref idref="afterword"/>
 </spine>
   <guide>
