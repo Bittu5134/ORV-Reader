@@ -84,6 +84,8 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
                     if window_line == "+":
                         break
                     if window_line.startswith("["):
+                        # Remove the outer [ ] from System Window titles.
+                        window_line = window_line[1:-1].strip()
                         window_line = f'<h3 class="orv_window_title">{window_line}</h3>'
                     else:
                         window_line = f"<p>{window_line}</p>"
@@ -112,17 +114,24 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
                 line = re.sub(r"<title>", '<div class="orv_title"><h1>', line)
                 html.insert(0, f"{line}</h1></div>")
             elif line.startswith("<!>"):
+                # Remove the outer [ ] from System Messages.
+                line = re.sub(r"^<!>\s*\[\s*", "<!>", line)
+                line = re.sub(r"\s*\]\s*$", "", line)
                 line = re.sub(r"<!>", '<div class="orv_system"><p>', line)
                 html.append(f"{line}</p></div>")
             elif line.startswith("<@>"):
+                # Constellation speech:
+                # Remove the decorative [ ] surrounding the speech.
+                line = re.sub(r"^<@>\s*\[\s*(.*?)\s*\]\s*$", r"<@>\1", line)
                 line = re.sub(r"<@>", '<div class="orv_constellation"><p>', line)
                 html.append(f"{line}</p></div>")
             elif line.startswith("<#>"):
+                line = re.sub(r"^<#>\s*\[\s*(.*?)\s*\]\s*$", r"<#>\1", line)
                 line = re.sub(r"<#>", '<div class="orv_outergod"><p>', line)
                 html.append(f"{line}</p></div>")
             elif line.startswith("<&>"):
-                line = re.sub(r"\s*「\s*", "「 ", line)
-                line = re.sub(r"\s*」\s*", " 」", line)
+                line = re.sub(r"\s*「\s*", "", line)
+                line = re.sub(r"\s*」\s*", "", line)
                 line = re.sub(r"<&>", '<div class="orv_quote"><p>', line)
                 html.append(f"{line}</p></div>")
             elif line.startswith("<?>"):
@@ -147,6 +156,7 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
                     f'<div class="orv_cover"><img src="../../../assets/images/{urlparse.quote(line[0])}" alt="{line[1]}"></div>',
                 )
             else:
+                line = re.sub(r"\[([^\[\]\n]+)\]",r"<strong>[\1]</strong>",line)
                 html.append(f'<p class="orv_line">{line}</p>')
 
         # Get all chapter files to determine first and last
