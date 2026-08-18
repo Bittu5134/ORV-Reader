@@ -1,589 +1,816 @@
 :root {
-    --body-background: #14151b;
-    --primary: #1f2129;
-    --nav: #18191f;
-    --text-primary: #b6bccc;
-    --text-secondary: #c6cee2;
-    --line-space: 1.5rem;
-    --paragraph-space: calc(var(--line-space)*0.8);
-    --default-font: sans-serif;
-    --icons-color: brightness(0) saturate(100%) invert(80%) sepia(12%) saturate(302%) hue-rotate(184deg) brightness(99%) contrast(97%);
+     --body-background: #14151b;
+     --primary: #1f2129;
+     --nav: #18191f;
+     --text-primary: #b6bccc;
+     --text-secondary: #c6cee2;
+     --line-space: 1.5rem;
+     --paragraph-space: calc(var(--line-space) * 0.8);
+     --default-font: sans-serif;
+     --icons-color: brightness(0) saturate(100%) invert(80%) sepia(12%) saturate(302%) hue-rotate(184deg) brightness(99%) contrast(97%);
 }
-
-.test {
-    color: #000;
+ .test {
+     color: #000;
 }
-
-.orv_main {
-
-    line-height: var(--line-space);
-    color: var(--text-primary);
+ .orv_main {
+     line-height: var(--line-space);
+     color: var(--text-primary);
 }
-
-.orv_line {
-    margin-left: 0.8em;
+ .orv_line {
+     margin-left: 0.8em;
 }
-
-
-
 /* this is for the system messages */
 /* default features */
-.orv_system {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    width: min(600px, 85%);
+ .orv_system {
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     width: min(600px, 85%);
 }
-
-.orv_window {
-    margin-left: auto;
-    margin-right: auto;
-    width: min(400px, 90%);
+ .orv_window {
+     margin-left: auto;
+     margin-right: auto;
+     width: min(400px, 90%);
 }
-
-.orv_window .orv_window_title {
-    font-size: 1.5em;
-    margin-bottom: 1em;
-    text-align: center;
+ .orv_window .orv_window_title {
+     font-size: 1.5em;
+     margin-bottom: 1em;
+     text-align: center;
 }
-
-
-
-
-
-
-.orv_system.theme1 {
-    margin-left: 0.8em;
-    place-self: unset;
-    text-align: left;
-    width: 100%;
-    font-family: var(--default-font);
-    margin-top: var(--paragraph-space);
+ .orv_system.theme1 {
+     margin-left: 0.8em;
+     place-self: unset;
+     text-align: left;
+     width: 100%;
+     font-family: var(--default-font);
+     margin-top: var(--paragraph-space);
 }
-
-.orv_window.theme1 {
-    margin-left: 0.8em;
-    width: 100%;
-    margin-top: var(--line-space);
-    padding: unset;
-    place-self: unset;
-    text-align: left;
-    margin-top: var(--paragraph-space);
-    font-family: var(--default-font);
+ .orv_window.theme1 {
+     margin-left: 0.8em;
+     width: 100%;
+     margin-top: var(--line-space);
+     padding: unset;
+     place-self: unset;
+     text-align: left;
+     margin-top: var(--paragraph-space);
+     font-family: var(--default-font);
 }
-
-.orv_window.theme1 .orv_window_title {
-    font-size: 1em;
-    font-weight: normal;
-    text-align: left;
+ .orv_window.theme1 .orv_window_title {
+     font-size: 1em;
+     font-weight: normal;
+     text-align: left;
 }
-
-.orv_window.theme1::before {
-    content: "+";
+ .orv_window.theme1::before {
+     content: "+";
 }
-
-.orv_window.theme1::after {
-    content: "+";
+ .orv_window.theme1::after {
+     content: "+";
 }
-
-
-
-
-
-
-
-
-.orv_system.theme2 p {
-    place-self: center;
+ .orv_system.theme2 p {
+     place-self: center;
 }
-
-.orv_window.theme2 .orv_window_title {
-    text-align: center;
-    font-size: 1.5em;
+ .orv_window.theme2 .orv_window_title {
+     text-align: center;
+     font-size: 1.5em;
 }
-
-.orv_window.theme2 {
-    place-self: center;
-
+ .orv_window.theme2 {
+     place-self: center;
 }
-
-.orv_system.theme2,
-.orv_window.theme2 {
-    margin-top: var(--paragraph-space);
-    padding: 0.75em 1.5em;
-    position: relative;
-
+ .orv_system.theme2, .orv_window.theme2 {
+     margin-top: var(--paragraph-space);
+     padding: 0.75em 1.5em;
+     position: relative;
 }
-
-.orv_system.theme2:after,
-.orv_system.theme2:before,
-.orv_window.theme2::after,
-.orv_window.theme2::before {
-    border: .2em solid var(--text-primary);
-    border-radius: 0.25em;
-    bottom: 0;
-    content: '';
-    position: absolute;
-    top: 0;
-    width: 1em;
+ .orv_system.theme2:after, .orv_system.theme2:before, .orv_window.theme2::after, .orv_window.theme2::before {
+     border: 0.2em solid var(--text-primary);
+     border-radius: 0.25em;
+     bottom: 0;
+     content: "";
+     position: absolute;
+     top: 0;
+     width: 1em;
 }
-
-.orv_system.theme2:after,
-.orv_window.theme2:after {
-    border-left: none;
-    right: 1em;
+ .orv_system.theme2:after, .orv_window.theme2:after {
+     border-left: none;
+     right: 1em;
 }
-
-.orv_system.theme2:before,
-.orv_window.theme2:before {
-    border-right: none;
-    left: 1em;
+ .orv_system.theme2:before, .orv_window.theme2:before {
+     border-right: none;
+     left: 1em;
 }
-
-
-
-
-
-
-
-
-.orv_window.theme3,
-.orv_system.theme3 {
-    position: relative;
-    width: min(400px, 90%);
-    padding: 20px;
-    background: linear-gradient(135deg, #2676d8, #255ab6);
-    border-radius: 10px;
-    border: 2px solid #000;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
-    color: white;
-    text-align: left;
-    place-self: center;
-    margin-top: var(--paragraph-space);
+ .orv_window.theme3, .orv_system.theme3 {
+     position: relative;
+     width: min(400px, 90%);
+     padding: 20px;
+     background: linear-gradient(135deg, #2676d8, #255ab6);
+     border-radius: 10px;
+     border: 2px solid #000;
+     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+     color: white;
+     text-align: left;
+     place-self: center;
+     margin-top: var(--paragraph-space);
 }
-
-.orv_system.theme3 {
-    width: 90%;
-    text-align: center;
+ .orv_system.theme3 {
+     width: 90%;
+     text-align: center;
 }
-
-.orv_window.theme3::before,
-.orv_window.theme3::after,
-.orv_system.theme3::before,
-.orv_system.theme3::after {
-    content: '';
-    position: absolute;
-    top: 5px;
-    left: 5px;
-    right: 5px;
-    bottom: 5px;
-    border: 2px solid white;
-    border-radius: 8px;
-    pointer-events: none;
+ .orv_window.theme3::before, .orv_window.theme3::after, .orv_system.theme3::before, .orv_system.theme3::after {
+     content: "";
+     position: absolute;
+     top: 5px;
+     left: 5px;
+     right: 5px;
+     bottom: 5px;
+     border: 2px solid white;
+     border-radius: 8px;
+     pointer-events: none;
 }
-
-.orv_window.theme3::after,
-.orv_system.theme3::after {
-    top: 10px;
-    left: 10px;
-    right: 10px;
-    bottom: 10px;
-    border-color: #ddd;
+ .orv_window.theme3::after, .orv_system.theme3::after {
+     top: 10px;
+     left: 10px;
+     right: 10px;
+     bottom: 10px;
+     border-color: #ddd;
 }
-
-.orv_window.theme3 p.orv_window_title {
-    overflow: hidden;
-    background-color: rgba(255, 255, 255, 0.264);
-    border-radius: 0.2em;
-    padding: 0.3em 0.1em;
-    margin-top: 0;
-    font-size: 1.3em;
-    letter-spacing: 1px;
-    text-align: center;
+ .orv_window.theme3 p.orv_window_title {
+     overflow: hidden;
+     background-color: rgba(255, 255, 255, 0.264);
+     border-radius: 0.2em;
+     padding: 0.3em 0.1em;
+     margin-top: 0;
+     font-size: 1.3em;
+     letter-spacing: 1px;
+     text-align: center;
 }
-
-.orv_window.theme3 p.orv_window_title::after {
-    content: '';
-    position: relative;
-    top: 0.2em;
-    left: -2em;
-    display: block;
-    width: 120%;
-    height: 100%;
-    border-bottom: 0.2em solid #ddd;
-
+ .orv_window.theme3 p.orv_window_title::after {
+     content: "";
+     position: relative;
+     top: 0.2em;
+     left: -2em;
+     display: block;
+     width: 120%;
+     height: 100%;
+     border-bottom: 0.2em solid #ddd;
 }
-
-
-
-
-
-
-
-.orv_system.theme4,
-.orv_window.theme4 {
-    margin-top: var(--paragraph-space);
-    border: 0.05em solid var(--text-primary);
+ .orv_system.theme4, .orv_window.theme4 {
+     margin-top: var(--paragraph-space);
+     border: 0.05em solid var(--text-primary);
 }
-
-.orv_system.theme4 p,
-.orv_window.theme4 p {
-    padding: 0.6em;
+ .orv_system.theme4 p, .orv_window.theme4 p {
+     padding: 0.6em;
 }
-
-
-
-
-
-
-
-
-.orv_system.theme5,
-.orv_window.theme5 {
-    margin-top: var(--line-space);
-    margin-left: 0.8em;
-    text-align: left;
-    padding: 0.8em 0.25em;
-    border-left: 3px solid #1f6feb;
-    border-radius: 0.3em;
-    width: clamp(90%, fit-content, 400px);
+ .orv_system.theme5, .orv_window.theme5 {
+     margin-top: var(--line-space);
+     margin-left: 0.8em;
+     text-align: left;
+     padding: 0.8em 0.25em;
+     border-left: 3px solid #1f6feb;
+     border-radius: 0.3em;
+     width: clamp(90%, fit-content, 400px);
 }
-
-.orv_window.theme5 {
-    border-left: 3px solid #804fe0;
+ .orv_window.theme5 {
+     border-left: 3px solid #804fe0;
 }
-
-.orv_system.theme5 p,
-.orv_window.theme5 p {
-    padding-left: 0.5em;
+ .orv_system.theme5 p, .orv_window.theme5 p {
+     padding-left: 0.5em;
 }
-
-.orv_window.theme5 .orv_window_title {
-    text-align: left;
-    font-size: 1em;
+ .orv_window.theme5 .orv_window_title {
+     text-align: left;
+     font-size: 1em;
 }
-
-
-
 /* this is for constillation text */
-
-.orv_constellation.theme1 {
-    margin-left: 0.8em;
-    place-self: unset;
-    text-align: left;
-    width: 100%;
-    font-family: var(--default-font);
-    margin-top: var(--paragraph-space);
+ .orv_constellation.theme1 {
+     margin-left: 0.8em;
+     place-self: unset;
+     text-align: left;
+     width: 100%;
+     font-family: var(--default-font);
+     margin-top: var(--paragraph-space);
 }
-
-
-
-
-.orv_constellation.theme2 p {
-    place-self: center;
-    text-align: center;
+ .orv_constellation.theme2 p {
+     place-self: center;
+     text-align: center;
 }
-
-.orv_constellation.theme2 {
-    margin-top: var(--paragraph-space);
-    padding: 0.75em 1.5em;
-    position: relative;
+ .orv_constellation.theme2 {
+     margin-top: var(--paragraph-space);
+     padding: 0.75em 1.5em;
+     position: relative;
 }
-
-.orv_constellation.theme2:after,
-.orv_constellation.theme2:before {
-    border: .2em solid var(--text-primary);
-    border-radius: 0.25em;
-    bottom: 0;
-    content: '';
-    position: absolute;
-    top: 0;
-    width: 1em;
+ .orv_constellation.theme2:after, .orv_constellation.theme2:before {
+     border: 0.2em solid var(--text-primary);
+     border-radius: 0.25em;
+     bottom: 0;
+     content: "";
+     position: absolute;
+     top: 0;
+     width: 1em;
 }
-
-.orv_constellation.theme2:after {
-    border-left: none;
-    right: 1em;
+ .orv_constellation.theme2:after {
+     border-left: none;
+     right: 1em;
 }
-
-.orv_constellation.theme2:before {
-    border-right: none;
-    left: 1em;
+ .orv_constellation.theme2:before {
+     border-right: none;
+     left: 1em;
 }
-
-
-
-
-
-
-.orv_constellation.theme3 {
-    margin-top: var(--line-space);
-    margin-left: 0.8em;
-    border-radius: 0.3em;
-    text-align: left;
-    padding: 0.5em 0.25em;
-    border-left: 3px solid #0f7e2a;
-    width: clamp(90%, fit-content, 400px);
+ .orv_constellation.theme3 {
+     margin-top: var(--line-space);
+     margin-left: 0.8em;
+     border-radius: 0.3em;
+     text-align: left;
+     padding: 0.5em 0.25em;
+     border-left: 3px solid #0f7e2a;
+     width: clamp(90%, fit-content, 400px);
 }
-
-.orv_constellation.theme3 p {
-    padding-left: 0.5em;
+ .orv_constellation.theme3 p {
+     padding-left: 0.5em;
 }
-
-
-
-
-
-
-
 /* this is for quotes */
-
-.orv_quote.theme1 {
-    margin-left: 0.8em;
-    place-self: unset;
-    text-align: left;
-    width: 100%;
-    font-family: var(--default-font);
-    margin-top: var(--paragraph-space);
+ .orv_quote.theme1 {
+     margin-left: 0.8em;
+     place-self: unset;
+     text-align: left;
+     width: 100%;
+     font-family: var(--default-font);
+     margin-top: var(--paragraph-space);
 }
-
-
-
-
-div.orv_quote.theme2 {
-    position: relative;
-    border: none;
-    margin-top: var(--paragraph-space);
-    text-align: center;
-    box-sizing: border-box;
+ div.orv_quote.theme2 {
+     position: relative;
+     border: none;
+     margin-top: var(--paragraph-space);
+     text-align: center;
+     box-sizing: border-box;
 }
-
-div.orv_quote.theme2 p {
-    padding: 0.4em;
+ div.orv_quote.theme2 p {
+     padding: 0.4em;
 }
-
-div.orv_quote.theme2::before,
-div.orv_quote.theme2::after {
-    position: absolute;
-    content: "";
-    width: 2em;
-    height: 1em;
+ div.orv_quote.theme2::before, div.orv_quote.theme2::after {
+     position: absolute;
+     content: "";
+     width: 2em;
+     height: 1em;
 }
-
-div.orv_quote.theme2::before {
-    left: 0;
-    top: 0;
-    border-left: 0.1em solid var(--text-primary);
-    border-top: 0.1em solid var(--text-primary);
+ div.orv_quote.theme2::before {
+     left: 0;
+     top: 0;
+     border-left: 0.1em solid var(--text-primary);
+     border-top: 0.1em solid var(--text-primary);
 }
-
-div.orv_quote.theme2::after {
-    right: 0;
-    bottom: 0;
-    border-right: 0.1em solid var(--text-primary);
-    border-bottom: 0.1em solid var(--text-primary);
+ div.orv_quote.theme2::after {
+     right: 0;
+     bottom: 0;
+     border-right: 0.1em solid var(--text-primary);
+     border-bottom: 0.1em solid var(--text-primary);
 }
-
-
-
-
-
-
-.orv_quote.theme3 {
-    margin-top: var(--line-space);
-    margin-left: 0.8em;
-    border-radius: 0.3em;
-    text-align: left;
-    padding: 0.5em 0.25em;
-    border-left: 3px solid #ffa200;
-    width: clamp(90%, fit-content, 400px);
+ .orv_quote.theme3 {
+     margin-top: var(--line-space);
+     margin-left: 0.8em;
+     border-radius: 0.3em;
+     text-align: left;
+     padding: 0.5em 0.25em;
+     border-left: 3px solid #ffa200;
+     width: clamp(90%, fit-content, 400px);
 }
-
-.orv_quote.theme3 p {
-    padding-left: 0.5em;
+ .orv_quote.theme3 p {
+     padding-left: 0.5em;
 }
-
-
-
-
 /* this is for outergod text */
-
-.orv_outergod.theme1 {
-    margin-left: 0.8em;
-    place-self: unset;
-    text-align: left;
-    width: 100%;
-    font-family: var(--default-font);
-    margin-top: var(--paragraph-space);
+ .orv_outergod.theme1 {
+     margin-left: 0.8em;
+     place-self: unset;
+     text-align: left;
+     width: 100%;
+     font-family: var(--default-font);
+     margin-top: var(--paragraph-space);
 }
-
-
-
-
-
-
-
-
-.orv_outergod.theme2 {
-    margin-top: var(--paragraph-space);
-    margin-left: auto;
-    margin-right: auto;
-    width: min(400, 90%);
-    background-color: var(--text-secondary);
+ .orv_outergod.theme2 {
+     margin-top: var(--paragraph-space);
+     margin-left: auto;
+     margin-right: auto;
+     width: min(400, 90%);
+     background-color: var(--text-secondary);
 }
-
-.orv_outergod.theme2 p {
-    padding: 0.5em 1em;
-    border-radius: 15px;
-    background-color: var(--primary);
-    width: 95%;
-    height: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+ .orv_outergod.theme2 p {
+     padding: 0.5em 1em;
+     border-radius: 15px;
+     background-color: var(--primary);
+     width: 95%;
+     height: 100%;
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
 }
-
-
-
-
-
-
-.orv_outergod.theme3 {
-    margin-top: var(--line-space);
-    margin-left: 0.8em;
-    border-radius: 0.3em;
-    text-align: left;
-    padding: 0.5em 0.25em;
-    border-left: 3px solid #e91e2b;
-    width: clamp(90%, fit-content, 400px);
+ .orv_outergod.theme3 {
+     margin-top: var(--line-space);
+     margin-left: 0.8em;
+     border-radius: 0.3em;
+     text-align: left;
+     padding: 0.5em 0.25em;
+     border-left: 3px solid #e91e2b;
+     width: clamp(90%, fit-content, 400px);
 }
-
-.orv_outergod.theme3 p {
-    padding-left: 0.5em;
+ .orv_outergod.theme3 p {
+     padding-left: 0.5em;
 }
-
-
-
 /* this is for notice */
-
-.orv_notice p {
-    font-size: smaller;
-    font-style: italic;
+ .orv_notice p {
+     font-size: smaller;
+     font-style: italic;
 }
-
-
-.orv_notice.theme1 {
-    margin-left: 0.8em;
-    margin-top: var(--paragraph-space);
+ .orv_notice.theme1 {
+     margin-left: 0.8em;
+     margin-top: var(--paragraph-space);
 }
-
-.orv_notice.theme1 p::before {
-    content: "(Note: ";
+ .orv_notice.theme1 p::before {
+     content: "(Note: ";
 }
-
-.orv_notice.theme1 p::after {
-    content: ")";
+ .orv_notice.theme1 p::after {
+     content: ")";
 }
-
-
-
-
-.orv_notice.theme2 {
-    margin-left: 0.8em;
-    margin-top: var(--paragraph-space);
+ .orv_notice.theme2 {
+     margin-left: 0.8em;
+     margin-top: var(--paragraph-space);
 }
-
-.orv_notice.theme2 p::before {
-    color: #003a92;
-    filter: brightness(200%);
-    font-weight: bold;
-    content: "ⓘ Note: ";
+ .orv_notice.theme2 p::before {
+     color: #003a92;
+     filter: brightness(200%);
+     font-weight: bold;
+     content: "ⓘ Note: ";
 }
-
-.orv_notice.theme2 p {
-    filter: brightness(80%);
+ .orv_notice.theme2 p {
+     filter: brightness(80%);
 }
-
-
-
-
-
-
-.orv_notice.theme3 {
-    margin-top: var(--line-space);
-    filter: brightness(80%);
-    margin-left: 0.8em;
-    border-radius: 0.3em;
-    text-align: left;
-    padding: 0.5em 0.25em;
-    border-left: 3px solid #e91eb3;
-    width: clamp(90%, fit-content, 400px);
+ .orv_notice.theme3 {
+     margin-top: var(--line-space);
+     filter: brightness(80%);
+     margin-left: 0.8em;
+     border-radius: 0.3em;
+     text-align: left;
+     padding: 0.5em 0.25em;
+     border-left: 3px solid #e91eb3;
+     width: clamp(90%, fit-content, 400px);
 }
-
-.orv_notice.theme3 p::before {
-    color: #003a92;
-    filter: brightness(200%);
-    font-weight: bold;
-    content: "ⓘ Note: ";
+ .orv_notice.theme3 p::before {
+     color: #003a92;
+     filter: brightness(200%);
+     font-weight: bold;
+     content: "ⓘ Note: ";
 }
-
-.orv_notice.theme3 p {
-    padding-left: 0.5em;
+ .orv_notice.theme3 p {
+     padding-left: 0.5em;
 }
-
-
-
 /* This is for Orv Generic Box */
-
-.orv_box.theme1 {
-    margin-top: var(--paragraph-space);
-    /* border: var(--text-secondary) solid 0.1em; */
+ .orv_box.theme1 {
+     margin-top: var(--paragraph-space);
+    /* border: var(--text-secondary) solid 0.1em;
+     */
+}
+ .orv_box.theme1 p {
+     margin-top: 0.4em;
+     margin-bottom: 0.4em;
+}
+ .orv_box.theme1::before {
+     content: "++";
+     margin-left: 0.8em;
+}
+ .orv_box.theme1::after {
+     content: "++";
+     margin-left: 0.8em;
+}
+ .orv_box.theme2 {
+     margin-top: var(--paragraph-space);
+     border: var(--text-secondary) solid 0.1em;
+}
+ .orv_box.theme2 p {
+     margin-top: 0.4em;
+     margin-bottom: 0.4em;
+}
+/* ========================================================= THEME 6 — OMNISCIENT READER STYLE ========================================================= */
+/* * General philosophy: * * - Dark system interface * - Sharp geometry * - Thin borders * - Minimal rounded corners * - White/gray system text * - Gold constellation elements * - Violet Outer God elements */
+/* ========================================================= SHARED ========================================================= */
+ .orv_system.theme6, .orv_window.theme6, .orv_constellation.theme6, .orv_outergod.theme6, .orv_quote.theme6, .orv_notice.theme6, .orv_box.theme6 {
+     position: relative;
+     box-sizing: border-box;
+     isolation: isolate;
+}
+/* ========================================================= SYSTEM MESSAGE ========================================================= */
+/* System Message: Offset Diamonds (Top-Left and Bottom-Right) */
+.orv_system.theme6 {
+  width: min(680px, 92%);
+  margin: 1.5em auto;
+  padding: 1.2em 1em;
+  color: #e0f2fe;
+  
+  /* Glowing Blue Background Gradient */
+  background: 
+    radial-gradient(ellipse at 50% 50%, rgba(30, 144, 255, 0.25) 0%, rgba(10, 25, 47, 0.4) 60%, transparent 100%);
+  
+  /* Top and Bottom Glowing Blue Borders */
+  border-top: 1px solid #3b82f6; 
+  border-bottom: 1px solid #3b82f6;
+  
+  box-shadow: 
+    0 0 15px rgba(59, 130, 246, 0.3),
+    inset 0 0 15px rgba(59, 130, 246, 0.2);
+  
+  text-align: center;
+  position: relative;
 }
 
-.orv_box.theme1 p {
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
+/* TOP-LEFT DIAMOND */
+.orv_system.theme6::before {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 0px; /* Shifted to top-left corner */
+  width: 14px;
+  height: 14px;
+  transform: rotate(45deg);
+  background: var(--body-background, #14151b);
+  border: 1px solid #3b82f6;
+  box-sizing: border-box;
+  z-index: 2;
+  outline: 1px solid #60a5fa;
+  outline-offset: -3px;
+  box-shadow: 0 0 6px rgba(59, 130, 246, 0.8);
 }
 
-.orv_box.theme1::before {
-    content: "++";
-    margin-left: 0.8em;
+/* BOTTOM-RIGHT DIAMOND */
+.orv_system.theme6::after {
+  content: "";
+  position: absolute;
+  bottom: -8px;
+  right: 0px; /* Shifted to bottom-right corner */
+  width: 14px;
+  height: 14px;
+  transform: rotate(45deg);
+  
+  background: var(--body-background, #14151b);
+  border: 1px solid #3b82f6;
+  box-sizing: border-box;
+  z-index: 2;  
+  outline: 1px solid #60a5fa;
+  outline-offset: -3px;
+  box-shadow: 0 0 6px rgba(59, 130, 246, 0.8);
 }
 
-.orv_box.theme1::after {
-    content: "++";
-    margin-left: 0.8em;
+.orv_system.theme6 p {
+  margin: 0;
+  letter-spacing: 0.04em;
+  text-shadow: 
+    0 0 8px rgba(96, 165, 250, 0.8),
+    0 0 18px rgba(59, 130, 246, 0.5);
 }
 
-
-.orv_box.theme2 {
-    margin-top: var(--paragraph-space);
-    border: var(--text-secondary) solid 0.1em;
+/* ========================================================= SYSTEM WINDOW ========================================================= */
+/* System Window: ORV webtoon scenario window with glowing blue borders & gradient background */
+.orv_window.theme6 {
+  width: min(650px, 90%);
+  margin: 3em auto;
+  color: #e0f2fe;
+  
+  /* Glowing Dark Blue Gradient Background */
+  background: 
+    radial-gradient(ellipse at 50% 30%, rgba(30, 144, 255, 0.15) 0%, rgba(10, 25, 47, 0.6) 70%),
+    linear-gradient(180deg, #091322 0%, #050a14 50%, #02050a 100%);
+  
+  /* Glowing Blue Outer Border */
+  border: 1px solid #3b82f6;
+  border-radius: 2px;
+  
+  /* Window Outer & Inner Glow */
+  box-shadow: 
+    0 0 20px rgba(59, 130, 246, 0.25),
+    inset 0 0 20px rgba(59, 130, 246, 0.1);
+  
+  position: relative;
+  overflow: hidden;
 }
 
-.orv_box.theme2 p {
-    margin-top: 0.4em;
-    margin-bottom: 0.4em;
+/* Window Title Bar */
+.orv_window.theme6 .orv_window_title {
+  position: relative;
+  margin: 0;
+  padding: 0.85em 1.2em;
+  color: #ffffff;
+  background: linear-gradient(180deg, rgba(30, 58, 138, 0.6) 0%, rgba(15, 23, 42, 0.8) 100%);
+  border-bottom: 1px solid #3b82f6;
+  font-size: 1.1em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-align: center;
+  text-shadow: 0 0 8px rgba(96, 165, 250, 0.8);
 }
 
+/* Left Title Accent Diamond */
+.orv_window.theme6 .orv_window_title::before {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-right: 0.8em;
+  vertical-align: middle;
+  transform: rotate(45deg);
+  background: #60a5fa;
+  border: 1px solid #93c5fd;
+  outline: 1px solid #3b82f6;
+  outline-offset: 2px;
+  box-shadow: 0 0 6px #60a5fa;
+}
 
+/* Right Title Accent Diamond */
+.orv_window.theme6 .orv_window_title::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 0.8em;
+  vertical-align: middle;
+  transform: rotate(45deg);
+  background: #60a5fa;
+  border: 1px solid #93c5fd;
+  outline: 1px solid #3b82f6;
+  outline-offset: 2px;
+  box-shadow: 0 0 6px #60a5fa;
+}
 
+/* Window Rows / Content Lines */
+.orv_window.theme6 p {
+  margin: 0;
+  padding: 0.75em 1.25em;
+  border-bottom: 1px solid rgba(59, 130, 246, 0.2);
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 4px rgba(59, 130, 246, 0.3);
+}
 
+.orv_window.theme6 p:last-child {
+  border-bottom: none;
+}
+/* ========================================================= CONSTELLATION ========================================================= */
+/* Constellations: Celestial ORV speech dialogue with a glowing left border */
+.orv_constellation.theme6 {
+  width: min(650px, 90%);
+  margin: 1.5em auto;
+  padding: 0.9em 1.2em 0.9em 1.5em;
+  color: #fff8e7;
+  
+  /* Left-aligned Celestial Gold Radial Glow & Dark Gradient Background */
+  background: 
+    radial-gradient(ellipse at 0% 50%, rgba(255, 215, 0, 0.25) 0%, rgba(35, 26, 12, 0.6) 55%, transparent 100%),
+    linear-gradient(90deg, rgba(25, 18, 8, 0.95) 0%, rgba(12, 10, 5, 0.85) 100%);
+  
+  /* Surrounding Subdued Frame & Strong Left Accent Border */
+  border: 1px solid rgba(255, 215, 0, 0.2);
+  border-left: 4px solid #ffd700;
+  border-radius: 4px 8px 8px 4px;
+  
+  /* Left-focused Intense Gold Glow */
+  box-shadow: 
+    -6px 0 18px -2px rgba(255, 215, 0, 0.45),
+    inset 10px 0 20px -8px rgba(255, 215, 0, 0.25);
+  
+  text-align: left;
+  position: relative;
+}
 
+/* Clear pseudo-element diamonds */
+.orv_constellation.theme6::before,
+.orv_constellation.theme6::after {
+  display: none;
+}
 
+.orv_constellation.theme6 p {
+  margin: 0;
+  letter-spacing: 0.03em;
+  text-shadow: 
+    0 0 8px rgba(255, 215, 0, 0.6),
+    0 0 16px rgba(218, 165, 32, 0.3);
+}
 
+/* ========================================================= OUTER GOD ========================================================= */
+/* Outer God: Dark supernatural ORV speech dialogue with a glowing violet left border */
+.orv_outergod.theme6 {
+  width: min(650px, 90%);
+  margin: 1.5em auto;
+  padding: 0.9em 1.2em 0.9em 1.5em;
+  color: #ebdff2;
+  
+  /* Left-aligned Void Violet Radial Glow & Dark Gradient Background */
+  background: 
+    radial-gradient(ellipse at 0% 50%, rgba(173, 40, 115, 0.3) 0%, rgba(32, 12, 38, 0.6) 55%, transparent 100%),
+    linear-gradient(90deg, rgba(22, 8, 26, 0.95) 0%, rgba(8, 3, 10, 0.85) 100%);
+  
+  /* Surrounding Subdued Frame & Strong Left Accent Border */
+  border: 1px solid rgba(173, 120, 187, 0.25);
+  border-left: 4px solid #ad78bb;
+  border-radius: 4px 8px 8px 4px;
+  
+  /* Left-focused Intense Violet Glow */
+  box-shadow: 
+    -6px 0 18px -2px rgba(173, 120, 187, 0.5),
+    inset 10px 0 20px -8px rgba(173, 120, 187, 0.3);
+  
+  text-align: left;
+  position: relative;
+}
 
+/* Clear pseudo-element diamonds */
+.orv_outergod.theme6::before,
+.orv_outergod.theme6::after {
+  display: none;
+}
 
+.orv_outergod.theme6 p {
+  margin: 0;
+  letter-spacing: 0.03em;
+  text-shadow: 
+    0 0 8px rgba(197, 133, 218, 0.6),
+    0 0 16px rgba(162, 82, 190, 0.35);
+}
+/* ========================================================= QUOTE ========================================================= */
+/* Quote: Atmospheric ORV-style quote block with glowing left border and subtle backdrop */
+.orv_quote.theme6 {
+  width: min(670px, 90%);
+  margin: 2em auto;
+  padding: 1em 1.5em 1em 3.2em;
+  color: #e2e8f0;
+  
+  /* Left-aligned Slate/Steel Radial Glow & Dark Gradient Background */
+  background: 
+    radial-gradient(ellipse at 0% 50%, rgba(148, 163, 184, 0.2) 0%, rgba(30, 41, 59, 0.4) 55%, transparent 100%),
+    linear-gradient(90deg, rgba(20, 27, 38, 0.9) 0%, rgba(10, 14, 20, 0.8) 100%);
+  
+  /* Outer Frame & Left Glowing Accent Line */
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  border-left: 4px solid #94a3b8;
+  border-radius: 4px 8px 8px 4px;
+  
+  /* Left Steel Glow */
+  box-shadow: 
+    -6px 0 18px -2px rgba(148, 163, 184, 0.35),
+    inset 10px 0 20px -8px rgba(148, 163, 184, 0.2);
+  
+  line-height: 1.7;
+  font-style: italic;
+  position: relative;
+  text-align: left;
+}
 
+/* Glowing Open Quote Marker */
+.orv_quote.theme6::after {
+  content: "“";
+  position: absolute;
+  top: -0.15em;
+  left: 0.3em;
+  color: #cbd5e1;
+  font-family: Georgia, serif;
+  font-size: 3.2em;
+  line-height: 1;
+  pointer-events: none;
+  text-shadow: 0 0 12px rgba(203, 213, 225, 0.6);
+}
 
+/* Quote Text Styling */
+.orv_quote.theme6 p {
+  margin: 0;
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 6px rgba(226, 232, 240, 0.25);
+}
+/* ========================================================= NOTICE / NARRATION ========================================================= */
+/* Notice: Subtle atmospheric narration block with cyan accent line and info icon */
+.orv_notice.theme6 {
+  width: min(720px, 92%);
+  margin: 2em auto;
+  padding: 0.8em 1.2em 0.8em 1.5em;
+  color: #94a3b8;
+  
+  /* Deep Atmospheric Charcoal Background */
+  background: 
+    radial-gradient(ellipse at 0% 50%, rgba(56, 189, 248, 0.12) 0%, rgba(15, 23, 42, 0.5) 60%, transparent 100%),
+    linear-gradient(90deg, rgba(15, 23, 42, 0.85) 0%, rgba(10, 15, 26, 0.75) 100%);
+  
+  /* Accent Border & Frame */
+  border: 1px solid rgba(148, 163, 184, 0.2);
+  border-left: 3px solid #38bdf8; /* Soft Cyan Accent */
+  border-radius: 4px;
+  
+  box-shadow: 
+    -4px 0 12px -2px rgba(56, 189, 248, 0.25),
+    inset 6px 0 12px -6px rgba(56, 189, 248, 0.15);
+  
+  font-size: 0.9em;
+  letter-spacing: 0.025em;
+  text-align: left;
+  position: relative;
+}
 
+/* Notice Icon Marker */
+.orv_notice.theme6 p::before {
+  content: "ⓘ ";
+  color: #38bdf8;
+  font-weight: bold;
+  margin-right: 0.3em;
+  text-shadow: 0 0 6px rgba(56, 189, 248, 0.6);
+}
 
+.orv_notice.theme6 p {
+  margin: 0;
+  font-style: italic;
+  text-shadow: 0 0 4px rgba(148, 163, 184, 0.2);
+}
+
+/* ========================================================= GENERIC BOX ========================================================= */
+/* Generic Box: ORV system container with blue header bar and grid rows */
+.orv_box.theme6 {
+  width: min(720px, 92%);
+  margin: 2.5em auto;
+  padding: 0;
+  color: #e0f2fe;
+  
+  /* Glowing Dark Blue Gradient Background */
+  background: 
+    radial-gradient(ellipse at 50% 30%, rgba(30, 144, 255, 0.12) 0%, rgba(10, 25, 47, 0.6) 70%),
+    linear-gradient(180deg, #091322 0%, #050a14 50%, #02050a 100%);
+  
+  border: 1px solid #3b82f6;
+  border-radius: 2px;
+  
+  box-shadow: 
+    0 0 18px rgba(59, 130, 246, 0.25),
+    inset 0 0 18px rgba(59, 130, 246, 0.1);
+  
+  position: relative;
+  overflow: hidden;
+}
+
+/* Box Header Bar */
+.orv_box.theme6::before {
+  content: "SYSTEM";
+  display: block;
+  padding: 0.65em 1em;
+  color: #ffffff;
+  background: linear-gradient(180deg, rgba(30, 58, 138, 0.6) 0%, rgba(15, 23, 42, 0.8) 100%);
+  border-bottom: 1px solid #3b82f6;
+  font-size: 0.85em;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-align: center;
+  text-shadow: 0 0 8px rgba(96, 165, 250, 0.8);
+}
+
+/* Box Contents Lines */
+.orv_box.theme6 p {
+  margin: 0;
+  padding: 0.75em 1.25em;
+  border-bottom: 1px solid rgba(59, 130, 246, 0.2);
+  letter-spacing: 0.02em;
+  text-shadow: 0 0 4px rgba(59, 130, 246, 0.3);
+}
+
+.orv_box.theme6 p:last-child {
+  border-bottom: none;
+}
+/* ========================================================= BOLD TEXT ========================================================= */
+/* [Diverse Communication] etc. */
+ .orv_line strong {
+     font-weight: 700;
+     color: inherit;
+}
+/* ========================================================= MOBILE ========================================================= */
+ @media (max-width: 600px) {
+     .orv_system.theme6, .orv_window.theme6, .orv_constellation.theme6, .orv_outergod.theme6, .orv_quote.theme6, .orv_notice.theme6, .orv_box.theme6 {
+         width: 94%;
+    }
+     .orv_system.theme6 {
+         padding: 0.5em 0.5em;
+    }
+     .orv_window.theme6 .orv_window_title {
+         padding: 0.7em 0.8em;
+    }
+     .orv_window.theme6 p {
+         padding: 0.6em 0.8em;
+    }
+     .orv_constellation.theme6, .orv_outergod.theme6 {
+         padding: 0.5em;
+    }
+     .orv_quote.theme6 {
+         padding: 0.5em 0.5em 0.5em 1em;
+    }
+     .orv_quote.theme6::after {
+         left: -0.1em;
+         font-size: 2.5em;
+    }
+     .orv_notice.theme6 {
+         padding: 0.1em 0.1em;
+    }
+}
 /* this if for the normal text */
-.orv_line {
-    margin-right: auto;
-    margin-top: var(--paragraph-space);
+ .orv_line {
+     margin-right: auto;
+     margin-top: var(--paragraph-space);
 }
-
-hr {
-    margin-top: var(--line-space);
+ hr {
+     margin-top: var(--line-space);
 }
+ 
