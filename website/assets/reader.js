@@ -93,11 +93,6 @@ function migrateLocalStorage() {
 migrateLocalStorage();
 
 function changeGiscusTheme(theme) {
-    // const scriptId = 'giscus-script';
-    // const existingScript = document.getElementById(scriptId);
-    // let theme = window.theme;
-
-
     if (theme === "dark") {
         theme = "dark";
     } else if (theme === "light") {
@@ -138,66 +133,34 @@ function changeGiscusTheme(theme) {
         }
     });
 
-    // if (existingScript) {
-    //     existingScript.remove();
-    //     console.log('Giscus script removed.');
-    // }
-
-    // document.getElementById("comments").innerHTML = ""
-
-    // const script = document.createElement('script');
-    // script.id = scriptId;
-    // script.src = 'https://giscus.app/client.js';
-    // script.setAttribute('data-repo', 'Bittu5134/ORV-Reader');
-    // script.setAttribute('data-repo-id', 'R_kgDOOHNFOQ');
-    // script.setAttribute('data-category', 'General');
-    // script.setAttribute('data-category-id', 'DIC_kwDOOHNFOc4CoREL');
-    // script.setAttribute('data-mapping', 'title');
-    // script.setAttribute('data-strict', '1');
-    // script.setAttribute('data-reactions-enabled', '1');
-    // script.setAttribute('data-emit-metadata', '0');
-    // script.setAttribute('data-input-position', 'top');
-    // script.setAttribute('data-theme', theme);
-    // script.setAttribute('data-lang', 'en');
-    // script.setAttribute('crossorigin', 'anonymous');
-    // script.async = true;
-
-    // document.body.appendChild(script);
-    console.log('Giscus script added.');
-
+    console.log('Giscus theme updated.');
 }
 
-
 setInterval(() => {
-    changeGiscusTheme(window.theme)
-}, 2000)
+    changeGiscusTheme(window.theme);
+}, 2000);
 
-
-setTimeout(() => {
+function updateLastReadState() {
     const scriptElement = document.getElementById('main-script');
+    if (!scriptElement) return;
     let index = scriptElement.dataset.index;
     let type = scriptElement.dataset.type;
     let state = getReaderState();
     state.lastread = String(index);
     state.lasttype = String(type);
     saveReaderState(state);
-}, 10000);
-
-function classChangeTheme(elementClass, elemetTheme) {
-    let element = document.getElementsByClassName(elementClass)
-
-    Array.from(element).forEach(item => {
-        item.classList.remove("theme1")
-        item.classList.remove("theme2")
-        item.classList.remove("theme3")
-        item.classList.remove("theme4")
-        item.classList.remove("theme5")
-        item.classList.remove("theme6")
-        item.classList.add(elemetTheme)
-    });
 }
 
+setTimeout(updateLastReadState, 10000);
 
+function classChangeTheme(elementClass, elemetTheme) {
+    let element = document.getElementsByClassName(elementClass);
+
+    Array.from(element).forEach(item => {
+        item.classList.remove("theme1", "theme2", "theme3", "theme4", "theme5", "theme6");
+        item.classList.add(elemetTheme);
+    });
+}
 
 function loadSettingsFromLocalStorage() {
     try {
@@ -207,52 +170,61 @@ function loadSettingsFromLocalStorage() {
         if (!settings) return null;
 
         if (settings.theme) {
-            document.getElementById('set-theme').value = settings.theme;
+            const el = document.getElementById('set-theme');
+            if (el) el.value = settings.theme;
         }
         if (settings.font) {
-            document.getElementById('set-font').value = settings.font;
+            const el = document.getElementById('set-font');
+            if (el) el.value = settings.font;
         }
         if (settings.fontSize) {
             if (settings.fontSize == 52) { settings.fontSize = 51; }
-            document.getElementById('set-font-size').value = settings.fontSize;
+            const el = document.getElementById('set-font-size');
+            if (el) el.value = settings.fontSize;
         }
         if (settings.fontWeight) {
-            document.getElementById('set-font-weight').value = settings.fontWeight;
+            const el = document.getElementById('set-font-weight');
+            if (el) el.value = settings.fontWeight;
         }
         if (settings.lineHeight) {
-            if (settings.lineHeight == 32) { settings.lineHeight = 49; } // legacy code
-            document.getElementById('set-line-height').value = settings.lineHeight;
+            if (settings.lineHeight == 32) { settings.lineHeight = 49; }
+            const el = document.getElementById('set-line-height');
+            if (el) el.value = settings.lineHeight;
         }
         if (settings.richTextToggle !== undefined) {
-            document.getElementById('set-rich-text-toggle').checked = settings.richTextToggle;
+            const el = document.getElementById('set-rich-text-toggle');
+            if (el) el.checked = settings.richTextToggle;
         }
         if (settings.systemMsgStyle) {
-            document.getElementById('set-rich-system-msg').value = settings.systemMsgStyle;
+            const el = document.getElementById('set-rich-system-msg');
+            if (el) el.value = settings.systemMsgStyle;
         }
         if (settings.systemWindowStyle) {
-            document.getElementById('set-rich-system-window').value = settings.systemWindowStyle;
+            const el = document.getElementById('set-rich-system-window');
+            if (el) el.value = settings.systemWindowStyle;
         }
         if (settings.constSpeechStyle) {
-            document.getElementById('set-rich-const').value = settings.constSpeechStyle;
+            const el = document.getElementById('set-rich-const');
+            if (el) el.value = settings.constSpeechStyle;
         }
         if (settings.outerSpeechStyle) {
-            document.getElementById('set-rich-outer').value = settings.outerSpeechStyle;
+            const el = document.getElementById('set-rich-outer');
+            if (el) el.value = settings.outerSpeechStyle;
         }
         if (settings.quoteStyle) {
-            document.getElementById('set-rich-quote').value = settings.quoteStyle;
+            const el = document.getElementById('set-rich-quote');
+            if (el) el.value = settings.quoteStyle;
         }
         if (settings.noticeStyle) {
-            document.getElementById('set-rich-notice').value = settings.noticeStyle;
+            const el = document.getElementById('set-rich-notice');
+            if (el) el.value = settings.noticeStyle;
         }
         if (settings.genericBoxStyle) {
-            document.getElementById('set-rich-box').value = settings.genericBoxStyle;
+            const el = document.getElementById('set-rich-box');
+            if (el) el.value = settings.genericBoxStyle;
         }
 
-
-
-        // Return the settings object if needed.
         return settings;
-
     } catch (error) {
         console.error('Error loading settings from local storage:', error);
         return {};
@@ -261,45 +233,40 @@ function loadSettingsFromLocalStorage() {
 
 loadSettingsFromLocalStorage();
 
-
-window.theme = "dark"
+window.theme = "dark";
 
 document.addEventListener('DOMContentLoaded', function () {
-
-
-
-    // this is for settings
     const settingsForm = document.getElementById('settings-form');
 
     function applySettings() {
         let root = document.documentElement;
-        let theme = document.getElementById('set-theme').value;
-        let font = document.getElementById('set-font').value;
-        let fontSize = document.getElementById('set-font-size').value;
-        let fontWeight = document.getElementById('set-font-weight').value;
-        let lineHeight = document.getElementById('set-line-height').value;
-        let richTextToggle = document.getElementById('set-rich-text-toggle').checked;
-        let systemMsgStyle = document.getElementById('set-rich-system-msg').value;
-        let systemWindowStyle = document.getElementById('set-rich-system-window').value;
-        let constSpeechStyle = document.getElementById('set-rich-const').value;
-        let outerSpeechStyle = document.getElementById('set-rich-outer').value;
-        let quoteStyle = document.getElementById('set-rich-quote').value;
-        let noticeStyle = document.getElementById('set-rich-notice').value;
-        let genericBoxStyle = document.getElementById('set-rich-box').value;
+        let themeEl = document.getElementById('set-theme');
+        let theme = themeEl ? themeEl.value : "dark";
+        let font = document.getElementById('set-font')?.value || "sans-serif";
+        let fontSize = document.getElementById('set-font-size')?.value || 50;
+        let fontWeight = document.getElementById('set-font-weight')?.value || 400;
+        let lineHeight = document.getElementById('set-line-height')?.value || 50;
+        let richTextToggle = document.getElementById('set-rich-text-toggle')?.checked ?? true;
+        
+        let systemMsgStyle = document.getElementById('set-rich-system-msg')?.value || "theme1";
+        let systemWindowStyle = document.getElementById('set-rich-system-window')?.value || "theme1";
+        let constSpeechStyle = document.getElementById('set-rich-const')?.value || "theme1";
+        let outerSpeechStyle = document.getElementById('set-rich-outer')?.value || "theme1";
+        let quoteStyle = document.getElementById('set-rich-quote')?.value || "theme1";
+        let noticeStyle = document.getElementById('set-rich-notice')?.value || "theme1";
+        let genericBoxStyle = document.getElementById('set-rich-box')?.value || "theme1";
 
         if (fontSize < 30) { fontSize = 30; }
         if (fontSize > 100) { fontSize = 100; }
-        fontSize = fontSize / 3;
-        fontSize = fontSize + "px";
+        fontSize = (fontSize / 3) + "px";
 
         if (lineHeight > 100) { lineHeight = 100; }
         if (lineHeight < 1) { lineHeight = 1; }
-        lineHeight = lineHeight / 30.625
-        root.style.setProperty('--line-space', lineHeight + "rem")
+        lineHeight = lineHeight / 30.625;
+        root.style.setProperty('--line-space', lineHeight + "rem");
 
         window.theme = theme;
-
-        changeGiscusTheme(theme)
+        changeGiscusTheme(theme);
 
         if (theme === "dark") {
             root.style.setProperty("--body-background", "#14151b");
@@ -308,7 +275,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#b6bccc");
             root.style.setProperty("--text-secondary", "#c6cee2");
             root.style.setProperty("--icons-color", "");
-
         } else if (theme === "light") {
             root.style.setProperty("--body-background", "#ffffff");
             root.style.setProperty("--primary", "#f0f0f0");
@@ -316,16 +282,13 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#000000");
             root.style.setProperty("--text-secondary", "#333333");
             root.style.setProperty("--icons-color", "brightness(40%)");
-
         } else if (theme === "sepia") {
             root.style.setProperty("--body-background", "#cab793");
             root.style.setProperty("--primary", "#f5deb3");
             root.style.setProperty("--nav", "#ac9b7c");
             root.style.setProperty("--text-primary", "#000000");
             root.style.setProperty("--text-secondary", "#000000");
-            root.style.setProperty("--icons-color", "");
             root.style.setProperty("--icons-color", "brightness(40%)");
-
         } else if (theme === "pastel") {
             root.style.setProperty("--body-background", "#f9f5f6");
             root.style.setProperty("--primary", "#f0e6ef");
@@ -340,7 +303,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#c0c8d0");
             root.style.setProperty("--text-secondary", "#a8b0b8");
             root.style.setProperty("--icons-color", "brightness(100)");
-
         } else if (theme === "forest") {
             root.style.setProperty("--body-background", "#e8f5e9");
             root.style.setProperty("--primary", "#c8e6c9");
@@ -348,7 +310,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#2e7d32");
             root.style.setProperty("--text-secondary", "#388e3c");
             root.style.setProperty("--icons-color", "brightness(40%)");
-
         } else if (theme === "paper") {
             root.style.setProperty("--body-background", "#f8f5f0");
             root.style.setProperty("--primary", "#f5f0e8");
@@ -356,7 +317,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#333333");
             root.style.setProperty("--text-secondary", "#444444");
             root.style.setProperty("--icons-color", "brightness(40%)");
-
         } else if (theme === "lavender") {
             root.style.setProperty("--body-background", "#f3efff");
             root.style.setProperty("--primary", "#ede7f6");
@@ -364,7 +324,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#4527a0");
             root.style.setProperty("--text-secondary", "#512da8");
             root.style.setProperty("--icons-color", "brightness(40%)");
-
         } else if (theme === "dark-sepia") {
             root.style.setProperty("--body-background", "#2a241e");
             root.style.setProperty("--primary", "#322c26");
@@ -372,7 +331,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#d2c8bc");
             root.style.setProperty("--text-secondary", "#c0b6aa");
             root.style.setProperty("--icons-color", "brightness(100%)");
-
         } else if (theme === "dark-pastel") {
             root.style.setProperty("--body-background", "#1e1b1e");
             root.style.setProperty("--primary", "#28252a");
@@ -380,7 +338,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#d1c2d3");
             root.style.setProperty("--text-secondary", "#b9a9bc");
             root.style.setProperty("--icons-color", "brightness(100%)");
-
         } else if (theme === "dark-forest") {
             root.style.setProperty("--body-background", "#121813");
             root.style.setProperty("--primary", "#1a221b");
@@ -388,7 +345,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#b8d2b9");
             root.style.setProperty("--text-secondary", "#a6c0a7");
             root.style.setProperty("--icons-color", "brightness(100%)");
-
         } else if (theme === "dark-paper") {
             root.style.setProperty("--body-background", "#1c1b1a");
             root.style.setProperty("--primary", "#242322");
@@ -396,7 +352,6 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#d4d3d2");
             root.style.setProperty("--text-secondary", "#c2c1c0");
             root.style.setProperty("--icons-color", "brightness(100%)");
-
         } else if (theme === "dark-lavender") {
             root.style.setProperty("--body-background", "#1c1920");
             root.style.setProperty("--primary", "#24202a");
@@ -404,126 +359,121 @@ document.addEventListener('DOMContentLoaded', function () {
             root.style.setProperty("--text-primary", "#d2c9e0");
             root.style.setProperty("--text-secondary", "#c0b7d0");
             root.style.setProperty("--icons-color", "brightness(100%)");
-
         }
 
-
         document.body.className = theme;
-
         root.style.setProperty('--default-font', font);
         document.body.style.fontSize = fontSize;
-        document.body.style.fontWeight = fontWeight
+        document.body.style.fontWeight = fontWeight;
 
         const settings = {
-            theme: document.getElementById('set-theme').value,
-            font: document.getElementById('set-font').value,
-            fontSize: document.getElementById('set-font-size').value,
-            fontWeight: document.getElementById('set-font-weight').value,
-            lineHeight: document.getElementById('set-line-height').value,
-            richTextToggle: document.getElementById('set-rich-text-toggle').checked,
-            systemMsgStyle: document.getElementById('set-rich-system-msg').value,
-            systemWindowStyle: document.getElementById('set-rich-system-window').value,
-            constSpeechStyle: document.getElementById('set-rich-const').value,
-            outerSpeechStyle: document.getElementById('set-rich-outer').value,
-            quoteStyle: document.getElementById('set-rich-quote').value,
-            noticeStyle: document.getElementById('set-rich-notice').value,
-            genericBoxStyle: document.getElementById('set-rich-box').value,
+            theme,
+            font,
+            fontSize: document.getElementById('set-font-size')?.value,
+            fontWeight,
+            lineHeight: document.getElementById('set-line-height')?.value,
+            richTextToggle,
+            systemMsgStyle,
+            systemWindowStyle,
+            constSpeechStyle,
+            outerSpeechStyle,
+            quoteStyle,
+            noticeStyle,
+            genericBoxStyle,
         };
-
-
 
         try {
             let state = getReaderState();
             state.settings = settings;
             saveReaderState(state);
-            console.log('Settings saved to local storage.');
         } catch (error) {
             console.error('Error saving settings to local storage:', error);
         }
 
-
+        const richMsg = document.getElementById('set-rich-system-msg');
+        const richWin = document.getElementById('set-rich-system-window');
+        const richConst = document.getElementById('set-rich-const');
+        const richOuter = document.getElementById('set-rich-outer');
+        const richQuote = document.getElementById('set-rich-quote');
+        const richNotice = document.getElementById('set-rich-notice');
+        const richBox = document.getElementById('set-rich-box');
 
         if (richTextToggle) {
-            document.getElementById('set-rich-system-msg').disabled = false;
-            document.getElementById('set-rich-system-window').disabled = false;
-            document.getElementById('set-rich-const').disabled = false;
-            document.getElementById('set-rich-outer').disabled = false;
-            document.getElementById('set-rich-quote').disabled = false;
-            document.getElementById('set-rich-notice').disabled = false;
-            document.getElementById('set-rich-box').disabled = false;
-
+            if (richMsg) richMsg.disabled = false;
+            if (richWin) richWin.disabled = false;
+            if (richConst) richConst.disabled = false;
+            if (richOuter) richOuter.disabled = false;
+            if (richQuote) richQuote.disabled = false;
+            if (richNotice) richNotice.disabled = false;
+            if (richBox) richBox.disabled = false;
         } else {
-            document.getElementById('set-rich-system-msg').disabled = true;
-            document.getElementById('set-rich-system-window').disabled = true;
-            document.getElementById('set-rich-const').disabled = true;
-            document.getElementById('set-rich-outer').disabled = true;
-            document.getElementById('set-rich-quote').disabled = true;
-            document.getElementById('set-rich-notice').disabled = true;
-            document.getElementById('set-rich-box').disabled = true;
+            if (richMsg) richMsg.disabled = true;
+            if (richWin) richWin.disabled = true;
+            if (richConst) richConst.disabled = true;
+            if (richOuter) richOuter.disabled = true;
+            if (richQuote) richQuote.disabled = true;
+            if (richNotice) richNotice.disabled = true;
+            if (richBox) richBox.disabled = true;
 
-            richTextToggle = "theme1"
-            systemMsgStyle = "theme1"
-            systemWindowStyle = "theme1"
-            constSpeechStyle = "theme1"
-            outerSpeechStyle = "theme1"
-            quoteStyle = "theme1"
-            noticeStyle = "theme1"
-            genericBoxStyle = "theme1"
-
-            console.log("Rich text features disabled");
+            systemMsgStyle = "theme1";
+            systemWindowStyle = "theme1";
+            constSpeechStyle = "theme1";
+            outerSpeechStyle = "theme1";
+            quoteStyle = "theme1";
+            noticeStyle = "theme1";
+            genericBoxStyle = "theme1";
         }
 
-        classChangeTheme("orv_system", systemMsgStyle)
-        classChangeTheme("orv_window", systemWindowStyle)
-        classChangeTheme("orv_constellation", constSpeechStyle)
-        classChangeTheme("orv_outergod", outerSpeechStyle)
-        classChangeTheme("orv_quote", quoteStyle)
-        classChangeTheme("orv_notice", noticeStyle)
-        classChangeTheme("orv_box", genericBoxStyle)
+        classChangeTheme("orv_system", systemMsgStyle);
+        classChangeTheme("orv_window", systemWindowStyle);
+        classChangeTheme("orv_constellation", constSpeechStyle);
+        classChangeTheme("orv_outergod", outerSpeechStyle);
+        classChangeTheme("orv_quote", quoteStyle);
+        classChangeTheme("orv_notice", noticeStyle);
+        classChangeTheme("orv_box", genericBoxStyle);
     }
 
     applySettings();
     window.applySettings = applySettings;
 
-
-    settingsForm.addEventListener('change', function (event) {
-        applySettings();
-    });
-
-    document.getElementById('set-font-size').addEventListener('input', function (event) {
-        applySettings();
-    });
-    document.getElementById('set-font-weight').addEventListener('input', function (event) {
-        applySettings();
-    });
-    document.getElementById('set-line-height').addEventListener('input', function (event) {
-        applySettings();
-    });
-
-    settingsForm.addEventListener('reset', function (event) {
-        setTimeout(applySettings, 0);
-    });
-
-    const scriptElement = document.getElementById('main-script');
-    if (!scriptElement) {
-        console.error("Element #main-script not found.");
-        return;
+    if (settingsForm) {
+        settingsForm.addEventListener('change', applySettings);
+        settingsForm.addEventListener('reset', () => setTimeout(applySettings, 0));
     }
-    const index = scriptElement.dataset.index;
-    const type = scriptElement.dataset.type;
-    const scrollKey = `scrollY_${type}_${index}`;
 
-    try {
-        let state = getReaderState();
-        const savedScroll = state.scroll_positions ? state.scroll_positions[scrollKey] : undefined;
-        if (savedScroll !== undefined && savedScroll !== null) {
-            window.scrollTo(0, parseInt(savedScroll, 10));
+    document.getElementById('set-font-size')?.addEventListener('input', applySettings);
+    document.getElementById('set-font-weight')?.addEventListener('input', applySettings);
+    document.getElementById('set-line-height')?.addEventListener('input', applySettings);
+
+    function restoreScroll() {
+        const scriptElement = document.getElementById('main-script');
+        if (!scriptElement) return;
+        const index = scriptElement.dataset.index;
+        const type = scriptElement.dataset.type;
+        const scrollKey = `scrollY_${type}_${index}`;
+
+        try {
+            let state = getReaderState();
+            const savedScroll = state.scroll_positions ? state.scroll_positions[scrollKey] : undefined;
+            if (savedScroll !== undefined && savedScroll !== null) {
+                window.scrollTo(0, parseInt(savedScroll, 10));
+            } else {
+                window.scrollTo(0, 0);
+            }
+        } catch (e) {
+            console.error('Error restoring scroll:', e);
         }
-    } catch (e) {
-        console.error('Error restoring scroll:', e);
     }
+
+    restoreScroll();
 
     function saveScrollPosition() {
+        const scriptElement = document.getElementById('main-script');
+        if (!scriptElement) return;
+        const index = scriptElement.dataset.index;
+        const type = scriptElement.dataset.type;
+        const scrollKey = `scrollY_${type}_${index}`;
+
         try {
             let state = getReaderState();
             if (!state.scroll_positions) state.scroll_positions = {};
@@ -531,11 +481,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
             state.scroll_positions[scrollKey] = window.scrollY;
 
-            const scrollHistoryType = type; // e.g. 'orv'
-            let history = state.scroll_history[scrollHistoryType] || [];
-
+            let history = state.scroll_history[type] || [];
             history = history.filter(key => key !== scrollKey);
-
             history.unshift(scrollKey);
 
             const MAX_HISTORY_SIZE = 5;
@@ -544,7 +491,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 delete state.scroll_positions[oldestKey];
             }
 
-            state.scroll_history[scrollHistoryType] = history;
+            state.scroll_history[type] = history;
             saveReaderState(state);
         } catch (e) {
             console.error('Error saving scroll:', e);
@@ -565,18 +512,83 @@ document.addEventListener('DOMContentLoaded', function () {
 
     window.addEventListener('scroll', debounce(saveScrollPosition, 500));
     window.addEventListener('beforeunload', saveScrollPosition);
+
+    // ==========================================
+    // DYNAMIC CHAPTER NAVIGATION (SPA ROUTER)
+    // ==========================================
+    async function loadChapter(url) {
+        try {
+            saveScrollPosition(); // Save position for current chapter before navigating
+
+            const response = await fetch(url);
+            if (!response.ok) throw new Error('Failed to fetch chapter');
+            const html = await response.text();
+
+            const parser = new DOMParser();
+            const newDoc = parser.parseFromString(html, 'text/html');
+
+            // 1. Swap main content
+            const oldMain = document.querySelector('.orv_main');
+            const newMain = newDoc.querySelector('.orv_main');
+            if (oldMain && newMain) oldMain.innerHTML = newMain.innerHTML;
+
+            // 2. Swap chapter change navigation links
+            const oldChangeCh = document.querySelector('.change-ch');
+            const newChangeCh = newDoc.querySelector('.change-ch');
+            if (oldChangeCh && newChangeCh) oldChangeCh.innerHTML = newChangeCh.innerHTML;
+
+            // 3. Update dataset on script tag
+            const oldScript = document.getElementById('main-script');
+            const newScript = newDoc.getElementById('main-script');
+            if (oldScript && newScript) {
+                oldScript.dataset.index = newScript.dataset.index;
+                oldScript.dataset.type = newScript.dataset.type;
+                oldScript.dataset.titles = newScript.dataset.titles;
+            }
+
+            // 4. Update Document Metadata & URL History
+            document.title = newDoc.title;
+            history.pushState(null, '', url);
+
+            // 5. Re-apply Settings & Restore Scroll / State
+            applySettings();
+            restoreScroll();
+            updateLastReadState();
+
+            // 6. Close Modal Menu if Open
+            const modal = document.getElementById('chapters');
+            if (modal) modal.style.display = 'none';
+
+        } catch (err) {
+            console.error('Error swapping chapter dynamically:', err);
+            window.location.href = url; // Fallback to traditional reload on failure
+        }
+    }
+
+    // Intercept clicks on links matching chapter transitions
+    document.addEventListener('click', (e) => {
+        const link = e.target.closest('a');
+        if (!link) return;
+
+        const href = link.getAttribute('href');
+        if (href && (href.includes('./ch_') || href.includes('/ch_') || link.closest('.change-ch'))) {
+            e.preventDefault();
+            loadChapter(link.href);
+        }
+    });
+
+    // Handle Browser Back / Forward buttons
+    window.addEventListener('popstate', () => {
+        loadChapter(window.location.href);
+    });
 });
-
-
 
 let chFetchStatus = false;
 const ChapterList = [];
 
 function addAllChapters() {
-
-    // load data tags
-
     const scriptElement = document.getElementById('main-script');
+    if (!scriptElement) return;
     let titles_url = scriptElement.dataset.titles;
 
     if (!chFetchStatus) {
@@ -591,14 +603,16 @@ function addAllChapters() {
                 ChapterList.push(...data);
                 console.log("Chapters loaded:", ChapterList);
                 chFetchStatus = true;
-
             })
             .catch(error => {
                 console.error('There was a problem with the fetch operation:', error);
             })
             .then(() => {
                 let chapterSearch = document.getElementById("chapter-search-reasult");
-                let chapterTitle = document.getElementsByClassName("orv_title")[0].textContent.trim();
+                let titleEl = document.getElementsByClassName("orv_title")[0];
+                if (!chapterSearch || !titleEl) return;
+
+                let chapterTitle = titleEl.textContent.trim();
                 let chapterID = "";
                 let chSearchresult = [];
 
@@ -607,39 +621,39 @@ function addAllChapters() {
                         chapterID = "current-chapter";
                         chapter.index = "";
                     }
-                    // chSearchresult.push(`<div class="chapter_item" id="${chapterID}"><p><a href="#${chapter.index}">${chapter.title}</a></p></div>`);
                     chSearchresult.push(`<div class="chapter_item" id="${chapterID}"><a href="./ch_${chapter.index + 1}"><p>${chapter.title}</p></a></div>`);
                     chapterID = "";
                 });
 
                 chapterSearch.innerHTML = chSearchresult.join("");
-                document.getElementById("current-chapter").scrollIntoView({ behavior: "smooth", block: "center" });
+                const currentCh = document.getElementById("current-chapter");
+                if (currentCh) currentCh.scrollIntoView({ behavior: "smooth", block: "center" });
             });
     }
 }
 
 function openChapters() {
-    addAllChapters()
-    document.getElementById('chapters').style.display = 'block'
+    addAllChapters();
+    const chaptersModal = document.getElementById('chapters');
+    if (chaptersModal) chaptersModal.style.display = 'block';
 }
-
-
 
 function findChapter() {
     let chapter = document.getElementById("find-chapter").value.trim();
-    let chapterSearch = document.getElementById("chapter-search-reasult")
-    chapterSearch.innerHTML = ""
-    let chSearchresult = []
+    let chapterSearch = document.getElementById("chapter-search-reasult");
+    if (!chapterSearch) return;
+
+    chapterSearch.innerHTML = "";
+    let chSearchresult = [];
 
     for (let i = 0; i < ChapterList.length; i++) {
-        let displayTitle = String(ChapterList[i].title)
+        let displayTitle = String(ChapterList[i].title);
         let title = displayTitle.toLowerCase();
         let chSearchindex = title.indexOf(chapter.toLowerCase());
         let index = ChapterList[i].index;
         if (chSearchindex !== -1) {
             chSearchresult.push(`<div class="chapter_item"><a href="./ch_${index + 1}"><p>${displayTitle}</p></a></div>`);
         }
-
     }
     chapterSearch.innerHTML = chSearchresult.join("");
 
@@ -648,416 +662,37 @@ function findChapter() {
     }
 }
 
-
-
 let wakeLock = null;
 
 async function requestWakeLock() {
-  try {
-    wakeLock = await navigator.wakeLock.request('screen');
-    console.log('Wake Lock is active!');
+    try {
+        wakeLock = await navigator.wakeLock.request('screen');
+        console.log('Wake Lock is active!');
 
-    wakeLock.addEventListener('release', () => {
-      console.log('Wake Lock was released.');
-      wakeLock = null;
-    });
-  } catch (err) {
-    console.error(`Failed to acquire wake lock: ${err}`);
-  }
+        wakeLock.addEventListener('release', () => {
+            console.log('Wake Lock was released.');
+            wakeLock = null;
+        });
+    } catch (err) {
+        console.error(`Failed to acquire wake lock: ${err}`);
+    }
 }
 
 async function releaseWakeLock() {
-  if (wakeLock) {
-    await wakeLock.release();
-    wakeLock = null;
-    console.log('Wake Lock released.');
-  }
+    if (wakeLock) {
+        await wakeLock.release();
+        wakeLock = null;
+        console.log('Wake Lock released.');
+    }
 }
 
-// Request wake lock when the page loads
 window.addEventListener('load', requestWakeLock);
 
-// Request wake lock when the page is navigated back to
 document.addEventListener('visibilitychange', () => {
-  if (document.visibilityState === 'visible') {
-    requestWakeLock()
-  }
+    if (document.visibilityState === 'visible') {
+        requestWakeLock();
+    }
 });
 
-// Release wake lock when the page is unloaded (navigated away from or closed)
 window.addEventListener('beforeunload', releaseWakeLock);
-
-// Optional: Release wake lock on history navigation
 window.addEventListener('popstate', releaseWakeLock);
-
-// Giscus comments support: Show Discussion button, Help banner injection and viewer status listener
-(function() {
-    const commentsDiv = document.getElementById('comments');
-    if (!commentsDiv) return;
-
-    const injectHelpBanner = () => {
-        // Check if banner already exists to prevent duplicate insertion
-        if (document.getElementById('giscus-help-banner')) return;
-
-        const discussionId = commentsDiv.getAttribute('data-term');
-
-        const githubDiscussionUrl = (discussionId && !isNaN(discussionId))
-            ? `https://github.com/Bittu5134/ORV-Reader/discussions/${discussionId}`
-            : 'https://github.com/Bittu5134/ORV-Reader/discussions';
-
-        const authUrl = 'https://giscus.app/api/oauth/authorize?redirect_uri=' + encodeURIComponent(window.location.href) + '#comments';
-
-        const banner = document.createElement('div');
-        banner.id = 'giscus-help-banner';
-        banner.className = 'theme1'; // matches site styles
-        banner.style.margin = '2vh auto';
-        banner.style.padding = '15px 20px';
-        banner.style.backgroundColor = 'var(--primary)';
-        banner.style.border = '1px solid #ff5e1f';
-        banner.style.borderRadius = '8px';
-        banner.style.textAlign = 'center';
-        banner.style.maxWidth = '800px';
-        banner.style.color = 'var(--text-primary)';
-        banner.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.05)';
-        banner.style.fontFamily = 'sans-serif';
-
-        // Hide banner initially if user is logged in
-        const state = getReaderState();
-        if (state.login) {
-            banner.style.display = 'none';
-        }
-
-        banner.innerHTML = `
-            <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 1.5;">
-                💬 If comments are having trouble loading, you can try logging in or opening the discussion page directly:
-            </p>
-            <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-                <a href="${authUrl}" style="display: inline-block; padding: 8px 18px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; transition: opacity 0.3s; cursor: pointer;">
-                    Log In to view comments
-                </a>
-                <a href="${githubDiscussionUrl}" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 18px; background-color: #333; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; transition: opacity 0.3s; cursor: pointer; border: 1px solid #555;">
-                    Open Discussion Page
-                </a>
-            </div>
-        `;
-
-        commentsDiv.parentNode.insertBefore(banner, commentsDiv.nextSibling);
-    };
-
-    const loadGiscusScript = () => {
-        if (document.getElementById('giscus-script')) return;
-
-        let theme = window.theme || 'dark';
-        if (theme === "dark") {
-            theme = "dark";
-        } else if (theme === "light") {
-            theme = "light";
-        } else if (theme === "sepia") {
-            theme = "gruvbox_light";
-        } else if (theme === "pastel") {
-            theme = "light";
-        } else if (theme === "midnight") {
-            theme = "transparent_dark";
-        } else if (theme === "forest") {
-            theme = "light";
-        } else if (theme === "paper") {
-            theme = "light";
-        } else if (theme === "lavender") {
-            theme = "catppuccin_latte";
-        } else if (theme === "dark-sepia") {
-            theme = "gruvbox_dark";
-        } else if (theme === "dark-pastel") {
-            theme = "catppuccin_frappe";
-        } else if (theme === "dark-forest") {
-            theme = "transparent_dark";
-        } else if (theme === "dark-paper") {
-            theme = "transparent_dark";
-        } else if (theme === "dark-lavender") {
-            theme = "catppuccin_mocha";
-        }
-
-        const script = document.createElement('script');
-        script.id = 'giscus-script';
-        script.src = 'https://giscus.app/client.js';
-        script.setAttribute('data-repo', commentsDiv.getAttribute('data-repo'));
-        script.setAttribute('data-repo-id', commentsDiv.getAttribute('data-repo-id'));
-        script.setAttribute('data-category', commentsDiv.getAttribute('data-category'));
-        script.setAttribute('data-category-id', commentsDiv.getAttribute('data-category-id'));
-        script.setAttribute('data-mapping', commentsDiv.getAttribute('data-mapping'));
-        script.setAttribute('data-term', commentsDiv.getAttribute('data-term'));
-        script.setAttribute('data-reactions-enabled', commentsDiv.getAttribute('data-reactions-enabled'));
-        script.setAttribute('data-emit-metadata', commentsDiv.getAttribute('data-emit-metadata'));
-        script.setAttribute('data-input-position', commentsDiv.getAttribute('data-input-position'));
-        script.setAttribute('data-theme', theme);
-        script.setAttribute('data-lang', commentsDiv.getAttribute('data-lang'));
-        script.setAttribute('data-loading', 'lazy');
-        script.setAttribute('crossorigin', 'anonymous');
-        script.async = true;
-
-        commentsDiv.appendChild(script);
-    };
-
-    const updateNavigationLinks = () => {
-        const navLinks = document.querySelectorAll('.change-ch a');
-        navLinks.forEach(link => {
-            try {
-                let url = new URL(link.href, window.location.href);
-                url.searchParams.set('comments', '1');
-                link.href = url.pathname + url.search + url.hash;
-            } catch(e) {
-                console.warn('[Giscus] Failed to update nav link:', e);
-            }
-        });
-    };
-
-    const setupShowDiscussionButton = () => {
-        // If comments are already visible, do nothing
-        if (commentsDiv.style.display === 'block') return;
-
-        const btnContainer = document.createElement('div');
-        btnContainer.id = 'show-discussion-container';
-        btnContainer.style.textAlign = 'center';
-        btnContainer.style.margin = '10px auto';
-        btnContainer.style.maxWidth = '800px';
-        btnContainer.style.padding = '0 20px';
-
-        const btn = document.createElement('button');
-        btn.id = 'show-discussion-btn';
-        btn.textContent = '💬 Show Comments';
-        btn.style.padding = '14px 32px';
-        btn.style.width = '100%';
-        btn.style.maxWidth = '500px';
-        btn.style.backgroundColor = 'var(--primary)';
-        btn.style.color = 'var(--text-primary)';
-        btn.style.border = '1px solid #ff5e1f';
-        btn.style.borderRadius = '8px';
-        btn.style.fontWeight = 'bold';
-        btn.style.fontSize = '1.05em';
-        btn.style.letterSpacing = '0.5px';
-        btn.style.cursor = 'pointer';
-        btn.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.08)';
-        btn.style.transition = 'all 0.2s ease-in-out';
-        
-        btn.addEventListener('mouseover', () => {
-            btn.style.backgroundColor = '#ff5e1f';
-            btn.style.color = '#fff';
-            btn.style.boxShadow = '0 6px 20px rgba(255, 94, 31, 0.2)';
-            btn.style.transform = 'translateY(-1px)';
-        });
-        btn.addEventListener('mouseout', () => {
-            btn.style.backgroundColor = 'var(--primary)';
-            btn.style.color = 'var(--text-primary)';
-            btn.style.boxShadow = '0 4px 15px rgba(255, 94, 31, 0.08)';
-            btn.style.transform = 'translateY(0)';
-        });
-
-        btn.addEventListener('click', () => {
-            btnContainer.style.display = 'none';
-            commentsDiv.style.display = 'block';
-            loadGiscusScript();
-            injectHelpBanner();
-            updateNavigationLinks();
-        });
-
-        // Fetch comments count asynchronously from public GitHub REST API
-        const discussionId = commentsDiv.getAttribute('data-term');
-        const repo = commentsDiv.getAttribute('data-repo') || 'Bittu5134/ORV-Reader';
-
-        if (discussionId && !isNaN(discussionId)) {
-            fetch(`https://api.github.com/repos/${repo}/discussions/${discussionId}`)
-                .then(res => {
-                    if (!res.ok) throw new Error('API error');
-                    return res.json();
-                })
-                .then(data => {
-                    const count = data.comments;
-                    if (typeof count === 'number' && count > 0) {
-                        btn.textContent = `💬 Show Comments (${count})`;
-                    }
-                })
-                .catch(err => {
-                    console.warn('[Giscus] Failed to fetch comments count:', err);
-                });
-        }
-
-        btnContainer.appendChild(btn);
-        commentsDiv.parentNode.insertBefore(btnContainer, commentsDiv);
-    };
-
-    // Listen for Giscus postMessages to check if the user is logged in or if there is an error
-    window.addEventListener('message', (event) => {
-        if (event.origin !== 'https://giscus.app') return;
-
-        const { data } = event;
-        if (!(typeof data === 'object' && data.giscus)) return;
-
-        const giscusData = data.giscus;
-
-        // Handle Giscus errors (like 429 Rate Limit, 404, etc.)
-        if ('error' in giscusData) {
-            console.warn('[Giscus] Error detected:', giscusData.error);
-            
-            // Hide the Giscus container entirely to remove layout gaps
-            commentsDiv.style.display = 'none';
-
-            // Force show the help banner and update its message
-            const banner = document.getElementById('giscus-help-banner');
-            if (banner) {
-                banner.style.display = 'block';
-                const p = banner.querySelector('p');
-                if (p) {
-                    p.innerHTML = `⚠️ <strong>Comments rate limit exceeded.</strong> Please log in via GitHub or open the discussion page directly to view and write comments:`;
-                }
-            }
-
-            // Reset login state to false on error
-            let state = getReaderState();
-            state.login = false;
-            saveReaderState(state);
-        }
-
-        if (giscusData.viewer) {
-            const username = giscusData.viewer.login;
-            const isLoggedIn = typeof username === 'string' && username.trim() !== '' && username !== 'null' && username !== 'undefined' && username !== 'giscus[bot]';
-            console.log(`[Giscus] User logged in status: ${isLoggedIn} (Username: "${username}")`);
-
-            let state = getReaderState();
-            state.login = isLoggedIn;
-            saveReaderState(state);
-
-            // Hide/show the banner dynamically based on login status
-            const banner = document.getElementById('giscus-help-banner');
-            if (banner) {
-                if (isLoggedIn) {
-                    banner.style.display = 'none';
-                    // Ensure the Giscus iframe is shown if they are logged in
-                    const iframe = commentsDiv.querySelector('iframe.giscus-frame') || commentsDiv.querySelector('iframe');
-                    if (iframe) {
-                        iframe.style.display = 'block';
-                    }
-                } else {
-                    banner.style.display = 'block';
-                }
-            }
-        }
-    });
-
-    const initGiscus = () => {
-        const state = getReaderState();
-        const urlParams = new URLSearchParams(window.location.search);
-        const hasCommentsParam = urlParams.has('comments');
-        const forceOpen = state.login || urlParams.has('giscus') || hasCommentsParam || urlParams.has('code');
-
-        if (forceOpen) {
-            // Remove ?comments=1 parameter immediately from address bar to keep URL clean
-            if (hasCommentsParam) {
-                urlParams.delete('comments');
-                const newSearch = urlParams.toString();
-                const newUrl = window.location.pathname + (newSearch ? '?' + newSearch : '') + window.location.hash;
-                window.history.replaceState({}, '', newUrl);
-            }
-
-            commentsDiv.style.display = 'block';
-            loadGiscusScript();
-            injectHelpBanner();
-            updateNavigationLinks();
-        } else {
-            setupShowDiscussionButton();
-        }
-
-        // Wire up comment anchor links to load comments automatically and smooth scroll
-        const commentLinks = document.querySelectorAll('a[href="#comments"]');
-        commentLinks.forEach(link => {
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                if (commentsDiv.style.display !== 'block') {
-                    // Hide the "Show Comments" button container
-                    const btnContainer = document.getElementById('show-discussion-container');
-                    if (btnContainer) {
-                        btnContainer.style.display = 'none';
-                    }
-
-                    // Show comments and load script
-                    commentsDiv.style.display = 'block';
-                    loadGiscusScript();
-                    injectHelpBanner();
-                    updateNavigationLinks();
-                }
-
-                // Scroll smoothly to comments
-                setTimeout(() => {
-                    commentsDiv.scrollIntoView({ behavior: 'smooth' });
-                    window.location.hash = 'comments';
-                }, 50);
-            });
-        });
-    };
-
-    if (document.readyState === 'complete') {
-        initGiscus();
-    } else {
-        window.addEventListener('load', initGiscus);
-    }
-})();
-
-
-// Dynamic Banner Injection
-(function() {
-    const bannerContainer = document.getElementById('chapter-banner');
-    if (!bannerContainer) return;
-
-    const current = parseInt(bannerContainer.dataset.current);
-    const first = parseInt(bannerContainer.dataset.first) || 1;
-    const last = parseInt(bannerContainer.dataset.last) || 490;
-
-    const DONATION_BANNER = `
-    <div class="donation-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #ffb74d; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(255, 183, 77, 0.08); font-family: sans-serif;">
-        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💖 <strong>This site is maintained by Readers like you!</strong></p>
-        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Hosting and domain costs are funded entirely through community donations.</p>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-            <a href="https://www.patreon.com/cw/LazyBittu" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #ffb74d; color: #1a1a2e; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Patreon</a>
-            <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
-            <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Discord</a>
-        </div>
-    </div>`;
-
-    const DISCORD_BANNER = `
-    <div class="discord-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #5865F2; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(88, 101, 242, 0.08); font-family: sans-serif;">
-        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">💬 <strong>Report issues on our Discord Server!</strong></p>
-        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Connect with the community, share theories, and get notified about new chapters.</p>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-            <a href="https://discord.gg/CZdNvKaNNr" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #5865F2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Join Discord</a>
-            <a href="/donate" style="display: inline-block; padding: 8px 20px; background-color: #ff5e1f; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Donate</a>
-        </div>
-    </div>`;
-
-    const LOTM_BANNER = `
-    <div class="lotm-banner" style="margin: 20px auto; padding: 15px 20px; background-color: var(--primary); border: 1px solid #38bdf8; border-radius: 8px; text-align: center; max-width: 800px; color: var(--text-primary); box-shadow: 0 4px 15px rgba(56, 189, 248, 0.08); font-family: sans-serif;">
-        <p style="margin: 0 0 6px 0; font-size: 1em; line-height: 1.5;">🧐 <strong>Looking for a change of pace? Read Lord of the Mysteries!</strong></p>
-        <p style="margin: 0 0 12px 0; font-size: 0.85em; opacity: 0.8;">Experience the journey of Klein Moretti on our beautifully formatted sister site.</p>
-        <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-            <a href="https://beyonder.pages.dev" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 20px; background-color: #0284c7; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 0.85em; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 2px 4px rgba(0,0,0,0.2); transition: opacity 0.3s;">Read LOTM</a>
-        </div>
-    </div>`;
-
-    let selectedBanner = '';
-
-    if (!isNaN(current)) {
-        if (current <= first + 4) {
-            selectedBanner = DISCORD_BANNER;
-        } else if (current >= last - 4) {
-            selectedBanner = DONATION_BANNER;
-        } else {
-            const rand = Math.random();
-            if (rand < 0.4) {
-                selectedBanner = DONATION_BANNER;
-            } else if (rand < 0.8) {
-                selectedBanner = DISCORD_BANNER;
-            } else {
-                selectedBanner = LOTM_BANNER;
-            }
-        }
-    }
-
-    bannerContainer.innerHTML = selectedBanner;
-})();

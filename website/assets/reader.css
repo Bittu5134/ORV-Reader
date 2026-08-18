@@ -15,8 +15,9 @@
 
 body {
     overflow-x: hidden;
-    /* Prevent horizontal scrolling */
     width: 100%;
+    min-height: 100vh;
+    min-height: 100dvh; /* Ensures full viewport coverage on mobile browsers */
     background-color: var(--body-background);
     font-family: sans-serif;
     margin: 0;
@@ -47,7 +48,7 @@ body {
     margin: 0 auto;
     background-color: var(--primary);
     color: var(--text-primary);
-    padding: 1rem;
+    padding: 0.2rem;
     box-sizing: border-box;
     overflow-wrap: break-word;
     word-wrap: break-word;
@@ -112,6 +113,10 @@ body {
     width: 100%;
     height: fit-content;
     position: static;
+    /* Safe Area Padding for Top Cutout / Notch */
+    padding-top: env(safe-area-inset-top);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
 }
 
 .menu a:first-child {
@@ -148,7 +153,7 @@ body {
 }
 
 /* For chapters */
-
+/* Update Modals/Drawers */
 .chapters,
 .settings,
 .download,
@@ -162,6 +167,11 @@ body {
     height: 100dvh;
     width: min(600px, 100%);
     box-shadow: -12px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    /* Safe area offsets for notch & Android navigation bar */
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
 }
 
 .close-chapters-btn,
@@ -347,14 +357,14 @@ button {
 }
 
 /* Navigation button */
-
+/* Update Bottom Navigation Links */
 .change-ch {
     width: min(100%, 800px);
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 1em;
-    /* Adjust padding as needed */
+    padding-bottom: calc(1em + env(safe-area-inset-bottom)); /* Prevents overlap with bottom home/gesture bar */
     background-color: var(--primary);
 }
 

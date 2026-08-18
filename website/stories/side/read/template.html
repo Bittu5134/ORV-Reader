@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>{{TITLE}}</title>
     <meta property="og:title" content="{{TITLE}}" />
     <link rel="manifest" href="../../../assets/manifest.json">
@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="../../../assets/reader.css">
     <link rel="stylesheet" href="../../../assets/reader-rich-text.css">
     <meta name="description" content="Read Omniscient Reader's Viewpoint One Shot Side Stories online">
-    
+
 </head>
 
 <body>
@@ -20,8 +20,8 @@
                 fill="#e3e3e3">
                 <path d="m313-440 224 224-57 56-320-320 320-320 57 56-224 224h487v80H313Z" />
             </svg></a>
-        <a href="#" onclick="openChapters()"><svg xmlns="http://www.w3.org/2000/svg" height="24px"
-                viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
+        <a href="#" onclick="event.preventDefault(); openChapters()"><svg xmlns="http://www.w3.org/2000/svg"
+                height="24px" viewBox="0 -960 960 960" width="24px" fill="#e3e3e3">
                 <path
                     d="M280-600v-80h560v80H280Zm0 160v-80h560v80H280Zm0 160v-80h560v80H280ZM160-600q-17 0-28.5-11.5T120-640q0-17 11.5-28.5T160-680q17 0 28.5 11.5T200-640q0 17-11.5 28.5T160-600Zm0 160q-17 0-28.5-11.5T120-480q0-17 11.5-28.5T160-520q17 0 28.5 11.5T200-480q0 17-11.5 28.5T160-440Zm0 160q-17 0-28.5-11.5T120-320q0-17 11.5-28.5T160-360q17 0 28.5 11.5T200-320q0 17-11.5 28.5T160-280Z" />
             </svg></a>
@@ -97,7 +97,7 @@
             </div>
             <div class="setting_item">Line Height
                 <input type="number" min="1" max="100" value="49" oninput="" id="set-line-height">
-			</div>
+            </div>
             <div class="setting_item">Font Weight
                 <select name="set-font-weight" id="set-font-weight">
                     <option value="normal" style="font-weight: unset;" selected>Normal</option>
@@ -107,46 +107,53 @@
                 </select>
             </div>
             <hr>
-                <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
+            <div class="setting_item">Rich Text Features <input type="checkbox" name="set-rich-text-toggle"
                     id="set-rich-text-toggle" checked></div>
             <div class="setting_item">System Message Style <select name="set-rich-system-msg" id="set-rich-system-msg">
                     <option value="theme1">Disabled</option>
                     <option value="theme2">Brackets</option>
                     <option value="theme3">Hologram</option>
                     <option value="theme4">Box</option>
-                    <option value="theme5" selected>Alert</option>
+                    <option value="theme5">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">System Window Style <select name="set-rich-system-window"
                     id="set-rich-system-window">
                     <option value="theme1">Disabled</option>
                     <option value="theme2">Brackets</option>
-                    <option value="theme3" selected>Hologram</option>
+                    <option value="theme3">Hologram</option>
                     <option value="theme4">Box</option>
                     <option value="theme5">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">Constellations Speech Style <select name="set-rich-const" id="set-rich-const">
                     <option value="theme1">Disabled</option>
-                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme2">Brackets</option>
                     <option value="theme3">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">Outer God Speech Style <select name="set-rich-outer" id="set-rich-outer">
                     <option value="theme1">Disabled</option>
-                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme2">Brackets</option>
                     <option value="theme3">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">Quote Style <select name="set-rich-quote" id="set-rich-quote">
                     <option value="theme1">Disabled</option>
-                    <option value="theme2" selected>Brackets</option>
+                    <option value="theme2">Brackets</option>
                     <option value="theme3">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">Notice Style <select name="set-rich-notice" id="set-rich-notice">
                     <option value="theme1">Disabled</option>
-                    <option value="theme2" selected>Highlighted</option>
+                    <option value="theme2">Highlighted</option>
                     <option value="theme3">Alert</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
             <div class="setting_item">Generic Box Style <select name="set-rich-box" id="set-rich-box">
                     <option value="theme1">Disabled</option>
-                    <option value="theme2" selected>box</option>
+                    <option value="theme2">box</option>
+                    <option value="theme6" selected>ORV Webtoon</option>
                 </select></div>
 
             <input class="setting_reset" type="reset" value="Reset Everything">
@@ -170,25 +177,25 @@
         <a href="https://github.com/Bittu5134/ORV-Reader/edit/main/chapters/{{PATH}}" target="_blank"
             rel="noopener noreferrer"><button>
                 Edit
-        </button></a>
+            </button></a>
         <hr>
         <h1>How to Format Text</h1>
         <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/formatting.md" target="_blank"
             rel="noopener noreferrer"><button>
                 Formatting Guide
-        </button></a>
+            </button></a>
         <hr>
         <h1>Read This First Before Doing Anything</h1>
         <a href="https://github.com/Bittu5134/ORV-Reader/blob/main/CONTRIBUTING.md" target="_blank"
             rel="noopener noreferrer"><button>
                 Contribution Guide
-        </button></a>
+            </button></a>
         <hr>
     </nav>
 
     <div class="main">
         {{COVER}}
-        <div class="title_mobile"><img src="../../../../assets/od-stigma.webp" alt="title mobile"></div>
+        <div class="title_mobile"><img src="../../../assets/od-stigma.webp" alt="title mobile"></div>
         <article class="orv_main">
             {{CONTENT}}
         </article>
@@ -197,17 +204,11 @@
             <a href="./{{NEXT}}">{{NEXT-TEXT}}{{NEXT-SVG}}</a>
         </div>
         <div class="evadav">
-  
-        </div>
-        {{BANNER}}
-        <div class="giscus" id="comments" data-repo="Bittu5134/ORV-Reader"
-            data-repo-id="R_kgDOOHNFOQ" data-category="General" data-category-id="DIC_kwDOOHNFOc4CoREL" data-mapping="number"
-            data-term="{{DISCUSSION-ID}}" data-reactions-enabled="1" data-emit-metadata="1" data-input-position="top"
-            data-theme="dark" data-lang="en" style="margin-top: -8px;">
         </div>
     </div>
 
-    <script id="main-script" data-titles="../../../../meta/side.json" data-index="{{INDEX}}" data-type="side" src="../../../assets/reader.js"></script>
+    <script id="main-script" data-titles="../../../meta/side.json" data-index="{{INDEX}}" data-type="side"
+        src="../../../assets/reader.js"></script>
 
 </body>
 
