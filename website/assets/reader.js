@@ -239,7 +239,7 @@ function countChapterWords() {
         titleTarget.insertAdjacentElement('afterend', wordCountNode);
     }
 
-    const readingTime = Math.ceil(wordCount / 250);
+    const readingTime = Math.ceil(wordCount / 300);
     wordCountNode.textContent = `${new Intl.NumberFormat(undefined).format(wordCount)} words · ~${readingTime} min read`;
     return wordCount;
 }

@@ -58,6 +58,16 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
         for marker, placeholder in markers.items():
             textStr = textStr.replace(placeholder, marker)
         
+        # Compute word count & reading time
+        clean_text = re.sub(r'<.*?>', '', textStr)
+        clean_text = re.sub(r'(\d+),(?=\d+)', r'\1', clean_text)
+        words = re.findall(r"[\w'-]+", clean_text)
+        words_filtered = [w for w in words if w not in ['title', 'MARKER_SYSTEM', 'MARKER_CONSTELLATION', 'MARKER_QUOTE', 'MARKER_OUTERGOD', 'MARKER_NOTICE']]
+        word_count = len(words_filtered)
+        reading_time = max(1, (word_count + 249) // 250)
+        word_count_formatted = f"{word_count:,}"
+        meta_desc = f"{word_count_formatted} words · ~{reading_time} min read | Read Omniscient Reader's Viewpoint Sequel (Ch 553+) online"
+
         text = textStr.split("\n")
 
     with open("website/stories/cont/read/template.html","r",encoding="utf-8") as f:
@@ -104,10 +114,11 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
             continue
 
         if line.startswith("<title>"):
-            template = template.replace(r"{{TITLE}}",line.replace("<title>",""))
-            print(file_index+1,line.replace("<title>",""))
-            line = re.sub(r"<title>", '<div class="orv_title"><h1>', line)
-            html.insert(0,f"{line}</h1></div>")
+            title_text = line.replace("<title>","").strip()
+            template = template.replace(r"{{TITLE}}", title_text)
+            print(file_index+1, title_text)
+            wordcount_html = f'<div class="orv_wordcount">{word_count_formatted} words · ~{reading_time} min read</div>'
+            html.insert(0, f'<div class="orv_title"><h1>{title_text}</h1>{wordcount_html}</div>')
         elif line.startswith("<!>"):
             line = re.sub(r"<!>", '<div class="orv_system"><p>', line)
             html.append(f"{line}</p></div>")
@@ -186,7 +197,7 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
     html.append("<hr>")
 
     template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
-    template = template.replace(r"{{PATH}}",f"side/{file}")
+    template = template.replace(r"{{PATH}}",f"cont/{file}")
     template = template.replace(r"{{INDEX}}", str(file_index))
 
     discussion_id = discussion_map.get(file_index, "")
@@ -206,6 +217,8 @@ for file_index,file in enumerate(os.listdir("chapters/cont")):
         )
     
     template = template.replace(r"{{BANNER}}", banner_html)
+    template = template.replace(r"{{READ_TIME}}", str(reading_time))
+    template = template.replace(r"{{WORD_COUNT}}", word_count_formatted)
 
 
     template = template.replace(r"{{TITLE}}","")
