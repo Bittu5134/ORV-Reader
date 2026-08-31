@@ -42,6 +42,17 @@ body {
     font-weight: bold;
 }
 
+.orv_wordcount {
+    text-align: center;
+    color: var(--text-secondary);
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    line-height: 1.4;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    opacity: 0.85;
+    margin: -0.25rem 0 1rem;
+}
+
 .orv_main {
     width: min(100%, 800px);
     margin: 0 auto;
