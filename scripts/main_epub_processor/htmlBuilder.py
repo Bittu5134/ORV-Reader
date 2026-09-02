@@ -194,7 +194,7 @@ for file_index, file in enumerate(os.listdir("chapters/orv")):
         html.append("<hr>")
 
         template = template.replace(r"{{CONTENT}}",str("\n".join(html)))
-        template = template.replace(r"{{PATH}}",f"side/{file}")
+        template = template.replace(r"{{PATH}}",f"orv/{file}")
         template = template.replace(r"{{INDEX}}", str(file_index))
 
         discussion_id = discussion_map.get(file_index, "")
