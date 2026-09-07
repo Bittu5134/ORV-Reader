@@ -75,7 +75,7 @@ We moved carefully along the passage. The difficulty depended on how much damage
 However, as I moved along the passage, a worrisome feeling filled my mind.
 …Why was it so quiet? Shouldn't I feel the demon king's aura at this point?
 Then a system message emerged.
-<@>[An error has occurred in the scenario.]
+<!>[An error has occurred in the scenario.]
 "Hyung, this is…?"
 The surprised Lee Gilyoung reflexively opened his mouth and I placed my finger against his lips. The party members lowered their voices.
 "Dokja-ssi, this is different from the story…"
