@@ -31,14 +31,12 @@ jobs:
           PYTHONIOENCODING: "utf-8"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish
-        uses: cloudflare/pages-action@v1
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: orv
-          directory: website
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          command: pages deploy website --project-name=orv
 
       - name: Commit and push changes
         run: |

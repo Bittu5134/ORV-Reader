@@ -17,8 +17,11 @@ def sanitize_text(text):
     return text
 
 
+files = [f for f in os.listdir("chapters/side") if f.endswith(".txt")]
+files.sort(key=lambda x: int(x.replace(".txt", "")))
+
 titles = []
-for file_index, file in enumerate(os.listdir("chapters/side")):
+for file in files:
     with open(f"./chapters/side/{file}", "r", encoding="utf-8") as f:
         titles.append(f.readline().strip()[7:])
 
@@ -118,7 +121,7 @@ with open("./epub/side/OEBPS/content.opf", "w", encoding="utf-8") as f:
 </package>"""
     )
 
-for file_index, file in enumerate(os.listdir("chapters/side")):
+for file_index, file in enumerate(files):
     with open(f"./chapters/side/{file}", "r", encoding="utf-8") as f:
         xhtml = """<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title></title></head><body>\n"""
         notes = []
