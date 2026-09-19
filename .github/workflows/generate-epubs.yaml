@@ -53,6 +53,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add epub/
           git diff --staged --quiet || git commit -m "Update EPUB content files - ${{ steps.set_date.outputs.build_date }}"
+          git pull --rebase origin main
           git push
 
       # 4. Create EPUB Archives (Zipping) - UPDATED FILENAMES
