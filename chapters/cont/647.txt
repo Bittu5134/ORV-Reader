@@ -24,7 +24,7 @@ Shin Yoosung can do it.
 <!>[The exclusive skill 'Incite Lv.9' is strongly activated!]
 A whopping level 9 [Incite].
 After obtaining the first story, my [Incite] became much stronger than before.
-<!>[The person's talent is temporarily enhanced by 'Strong Incitement'.]
+<!>[The person's talent is temporarily enhanced by 'Strong Incite'.]
 I tried to help Shin Yoosung [Tame] with my support. How much time passed?
 A thread made of light flowed from Shin Yoosung's fingertips, and was soon connected to a Nagak.
 <!>[Character 'Shin Yoosung' succeeded in taming a 'Nagak'!]

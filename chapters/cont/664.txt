@@ -26,7 +26,7 @@ Killer King added as he glanced at his younger sister and Dansu ahjussi.
 The last one was a bit strange, but Killer King is definitely the only one I can trust now.
 "You can still do it."
 The condition of the group was a mess.
-Ja Yerin, who had vomited blood several times, could barely stand, and Lee Dansu, who had just been revived, was still unable to come to his senses.
+Cha Yerin, who had vomited blood several times, could barely stand, and Lee Dansu, who had just been revived, was still unable to come to his senses.
 Still, they didn't give up.
 "That monster has already recovered a lot of its stamina."
 After catching her breath, Yerin opened her mouth.
@@ -34,7 +34,7 @@ Could it be that eating the petals of the marigold flower earlier had an effect?
 <!>[After 1 minute, the position of the footrest will be regenerated]
 Yerin bit her lip as if she was angry.
 "It’s hard for us alone."
-Lee Dansu cannot run in one direction, and Ja Yerin can no longer use the [Battle action mode].
+Lee Dansu cannot run in one direction, and Cha Yerin can no longer use the [Battle action mode].
 Now the only person I can trust is Killer King.
 However, Killer King's stamina was also greatly reduced, and he did not have enough strength to finish the fight properly.
 "No, there is still a chance."
@@ -125,7 +125,7 @@ The battle between the monsters is over and the winner has been decided.
 The poisonous dragon that bit off the sentinel's body roared into the air.
 <!>[Level 5 special species, 'Lesser Dragon Poisoner' prepares to attack!]
 And the group moved.
-Ja Yerin, who had squeezed out the last of her magical power, cut the Poisoner's ankles with [White Blue Steel].
+Cha Yerin, who had squeezed out the last of her magical power, cut the Poisoner's ankles with [White Blue Steel].
 Lee Dansu who activated [Taming] cleared the cockroaches and disrupted the special attack's vision once again.
 Killer King aimed his bowgun at the Lesser Dragon, who lost its balance and collapsed.
 "Finish."
@@ -148,7 +148,7 @@ As the breath poured out from the poisonous dragon, Killer King also vomited blo
 Flowers began to bloom on the floor.
 A hint of despair flashed in Killer King's eyes.
 Even if they survived this turn, there was no chance for the party to win now.
-Even Dansu ahjussi’s characteristics, Ja Yerin’s [Battle Action Mode], and Killer King's stigmata cannot kill that disaster.
+Even Dansu ahjussi’s characteristics, Cha Yerin’s [Battle Action Mode], and Killer King's stigmata cannot kill that disaster.
 However.
 <&>「"Hakhyun."」
 I might be able to do it.
@@ -220,7 +220,7 @@ I was scared, but not as scared as I used to be. It may be because I had a glimp
 I could see the group finding a foothold in the distance.
 A man wearing a white coat was shouting at me.
 Ahjussi was not Kim Dokja.
-Killer King too. Ja Yerin was also not Kim Dokja.
+Killer King too. Cha Yerin was also not Kim Dokja.
 But if they all work together, they will be able to do what Kim Dokja can do.
 They will be able to do things that I cannot do.
 <&>「They will see the end of this world.」

@@ -106,7 +106,7 @@ Ahjussi and I ran to avoid the spores. I continued running, being careful not to
 The man picked up the coat that had fallen on the floor. It was my white coat that fell off while dodging the attack of the poisonous species earlier.
 —There’s a brown bottle in my inner pocket!
 The man immediately found the item I mentioned.
-Sidok Kobulo's Horn Powder.
+Sideuk Kobulo's Horn Powder.
 A consumable item with a poison neutralizing effect.
 —Spores ahead! Dodge to the right! Pick up a book next to it!
 There was something that looked like a small booklet rolling around on the floor where I pointed. It was an item dropped by the men of the king who died earlier.
@@ -115,10 +115,10 @@ The groups gathered here are probably the ones who cleared the 5-person dungeon 
 <!>[Item 'Donguibogam Bedding' was acquired.]
 A total of 9 books by Donguibogam fell on the floor.
 <!>[Item 'Donguibogam'. The effect of 'incomplete version' is in effect.]
-And Donguibogam is an item that activates the poison ability when you collect more than 8 pieces.
-<!>[Your body temporarily develops its own poisoning ability.]
+And Donguibogam is an item that activates poison resistance when you collect more than 8 pieces.
+<!>[Your body has temporarily gained the Poison Resistance ability.]
 I could feel the man's breathing getting easier. But this is nothing more than buying time.
-Even if 'Sideuk Kobulo's Horn Powder' and 'Donguibogam' create synergy, not even 30 trillion will be able to be produced in these spores.
+Even if 'Sideuk Kobulo's Horn Powder' and 'Donguibogam' create synergy, not even 30 trillion antibodies will be able to withstand these spores.
 The man's body was turning brown after being touched by the spores.
 Grrrr…
 At that moment, the dragon, who sensed something unusual, also looked this way.

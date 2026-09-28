@@ -113,7 +113,7 @@ I leisurely collected the coins, looking back at the bewildered men.
 "It seems to be broken, doesn't it? Human hair can't be this expensive, can it?"
 With [Incite] activated, I slowly looked around the crowd. Then, emphasizing each word, I continued.
 "The <Star Stream> isn't perfect. I once obtained a bugged item from an item called a 'Random Item Box'."
-<&>「Incitement becomes more effective when combined with truth.」
+<&>「[Incite] becomes more effective when combined with truth.」
 <!>['Lie Detection' has confirmed your words are true.]
 The crowd, once filled with distrust, slowly began to see a flicker of greed in their eyes.
 I watched them for a moment, then grabbed my hair again and said,
