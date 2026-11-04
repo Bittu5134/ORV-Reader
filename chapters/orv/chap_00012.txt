@@ -27,7 +27,7 @@ The walls of the stomach growled, and small waves rose inside. The sea commander
 <@>[Hrmm. It sounds like you were waiting for me?]
 "Of course, I have been waiting."
 A light turned on, and the dokkaebi appeared. I couldn't tell for sure from his expression alone, but this guy was clearly interested. If I was pushed here, I wouldn't be able to eat my meal. So, I deliberately spoke calmly, "Are you going to take coins from me?"
-<!>[…Coins?]
+<@>[…Coins?]
 "You have to take coins in exchange for me failing the scenario."
 <@>[Hmm, not your life?]
 "If it was my life, you would have written 'death' in the failure results column, not three question marks. Doesn't this mean there is room to negotiate?"
