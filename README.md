@@ -22,6 +22,27 @@ For how to contribute to this project follow the given links.
 
 Ask any queries on the [Discord Server](https://discord.gg/CZdNvKaNNr)
 
+## Commenting Guidelines
+
+When you join a discussion, please keep the following in mind:
+
+- **Mark spoilers.** Anything that reveals plot beyond the chapter being discussed must be hidden. Wrap it in a collapsible block:
+
+  ```
+  <details>
+  <summary>Spoiler</summary>
+
+  Spoiler text goes here.
+
+  </details>
+  ```
+
+  Include the chapter or episode number in the `<summary>` (for example, `Spoiler: Episode 66`) so readers can decide whether to open it.
+- **Quote carefully.** Quote only the line or passage you are responding to, and use a blockquote (`> quoted text`). Do not paste whole chapters.
+- **Keep spoilers out of titles and previews.** A discussion title or the first line of a comment should not reveal anything a reader has not yet reached.
+- **Stay on topic and be respectful.** Discuss the story, translation, or formatting. Personal attacks, harassment, and unrelated promotion are not allowed.
+- **Report translation issues instead of arguing about them.** If you think a term or line is mistranslated, say which chapter it is in and suggest a fix.
+
 ---
 
 ## About ORV 
